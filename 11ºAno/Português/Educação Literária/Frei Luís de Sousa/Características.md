@@ -50,10 +50,20 @@ Do género dramático fazem parte a **tragédia**, **comédia** e **drama**.
 
 Para além das **falas das personagens**, existem **didascálias** (indicações cénicas).
 
-No texto "Memória ao Conservatório Real", Garrett refere que apesar de considerar *Frei Luís de Sousa* u
+No texto "Memória ao Conservatório Real", Garrett refere que apesar de considerar *Frei Luís de Sousa* um drama, este apresenta **características da tragédia clássica**
 ### Marcas da tragédia clássica
-- Ambiente carregado de **presságios** e **sinais**
-- 
+- **Número reduzido de personagens**
+- **Personagens** pertencentes a **estratos sociais elevados**
+- **Condensação do tempo** em que a ação decorre
+- **Poucos espaços**
+- **Ação sintética** (número reduzido de ações)
+- Semelhanças entre o **coro** da tragédia clássica e **Frei Jorge** e **Telmo Pais**. Ambos fazem **comentários em momentos dramáticos**.
+- Momentos que **retardam o desenlace trágico**
+- Ambiente trágico marcado por **presságios**, **sinais** e uma **solenidade clássica**.
+
+>[!Example] Elementos da tragédia clássica
+>##### *Ananké* (destino)
+>
 ### Drama
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.
