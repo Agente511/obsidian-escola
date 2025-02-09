@@ -76,6 +76,20 @@
               "icon": "globe-2",
               "title": "Frei Luís de Sousa-A obra e o contexto.pdf - Google Drive"
             }
+          },
+          {
+            "id": "63d339c23d1a60b1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://dicionario.priberam.org/contestat%C3%A1rio",
+                "title": "contestatário - Dicionário Online Priberam de Português",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "contestatário - Dicionário Online Priberam de Português"
+            }
           }
         ]
       }

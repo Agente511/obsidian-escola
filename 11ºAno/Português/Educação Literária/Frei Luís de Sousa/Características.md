@@ -1,4 +1,11 @@
 ## Biografia de Almeida Garrett
+
+### Personalidade
+- Enquanto **estudante**, revelava-se **contestatário do conservadorismo e da tirania dos mestres**.
+- Seguidor dos **ideais liberais**.
+- **Hábil orador**, com tendência para a **teatralidade dos gestos** e para a **exaltação**.
+- Assume-se como **poeta** (além de dramaturgo e escritor) **genial e perseguido**, à **semelhança de Camões**.
+- 
 ## Contextualização histórico-literária
 1799 
 ### Romantismo
@@ -19,14 +26,19 @@ Está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** 
 >  Vistos como **solução para todos os males**. O romântico é **incompreendido** e **pessimista**, resultante do seu **idealismo**, cultivando o **sofrimento** e a **solidão**.
 >- ##### Sentimentalismo
 >  Força do **amor**, vivido de forma **absoluta**, **exagerada** e **contraditória** (ideal inantigível), e e expressão expontânea de **sentimentos**.
+>  >[!Info] Comparação com o classicismo
+>  >Valorização da razão e da verossimilhança.
 >- ##### Idealização da mulher
 >  A mulher ou é um **ser angelical bom** (mulher-anjo, que leva à salvação), ou é um **ser angelical mau** (mulher-demónio, que leva à perdição).
 >- ##### Identidade, história e valores nacionais (patriotismo e Sebastianismo)
 >  Gosto pelas **tradições**, **folclore**, **Idade Média** e de tudo que é nacional.
->- ##### Gosto pela natureza noturna
->  A natureza é a **projeção do seu estado de alma** (tumultuoso e depressivo), sendo representada de forma invernosa, sombria, agreste, solitária e melancólica, traduzindo o **amor pela própria morte**.
+>- ##### Gosto pela natureza noturna (*locus horrendus*)
+>  A natureza é a **projeção do seu estado de alma** (tumultuoso e depressivo), sendo representada de forma invernosa, sombria, agreste, solitária e melancólica, traduzindo o **amor pela própria morte**. As obras românticas fazem referência à noite, cemitérios, morte, escuridão, tempestade.
+>  >[!Info] Comparação com o classicismo
+>  >Paisagens serenas (como n'*Os Lusíadas*).
 >- ##### Religiosidade cristã
->  >[!]
+>  >[!Info] Comparação com o classicismo
+>  >Associado à arte grega.
 
 ## Género literário
 ### Tragédia
