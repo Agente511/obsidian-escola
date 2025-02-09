@@ -1,7 +1,18 @@
 ## Contextualização histórico-literária
 1799 
 ### Romantismo
-O romantismo está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** e, **após voltar do exílio**, .
+O romantismo está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** e, **após voltar do exílio**, trouxe consigo os ideais deste novo movimento estético-literário que introduziu em Portugal (tal como Herculano).
+
+>[!Example] Características do romantismo
+>- ##### Individualismo egocêntrico
+>  **Confessionalismo**, **subjetivismo** e expressão expontânea de **sentimentos**.
+>- ##### Idealismo
+>  Valoriza-se o **sonho**, o **[^1]desvaneio** e a **aspiração a ideais que nunca são atingidos**.
+>- ##### Inadaptação social
+>  **Rebeldia e desprezo às regras estabelecidas**, mantendo uma atitude de 
+>- ##### Culto da liberdade
+>- ##### Melancolia
+>- ##### Ataque às crenças religiosas e ao poder absoluto
 
 ## Biografia de Almeida Garrett
 ## Dimensão patriótica e a sua expressão simbólica
@@ -12,3 +23,5 @@ Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos 
 
 **Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol.
 ### Sebastianismo
+
+[^1]: fantasia
