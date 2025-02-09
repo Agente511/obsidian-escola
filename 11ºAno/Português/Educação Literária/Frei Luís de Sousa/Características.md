@@ -25,7 +25,8 @@ Está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** 
 >  A natureza é a **projeção do seu estado de alma** (tumultuoso e depressivo), sendo representada de forma invernosa, sombria, agreste, solitária e melancólica, traduzindo o **amor pela própria morte**.
 >  
 
-### 
+## Género literário
+### Tragédia
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.
 Também a época em que foi escrita (**década de 1840**) é conturbada, com o **cabralismo**.
