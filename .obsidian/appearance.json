@@ -1,0 +1,9 @@
+{
+  "accentColor": "#528bff",
+  "theme": "system",
+  "cssTheme": "Things",
+  "translucency": false,
+  "nativeMenus": false,
+  "baseFontSize": 16,
+  "showRibbon": true
+}

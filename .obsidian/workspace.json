@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "d254df45141a0e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d67e4f7868ffe03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ed4d7de621fea90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Contextualização.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contextualização"
+            }
+          },
+          {
+            "id": "e1dd7ad994160de9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/19Y2YeOdC14MVxev1bwA-R1FbyL_78n-G/view",
+                "title": "Frei Luís de Sousa - vários aspetos.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Frei Luís de Sousa - vários aspetos.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "4df69af9eb33133a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1GOUB8S95DSK7IZEjTmLy9rlgGt3haXqf/view",
+                "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "e92d31ad0ad172e4",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1G0-pJ6fvIPSKrlIyTkRRzlv6w5Ahg_PG/view",
+                "title": "Fontes históricas e literárias em Frei Luís de Sousa.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Fontes históricas e literárias em Frei Luís de Sousa.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "ea366d61087658f6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/15ANKOXYcmph4HolXtRZ8RaZ3Xal8OKWe/view",
+                "title": "Frei Luís de Sousa-A obra e o contexto.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Frei Luís de Sousa-A obra e o contexto.pdf - Google Drive"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dde25c8a903a74e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "72930afc45141575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f0598e502e406de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "b6ee43fd930bea57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "01f8fa8ab5db4a7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "4f5e08690fe3545a",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf52b29f5e0bf4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b0027791b82a23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11ºAno/Matemática/O radiano como unidade de amplitude.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks para O radiano como unidade de amplitude"
+            }
+          },
+          {
+            "id": "dfcb7b87ceb5ad00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "11ºAno/Biologia/1. Reprodução Assexuada.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links externos de 1. Reprodução Assexuada"
+            }
+          },
+          {
+            "id": "a139eeb0b19cb00a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10ºAno/Biologia/Constituintes básicos da célula.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice de Constituintes básicos da célula"
+            }
+          },
+          {
+            "id": "1d8fdae47b03f4b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5abcf6dceff15c48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "35c289993ac37b16",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "random-note:Abrir nota aleatória": false,
+      "vault-size-history:Vault size history": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "4ed4d7de621fea90",
+  "lastOpenFiles": [
+    "olá.md",
+    "repo/olá.md",
+    "repo",
+    "Nova pasta",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Contextualização.md",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo.md",
+    "10ºAno/Biologia/Membrana celular na obtenção de matéria.md",
+    "10ºAno/Biologia/Constituintes básicos da célula.md",
+    "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md",
+    "11ºAno/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
+    "11ºAno/Biologia/D1 1.1-1.3 Composição e Estrutura dos Ácidos Nucleicos.md",
+    "repo/obsidian-escola/olá.md",
+    "repo/obsidian-escola",
+    "gitignore.txt",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato I/Cena II.md",
+    "11ºAno/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Capítulo II - Exposição e Confirmação (Estrutura e Louvores aos peixes, em geral).md",
+    "Joana CO.md",
+    "9ºAno/Português/Exame Nacional 9ºAno/Auto da Barca do Inferno/O Fidalgo.md",
+    "9ºAno/Português/Exame Nacional 9ºAno/Gramática/Recursos Expressivos.md",
+    "9ºAno/Português/Exame Nacional 9ºAno/!Planeamento.md",
+    "9ºAno/Português/Exame Nacional 9ºAno/Gramática",
+    "9ºAno/Português/Exame Nacional 9ºAno/Auto da Barca do Inferno",
+    "9ºAno/Matemática/Exame Nacional 9ºAno/Matérias do Exame.md",
+    "9ºAno/Português/Exame Nacional 9ºAno",
+    "9ºAno/Matemática/Exame Nacional 9ºAno",
+    "9ºAno/Português",
+    "9ºAno/Matemática",
+    "11ºAno/Filosofia/Filosofia da Religião/Filosofia da Religião.md",
+    "Escola/9ºAno/Matemática/Exame Nacional 9ºAno/Matérias do Exame.md",
+    "Escola/9ºAno/Português/Exame Nacional 9ºAno/!Planeamento.md",
+    "11ºAno/Filosofia/Filosofia da Religião/Teoria do Fideísmo.md",
+    "Escola/9ºAno/Português/Exame Nacional 9ºAno/Gramática/Recursos Expressivos.md",
+    "Escola/9ºAno/Português/Exame Nacional 9ºAno/Auto da Barca do Inferno/O Fidalgo.md",
+    "Escola/olá.md",
+    "publish/attachments/publish-dir-yml.png",
+    "publish/attachments/how-linked-blog-starter-works.png",
+    "publish/attachments/vercel-project-id.png",
+    "publish/attachments/vercel-create-token.png",
+    "publish/attachments/vercel-account-id.png",
+    "publish/attachments/disconnect-repo-vercel.png",
+    "publish/attachments/github-secrets-vercel.png",
+    "publish/attachments/fork-linked-blog-starter-md.png",
+    "publish/attachments/fn-website-demo.gif",
+    "publish/attachments/enable-actions-github.png",
+    "Sem título.canvas"
+  ]
+}

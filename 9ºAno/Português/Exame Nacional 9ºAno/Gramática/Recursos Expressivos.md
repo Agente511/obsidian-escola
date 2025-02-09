@@ -1,0 +1,6 @@
+- **Ironia:** ironia
+- **Eufemismo:** "amaciamento" da realidade > "ilha perdida" = inferno
+- **Hipérbole:** exagero da realidade >
+- **Antítese:** oposição de ideias > "vai ou vem"
+- **Repetição:** repetição de palavras > "Embarcai! Hou! Embarcai!"
+- 

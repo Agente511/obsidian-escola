@@ -1,0 +1,102 @@
+- **Carlos** ia **formar-se em Medicina**.
+- Segundo **dr. Trigueiros**, ele tinha uma **vocação para Esculápio** (médico), que se baseava no dia em que **Carlos, ainda criança, descobriu no sótão um rolo de estampas anatómicas**, que **esteve dias a recortar**, **pregando os recortes à parede**. Um dia, até **mostrou a Eusébio** a **litografia de um feto de 6 meses**, o que **escandalizou as senhoras Silveiras**. Também ficaram escandalizadas com a **indulgência de Afonso**, que **não viu qualquer problema naquilo**.
+- Os **amigos de Santa Olávia**, **não aprovavam esta carreira** inesperada (pensavam que ele ia seguir Direito). Achavam que ele ia **estragar a vida a sujar as mãos**.
+#### Estudos em Coimbra
+- **Carlos** **matriculou-se entusiasmado**.
+- Durantes os **anos de estudo**, esteve na **casa de Celas**, **preparada por Afonso**. **João da Ega** (amigo de Carlos) **chamou-lhe "Paços de Celas"**, por causa dos **luxos** que tinha, que eram **raros na Academia**.
+- Nas suas **pausas**, trazia muitas vezes para Celas, **Serra Torres**, um **adido honorário em Berlim** que mudava de opinião todas as noites, e o **Craveiro**, que meditava a "Morte de Satanás". 
+- **Carlos publicou sonetos no "Instituto"**, um **artigo sobre o Pártenon**, tentou **pintura a óleo**, num atelier improvisado, e **compôs contos arqueológicos**.
+- Passava **todas as tardes a passear os seus 2 cavalos**.
+- No **2º ano**, **reprovaria se não fosse conhecido e rico**.
+- Como **não queria provocar um desgosto no avô**, **focou-se mais na ciência**, moderando a dissipação intelectual.
+- Às vezes, **Afonso vinha passar 1/2 semanas a Celas**.
+	- Nos primeiros tempos, a sua presença impediu as **conversas literárias** e todos os chamavam "vossa excelência".
+	- Pouco a pouco, **vendo que ele vinha descontraído**, calçando **chinelas** e de **cachimbo**, começaram a **discutir arte e literatura** e outras coisas. Tratavam-no como um camarada.
+- **Carlos passava as férias grandes em Lisboa**, às vezes em **Paris ou Londres**. No **Natal** e na **Páscoa**, **ia sempre a Santa Olávia**.
+- **Afonso**, agora que estava **mais sozinho**, **entretinha-se a decorar a casa**.
+	- A **viscondessa ficava mais nutrida**, caindo em **sonos congestivos logo depois do jantar**.
+	- No **Carnaval**, **morreu Teixeira** e **depois a Gertrudes**, ambos de **pleurises**.
+	- Também o **abade Custódio** tinha morrido.
+	- O **doutor juiz de Direito** (que por vezes tocava concertina) passou para o **Tribunal da Relação do Porto**.
+	- **D. Ana Silveira**, **muito doente**, **nunca saía**.
+	- **Teresinha** tinha **se tornado feia e amarelada**.
+	- **Eusebiozinho**, já **sem gosto pelos alfarrábios e pelas letras**, ia **casar-se na Régua**.
+	- O **dr. Trigueiros**, **deixava a égua branco ao portão**, para **conversar com o colega**.
+	- Só o **doutor delegado permanecia o mesmo**.
+- As **férias de Carlos**, só eram **divertidas** quando **trazia João da Ega para a quinta**, por quem **Afonso da Maia se tinha afeiçoado**, também por ser **sobrinho de André da Ega**, velho amigo da sua juventude e que chegou a visitar Santa Olávia.
+- **João da Ega** estava a **formar-se em Direito**, mas **muito devagar**, **reprovando ou perdendo o ano**.
+	- A sua **mãe**, rica, viúva e beata, estava numa **quinta ao pé de Celorico de Basto**, com uma filha, rica, viúva e beata. Tinha uma **noção vaga do que João da Ega tinha feito este tempo todo em Coimbra**. Bastava-lhe a **promessa dada pelo capelão Serafim** de que **João da Ega se tornaria doutor como o pai e a tia**.
+	- **João da Ega** era **considerado**, em Celorico e na Academia, **o maior ateu que jamais existiu na sociedade**. Ele ainda **exagerou o seu ódio à Divindade**, querendo o **fim das classes médias**, o **amor livre do matrimónio**, a **repartição das terras** e o **culto de Satanás**. Por isso, ele também tinha um **aspeto rebelde e satânico**.
+- **Carlos** **repudiava as ideias de João da Ega**, mas ele também teve um **episódio romântico com a mulher de um empregado do Governo Civil**, trocando cartas.
+	- Ela tinha o **nome bárbaro de Hermengarda** e então os amigos de João chamavam-no "**Eurico, o Presbítero**", enviando um monte de cartas para Celas com este nome odioso.
+	- Um dia, estava a **tomar sol na feira**, e **viu**, pela primeira vez, o **marido dessa mulher**, de mão dada com o filho.
+	- Sentiu-se um **canalha** e, por isso, **nunca mais respondeu a cartas de Hermengarda**.
+	- Ela **deve se ter vingado**, porque o seu **marido** passou a **olhar agressivamente para Carlos**.
+- Ao **fim de umas férias**, **Carlos trouxe de Lisboa uma rapariga espanhola**, chamada **Encarnación**, e **instalou-a numa casa ao pé de Celas**.
+	- Os **poetas da Academia** **fizeram-lhe versos em que chamavam Encarnación de "Lírio de Israel**, **"Pomba da Arca"** e **"Nuvem da Manhã"**.
+	- Um **estudante de Teologia**, **quis casar com ela**. Apesar das instâncias de Carlos, Encarnación recusou e o teológo começou a rondar Celas, com um navalhão, para "beber o sangue" ao Maia. **Carlos teve de lhe dar bengaladas**.
+	- **Encarnación** tornou-se **intolerável falando sem parar de outras paixões que tinha em Madrid e Lisboa**. Começou também a **chamar ladrões aos republicanos**, a **celebrar os tempos de D. Isabel**, sendo **muito conservadora** como todas as prostitutas. **João da Ega odiava-a** e **Craveiro** declarou que **não voltava aos Paços de Celas enquanto ela lá estivesse**.
+	- Uma tarde, **Baptista**, **criado de quarto de Carlos**, surpreendeu-a com um **Juca** que **fazia de dama no Teatro Académico**. Com esse pretexto, **recambiaram** **Encarnación** **para Lisboa e à Rua de S. Roque**.
+#### Agosto de 1874 (Formatura)
+- Na **formatura de Carlos**, houve uma **alegre festa em Celas**, **no quintal**. Veio **Afonso** de Santa Olávia e (Manuel) **Vilaça** de Lisboa.
+- **João da Ega**, que tinha reprovado no último ano, esteve a **pendurar lanternas venezianas**, para a iluminação da noite.
+- Ao **jantar**, a que **assistiam lentes**, **Vilaça fez um discurso**, quando se começou a ouvir o **Hino Académico**, a **tambores e pratos**, numa **serenata**. **João da Ega** começou a **perorar** a falar de Carlos.
+#### 1874 (possivelmente foi logo depois da formatura)
+- **Carlos Eduardo partiu para a sua longa viagem pela Europa**.
+#### Outono de 1875
+- **Afonso da Maia** estava **instalado no Ramalhete**, à **espera de Carlos**. Tinha **recebido uma carta de Carlos de Londres**, a **dizer que andava a estudar a organização dos hospitais de crianças**.
+- **Vilaça** começou a **trazer caixas sucessivas de livros, instrumentos e aparelhos** da **Alfândega**.
+- Há **14 meses** que **Afonso** **não via Carlos**, a não ser numa **fotografia de Milão** em que o acharam **magro e triste**.
+- De **manhã**, **viu com os binóculos** um grande **paquete da Royal Mail que trazia o seu neto**.
+- À **noite**, **Sequeira**, **Diogo Coutinho** e o **Vilaça** **admiravam o bem que a viagem tinha feito a Carlos**.
+- **Carlos tinha a ideia de fazer um laboratório** para trabalhos químicos, estudos anatómicos e fisiológicos, a sua biblioteca, aparelhos, etc.
+- **Afonso comunicou com o Vilaça** para que se arranjasse um **laboratório e um consultório**. Segundo o Vilaça, a **vista dos aparelhos faria esmorecer os doentes**, então seria melhor o **consultório estar separado do laboratório**. Todos concordaram.
+- **Vilaça descobriu um antigo armazém para fazer o laboratório**, no **Largo das Necessidades**. O **consultório** iria ser num primeiro andar no **Rossio**.
+	- Esta ideia também iria **beneficiar Vilaça**, já que ele **aspirava ser vereador da câmara** e um **consultório gratuito do "seu Maia"** iria dar-lhe influência.
+- O **consultório foi mobilado com luxo**. O **gabinete** de Carlos era **mais simples**.
+- O espaço foi **visitado por alguns novos amigos de Carlos**:
+	- **Taveira**, seu contemporâneo e **vizinho do Ramalhete**,
+	- **Cruges**, maestro e pianista,
+	- e **marquês de Souselas**, com quem tinha percorrido Itália.
+- **Carlos anunciou o consultório nos jornais**, mas quando **viu o seu nome entre o de uma engomadeira e um anúncio de casa de hóspedes**, **encarregou o Vilaça de retirar o anúncio**.
+- **Carlos visitava as obras do laboratório todas as manhãs**, mas os **trabalhos arrastavam-se sem fim**, com a **preguiça dos trabalhadores**. **Queixava-se ao sr. Vicente**, **mestre-de-obras**, que lhe **garantia que dali a 2 dias havia de ver diferença**.
+	- O **sr. Vicente** **morava ao pé do Ramalhete**. Ele desejava mais que tudo um navio fretado à custa da nação que mandasse a família real e etc. embora.
+- No **Ramalhete**, ao **meio-dia**, tocava a **sineta do almoço**.
+	- O **gato de Afonso**, **"Reverendo Bonifácio"**, desde que se tinha tornado dignitário da Igreja, comia com os senhores, lambendo sopas de leite. 
+	- **Afonso** tinha-se tornado um **velho gourmet exigente**, e **comia as obras de arte do chef francês que tinha agora, Mr. Theodore**.
+	- Os **almoços** eram muito **delicados e longos**. Ao **café**, ficavam ainda a **conversar**.
+- Às 13h/13:30, **Carlos partia para o seu consultório**.
+	- **Nem um doente aparecia**, o que fez com que **Carlos concluísse que aquelas 2 horas de consultório eram estúpidas**.
+- Numa **manhã no consultório**, foi **surpreendido por Ega**, que **vinha da Foz**.
+- **João da Ega** demorou muito para vir para Lisboa, porque ficou muito tempo em Celorico de Basto, onde vivia a mãe:
+	- Depois de **Coimbra**, **João da Ega**, perguntou se **podia vir viver para Lisboa**, mas a **mãe não concordou**, então ficou na quinta em Celorico de Basto.
+	- Em **julho**, uma **epidemia de anginas**. A **mãe concluiu que era culpa da presença dele**, porque era ateu. Até foi **consultar o padre Serafim**, que **não gostava de ver João da Ega na quinta**, e que lhe disse que podia ser **indignação do Senhor**.
+	- Então, a **mãe implorou-lhe que ele fosse para Lisboa** e **João da Ega foi para a Foz**.
+	- A **epidemia desapareceu logo**.
+- **João da Ega** parecia um novo Ega, vistoso e com uma **extraordinária peliça** (casaco).
+- **João da Ega elogiou o consultório e perguntou quanto tinha custado**. **Carlos respondeu que o Vilaça que deveria saber**.
+- **Carlos perguntou quem era a Madame (Raquel) Cohen** de quem **João da Ega falava nas cartas que lhe enviou**. Ele respondeu que era uma **judia**, **esposa do diretor do Banco Nacional**, com quem teve um episódio, mas o marido era uma besta.
+- **Carlos atualiza João da Ega**:
+	- **D. Diogo**, ia envelhecendo
+	- **Sequeira** estava gordo e a estourar sangue
+	- **O conde de Steinbroken**, um **ministro da Finlândia**, jantava agora no Ramalhete. Ele queria **alugar umas cocheiras** (casa onde se guardam carruagens), mas **complicou tanto a transação** que **Vilaça remeteu-o a Afonso** que lhe **ofereceu as cocheiras de graça**. **Steinbroken considerou isto um serviço feito ao rei da Finlândia**. **Afonso agora vai com o secretário da Legação visitar o cônsul e vice-cônsul**. 
+	- No Ramalhete também estava agora **Taveira**, empregado no **Tribunal de Contas**.
+	- **Cruges**, maestro e pianista
+	- **Marquês de Souselas**
+	- Não havia **mulheres**, depois da **morte da viscondessa**. Era um covil de solteirões.
+	- **Eusébio Silveira** 
+- **João da Ega** falou de **Craft**, um **inglês extraordinário**, **filho de um membro do clero da igreja inglesa do Porto**. **Herdou** a fortuna de um **tio**.
+- Depois, **João da Ega** despiu a peliça que trazia, mas não tinha nada por baixo. **João da Ega dizia que era só para o efeito moral**.
+- Retomou, então, a sua ideia de, **quando o Craft chegasse do Porto**, **organizavam um cenáculo**, com rapazes e 3/4 mulheres, para cortarem a severidade das filosofias.
+	- **Carlos ria-se desta ideia**, dando o exemplo de quando o **marquês de Souselas** tentou uma coisa mais simples: um **jantar no campo com atrizes**. Sucedeu-se que uma não tinha criada e queria levar para a festa uma tia e 5 filhos, outra temia que, se fosse, o (seu marido?) brasileiro lhe tirasse a mesada, outra consentiu mas o amante deu-lhe uma coça quando soube, além de outros escândalos.
+- **Ega** respondeu que se **não aparecesse mulheres**, **podia-se importá-las**.
+	- O **antigo Ega** **parecia que tinha reaparecido**, depois de ter **tirado a sua peliça**.
+- Às **16h**, **João da Ega** voltou a **vestir a peliça** para se **ir embora**.
+	- **Carlos**, ao saber que **João da Ega habita agora no Universal**, sítio que Carlos abominava, **queria que ele visse para o Ramalhete**, mas **não convinha a João da Ega**.
+	- **João da Ega também estava comprometido e não podia nem ir jantar**, mas disse que **no dia seguinte ia lá almoçar**.
+- Ao **sair**, **João da Ega contou que ia publicar o seu livro**.
+	- Ele **começou a ter ideias para ele nos últimos 2 anos de Coimbra**.
+	- Em **Lisboa**, o livro foi **anunciado como um acontecimento**, tendo chegado até ao **Brasil**.
+	- Sentindo esta **ansiosa expectativa em torno do seu livro**, **Ega decidiu finalmente escrevê-lo**.
+	- Iria ser uma **epopeia em prosa**, em forma de **autobiografia**, falando da **história das grandes fases do Universo e da Humanidade**, sendo **intitulado "Memórias de um Átomo"**.
+	- Os **admiradores do Ega**, em **Coimbra**, elogiavam o livro dizendo que "era uma Bíblia".
