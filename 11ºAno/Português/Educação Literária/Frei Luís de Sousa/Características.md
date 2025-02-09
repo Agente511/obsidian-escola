@@ -1,7 +1,10 @@
+## Biografia de Almeida Garrett
 ## Contextualização histórico-literária
 1799 
 ### Romantismo
-O romantismo está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** e, **após voltar do exílio**, trouxe consigo os ideais deste novo movimento estético-literário que introduziu em Portugal (tal como Herculano).
+Desenvolveu-se na Europa (Inglaterra, Alemanha), mas rapidamente se proliferou para o restou do mundo. Séc. XVIII-XIX.
+
+Está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** e, **após voltar do exílio**, trouxe consigo os ideais deste novo movimento estético-literário que introduziu em Portugal (tal como Herculano).
 
 >[!Example] Características do romantismo
 >- ##### Individualismo egocêntrico
@@ -22,7 +25,7 @@ O romantismo está ligado diretamente ao liberalismo, porque **Almeida Garrett e
 >  A natureza é a **projeção do seu estado de alma** (tumultuoso e depressivo), sendo representada de forma invernosa, sombria, agreste, solitária e melancólica, traduzindo o **amor pela própria morte**.
 >  
 
-## Biografia de Almeida Garrett
+### 
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.
 Também a época em que foi escrita (**década de 1840**) é conturbada, com o **cabralismo**.
