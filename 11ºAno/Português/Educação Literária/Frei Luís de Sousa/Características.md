@@ -58,10 +58,14 @@ Também a época em que foi escrita (**década de 1840**) é conturbada, com o *
 Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos de amor nacional** que esta realidade política desperta nas **personagens**:
 
 **Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol
-A família pode ser vista como a unidade da pátria, a
-destruição da família é a destruição da pátria
-governada pelos estrangeiros.
-• Oposição entre D. Manuel e D. João → oposição
-entre o Portugal velho e ultrapassado e o novo e
-atual que se pretende (D. Manuel).
 ### Sebastianismo
+
+
+
+onde pôr?
+A destruição da família representa a decadência da pátria
+governada pelos espanhóis.
+
+A oposição entre D. Manuel e D. João representa oposição
+entre o Portugal velho e ultrapassado e o novo e
+atual que se pretende.

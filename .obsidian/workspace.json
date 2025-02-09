@@ -37,20 +37,6 @@
             }
           },
           {
-            "id": "4df69af9eb33133a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/1GOUB8S95DSK7IZEjTmLy9rlgGt3haXqf/view",
-                "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive"
-            }
-          },
-          {
             "id": "63d339c23d1a60b1",
             "type": "leaf",
             "state": {
@@ -99,6 +85,20 @@
         "type": "tabs",
         "dimension": 47.053231939163496,
         "children": [
+          {
+            "id": "4df69af9eb33133a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1GOUB8S95DSK7IZEjTmLy9rlgGt3haXqf/view",
+                "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive"
+            }
+          },
           {
             "id": "2e80e362f3ee7b0a",
             "type": "leaf",
@@ -289,7 +289,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e80e362f3ee7b0a",
+  "active": "4ed4d7de621fea90",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
