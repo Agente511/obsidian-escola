@@ -57,11 +57,20 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 - **Número reduzido de personagens**
 - **Personagens** pertencentes a **estratos sociais elevados**
 - **Condensação do tempo** em que a ação decorre
-- **Poucos espaços** e o seu **afunilamento gradual**, à medida que o desenlace se aproxima
+- **Poucos espaços** que se vão **afunilando gradualmente**, à medida que o desenlace se aproxima
+![[Pasted image 20250209181914.png]] ![[Pasted image 20250209181939.png|550]]
 - **Ação simples e concentrada**
-- Semelhanças entre o **coro** da tragédia clássica e **Frei Jorge** e **Telmo Pais**. Ambos fazem **comentários em momentos dramáticos**.
 - Momentos que **retardam o desenlace trágico**
 - Ambiente trágico marcado por **presságios**, **sinais** e uma **solenidade clássica**.
+
+>[!Warning] Diferenças
+>- Não existe o **coro** da tragédia clássica, apesar de **Frei Jorge** e **Telmo Pais** fazerem **comentários em momentos dramáticos**, de forma semelhante ao coro.
+>- O **não cumprimento da lei das três unidades da tragédia** (unidade de ação, de espaço e de tempo):
+>	- Não se respeita, na íntegra, a unidade de espaço, apesar de a ação decorrer no mesmo espaço geográfico (Almada)
+>	- A ação **não decorre em apenas 24 horas**. Entre o Ato I e II passam cerca de **8 dias** (uma semana) e entre o II e III passam algumas horas.
+>- **Não é escrita em verso**, é em prosa
+>- **Não tem 5 atos**, tem 3.
+
 
 >[!Example] Elementos da tragédia clássica
 >##### *Hybris* (desafio e transgressão da ordem instituída)>
@@ -115,6 +124,8 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 	- Há **3 retratos** na sala dos retratos: D. João, D. Sebastião e Luís de Camões
 ### Drama romântico
 - Escrito em **prosa**
+- Tem **3 atos**
+- **Linguagem coloquial** com frases curtas, reticências, frases entrecortadas, interjeições e frases exclamativas
 - Assunto de **caráter histórico e nacional**, baseado numa situação real, o que reitera a preocupação de Garrett com a verdade e realidade dos acontecimentos
 - **Superstições** e **agouros populares** que retratam a **cultura portuguesa**
 - **Exaltação dos valores patrióticos e nacionais** (sobretudo através de Manuel de Sousa Coutinho)
@@ -123,8 +134,11 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 - Cultiva **sentimentos intensos**
 - **Intenção pedagógica**
 - A **morte de Maria** em palco e a **crítica social aos preconceitos que vitimam inocentes**
-- O **não cumprimento da lei das três unidades da tragédia** (unidade de ação, de espaço e de tempo)
 - A **projeção da experiência pessoal do autor**, que possuía uma filha ilegítima de Adelaide Pastor Deville, por quem se apaixonara ainda casado com Luísa Midosi
+
+>[!Warning] Diferenças
+>- **Não tem um grande número de personagens**
+
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.
 Também a época em que foi escrita (**década de 1840**) é conturbada, com o **cabralismo**.

@@ -6,7 +6,6 @@
       {
         "id": "4d67e4f7868ffe03",
         "type": "tabs",
-        "dimension": 52.946768060836504,
         "children": [
           {
             "id": "4ed4d7de621fea90",
@@ -65,40 +64,19 @@
             }
           },
           {
-            "id": "bede333a61fe7730",
+            "id": "df886063c7064a6f",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://drive.google.com/file/d/1w9cLDv-fEAwEC67CRjbMDVU7Fn1pRTWU/view",
-                "title": "Leitura genológica_a discussão do género em Frei Luís de Sousa.pdf - Google Drive",
+                "url": "https://drive.google.com/file/d/1G0-pJ6fvIPSKrlIyTkRRzlv6w5Ahg_PG/view",
+                "title": "Fontes históricas e literárias em Frei Luís de Sousa.pdf - Google Drive",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Leitura genológica_a discussão do género em Frei Luís de Sousa.pdf - Google Drive"
+              "title": "Fontes históricas e literárias em Frei Luís de Sousa.pdf - Google Drive"
             }
           },
-          {
-            "id": "e611c4ccf6b5a155",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/1svoHwhUJyVW_mAABW10zKdUqjVYpGn_g/view",
-                "title": "Características trágicas.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Características trágicas.pdf - Google Drive"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5e9e0b08d461bcc3",
-        "type": "tabs",
-        "dimension": 47.053231939163496,
-        "children": [
           {
             "id": "4df69af9eb33133a",
             "type": "leaf",
@@ -113,7 +91,8 @@
               "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,9 +268,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4df69af9eb33133a",
+  "active": "e1dd7ad994160de9",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
+    "Pasted image 20250209181939.png",
+    "Pasted image 20250209181914.png",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
@@ -326,7 +307,6 @@
     "11ºAno/Filosofia/Filosofia da Religião/Teoria do Fideísmo.md",
     "Escola/9ºAno/Português/Exame Nacional 9ºAno/Gramática/Recursos Expressivos.md",
     "Escola/9ºAno/Português/Exame Nacional 9ºAno/Auto da Barca do Inferno/O Fidalgo.md",
-    "Escola/olá.md",
     "publish/attachments/publish-dir-yml.png",
     "publish/attachments/how-linked-blog-starter-works.png",
     "publish/attachments/vercel-project-id.png",
@@ -335,8 +315,6 @@
     "publish/attachments/disconnect-repo-vercel.png",
     "publish/attachments/github-secrets-vercel.png",
     "publish/attachments/fork-linked-blog-starter-md.png",
-    "publish/attachments/fn-website-demo.gif",
-    "publish/attachments/enable-actions-github.png",
     "Sem título.canvas"
   ]
 }
