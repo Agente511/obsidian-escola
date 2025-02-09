@@ -128,20 +128,6 @@
             }
           },
           {
-            "id": "c5c6751793d3afed",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/1jsEPfTqcaDJe-7_tNHyuSkaHYSt_SSzv/view",
-                "title": "Estrutura clássica.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Estrutura clássica.pdf - Google Drive"
-            }
-          },
-          {
             "id": "8030f5f0f21a0902",
             "type": "leaf",
             "state": {
@@ -346,7 +332,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8030f5f0f21a0902",
+  "active": "ca42cdf9cc167efd",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",

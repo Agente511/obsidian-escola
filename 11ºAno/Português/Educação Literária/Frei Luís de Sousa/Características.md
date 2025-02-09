@@ -65,10 +65,11 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 >##### *Hybris* (desafio e transgressão da ordem instituída)>
 >- **Casamento de D. Madalena com Manuel de Sousa Coutinho**, sem a confirmação da morte do seu primeiro marido
 >- **Incêndio** do palácio de Manuel de Sousa Coutinho pelo próprio;
->##### *Ágon* (conflito interior ou entre personagens)
+>##### *Ágon* (conflito interior)
 >- **D. Madalena** sente-se **culpada por ter amado Manuel** quando ainda estava casada com D. João
 >- **Telmo** sente-se dividido entre o **amor por Maria** e a **fidelidade a D. João**, seu **antigo amo**.
 >##### *Peripéteia* (peripécias e mudança súbita no rumo do acontecimento)
+>- **Mudança para o palácio de D. João**, após o incêndio
 >- **Chegada do romeiro**
 >##### *Anagnórisis* (reconhecimento)
 >- **Identificação do romeiro como D. João**
@@ -78,8 +79,28 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 >- **Mudança da família** para o **palácio de D. João**, pelo facto de os governadores espanhóis terem  escolhido a casa de Manuel de Sousa Coutinho para aí se instalarem, o que o leva a incendiá-la
 >##### *Pathos* (sofrimento das personagens)
 >- **D. Madalena** sente-se **culpada por ter amado Manuel** quando ainda estava casada com D. João
+>- **Telmo** sente-se dividido entre o **amor por Maria** e a **fidelidade a D. João**, seu **antigo amo**.
+>- As personagens sofrem devido à **dissolução da família**
+>###### *Clímax* (aumento da tensão emocional)
+>A tensão vai **aumentando gradualmente** até ao momento de maior tensão, no final do segundo ato, com o **reconhecimento do Romeiro**.
+>###### *Katastrophé* (desenlace)
+>- **Separação** e **morte para o mundo** do **casal**
+>- **Morte de Maria**
+>- **Desgosto de Telmo**
+>- Consciencialização de **D. João** de que **já não faz parte do mundo daqueles que amou**, após encontrar a sua esposa casada com outro homem
 >
-### Drama
+### Drama romântico
+- Escrito em **prosa**
+- Assunto de **caráter histórico e nacional**, baseado numa situação real, o que reitera a preocupação de Garrett com a verdade e realidade dos acontecimentos
+- A crítica social aos preconceitos que vitimam inocentes (como Maria)
+- O Homem como **responsável dos seus próprios atos**
+- A exaltação dos valores patrióticos e nacionais (sobretudo através de Manuel de SousaCoutinho)
+- As superstições e agouros populares que retratam a cultura portuguesa
+- A religião cristã como um consolo
+- O realismo psicológico que caracteriza a transformação dos sentimentos de Telmo, divididoentre o amor a D. João e a D. Maria de Noronha
+- A projeção da experiência pessoal do autor, que possuía uma filha ilegítima de Adelaide Pastor Deville, por quem se apaixonara ainda casado com Luísa Midosi
+- A morte de Maria em palco
+- O não cumprimento da lei das três unidades da tragédia (unidade de ação, de espaço e detempo)
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.
 Também a época em que foi escrita (**década de 1840**) é conturbada, com o **cabralismo**.
