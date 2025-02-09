@@ -50,8 +50,10 @@ Do género dramático fazem parte a **tragédia**, **comédia** e **drama**.
 
 Para além das **falas das personagens**, existem **didascálias** (indicações cénicas).
 
-Como *Frei Luís de Sousa* foi escrito
-### Tragédia
+No texto "Memória ao Conservatório Real", Garrett refere que apesar de considerar *Frei Luís de Sousa* u
+### Marcas da tragédia clássica
+- Ambiente carregado de **presságios** e **sinais**
+- 
 ### Drama
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.

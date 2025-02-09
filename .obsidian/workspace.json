@@ -65,6 +65,20 @@
             }
           },
           {
+            "id": "bede333a61fe7730",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1w9cLDv-fEAwEC67CRjbMDVU7Fn1pRTWU/view",
+                "title": "Leitura genológica_a discussão do género em Frei Luís de Sousa.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Leitura genológica_a discussão do género em Frei Luís de Sousa.pdf - Google Drive"
+            }
+          },
+          {
             "id": "e611c4ccf6b5a155",
             "type": "leaf",
             "state": {
@@ -112,8 +126,51 @@
               "icon": "globe-2",
               "title": "Características trágicas.pdf - Google Drive"
             }
+          },
+          {
+            "id": "c5c6751793d3afed",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1jsEPfTqcaDJe-7_tNHyuSkaHYSt_SSzv/view",
+                "title": "Estrutura clássica.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Estrutura clássica.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "ca42cdf9cc167efd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/17P39zsDL2wGbYf-91VSKSS7nnup0vAJi/view",
+                "title": "Frei Luís de Sousa- Tragédia e Drama.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Frei Luís de Sousa- Tragédia e Drama.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "8030f5f0f21a0902",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1BaWRGSFHlfzFviMnP2cD_cvWut4_bbKs/view",
+                "title": "Ideologia romântica e intenção pedagógica.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Ideologia romântica e intenção pedagógica.pdf - Google Drive"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -291,8 +348,8 @@
   },
   "active": "4ed4d7de621fea90",
   "lastOpenFiles": [
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "olá.md",
