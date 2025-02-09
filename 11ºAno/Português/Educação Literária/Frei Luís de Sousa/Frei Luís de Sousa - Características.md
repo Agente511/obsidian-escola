@@ -12,7 +12,8 @@
 > - 1827 - Preso por defender o liberalismo
 > - 1828 - Volta a exilar-se em Inglaterra
 > - **1836 - Separa-se de Luísa Midosi**
-> - 
+> - **1837-1838 - É deputado nas Cortes Constituintes. Ajuda a redigir a Constituição de 1838.**
+> - 1840 - Torna-se crítico feroz do governo de Costa Cabral
 
 ### Personalidade
 - Enquanto **estudante**, revelava-se **contestatário do conservadorismo e da tirania dos mestres**.
@@ -173,7 +174,7 @@ Garrett retoma factos da história de Portugal e integra entidades ficcionais:
 	- **Desaparecimento de D. João de Portugal** na **Batalha de Alcácer-Quibir**
 	- **Buscas de Madalena pelo marido D. João**, durante 7 anos
 	- **Crenças sebastianistas de Telmo**, ligadas ao desejo de retorno do primeiro amo, e de **Maria**
-	- A **figura desejada pelos sebastianistas que regressa** (D. João) **não encontra lugar no presente**
+	- Garrett retrata **negativamente e criticamente o sebastianismo**, através das consequências do regresso de D. João que alude simbolicamente a D. Sebastião. A **saudade do velho Portugal não resolve o problema da pátria** e **impossibilita o surgimento de um novo Portugal** que conseguiria triunfar.
 ### Valor simbólico das personagens
 - **D. Sebastião** - esperança de recuperação da independência
 - **Camões** - grandeza pátria
