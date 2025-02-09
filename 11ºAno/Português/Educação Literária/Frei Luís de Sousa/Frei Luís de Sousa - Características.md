@@ -1,5 +1,19 @@
-## Biografia de Almeida Garrett
-- 1
+## Almeida Garrett
+
+> [!Info] Biografia de Almeida Garrett
+> - 1799 - Nasce João Batista da Silva Leitão, no Porto, filho de uma família culta
+> - 1809 - A sua família parte para os Açores (Angra do Heroísmo, Terceira) após a 2ª invasão francesa
+> - 1816 - Regressa ao continente e matricula-se em Leis (Direito) na Universidade de Coimbra. Escreve as suas primeiras peças teatrais (dramas e tragédias)
+> - **1820 - Participa na Revolução Liberal**
+> - **1822 - Casa-se com Luísa Midosi**
+> - 1823 - Exila-se em Inglaterra, depois da reação conservadora à revolução constitucional
+> - 1824 - Passa a viver em França e publica "Camões" (o seu 1º texto romântico) e "D. Branca"
+> - 1826 - Regressa do exílio
+> - 1827 - Preso por defender o liberalismo
+> - 1828 - Volta a exilar-se em Inglaterra
+> - **1836 - Separa-se de Luísa Midosi**
+> - 
+
 ### Personalidade
 - Enquanto **estudante**, revelava-se **contestatário do conservadorismo e da tirania dos mestres**.
 - Seguidor dos **ideais liberais**.
