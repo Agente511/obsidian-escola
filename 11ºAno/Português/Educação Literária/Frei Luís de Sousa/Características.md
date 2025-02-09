@@ -1,5 +1,5 @@
 ## Biografia de Almeida Garrett
-
+- 1
 ### Personalidade
 - Enquanto **estudante**, revelava-se **contestatário do conservadorismo e da tirania dos mestres**.
 - Seguidor dos **ideais liberais**.
@@ -8,9 +8,10 @@
 - Dado ao **prazer**
 - **Exuberante** em relação aos **sentimentos**
 - **Egocentrista**
-- **Dândi** (preocupado e cuidadoso com a sua **aparência física**)
+- **Dândi** (preocupado e cuidadoso com a sua **aparência física**
+## Estrutura de *Frei Luís de Sousa*
+![[Pasted image 20250209182253.png]]
 ## Contextualização histórico-literária
-1799 
 ### Romantismo
 Desenvolveu-se na Europa (Inglaterra, Alemanha), mas rapidamente se proliferou para o restou do mundo. Séc. XVIII-XIX. Opõe-se ao **iluminismo** do séc. XVIII (por isso chamado **século das luzes)**, que se **focava na razão e ideias**.
 
@@ -54,7 +55,7 @@ Para além das **falas das personagens**, existem **didascálias** (indicações
 
 No texto "Memória ao Conservatório Real", Garrett refere que apesar de considerar *Frei Luís de Sousa* um drama, este apresenta **características da tragédia clássica**
 ### Marcas da tragédia clássica
-- **Número reduzido de personagens**
+- **Número reduzido de personagens** e todas da **mesma família** ou **próximas do núcleo familiar**
 - **Personagens** pertencentes a **estratos sociais elevados**
 - **Condensação do tempo** em que a ação decorre
 - **Poucos espaços** que se vão **afunilando gradualmente**, à medida que o desenlace se aproxima
@@ -67,7 +68,8 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 >- Não existe o **coro** da tragédia clássica, apesar de **Frei Jorge** e **Telmo Pais** fazerem **comentários em momentos dramáticos**, de forma semelhante ao coro.
 >- O **não cumprimento da lei das três unidades da tragédia** (unidade de ação, de espaço e de tempo):
 >	- Não se respeita, na íntegra, a unidade de espaço, apesar de a ação decorrer no mesmo espaço geográfico (Almada)
->	- A ação **não decorre em apenas 24 horas**. Entre o Ato I e II passam cerca de **8 dias** (uma semana) e entre o II e III passam algumas horas.
+>	- A ação **não decorre em apenas 24 horas**. Entre o Ato I e II passa **uma semana** e entre o II e III passam algumas horas.
+>	  ![[Pasted image 20250209182135.png]]
 >- **Não é escrita em verso**, é em prosa
 >- **Não tem 5 atos**, tem 3.
 
@@ -128,7 +130,7 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 - **Linguagem coloquial** com frases curtas, reticências, frases entrecortadas, interjeições e frases exclamativas
 - Assunto de **caráter histórico e nacional**, baseado numa situação real, o que reitera a preocupação de Garrett com a verdade e realidade dos acontecimentos
 - **Superstições** e **agouros populares** que retratam a **cultura portuguesa**
-- **Exaltação dos valores patrióticos e nacionais** (sobretudo através de Manuel de Sousa Coutinho)
+- **Exaltação dos valores patrióticos e nacionais** (sobretudo através de Manuel de Sousa Coutinho e Maria)
 - O Homem como **responsável dos seus próprios atos**
 - A **religião cristã** como um **consolo**
 - Cultiva **sentimentos intensos**
@@ -149,5 +151,9 @@ Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos 
 - A **destruição da família** representa a **decadência da pátria governada pelos espanhóis**.
 - A **oposição entre D. João e D. Manuel** representa a **oposição entre o Portugal velho e ultrapassado e o novo e atual** que se pretende.
 ### Sebastianismo
+É tratada também a **crença no regresso de D. Sebastião e de D. João de Portugal**, simbolicamente **ligados ao Portugal passado**.
+#### Factos históricos
+- **Batalha de Alcácer-Quibir** em 1578 e o **desaparecimento de D. Sebastião**
+- **Perda da independência de Portugal**
 
 

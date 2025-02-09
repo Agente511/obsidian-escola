@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "e6a654aa0a7056d1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1GOUB8S95DSK7IZEjTmLy9rlgGt3haXqf/view",
+                "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive"
+            }
+          },
+          {
             "id": "df886063c7064a6f",
             "type": "leaf",
             "state": {
@@ -91,8 +105,7 @@
               "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,12 +281,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1dd7ad994160de9",
+  "active": "4ed4d7de621fea90",
   "lastOpenFiles": [
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
+    "Sem título.md",
+    "Pasted image 20250209182253.png",
+    "Pasted image 20250209182135.png",
     "Pasted image 20250209181939.png",
     "Pasted image 20250209181914.png",
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "olá.md",
@@ -313,8 +329,6 @@
     "publish/attachments/vercel-create-token.png",
     "publish/attachments/vercel-account-id.png",
     "publish/attachments/disconnect-repo-vercel.png",
-    "publish/attachments/github-secrets-vercel.png",
-    "publish/attachments/fork-linked-blog-starter-md.png",
     "Sem título.canvas"
   ]
 }
