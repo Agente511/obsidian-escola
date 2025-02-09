@@ -49,6 +49,8 @@ Do género dramático fazem parte a **tragédia**, **comédia** e **drama**.
 *Frei Luís de Sousa* é escrito em **prosa** (apesar do género dramático poder ser escrito em verso)
 
 Para além das **falas das personagens**, existem **didascálias** (indicações cénicas).
+
+Como *Frei Luís de Sousa* foi escrito
 ### Tragédia
 ### Drama
 ## Dimensão patriótica e a sua expressão simbólica
