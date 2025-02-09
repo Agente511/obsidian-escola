@@ -22,34 +22,6 @@
             }
           },
           {
-            "id": "e1dd7ad994160de9",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/19Y2YeOdC14MVxev1bwA-R1FbyL_78n-G/view",
-                "title": "Frei Luís de Sousa - vários aspetos.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Frei Luís de Sousa - vários aspetos.pdf - Google Drive"
-            }
-          },
-          {
-            "id": "63d339c23d1a60b1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dicionario.priberam.org/contestat%C3%A1rio",
-                "title": "contestatário - Dicionário Online Priberam de Português",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "contestatário - Dicionário Online Priberam de Português"
-            }
-          },
-          {
             "id": "ad8013633049713f",
             "type": "leaf",
             "state": {
@@ -62,51 +34,8 @@
               "icon": "lucide-file",
               "title": "Frei Luís de Sousa - Características"
             }
-          },
-          {
-            "id": "e6a654aa0a7056d1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/1GOUB8S95DSK7IZEjTmLy9rlgGt3haXqf/view",
-                "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive"
-            }
-          },
-          {
-            "id": "df886063c7064a6f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/1G0-pJ6fvIPSKrlIyTkRRzlv6w5Ahg_PG/view",
-                "title": "Fontes históricas e literárias em Frei Luís de Sousa.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Fontes históricas e literárias em Frei Luís de Sousa.pdf - Google Drive"
-            }
-          },
-          {
-            "id": "4df69af9eb33133a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/1GOUB8S95DSK7IZEjTmLy9rlgGt3haXqf/view",
-                "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Sistematização-Frei Luís de Sousa.pdf - Google Drive"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,11 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad8013633049713f",
+  "active": "4ed4d7de621fea90",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "Sem título.md",
     "Pasted image 20250209182253.png",
     "Pasted image 20250209182135.png",
