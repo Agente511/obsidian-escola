@@ -17,16 +17,20 @@ Está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** 
 >  Valoriza-se o **sonho**, o **desvaneio** e a **aspiração a ideais que nunca são atingidos**.
 >- ##### Melancolia, solidão e morte
 >  Vistos como **solução para todos os males**. O romântico é **incompreendido** e **pessimista**, resultante do seu **idealismo**, cultivando o **sofrimento** e a **solidão**.
->- ##### Intensidade dos sentimentos
+>- ##### Sentimentalismo
 >  Força do **amor**, vivido de forma **absoluta**, **exagerada** e **contraditória** (ideal inantigível), e e expressão expontânea de **sentimentos**.
+>- ##### Idealização da mulher
+>  A mulher ou é um **ser angelical bom** (mulher-anjo, que leva à salvação), ou é um **ser angelical mau** (mulher-demónio, que leva à perdição).
 >- ##### Identidade, história e valores nacionais (patriotismo e Sebastianismo)
 >  Gosto pelas **tradições**, **folclore**, **Idade Média** e de tudo que é nacional.
 >- ##### Gosto pela natureza noturna
 >  A natureza é a **projeção do seu estado de alma** (tumultuoso e depressivo), sendo representada de forma invernosa, sombria, agreste, solitária e melancólica, traduzindo o **amor pela própria morte**.
->  
+>- ##### Religiosidade cristã
+>  >[!]
 
 ## Género literário
 ### Tragédia
+### Drama
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.
 Também a época em que foi escrita (**década de 1840**) é conturbada, com o **cabralismo**.
