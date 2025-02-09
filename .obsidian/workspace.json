@@ -77,7 +77,8 @@
               "title": "Frei Luís de Sousa-A obra e o contexto.pdf - Google Drive"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,19 +250,16 @@
       "random-note:Abrir nota aleatória": false,
       "vault-size-history:Vault size history": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ed4d7de621fea90",
+  "active": "e1dd7ad994160de9",
   "lastOpenFiles": [
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Contextualização.md",
     "olá.md",
     "repo/olá.md",
     "repo",
     "Nova pasta",
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Contextualização.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo.md",
     "10ºAno/Biologia/Membrana celular na obtenção de matéria.md",
