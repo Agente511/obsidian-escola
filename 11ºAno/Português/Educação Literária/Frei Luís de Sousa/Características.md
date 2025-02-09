@@ -94,10 +94,19 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 - A **sexta-feira**, em que ocorrem os principais momentos da ação, é um **dia de azar**:
 	- **D. Madalena casou-se** a uma sexta-feira
 	- **D. Madalena viu Manuel pela primeira vez** a uma sexta-feira
-	- **D. João regressa** a uma sexta-feira
+	- **D. João regressa** a uma sexta-feira (04/08/1599)
 	- **D. Sebastião (e supunha-se D. João) morreu** a uma sexta-feira, 21 anos antes
-- A noite é propícia a sentimentos de terror
-- O 7 
+- A **noite**, em que também ocorre a ação principal, é propícia a **sentimentos de terror**
+- O **7** representa o **fim** de um ciclo periódico:
+	-  **Madalena casou-se com Manuel** **7 anos depois** do **desaparecimento de D. João** na Batalha de Alcácer-Quibir (há 21 anos (7$\times$ 3))
+	- Estão **casados** há **14 anos** (7 $\times$ 2)
+	- O **regresso de D. João**, acontece **21 anos** (7 $\times$ 3) **depois da Batalha de Alcácer-Quibir**
+- O **13** é um **número do azar**:
+	- **Maria tem 13 anos**
+- O **3** é um **número da perfeição**.
+	- O **regresso de D. João**, acontece 21 anos (**7** $\times$ **3**) **depois da Batalha de Alcácer-Quibir**. É uma **fatalidade perfeita**.
+	- **3 elementos da família** são sujeitos à destruição
+	- Há **3 retratos** na sala dos retratos: D. João, D. Manuel e D. Sebastião
 ### Drama romântico
 - Escrito em **prosa**
 - Assunto de **caráter histórico e nacional**, baseado numa situação real, o que reitera a preocupação de Garrett com a verdade e realidade dos acontecimentos
