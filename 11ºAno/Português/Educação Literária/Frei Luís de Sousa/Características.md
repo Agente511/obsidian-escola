@@ -57,7 +57,7 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 - **Número reduzido de personagens**
 - **Personagens** pertencentes a **estratos sociais elevados**
 - **Condensação do tempo** em que a ação decorre
-- **Poucos espaços**
+- **Poucos espaços** e o seu **afunilamento gradual**, à medida que o desenlace se aproxima
 - **Ação simples e concentrada**
 - Semelhanças entre o **coro** da tragédia clássica e **Frei Jorge** e **Telmo Pais**. Ambos fazem **comentários em momentos dramáticos**.
 - Momentos que **retardam o desenlace trágico**
@@ -94,6 +94,9 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 #### Indícios trágicos
 - A leitura dos versos de Camões referem-se ao **trágico fim dos amores de D. Inês de Castro** que, como D. Madalena, também vivia uma **felicidade aparente quando a desgraça se abateu**.
 - A **perda do retrato de Manuel**, **indicia o seu destino**
+- A **tuberculose de Maria**
+- A história dos **Condes de Vimioso** que também se juntaram a **ordens cristãs**
+- O **sebastianismo** e a crença do **regresso de D. Sebastião** (e consequentemente de D. João de Portugal)
 - A **sexta-feira**, em que ocorrem os principais momentos da ação, é um **dia de azar**:
 	- **D. Madalena casou-se** a uma sexta-feira
 	- **D. Madalena viu Manuel pela primeira vez** a uma sexta-feira
