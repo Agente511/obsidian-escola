@@ -56,7 +56,7 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 - **Personagens** pertencentes a **estratos sociais elevados**
 - **Condensação do tempo** em que a ação decorre
 - **Poucos espaços**
-- **Ação sintética** (número reduzido de ações)
+- **Ação simples e concentrada**
 - Semelhanças entre o **coro** da tragédia clássica e **Frei Jorge** e **Telmo Pais**. Ambos fazem **comentários em momentos dramáticos**.
 - Momentos que **retardam o desenlace trágico**
 - Ambiente trágico marcado por **presságios**, **sinais** e uma **solenidade clássica**.
@@ -81,33 +81,42 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 >- **D. Madalena** sente-se **culpada por ter amado Manuel** quando ainda estava casada com D. João
 >- **Telmo** sente-se dividido entre o **amor por Maria** e a **fidelidade a D. João**, seu **antigo amo**.
 >- As personagens sofrem devido à **dissolução da família**
->###### *Clímax* (aumento da tensão emocional)
+>##### *Clímax* (aumento da tensão emocional)
 >A tensão vai **aumentando gradualmente** até ao momento de maior tensão, no final do segundo ato, com o **reconhecimento do Romeiro**.
->###### *Katastrophé* (desenlace)
+>##### *Katastrophé* (desenlace)
 >- **Separação** e **morte para o mundo** do **casal**
 >- **Morte de Maria**
 >- **Desgosto de Telmo**
 >- Consciencialização de **D. João** de que **já não faz parte do mundo daqueles que amou**, após encontrar a sua esposa casada com outro homem
 >
+#### Indícios trágicos
+- A leitura dos versos de Camões referem-se ao **trágico fim dos amores de D. Inês de Castro** que, como D. Madalena, também vivia uma **felicidade aparente quando a desgraça se abateu**.
+- A **sexta-feira**, em que ocorrem os principais momentos da ação, é um **dia de azar**:
+	- **D. Madalena casou-se** a uma sexta-feira
+	- **D. Madalena viu Manuel pela primeira vez** a uma sexta-feira
+	- **D. João regressa** a uma sexta-feira
+	- **D. Sebastião (e supunha-se D. João) morreu** a uma sexta-feira, 21 anos antes
+- A noite é propícia a sentimentos de terror
+- O 7 
 ### Drama romântico
 - Escrito em **prosa**
 - Assunto de **caráter histórico e nacional**, baseado numa situação real, o que reitera a preocupação de Garrett com a verdade e realidade dos acontecimentos
-- A crítica social aos preconceitos que vitimam inocentes (como Maria)
+- **Superstições** e **agouros populares** que retratam a **cultura portuguesa**
+- **Exaltação dos valores patrióticos e nacionais** (sobretudo através de Manuel de Sousa Coutinho)
 - O Homem como **responsável dos seus próprios atos**
-- A exaltação dos valores patrióticos e nacionais (sobretudo através de Manuel de SousaCoutinho)
-- As superstições e agouros populares que retratam a cultura portuguesa
-- A religião cristã como um consolo
-- O realismo psicológico que caracteriza a transformação dos sentimentos de Telmo, divididoentre o amor a D. João e a D. Maria de Noronha
-- A projeção da experiência pessoal do autor, que possuía uma filha ilegítima de Adelaide Pastor Deville, por quem se apaixonara ainda casado com Luísa Midosi
-- A morte de Maria em palco
-- O não cumprimento da lei das três unidades da tragédia (unidade de ação, de espaço e detempo)
+- A **religião cristã** como um **consolo**
+- Cultiva **sentimentos intensos**
+- **Intenção pedagógica**
+- A **morte de Maria** em palco e a **crítica social aos preconceitos que vitimam inocentes**
+- O **não cumprimento da lei das três unidades da tragédia** (unidade de ação, de espaço e de tempo)
+- A **projeção da experiência pessoal do autor**, que possuía uma filha ilegítima de Adelaide Pastor Deville, por quem se apaixonara ainda casado com Luísa Midosi
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.
 Também a época em que foi escrita (**década de 1840**) é conturbada, com o **cabralismo**.
 ### Patriotismo
 Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos de amor nacional** que esta realidade política desperta nas **personagens**:
 
-**Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol
+**Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol.
 ### Sebastianismo
 
 
