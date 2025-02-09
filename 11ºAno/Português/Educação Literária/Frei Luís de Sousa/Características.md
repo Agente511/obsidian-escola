@@ -6,17 +6,20 @@ O romantismo está ligado diretamente ao liberalismo, porque **Almeida Garrett e
 >[!Example] Características do romantismo
 >- ##### Individualismo egocêntrico
 >  **Confessionalismo** e **subjetivismo**.
->- ##### Idealismo
->  Valoriza-se o **sonho**, o **desvaneio** e a **aspiração a ideais que nunca são atingidos**.
 >- ##### Inadaptação social
 >  **Rebeldia e desprezo às regras estabelecidas**.
 >- ##### Culto da liberdade
 >  Privilegia a **liberdade** como **valor máximo**.
+>- ##### Idealismo
+>  Valoriza-se o **sonho**, o **desvaneio** e a **aspiração a ideais que nunca são atingidos**.
 >- ##### Melancolia, solidão e morte
->  Vistos como **solução para todos os males**.
+>  Vistos como **solução para todos os males**. O romântico é **incompreendido** e **pessimista**, resultante do seu **idealismo**, cultivando o **sofrimento** e a **solidão**.
 >- ##### Intensidade dos sentimentos
->  Força do **amor** e e expressão expontânea de **sentimentos**.
->- ##### Ataque às crenças religiosas e ao poder absoluto
+>  Força do **amor**, vivido de forma **absoluta**, **exagerada** e **contraditória** (ideal inantigível), e e expressão expontânea de **sentimentos**.
+>- ##### Identidade, história e valores nacionais (patriotismo e Sebastianismo)
+>  Gosto pelas **tradições**, **folclore**, **Idade Média** e de tudo que é nacional.
+>- ##### Gosto pela natureza noturna
+>  A natureza é a **projeção do seu estado de alma** (tumultuoso e depressivo), sendo representada de forma invernosa, sombria, agreste, solitária e melancólica, traduzindo o **amor pela própria morte**.
 >  
 
 ## Biografia de Almeida Garrett
