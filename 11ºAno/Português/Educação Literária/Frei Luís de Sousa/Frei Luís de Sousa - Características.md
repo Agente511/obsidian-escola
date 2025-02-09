@@ -14,7 +14,7 @@
 > - **1836 - Separa-se de Luísa Midosi**
 > - **1837-1838 - É deputado nas Cortes Constituintes. Ajuda a redigir a Constituição de 1838.**
 > - 1840 - Torna-se crítico feroz do governo de Costa Cabral
-> - 1843 - 1ª representação de *Frei Luís de Sousa*
+> - 1843 - 1ª representação de *Frei Luís de Sousa*, em que representa Telmo Pais
 > - 1851 - Início da Regeneração
 > - 1852 - É ministro dos Negócios Estrangeiros e recebe o título de Visconde
 > - 1854 - Morre a 9 de dezembro.
