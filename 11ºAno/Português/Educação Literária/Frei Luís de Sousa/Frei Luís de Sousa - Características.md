@@ -148,12 +148,26 @@ Também a época em que foi escrita (**década de 1840**) é conturbada, com o *
 Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos de amor nacional** que esta realidade política desperta nas **personagens**:
 
 - **Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol.
-- A **destruição da família** representa a **decadência da pátria governada pelos espanhóis**.
-- A **oposição entre D. João e D. Manuel** representa a **oposição entre o Portugal velho e ultrapassado e o novo e atual** que se pretende.
 ### Sebastianismo
 É tratada também a **crença no regresso de D. Sebastião e de D. João de Portugal**, simbolicamente **ligados ao Portugal passado**.
-#### Factos históricos
-- **Batalha de Alcácer-Quibir** em 1578 e o **desaparecimento de D. Sebastião**
-- **Perda da independência de Portugal**
+Garrett retoma factos da história de Portugal e integra entidades ficcionais:
+- #### Factos históricos
+	- **Batalha de Alcácer-Quibir** em 1578 e o **desaparecimento de D. Sebastião**
+	- **Perda da independência de Portugal** e **União Ibérica** em 1580
+	- **Crenças populares** associadas ao **regresso do rei D. Sebastião**
+- #### Ficção
+	- **Desaparecimento de D. João de Portugal** na **Batalha de Alcácer-Quibir**
+	- **Buscas de Madalena pelo marido D. João**, durante 7 anos
+	- **Crenças sebastianistas de Telmo**, ligadas ao desejo de retorno do primeiro amo, e de **Maria**
+	- A **figura desejada pelos sebastianistas que regressa** (D. João) **não encontra lugar no presente**
+### Valor simbólico das personagens
+- **D. Sebastião** - esperança de recuperação da independência
+- **Camões** - grandeza pátria
+- **D. João** - pátria humilhada e cativa; velho Portugal presa na saudade ideia do passado
+- **D. Manuel** - patriotismo e nacionalismo; esperança de um novo Portugal
+- **Maria** - ideologias políticas sebastianistas do povo
+- **Destruição da família de Madalena e Manuel** - decadência da pátria, governada pelos espanhóis
+- **Oposição entre D. João e D. Manuel** - oposição entre o Portugal velho e ultrapassado e o novo e atual, respetivamente
+
 
 
