@@ -65,14 +65,20 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 >##### *Hybris* (desafio e transgressão da ordem instituída)>
 >- **Casamento de D. Madalena com Manuel de Sousa Coutinho**, sem a confirmação da morte do seu primeiro marido
 >- **Incêndio** do palácio de Manuel de Sousa Coutinho pelo próprio;
->##### Ágon (conflito interior ou entre personagens)
->- **D. Madalena** sente-se **culpada por amar Manuel** e vive aterrorizada com a ideia do regresso de D. João
+>##### *Ágon* (conflito interior ou entre personagens)
+>- **D. Madalena** sente-se **culpada por ter amado Manuel** quando ainda estava casada com D. João
 >- **Telmo** sente-se dividido entre o **amor por Maria** e a **fidelidade a D. João**, seu **antigo amo**.
->##### *Peripeteia* (peripécias e mudanças)
->- **D. João de Portugal**, primeiro marido de D. Madalena, **desaparece em Alcácer-Quibir**.
+>##### *Peripéteia* (peripécias e mudança súbita no rumo do acontecimento)
 >- **Chegada do romeiro**
->##### *Ananké* (destino)
->Responsável pela ausência e cativeiro de D. João de Portugal durante 21 anos e pela mudança da família de Manuel de Sousa Coutinho para o palácio de D. João de Portugal;
+>##### *Anagnórisis* (reconhecimento)
+>- **Identificação do romeiro como D. João**
+>##### *Ananké* (destino implacável)
+>O destino é responsável pela:
+>- **Ausência e cativeiro de D. João** durante **21 anos**
+>- **Mudança da família** para o **palácio de D. João**, pelo facto de os governadores espanhóis terem  escolhido a casa de Manuel de Sousa Coutinho para aí se instalarem, o que o leva a incendiá-la
+>##### *Pathos* (sofrimento das personagens)
+>- **D. Madalena** sente-se **culpada por ter amado Manuel** quando ainda estava casada com D. João
+>
 ### Drama
 ## Dimensão patriótica e a sua expressão simbólica
 A ação de *Frei Luís de Sousa* decorre no **fim do séc. XVI** e **início do séc. XVII**, quando **Portugal tinha perdido a independência** e estava **sob domínio de Espanha**.
