@@ -48,6 +48,8 @@ Do género dramático fazem parte a **tragédia**, **comédia** e **drama**.
 
 *Frei Luís de Sousa* é escrito em **prosa** (apesar do género dramático poder ser escrito em verso)
 
+É **dividido em atos** (determinado pela mudança de cenários) e **cenas** (determinado pela entrada e saída de personagens)
+
 Para além das **falas das personagens**, existem **didascálias** (indicações cénicas).
 
 No texto "Memória ao Conservatório Real", Garrett refere que apesar de considerar *Frei Luís de Sousa* um drama, este apresenta **características da tragédia clássica**
@@ -91,6 +93,7 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 >
 #### Indícios trágicos
 - A leitura dos versos de Camões referem-se ao **trágico fim dos amores de D. Inês de Castro** que, como D. Madalena, também vivia uma **felicidade aparente quando a desgraça se abateu**.
+- A **perda do retrato de Manuel**, **indicia o seu destino**
 - A **sexta-feira**, em que ocorrem os principais momentos da ação, é um **dia de azar**:
 	- **D. Madalena casou-se** a uma sexta-feira
 	- **D. Madalena viu Manuel pela primeira vez** a uma sexta-feira
@@ -106,7 +109,7 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 - O **3** é um **número da perfeição**.
 	- O **regresso de D. João**, acontece 21 anos (**7** $\times$ **3**) **depois da Batalha de Alcácer-Quibir**. É uma **fatalidade perfeita**.
 	- **3 elementos da família** são sujeitos à destruição
-	- Há **3 retratos** na sala dos retratos: D. João, D. Manuel e D. Sebastião
+	- Há **3 retratos** na sala dos retratos: D. João, D. Sebastião e Luís de Camões
 ### Drama romântico
 - Escrito em **prosa**
 - Assunto de **caráter histórico e nacional**, baseado numa situação real, o que reitera a preocupação de Garrett com a verdade e realidade dos acontecimentos
@@ -125,15 +128,9 @@ Também a época em que foi escrita (**década de 1840**) é conturbada, com o *
 ### Patriotismo
 Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos de amor nacional** que esta realidade política desperta nas **personagens**:
 
-**Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol.
+- **Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol.
+- A **destruição da família** representa a **decadência da pátria governada pelos espanhóis**.
+- A **oposição entre D. João e D. Manuel** representa a **oposição entre o Portugal velho e ultrapassado e o novo e atual** que se pretende.
 ### Sebastianismo
 
 
-
-onde pôr?
-A destruição da família representa a decadência da pátria
-governada pelos espanhóis.
-
-A oposição entre D. Manuel e D. João representa oposição
-entre o Portugal velho e ultrapassado e o novo e
-atual que se pretende.

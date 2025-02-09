@@ -114,20 +114,6 @@
             }
           },
           {
-            "id": "2e80e362f3ee7b0a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/1svoHwhUJyVW_mAABW10zKdUqjVYpGn_g/view",
-                "title": "Características trágicas.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Características trágicas.pdf - Google Drive"
-            }
-          },
-          {
             "id": "8030f5f0f21a0902",
             "type": "leaf",
             "state": {
@@ -155,8 +141,7 @@
               "title": "Frei Luís de Sousa- Tragédia e Drama.pdf - Google Drive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -332,7 +317,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ed4d7de621fea90",
+  "active": "4df69af9eb33133a",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
