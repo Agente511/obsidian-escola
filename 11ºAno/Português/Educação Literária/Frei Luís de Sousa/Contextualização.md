@@ -5,14 +5,19 @@ O romantismo está ligado diretamente ao liberalismo, porque **Almeida Garrett e
 
 >[!Example] Características do romantismo
 >- ##### Individualismo egocêntrico
->  **Confessionalismo**, **subjetivismo** e expressão expontânea de **sentimentos**.
+>  **Confessionalismo** e **subjetivismo**.
 >- ##### Idealismo
->  Valoriza-se o **sonho**, o **[^1]desvaneio** e a **aspiração a ideais que nunca são atingidos**.
+>  Valoriza-se o **sonho**, o **desvaneio** e a **aspiração a ideais que nunca são atingidos**.
 >- ##### Inadaptação social
->  **Rebeldia e desprezo às regras estabelecidas**, mantendo uma atitude de 
+>  **Rebeldia e desprezo às regras estabelecidas**.
 >- ##### Culto da liberdade
->- ##### Melancolia
+>  Privilegia a **liberdade** como **valor máximo**.
+>- ##### Melancolia, solidão e morte
+>  Vistos como **solução para todos os males**.
+>- ##### Intensidade dos sentimentos
+>  Força do **amor** e e expressão expontânea de **sentimentos**.
 >- ##### Ataque às crenças religiosas e ao poder absoluto
+>  
 
 ## Biografia de Almeida Garrett
 ## Dimensão patriótica e a sua expressão simbólica
@@ -23,5 +28,3 @@ Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos 
 
 **Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol.
 ### Sebastianismo
-
-[^1]: fantasia
