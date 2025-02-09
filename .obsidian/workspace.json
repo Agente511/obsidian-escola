@@ -142,20 +142,6 @@
             }
           },
           {
-            "id": "ca42cdf9cc167efd",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/17P39zsDL2wGbYf-91VSKSS7nnup0vAJi/view",
-                "title": "Frei Luís de Sousa- Tragédia e Drama.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Frei Luís de Sousa- Tragédia e Drama.pdf - Google Drive"
-            }
-          },
-          {
             "id": "8030f5f0f21a0902",
             "type": "leaf",
             "state": {
@@ -167,6 +153,20 @@
               },
               "icon": "globe-2",
               "title": "Ideologia romântica e intenção pedagógica.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "ca42cdf9cc167efd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/17P39zsDL2wGbYf-91VSKSS7nnup0vAJi/view",
+                "title": "Frei Luís de Sousa- Tragédia e Drama.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Frei Luís de Sousa- Tragédia e Drama.pdf - Google Drive"
             }
           }
         ],
@@ -346,7 +346,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5c6751793d3afed",
+  "active": "4ed4d7de621fea90",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
