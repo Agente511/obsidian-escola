@@ -91,7 +91,8 @@
               "title": "contestatário - Dicionário Online Priberam de Português"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,7 +268,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ed4d7de621fea90",
+  "active": "4df69af9eb33133a",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo.md",

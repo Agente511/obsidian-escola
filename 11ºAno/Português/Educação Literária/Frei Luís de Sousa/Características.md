@@ -5,11 +5,14 @@
 - Seguidor dos **ideais liberais**.
 - **Hábil orador**, com tendência para a **teatralidade dos gestos** e para a **exaltação**.
 - Assume-se como **poeta** (além de dramaturgo e escritor) **genial e perseguido**, à **semelhança de Camões**.
-- 
+- Dado ao **prazer**
+- **Exuberante** em relação aos **sentimentos**
+- **Egocentrista**
+- **Dândi** (preocupado e cuidadoso com a sua **aparência física**)
 ## Contextualização histórico-literária
 1799 
 ### Romantismo
-Desenvolveu-se na Europa (Inglaterra, Alemanha), mas rapidamente se proliferou para o restou do mundo. Séc. XVIII-XIX.
+Desenvolveu-se na Europa (Inglaterra, Alemanha), mas rapidamente se proliferou para o restou do mundo. Séc. XVIII-XIX. Opõe-se ao **iluminismo** do séc. XVIII (por isso chamado **século das luzes)**, que se **focava na razão e ideias**.
 
 Está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** e, **após voltar do exílio**, trouxe consigo os ideais deste novo movimento estético-literário que introduziu em Portugal (tal como Herculano).
 
