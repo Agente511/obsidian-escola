@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato III/Cena I.md",
+                "file": "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cena I"
+              "title": "Resumo e personagens"
             }
           },
           {
@@ -28,14 +28,15 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Frei Luís de Sousa - Características"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ed4d7de621fea90",
+  "active": "ad8013633049713f",
   "lastOpenFiles": [
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato II/Cena I.md",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato III/Cena I.md",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato II/Cena I.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato III/Cena II.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato II/Cena II.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato II/Cena III.md",
@@ -222,8 +225,6 @@
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato I/Cena V.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato I/Cena III.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato I/Cena IV.md",
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "Sem título.md",
     "Pasted image 20250209182253.png",
