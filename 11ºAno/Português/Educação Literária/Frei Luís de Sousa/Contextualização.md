@@ -1,6 +1,7 @@
 ## Contextualização histórico-literária
 1799 
 ### Romantismo
+O romantismo está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** e, **após voltar do exílio**, .
 
 ## Biografia de Almeida Garrett
 ## Dimensão patriótica e a sua expressão simbólica
