@@ -43,7 +43,12 @@ Está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** 
 >  >[!Info] Comparação com o classicismo
 >  >Associado à arte grega.
 
-## Género literário
+## Género dramático
+Do género dramático fazem parte a **tragédia**, **comédia** e **drama**.
+
+*Frei Luís de Sousa* é escrito em **prosa** (apesar do género dramático poder ser escrito em verso)
+
+Para além das **falas das personagens**, existem **didascálias** (indicações cénicas).
 ### Tragédia
 ### Drama
 ## Dimensão patriótica e a sua expressão simbólica
@@ -52,5 +57,11 @@ Também a época em que foi escrita (**década de 1840**) é conturbada, com o *
 ### Patriotismo
 Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos de amor nacional** que esta realidade política desperta nas **personagens**:
 
-**Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol.
+**Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol
+A família pode ser vista como a unidade da pátria, a
+destruição da família é a destruição da pátria
+governada pelos estrangeiros.
+• Oposição entre D. Manuel e D. João → oposição
+entre o Portugal velho e ultrapassado e o novo e
+atual que se pretende (D. Manuel).
 ### Sebastianismo

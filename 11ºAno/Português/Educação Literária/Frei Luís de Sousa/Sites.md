@@ -6,8 +6,8 @@
 - https://drive.google.com/file/d/1G0-pJ6fvIPSKrlIyTkRRzlv6w5Ahg_PG/view
 - https://drive.google.com/file/d/15ANKOXYcmph4HolXtRZ8RaZ3Xal8OKWe/view
 ### Romantismo
-- https://drive.google.com/file/d/1SoHyGDUGT4ZutFPMCJB1Z0qEeFPPObVg/view (com história)
-- https://drive.google.com/file/d/1NbThFLdPuiDfQYXb4ESMH_Ce9p5Iz5lu/view
+- /https://drive.google.com/file/d/1SoHyGDUGT4ZutFPMCJB1Z0qEeFPPObVg/view (com história) - ignorei
+- /https://drive.google.com/file/d/1NbThFLdPuiDfQYXb4ESMH_Ce9p5Iz5lu/view - ignorei
 ### Tragédia
 - https://drive.google.com/file/d/1svoHwhUJyVW_mAABW10zKdUqjVYpGn_g/view
 - https://drive.google.com/file/d/1jsEPfTqcaDJe-7_tNHyuSkaHYSt_SSzv/view
