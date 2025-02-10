@@ -168,7 +168,7 @@ Por consequente, o **patriotismo** é um dos temas da obra, pelos **sentimentos 
 
 - **Manuel de Sousa Coutinho** **ateia um incêndio ao próprio palácio** como forma de resistência ao domínio espanhol.
 ### Sebastianismo
-É tratada também a **crença no regresso de D. Sebastião e de D. João de Portugal**, simbolicamente **ligados ao Portugal passado**.
+É tratada também a **crença no regresso de D. Sebastião (e de D. João de Portugal)**, simbolicamente **ligados ao Portugal passado**.
 Garrett retoma factos da história de Portugal e integra entidades ficcionais:
 - #### Factos históricos
 	- **Batalha de Alcácer-Quibir** em 1578 e o **desaparecimento de D. Sebastião**
@@ -177,12 +177,12 @@ Garrett retoma factos da história de Portugal e integra entidades ficcionais:
 - #### Ficção
 	- **Desaparecimento de D. João de Portugal** na **Batalha de Alcácer-Quibir**
 	- **Buscas de Madalena pelo marido D. João**, durante 7 anos
-	- **Crenças sebastianistas de Telmo**, ligadas ao desejo de retorno do primeiro amo, e de **Maria**
+	- **Crenças sebastianistas de Telmo**, ligadas ao desejo de retorno do primeiro amo, e de **Maria**, influenciada por Telmo
 	- Garrett retrata **negativamente e criticamente o sebastianismo**, através das consequências do regresso de D. João que alude simbolicamente a D. Sebastião. A **saudade do velho Portugal não resolve o problema da pátria** e **impossibilita o surgimento de um novo Portugal** que conseguiria triunfar.
 ### Valor simbólico das personagens
 - **D. Sebastião** - esperança de recuperação da independência
 - **Camões** - grandeza pátria
-- **D. João** - pátria humilhada e cativa; velho Portugal presa na saudade ideia do passado
+- **D. João** - pátria humilhada e cativa; velho Portugal preso na saudade e na ideia do passado
 - **D. Manuel** - patriotismo e nacionalismo; esperança de um novo Portugal
 - **Maria** - ideologias políticas sebastianistas do povo
 - **Destruição da família de Madalena e Manuel** - decadência da pátria, governada pelos espanhóis
