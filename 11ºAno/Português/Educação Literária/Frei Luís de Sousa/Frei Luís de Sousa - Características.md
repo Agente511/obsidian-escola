@@ -32,7 +32,7 @@
 ![[Pasted image 20250209182253.png]]
 ## Contextualização histórico-literária
 ### Romantismo
-Desenvolveu-se na Europa (Inglaterra, Alemanha), mas rapidamente se proliferou para o restou do mundo. Séc. XVIII-XIX. Opõe-se ao **iluminismo** do séc. XVIII (por isso chamado **século das luzes)**, que se **focava na razão e ideias**.
+Desenvolveu-se na Europa (Inglaterra, Alemanha), mas rapidamente se proliferou para o resto do mundo. Séc. XVIII-XIX. Opõe-se ao **iluminismo** do séc. XVIII (por isso chamado **século das luzes)**, que se **focava na razão e ideias**.
 
 Está ligado diretamente ao liberalismo, porque **Almeida Garrett era liberal** e, **após voltar do exílio**, trouxe consigo os ideais deste novo movimento estético-literário que introduziu em Portugal (tal como Herculano).
 
@@ -94,7 +94,7 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 
 
 >[!Example] Elementos da tragédia clássica
->##### *Hybris* (desafio e transgressão da ordem instituída)>
+>##### *Hybris* (desafio e transgressão da ordem instituída)
 >- **Casamento de D. Madalena com Manuel de Sousa Coutinho**, sem a confirmação da morte do seu primeiro marido
 >- **Incêndio** do palácio de Manuel de Sousa Coutinho pelo próprio;
 >##### *Ágon* (conflito interior)
@@ -115,7 +115,7 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 >- As personagens sofrem devido à **dissolução da família**
 >##### *Clímax* (aumento da tensão emocional)
 >A tensão vai **aumentando gradualmente** até ao momento de maior tensão, no final do segundo ato, com o **reconhecimento do Romeiro**.
->##### *Katastrophé* (desenlace)
+>##### *Katastrophé* (desenlace e catástrofe)
 >- **Separação** e **morte para o mundo** do **casal**
 >- **Morte de Maria**
 >- **Desgosto de Telmo**
