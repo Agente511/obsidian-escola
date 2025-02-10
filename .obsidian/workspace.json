@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
+                "file": "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D2 3. Ciclos de Vida"
+              "title": "D3 1. Unicelularidade e Multicelularidade"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
+                "file": "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para D2 3. Ciclos de Vida"
+              "title": "Backlinks para D3 1. Unicelularidade e Multicelularidade"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
+                "file": "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de D2 3. Ciclos de Vida"
+              "title": "Links externos de D3 1. Unicelularidade e Multicelularidade"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
+                "file": "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de D2 3. Ciclos de Vida"
+              "title": "Índice de D3 1. Unicelularidade e Multicelularidade"
             }
           }
         ],
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b653fdec9585883",
+  "active": "d420ececc5841c40",
   "lastOpenFiles": [
+    "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "11ºAno/Biologia/Sem título.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição",
@@ -218,7 +220,6 @@
     "gitignore.txt",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato I/Cena II.md",
     "11ºAno/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Capítulo II - Exposição e Confirmação (Estrutura e Louvores aos peixes, em geral).md",
-    "Joana CO.md",
     "9ºAno/Português/Exame Nacional 9ºAno/Gramática",
     "9ºAno/Português/Exame Nacional 9ºAno/Auto da Barca do Inferno",
     "9ºAno/Português/Exame Nacional 9ºAno",
