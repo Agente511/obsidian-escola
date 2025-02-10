@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,13 +168,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35c289993ac37b16",
+  "active": "61603dedb3028ba4",
   "lastOpenFiles": [
-    "11ºAno/Biologia/Sem título.md",
-    "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
-    "Pasted image 20250210225341.png",
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
+    "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
+    "11ºAno/Biologia/Sem título.md",
+    "Sem título.md",
+    "Imagens/Pasted image 20250209181914.png",
+    "Imagens/Pasted image 20250209181939.png",
+    "Imagens/Pasted image 20250210225341.png",
+    "Imagens/Pasted image 20250209182135.png",
+    "Imagens/Pasted image 20250209182253.png",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
@@ -186,11 +192,6 @@
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato I/Cena V.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato I/Cena III.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Ato I/Cena IV.md",
-    "Sem título.md",
-    "Pasted image 20250209182253.png",
-    "Pasted image 20250209182135.png",
-    "Pasted image 20250209181939.png",
-    "Pasted image 20250209181914.png",
     "olá.md",
     "repo/olá.md",
     "repo",
