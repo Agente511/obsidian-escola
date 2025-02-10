@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb2d081595ac158b",
+        "id": "04de074cedd00e90",
         "type": "tabs",
         "children": [
           {
-            "id": "1e285b43e45774d2",
+            "id": "61603dedb3028ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +167,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e285b43e45774d2",
+  "active": "35c289993ac37b16",
   "lastOpenFiles": [
-    "Pasted image 20250210225341.png",
+    "11ºAno/Biologia/Sem título.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
+    "Pasted image 20250210225341.png",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
-    "11ºAno/Biologia/Sem título.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
@@ -215,7 +214,6 @@
     "publish/attachments/vercel-project-id.png",
     "publish/attachments/vercel-create-token.png",
     "publish/attachments/vercel-account-id.png",
-    "publish/attachments/disconnect-repo-vercel.png",
     "Sem título.canvas"
   ]
 }
