@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61603dedb3028ba4",
+  "active": "35c289993ac37b16",
   "lastOpenFiles": [
     "Sem título 1.md",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
