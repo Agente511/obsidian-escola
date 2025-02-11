@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fdf836fa2871a56",
+            "id": "fe265ab09fa5a522",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "D3 2. Mecanismos de Evolução"
-            }
-          },
-          {
-            "id": "fe265ab09fa5a522",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcrCtt28FWS7BW84ojaM6ajtZUtQE2bXWcNGxJhUTl1diTjbgSsP-lQJOl_HLDp7ELi9jsCbOcj20atrTOrgFftc2gVm6JgzkWjFsFAR_AU44sG4xi-TlmQC31z4L9wxOn7bax0HQ=s2048?key=4XtiILybCroGfveEqoZx3mR6",
-                "title": "AGV_vUcrCtt28FWS7BW84ojaM6ajtZUtQE2bXWcNGxJhUTl1diTjbgSsP-lQJOl_HLDp7ELi9jsCbOcj20atrTOrgFftc2gVm6JgzkWjFsFAR_AU44sG4xi-TlmQC31z4L9wxOn7bax0HQ=s2048 (1462×857)",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AGV_vUcrCtt28FWS7BW84ojaM6ajtZUtQE2bXWcNGxJhUTl1diTjbgSsP-lQJOl_HLDp7ELi9jsCbOcj20atrTOrgFftc2gVm6JgzkWjFsFAR_AU44sG4xi-TlmQC31z4L9wxOn7bax0HQ=s2048 (1462×857)"
             }
           }
         ]
@@ -88,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fdf836fa2871a56",
+  "active": "fe265ab09fa5a522",
   "lastOpenFiles": [
-    "Pasted image 20250211202639.png",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+    "Pasted image 20250211202639.png",
     "Pasted image 20250211200415.png",
     "Pasted image 20250211195448.png",
     "Pasted image 20250211194722.png",
@@ -233,7 +218,6 @@
     "11ºAno/Biologia/D2 1. Reprodução Assexuada.md",
     "11ºAno/Biologia/D2 2. Reprodução Sexuada.md",
     "Pasted image 20250210231640.png",
-    "Imagens/Pasted image 20250209181914.png",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
