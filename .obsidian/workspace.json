@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "D3 2. Mecanismos de Evolução"
             }
+          },
+          {
+            "id": "55326d2fa6e29979",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUejfKj3yJXN_gC3ECQitiB8tZRaA1Khvvn2Xw1k3QySnt1BvQAFM92QsXxeJdQd2jDzMViwQum4CZDGoVmpB56p_DaG8n-yuZZEvhgBgXHX0p3H9vxHvmQtbBd3bryEgb_DJdsVag=s2048?key=4XtiILybCroGfveEqoZx3mR6",
+                "title": "AGV_vUejfKj3yJXN_gC3ECQitiB8tZRaA1Khvvn2Xw1k3QySnt1BvQAFM92QsXxeJdQd2jDzMViwQum4CZDGoVmpB56p_DaG8n-yuZZEvhgBgXHX0p3H9vxHvmQtbBd3bryEgb_DJdsVag=s2048 (587×872)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUejfKj3yJXN_gC3ECQitiB8tZRaA1Khvvn2Xw1k3QySnt1BvQAFM92QsXxeJdQd2jDzMViwQum4CZDGoVmpB56p_DaG8n-yuZZEvhgBgXHX0p3H9vxHvmQtbBd3bryEgb_DJdsVag=s2048 (587×872)"
+            }
           }
         ]
       }
@@ -199,9 +213,11 @@
   },
   "active": "3fdf836fa2871a56",
   "lastOpenFiles": [
+    "Pasted image 20250211093807.png",
+    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+    "Pasted image 20250211093326.png",
     "Sem título.md",
     "Sem título 1.md",
-    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "11ºAno/Biologia/D1 2.4 Crescimento e Diferenciação celular.md",
     "11ºAno/Biologia/D2 1. Reprodução Assexuada.md",
@@ -233,7 +249,6 @@
     "10ºAno/Biologia/Membrana celular na obtenção de matéria.md",
     "10ºAno/Biologia/Constituintes básicos da célula.md",
     "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md",
-    "11ºAno/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
     "repo/obsidian-escola",
     "gitignore.txt",
     "9ºAno/Português/Exame Nacional 9ºAno/Gramática",
@@ -244,7 +259,6 @@
     "publish/attachments/publish-dir-yml.png",
     "publish/attachments/how-linked-blog-starter-works.png",
     "publish/attachments/vercel-project-id.png",
-    "publish/attachments/vercel-create-token.png",
     "Sem título.canvas"
   ]
 }
