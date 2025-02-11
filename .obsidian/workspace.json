@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "D3 2. Mecanismos de Evolução"
             }
-          },
-          {
-            "id": "60c770126bfa152e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUe-o6TxHcFNFs8Y7SyF_VjBDuccCJQ9knfXGwZzrDfkhvRdLEd0x-VaGgewkqgJkXZdDfthsSOb5bGiNJurO0C717E0obIp5LYr4iduGWbHZcM_tUaPOaIxojDqCABp48dQh5BJ=s2048?key=4XtiILybCroGfveEqoZx3mR6",
-                "title": "AGV_vUe-o6TxHcFNFs8Y7SyF_VjBDuccCJQ9knfXGwZzrDfkhvRdLEd0x-VaGgewkqgJkXZdDfthsSOb5bGiNJurO0C717E0obIp5LYr4iduGWbHZcM_tUaPOaIxojDqCABp48dQh5BJ=s2048 (1048×868)",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AGV_vUe-o6TxHcFNFs8Y7SyF_VjBDuccCJQ9knfXGwZzrDfkhvRdLEd0x-VaGgewkqgJkXZdDfthsSOb5bGiNJurO0C717E0obIp5LYr4iduGWbHZcM_tUaPOaIxojDqCABp48dQh5BJ=s2048 (1048×868)"
-            }
           }
         ]
       }
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Volume\"]",
+                "query": "aerób",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,8 +200,9 @@
   },
   "active": "3fdf836fa2871a56",
   "lastOpenFiles": [
-    "Pasted image 20250211183134.png",
+    "10ºAno/Biologia/Obtenção de energia.md",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+    "Pasted image 20250211183134.png",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
     "Pasted image 20250211093807.png",
@@ -258,7 +246,6 @@
     "9ºAno/Matemática/Exame Nacional 9ºAno",
     "9ºAno/Português",
     "publish/attachments/publish-dir-yml.png",
-    "publish/attachments/how-linked-blog-starter-works.png",
     "Sem título.canvas"
   ]
 }

@@ -40,12 +40,11 @@ Se o acetor final for uma **molécula** que **deriva do substrato inicial** e é
 
 Apesar de diversos **compostos orgânicos** poderem ser utilizadas como **fontes de energia**, a **glicose é a mais comum**, visto que a maioria dos organismo, tanto procariontes como eucariontes, tem a **capacidade de produzir energia oxidando glicose**.
 ## Respiração aeróbia
----
 Na **presença de oxigénio**, diversos organismos realizam respiração aeróbia.
 
 Este processo permite obter um **elevado rendimento energético**, uma vez que ocorre a **oxidação completa da glicose**.
 
->[!Example] **Etapas da respiração aeróbia**
+>[!Example] Etapas da respiração aeróbia
 >1. Glicólise
 >2. Formação de Acetil Coenzima A / Oxidação do piruvato
 >3. Ciclo de Krebs / Ciclo do ácido cítrico
@@ -55,7 +54,7 @@ Este processo permite obter um **elevado rendimento energético**, uma vez que o
 ### Glicólise
 Ocorre no citoplasma das células, mais especificamente no **hialoplasma**.
 
->[!Example] **Fases da glicólise**
+>[!Example] Fases da glicólise
 >1. #### Fase de investimento energético
 >   / Fase preparatória / Fase de ativação
 >   - São **consumidas 2 moléculas de ATP** na fosforilação da glicose
