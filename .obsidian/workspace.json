@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61603dedb3028ba4",
+            "id": "3fdf836fa2871a56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "D3 2. Mecanismos de Evolução"
-            }
-          },
-          {
-            "id": "3fdf836fa2871a56",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdu7UklRnLQN78pgcWeewxcHBC6Nc2l_mZNM-vDMMtUFqQbfgTGA65-2Hq2fbAM5Ci9tDoV8Mk4Ch39rkDAZZAKfWjeqF29-Ewqp0SduDzn3-Y6TzJBNGDq-Vq9UZ03SaCoiV0sBw=s2048?key=eRlSt1bXm5MWfk9W4KRQvuNB",
-                "title": "AGV_vUdu7UklRnLQN78pgcWeewxcHBC6Nc2l_mZNM-vDMMtUFqQbfgTGA65-2Hq2fbAM5Ci9tDoV8Mk4Ch39rkDAZZAKfWjeqF29-Ewqp0SduDzn3-Y6TzJBNGDq-Vq9UZ03SaCoiV0sBw=s2048 (1512×648)",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AGV_vUdu7UklRnLQN78pgcWeewxcHBC6Nc2l_mZNM-vDMMtUFqQbfgTGA65-2Hq2fbAM5Ci9tDoV8Mk4Ch39rkDAZZAKfWjeqF29-Ewqp0SduDzn3-Y6TzJBNGDq-Vq9UZ03SaCoiV0sBw=s2048 (1512×648)"
             }
           }
         ]
@@ -159,13 +145,43 @@
               "icon": "lucide-list",
               "title": "Índice de D3 2. Mecanismos de Evolução"
             }
+          },
+          {
+            "id": "da545983c8911796",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc6801e28b0277ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35c289993ac37b16",
+  "active": "3fdf836fa2871a56",
   "lastOpenFiles": [
+    "Sem título.md",
     "Sem título 1.md",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
@@ -191,7 +208,6 @@
     "11ºAno/Biologia/D2 2. Reprodução Sexuada.md",
     "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
     "Pasted image 20250210231640.png",
-    "Sem título.md",
     "Imagens/Pasted image 20250209181914.png",
     "Imagens/Pasted image 20250209181939.png",
     "Imagens/Pasted image 20250210225341.png",
