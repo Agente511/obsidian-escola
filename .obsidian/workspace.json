@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "321a02f4f45e98a0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcBGgcbnxK6AmTagU7w9rwsMHZ8iT-T9sk2CiMBwto_aRMMmu2_fVq-CXdIJqUuZ5oV5LJFZ0hjmqihbdqqDObsuw_xMp1vQU2RAANx8QFylp7JINVeIxE-b5A1PB50pjHlf4MWzA=s2048?key=QDhoA6IHOpiySKKRdnEUFr-S",
+                "title": "AGV_vUcBGgcbnxK6AmTagU7w9rwsMHZ8iT-T9sk2CiMBwto_aRMMmu2_fVq-CXdIJqUuZ5oV5LJFZ0hjmqihbdqqDObsuw_xMp1vQU2RAANx8QFylp7JINVeIxE-b5A1PB50pjHlf4MWzA=s2048 (1165×824)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUcBGgcbnxK6AmTagU7w9rwsMHZ8iT-T9sk2CiMBwto_aRMMmu2_fVq-CXdIJqUuZ5oV5LJFZ0hjmqihbdqqDObsuw_xMp1vQU2RAANx8QFylp7JINVeIxE-b5A1PB50pjHlf4MWzA=s2048 (1165×824)"
+            }
+          },
+          {
             "id": "f730d9ce4be01f46",
             "type": "leaf",
             "state": {
@@ -47,6 +61,19 @@
               },
               "icon": "lucide-file",
               "title": "D3 1. Unicelularidade e Multicelularidade"
+            }
+          },
+          {
+            "id": "277fb959f63200eb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "about:blank",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "New web viewer"
             }
           }
         ]
@@ -227,10 +254,11 @@
   },
   "active": "fe265ab09fa5a522",
   "lastOpenFiles": [
-    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+    "Pasted image 20250211224351.png",
     "11ºAno/Biologia/D4 1. Sistemas de classificação e regras de nomenclatura.md",
-    "Pasted image 20250211223049.png",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
+    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+    "Pasted image 20250211223049.png",
     "11ºAno/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
     "11ºAno/Biologia/D2 2. Reprodução Sexuada.md",
     "Pasted image 20250211221817.png",
