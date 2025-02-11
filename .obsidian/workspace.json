@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "D3 2. Mecanismos de Evolução"
             }
-          },
-          {
-            "id": "55326d2fa6e29979",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUejfKj3yJXN_gC3ECQitiB8tZRaA1Khvvn2Xw1k3QySnt1BvQAFM92QsXxeJdQd2jDzMViwQum4CZDGoVmpB56p_DaG8n-yuZZEvhgBgXHX0p3H9vxHvmQtbBd3bryEgb_DJdsVag=s2048?key=4XtiILybCroGfveEqoZx3mR6",
-                "title": "AGV_vUejfKj3yJXN_gC3ECQitiB8tZRaA1Khvvn2Xw1k3QySnt1BvQAFM92QsXxeJdQd2jDzMViwQum4CZDGoVmpB56p_DaG8n-yuZZEvhgBgXHX0p3H9vxHvmQtbBd3bryEgb_DJdsVag=s2048 (587×872)",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AGV_vUejfKj3yJXN_gC3ECQitiB8tZRaA1Khvvn2Xw1k3QySnt1BvQAFM92QsXxeJdQd2jDzMViwQum4CZDGoVmpB56p_DaG8n-yuZZEvhgBgXHX0p3H9vxHvmQtbBd3bryEgb_DJdsVag=s2048 (587×872)"
-            }
           }
         ]
       }
@@ -213,8 +199,9 @@
   },
   "active": "3fdf836fa2871a56",
   "lastOpenFiles": [
-    "Pasted image 20250211093807.png",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+    "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
+    "Pasted image 20250211093807.png",
     "Pasted image 20250211093326.png",
     "Sem título.md",
     "Sem título 1.md",
@@ -222,7 +209,6 @@
     "11ºAno/Biologia/D1 2.4 Crescimento e Diferenciação celular.md",
     "11ºAno/Biologia/D2 1. Reprodução Assexuada.md",
     "11ºAno/Biologia/D2 2. Reprodução Sexuada.md",
-    "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
     "Pasted image 20250210231640.png",
     "Imagens/Pasted image 20250209181914.png",
     "Imagens/Pasted image 20250209181939.png",
@@ -258,7 +244,6 @@
     "9ºAno/Português",
     "publish/attachments/publish-dir-yml.png",
     "publish/attachments/how-linked-blog-starter-works.png",
-    "publish/attachments/vercel-project-id.png",
     "Sem título.canvas"
   ]
 }
