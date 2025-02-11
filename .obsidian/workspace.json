@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "D2 2. Reprodução Sexuada"
             }
+          },
+          {
+            "id": "8a0cf4ed5070a427",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ]
       }
@@ -67,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crossing over",
+                "query": "\"alelos\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +98,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,8 +223,8 @@
   },
   "active": "fe265ab09fa5a522",
   "lastOpenFiles": [
-    "11ºAno/Biologia/D2 2. Reprodução Sexuada.md",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+    "11ºAno/Biologia/D2 2. Reprodução Sexuada.md",
     "Pasted image 20250211202639.png",
     "Pasted image 20250211200415.png",
     "Pasted image 20250211195448.png",
