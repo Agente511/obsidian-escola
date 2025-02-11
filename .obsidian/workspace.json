@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "D3 2. Mecanismos de Evolução"
             }
+          },
+          {
+            "id": "2409d38cf0664fbc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdwu6bbrjJT9gxxPGRDTTrz83IIGXLsFdMgHUiSn45-TnUadUqwtF7N72-bUIlZAvnND33ivRNyKYtGn5FByPckgww8oAMhUtETtEEp0VHnn8xr0TBkq4eo-XH2F1XuBxLzqQSRuA=s2048?key=4XtiILybCroGfveEqoZx3mR6",
+                "title": "AGV_vUdwu6bbrjJT9gxxPGRDTTrz83IIGXLsFdMgHUiSn45-TnUadUqwtF7N72-bUIlZAvnND33ivRNyKYtGn5FByPckgww8oAMhUtETtEEp0VHnn8xr0TBkq4eo-XH2F1XuBxLzqQSRuA=s2048 (1403×883)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUdwu6bbrjJT9gxxPGRDTTrz83IIGXLsFdMgHUiSn45-TnUadUqwtF7N72-bUIlZAvnND33ivRNyKYtGn5FByPckgww8oAMhUtETtEEp0VHnn8xr0TBkq4eo-XH2F1XuBxLzqQSRuA=s2048 (1403×883)"
+            }
+          },
+          {
+            "id": "3c0e29b414ef9e43",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUci4FDCZVqKDvRM05PVhqmXn1Q2lJi0Xh6eCI8pg0X9CSkqVyO1XYhQWMo8qJrX096qtgqSYMqy2XlzWhQbGIiJw0jq4jVDgDc2EIObKSQOJcuKPExM6QWCvQ9_cxanqb450dNZSA=s2048?key=4XtiILybCroGfveEqoZx3mR6",
+                "title": "AGV_vUci4FDCZVqKDvRM05PVhqmXn1Q2lJi0Xh6eCI8pg0X9CSkqVyO1XYhQWMo8qJrX096qtgqSYMqy2XlzWhQbGIiJw0jq4jVDgDc2EIObKSQOJcuKPExM6QWCvQ9_cxanqb450dNZSA=s2048 (1011×618)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUci4FDCZVqKDvRM05PVhqmXn1Q2lJi0Xh6eCI8pg0X9CSkqVyO1XYhQWMo8qJrX096qtgqSYMqy2XlzWhQbGIiJw0jq4jVDgDc2EIObKSQOJcuKPExM6QWCvQ9_cxanqb450dNZSA=s2048 (1011×618)"
+            }
           }
         ]
       }
@@ -200,8 +228,10 @@
   },
   "active": "3fdf836fa2871a56",
   "lastOpenFiles": [
-    "10ºAno/Biologia/Obtenção de energia.md",
+    "Pasted image 20250211192812.png",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+    "Pasted image 20250211191835.png",
+    "10ºAno/Biologia/Obtenção de energia.md",
     "Pasted image 20250211183134.png",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
@@ -237,7 +267,6 @@
     "Nova pasta",
     "10ºAno/Biologia/Membrana celular na obtenção de matéria.md",
     "10ºAno/Biologia/Constituintes básicos da célula.md",
-    "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md",
     "repo/obsidian-escola",
     "gitignore.txt",
     "9ºAno/Português/Exame Nacional 9ºAno/Gramática",
@@ -245,7 +274,6 @@
     "9ºAno/Português/Exame Nacional 9ºAno",
     "9ºAno/Matemática/Exame Nacional 9ºAno",
     "9ºAno/Português",
-    "publish/attachments/publish-dir-yml.png",
     "Sem título.canvas"
   ]
 }
