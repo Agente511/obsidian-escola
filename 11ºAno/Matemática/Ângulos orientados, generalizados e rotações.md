@@ -11,7 +11,7 @@ Um ângulo orientado tem uma amplitude, diferente de zero, estritamente compreen
 ![[Pasted image 20241015203357.png]]
 ## Ângulo generalizado (ou ângulo trigonométrico)
 Chama-se ângulo generalizado ao par ordenado ($\alpha,k$), em que **$a$ é um ângulo orientado** e **$k$ é um número inteiro** com **sinal positivo ou negativo, consoante a orientação** do ângulo.
-![[Pasted image 20241015205213.png]] $462º=42º+2\times360º \longrightarrow (300º,2)$ 
+![[Pasted image 20241015205213.png]] $762º=42º+2\times360º \longrightarrow (42º,2)$ 
 >[!Note] Exemplo
 >1. $450º=-90º-360º=(-90º,-1)$
 >2. $1080º= 3\times360º=(0º,3)$
