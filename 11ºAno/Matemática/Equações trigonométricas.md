@@ -132,7 +132,7 @@ Não definida.
 >
 >$$\begin{flalign}& \ \ \ \ \ \ \ \ \ \ \tan^2(\frac x 3)-\sqrt 3 \tan(\frac x 3)=0 &\end{flalign}$$
 >$$\begin{flalign}& \iff \tan(\frac x 3) [\tan(\frac x 3)-\sqrt 3]=0 &\end{flalign}$$
->$$\begin{flalign}& \iff \tan(\frac x 3)=0 \lor \tan(\frac x 3)-\sqrt 3, k\in \mathbb Z &\end{flalign}$$
+>$$\begin{flalign}& \iff \tan(\frac x 3)=0 \lor \tan(\frac x 3)-\sqrt 3=0, k\in \mathbb Z &\end{flalign}$$
 >$$\begin{flalign}& \iff \frac x 3= k\pi \lor \tan (\frac x 3)=\sqrt 3, k\in \mathbb Z &\end{flalign}$$
 >$$\begin{flalign}& \iff x=3k\pi \lor \frac x 3 = \frac \pi 3 +k\pi, k\in \mathbb Z &\end{flalign}$$
 >$$\begin{flalign}& \iff x= 3k\pi \lor x= \pi +3k\pi, k\in \mathbb Z&\end{flalign}$$
