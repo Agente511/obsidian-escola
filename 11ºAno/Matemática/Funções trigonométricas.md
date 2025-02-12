@@ -74,8 +74,8 @@ Logo, o **gráfico é simétrico em relação a $Oy$**.
 Período positivo mínimo é $2\pi$.
 $\cos(2\pi+x)=\cos(x)$
 >[!Note] Exemplos
->$f(x)=1+\cos(x)$
->  $D_f=[-\frac \pi 2, \frac {2\pi} 3$
+>$f(x)=\cos(x)$
+>  $D_f=[-\frac \pi 2, \frac {2\pi} 3]$
 >Determina o contradomínio de $f$ 
 >  
 >  $$\begin{flalign}& \ \ \ \ \ \ \ \ \ \ f(-\frac \pi 2)=\cos(-\frac \pi 2)=0 &\end{flalign}$$
