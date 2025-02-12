@@ -86,8 +86,8 @@ $$\begin{flalign}& \iff x=\frac \pi 2 + k\pi, k\in \mathbb Z &\end{flalign}$$
 >   $$\begin{flalign}& \iff \cos(4x+\frac \pi 4)=\frac {2\sqrt8} 8 &\end{flalign}$$
 >   $$\begin{flalign}& \iff \cos(4x+\frac \pi 4)=\frac {2\times 2\sqrt 2} 8 &\end{flalign}$$
 >   $$\begin{flalign}& \iff \cos(4x+\frac \pi 4)=\frac {\sqrt 2} 2 &\end{flalign}$$
->   $$\begin{flalign}& \iff 3x+\frac \pi 4=\frac \pi 4+2k\pi \lor 4x+\frac \pi 4 = -\frac \pi 4 + 2k\pi, k\in \mathbb Z &\end{flalign}$$
->   $$\begin{flalign}& \iff 4x=2k\pi \lor 3x=-\frac \pi 4- \frac \pi 4 +2k\pi, k\in \mathbb Z &\end{flalign}$$
+>   $$\begin{flalign}& \iff 4x+\frac \pi 4=\frac \pi 4+2k\pi \lor 4x+\frac \pi 4 = -\frac \pi 4 + 2k\pi, k\in \mathbb Z &\end{flalign}$$
+>   $$\begin{flalign}& \iff 4x=2k\pi \lor 4x=-\frac \pi 4- \frac \pi 4 +2k\pi, k\in \mathbb Z &\end{flalign}$$
 >   $$\begin{flalign}& \iff x=\frac {2k\pi} 4 \lor 4x=-\frac {2\pi} 4 +2k\pi, k\in \mathbb Z&\end{flalign}$$
 >   $$\begin{flalign}& \iff x=\frac {k\pi} 2 \lor 4x=-\frac \pi 2 +2k\pi, k\in \mathbb Z &\end{flalign}$$
 >   $$\begin{flalign}& \iff x=\frac {k\pi} 2 \lor x=-\frac \pi 8 + \frac {k\pi} 2, k\in \mathbb Z &\end{flalign}$$
