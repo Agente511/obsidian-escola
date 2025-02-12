@@ -26,9 +26,14 @@ Pode-se representar o gráfico de uma sucessão num referencial cartesiano, como
 >![[Pasted image 20250212193207.png|300]]
 
 ## Majorantes e minorantes de um conjunto de números reais
+### Majorante
+Seja $A$ um conjunto de números.
+- Um número real $M$ é **majorante** de $A$ se $\forall a \in A, a \leq M$ (todos os números do conjunto forem menores ou iguais a $M$).
+- O conjunto $A$ é **majorado** se tiver **pelo menos um majorante**.
 
-
-
+>[!Note] Exemplos
+>- O intervalo de números reais $[4,7]$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 7**. $[7, +\infty]$ é o conjunto dos majorantes do conjunto.
+>- O conjunto $A={1,2,3}$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 3**. $[3, +\infty]$ é o conjunto dos majorantes do conjunto.
 
 
 
