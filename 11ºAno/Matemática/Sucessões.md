@@ -4,7 +4,7 @@ Uma **sucessão** (real) é uma **função de domínio $\mathbb N$** e **conjunt
 O **contradomínio** é o **conjunto dos termos da sucessão**.
 
 A **sucessão $u$** representa-se por ($u_n$) $n \in \mathbb N$, ou simplesmente **$(u_n)$**.
-
+### Linguagem e notação
 **Termos** = imagens
 **Ordem** = objetos
 >[!Note] Exemplo
