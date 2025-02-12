@@ -1,5 +1,4 @@
 ## Funções pares
----
 Dada uma função $f$ real de variável real.
 Diz-se que $f$ é uma função par SSE $\forall$ x $\in$ D$_f$, $f(x)=f(-x)$
 (**objetos simétricos** têm a **mesma imagem**)
@@ -16,7 +15,6 @@ Diz-se que $f$ é uma função par SSE $\forall$ x $\in$ D$_f$, $f(x)=f(-x)$
 >R.: Como $f(x)=f(-x)$, $\forall x \in$ D$_f$, $f$ é uma função par.
 
 ## Funções ímpares
----
 Dada uma função $f$ real de variável real.
 Diz-se que $f$ é uma função ímpar SSE $\forall$ x $\in$ D$_f$, $f(-x)=-f(x)$
 (**objetos simétricos** têm **imagens simétricas**)

@@ -25,7 +25,7 @@ Interação com os eixos:
         $\iff x=k\pi, k\in \mathbb Z$
 ### Extremos
 - Máximo: $1$ em $x=\frac \pi 2+2k\pi, k\in \mathbb Z$
-- Mínimo: $-1$ em $x=\frac \pi 2+2k\pi, k\in \mathbb Z$
+- Mínimo: $-1$ em $x=-\frac \pi 2+2k\pi, k\in \mathbb Z$
 ### Monotonia
 - Crescente: $[- \frac \pi 2+ 2k\pi, \frac \pi 2+2k\pi], k\in \mathbb Z$
 - Decrescente: $[\frac \pi 2+ 2k\pi, \frac {3\pi} 2+2k\pi], k\in \mathbb Z$
