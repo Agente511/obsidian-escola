@@ -75,7 +75,8 @@ Um conjunto é limitado se for **minorado e majorado**.
 >- O conjunto $\mathbb Z$ **não é limitado**, porque **não é minorado nem majorado**.
 
 ## Sucessões monótonas
-
+Uma sucessão $(u_n)$ é:
+- **crescente** quando $\fora
 ## Sucessões definidas por recorrência
 Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou outro) é a **relação entre o termo seguinte e a recorrência**.
 >[!Note] Exemplo
