@@ -19,6 +19,12 @@ A $u(n)$ (**imagem de $n$**) representa-se por **$u_n$** e designa-se por **term
 ### Sequência
 Uma sequência é uma **sucessão** com um **número finito de termos**.
 ## Gráfico de uma sucessão
+Pode-se representar o gráfico de uma sucessão num referencial cartesiano, como o conjunto de pontos da reta da equação cujas **abcissas são números reais**.
+
+>[!Note] Exemplo
+>Seja $(u_n)$ a sucessão de termo geral $u_n=\frac {n+1} 2$, o seu gráfico é o conjunto de pontos da reta de equação $y=\frac {x+1} 2 cujas abcissas são os números reais.
+>
+
 ## Majorante e minorante
 
 
