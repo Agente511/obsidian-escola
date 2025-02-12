@@ -27,13 +27,26 @@ Pode-se representar o gráfico de uma sucessão num referencial cartesiano, como
 
 ## Majorantes e minorantes de um conjunto de números reais
 ### Majorante
-Seja $A$ um conjunto de números.
+Seja $A$ um conjunto de números:
 - Um número real $M$ é **majorante** de $A$ se $\forall a \in A, a \leq M$ (todos os números do conjunto forem menores ou iguais a $M$).
 - O conjunto $A$ é **majorado** se tiver **pelo menos um majorante**.
 
 >[!Note] Exemplos
->- O intervalo de números reais $[4,7]$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 7**. $[7, +\infty]$ é o conjunto dos majorantes do conjunto.
+>- O intervalo de números reais $[4,7]$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 7**. $[7, +\infty]$ é o conjunto dos majorantes do conjunto
+>- O intervalo de números reais $[4,7[$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 7**. $[7, +\infty]$ é o conjunto dos majorantes do conjunto..
 >- O conjunto $A={1,2,3}$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 3**. $[3, +\infty]$ é o conjunto dos majorantes do conjunto.
+>- O intervalo de números reais $[3, +\infty]$ **não é majorado**, porque **não tem majorantes**.
+>- O conjunto $\mathbb N$ **não é majorado**, porque **não tem majorantes**.
+
+### Minorante
+Seja $A$ um conjunto de números:
+- Um número real $m$ é **minorante** de $A$ se $A$ se $\forall a \in A, a \geq m$ (todos os números do conjunto forem maiores ou iguais a $m$).
+- Diz-se que $A$ é **minorado** se tiver **pelo menos um minorante**.
+
+>[!Note] Exemplos
+>- O intervalo de números reais $[4,7]$ é **minorado**, tendo como **minorantes** todos os **números inferiores ou iguais a 4**. $[-\infty, 4]$ é o conjunto dos minorantes do conjunto.
+>- O intervalo de números reais $]4,7]$ é **minorado**, tendo como **minorantes** todos os **números inferiores ou iguais a 4**. $[-\infty, 4]$ é o conjunto dos minorantes do conjunto.
+>- O con
 
 
 
