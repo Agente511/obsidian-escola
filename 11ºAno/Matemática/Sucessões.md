@@ -16,6 +16,30 @@ A $u(n)$ (**imagem de $n$**) representa-se por **$u_n$** e designa-se por **term
 >Na sucessão $u(n)=\sqrt n +1$ tem-se:
 >![[Pasted image 20250212180358.png|500]]
 
+### Sequência
+Uma sequência é uma **sucessão** com um **número finito de termos**.
+## Gráfico de uma sucessão
+## Majorante e minorante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Há algo em ti que me faz sorrir e que prende o meu olhar ao teu, sem que dês conta.
 Há meses que sonho contigo, sem coragem de te contar, mas talvez um dia esta carta deixe de ser anónima.
