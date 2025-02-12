@@ -75,14 +75,23 @@ Um conjunto é limitado se for **minorado e majorado**.
 >- O conjunto $\mathbb Z$ **não é limitado**, porque **não é minorado nem majorado**.
 
 ## Sucessões monótonas
+Uma sucessão é monótona se for **crescente** ou se for **decrescente**.
+
 Uma sucessão $(u_n)$ é:
-- **crescente** quando $\fora
+- **crescente** se e só se $\forall n \in \mathbb N,$ **$u_{n+1}>u_n$**
+- **crescente em sentido lato** se e só se $\forall n \in \mathbb N,$ **$u_{n+1} \geq u_n$**
+- **decrescente** se e só se $\forall n \in \mathbb N,$ **$u_{n+1}<u_n$**
+- **decrescente em sentido lado** se e só se $\forall n \in \mathbb N,$ **$u_{n+1} \leq u_n$**
+
+Pode-se **estudar uma sucessão quanto à monotonia** calculando a **diferença $u_{n+1}-u_n$**:
+- **crescente** se $u_{n+1}-u_n>0$
+- **decrescente** se $u_{n+1}-
 ## Sucessões definidas por recorrência
 Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou outro) é a **relação entre o termo seguinte e a recorrência**.
 >[!Note] Exemplo
 >$$\begin{flalign}& u_1=3 \land u_{n+1}=2u_n+1, \forall n \in \mathbb N &\end{flalign}$$
->
->também se pode utilizar uma chaveta, em vez do $\land$
+>ou
+>$$\begin{cases} u_1=3 \\\ u_{n+1}=2u_n+1, \forall n \in \mathbb N &\end{cases}$$
 >
 
 
