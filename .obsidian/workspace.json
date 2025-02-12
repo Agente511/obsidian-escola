@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
+                "file": "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de D3 1. Unicelularidade e Multicelularidade"
+              "title": "Índice de D3 2. Mecanismos de Evolução"
             }
           },
           {
@@ -240,10 +240,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27269490b9b3bee8",
+  "active": "f730d9ce4be01f46",
   "lastOpenFiles": [
-    "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
+    "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
     "Pasted image 20250211234650.png",
     "Pasted image 20250211233835.png",
