@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -62,8 +62,7 @@
               "title": "New web viewer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+                "file": "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de D3 2. Mecanismos de Evolução"
+              "title": "Índice de D4 1.+2. Sistemas de classificação e regras de nomenclatura"
             }
           },
           {
@@ -240,11 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f730d9ce4be01f46",
+  "active": "fe265ab09fa5a522",
   "lastOpenFiles": [
+    "Pasted image 20250212024013.png",
+    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
-    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
     "Pasted image 20250211234650.png",
     "Pasted image 20250211233835.png",
     "Pasted image 20250211233033.png",
