@@ -22,8 +22,8 @@ Uma sequência é uma **sucessão** com um **número finito de termos**.
 Pode-se representar o gráfico de uma sucessão num referencial cartesiano, como o conjunto de pontos da reta da equação cujas **abcissas são números reais**.
 
 >[!Note] Exemplo
->Seja $(u_n)$ a sucessão de termo geral $u_n=\frac {n+1} 2$, o seu gráfico é o conjunto de pontos da reta de equação $y=\frac {x+1} 2 cujas abcissas são os números reais.
->
+>Seja $(u_n)$ a sucessão de termo geral $u_n=\frac {n+1} 2$, o seu gráfico é o conjunto de pontos da reta de equação $y=\frac {x+1} 2$ cujas abcissas são os números reais.
+>![[Pasted image 20250212193207.png|300]]
 
 ## Majorante e minorante
 
