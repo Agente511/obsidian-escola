@@ -16,4 +16,6 @@ A $u(n)$ (**imagem de $n$**) representa-se por **$u_n$** e designa-se por **term
 >Na sucessão $u(n)=\sqrt n +1$ tem-se:
 >![[Pasted image 20250212180358.png|500]]
 
-Há algo em ti que me faz sorrir e com que os meus olhos encontrem sempre os teus, sem que dês conta. Talvez um dia esta carta deixe de ser anónima.
+
+Há algo em ti que me faz sorrir e que prende o meu olhar ao teu, sem que dês conta.
+Há meses que sonho contigo, sem coragem de te contar, mas talvez um dia esta carta deixe de ser anónima.
