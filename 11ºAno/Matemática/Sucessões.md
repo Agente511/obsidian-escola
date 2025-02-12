@@ -25,8 +25,7 @@ Pode-se representar o gráfico de uma sucessão num referencial cartesiano, como
 >Seja $(u_n)$ a sucessão de termo geral $u_n=\frac {n+1} 2$, o seu gráfico é o conjunto de pontos da reta de equação $y=\frac {x+1} 2$ cujas abcissas são os números reais.
 >![[Pasted image 20250212193207.png|300]]
 
-## Majorante e minorante
-
+## Majorantes e minorantes de um conjunto de números reais
 
 
 
