@@ -45,7 +45,7 @@ Seja $A$ um conjunto de números reais:
 >- **7 é máximo** do intervalo de números reais **$[4,7]$**, pois **7 pertence ao conjunto** e **7 é majorante deste conjunto**.
 >- **7 não é máximo** (nem nenhum outro número é) do intervalo de números reais **$[4,7[$**, pois **7 $\notin [4,7[$**, apesar de ser **majorante** deste conjunto.
 
-Um conjunto só pode ter **um único mínimo**.
+Um conjunto só pode ter **um único máximo**.
 ### Minorante de um conjunto
 Seja $A$ um conjunto de números reais:
 - Um número real $m$ é **minorante** de $A$ se $A$ se $\forall a \in A, a \geq m$ (todos os números do conjunto forem maiores ou iguais a $m$).
@@ -74,7 +74,8 @@ Um conjunto é limitado se for **minorado e majorado**.
 >- O intervalo de números reais $]-\infty, 1]$ **não é limitado**, porque **não é minorado**.
 >- O conjunto $\mathbb Z$ **não é limitado**, porque **não é minorado nem majorado**.
 
-
+## Sucessões monótonas
+## Sucessões definidas por recorrência
 
 
 
