@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "9a66014ee3fa6ec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11ºAno/Matemática/Funções trigonométricas.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funções trigonométricas"
-            }
-          },
-          {
             "id": "d18162186c47bf86",
             "type": "leaf",
             "state": {
@@ -47,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Funções pares e ímpares"
-            }
-          },
-          {
-            "id": "a949de925c7acc71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11ºAno/Matemática/Sucessões.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sucessões"
             }
           },
           {
@@ -76,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Declive e inclinação de uma reta no plano"
             }
+          },
+          {
+            "id": "5b4d6e7e5f67e00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Matemática/Vetores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vetores"
+            }
+          },
+          {
+            "id": "a949de925c7acc71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Matemática/Sucessões.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sucessões"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,8 +256,9 @@
   },
   "active": "36981279cc5071df",
   "lastOpenFiles": [
-    "11ºAno/Matemática/Sucessões.md",
+    "11ºAno/Matemática/Vetores.md",
     "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
+    "11ºAno/Matemática/Sucessões.md",
     "10ºAno/Matemática/Referencial Ortonormado.md",
     "11ºAno/Matemática/Funções trigonométricas.md",
     "11ºAno/Matemática/Redução ao primeiro quadrante.md",
@@ -268,7 +269,6 @@
     "10ºAno/Matemática/Funções pares e ímpares.md",
     "11ºAno/Matemática/Equações de planos.md",
     "11ºAno/Matemática/Lugares geométricos.md",
-    "11ºAno/Matemática/Vetores.md",
     "10ºAno/Matemática/Funções definidas por ramos.md",
     "10ºAno/Matemática/Função quadrática.md",
     "10ºAno/Matemática/Função módulo.md",
