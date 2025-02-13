@@ -83,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Matemática/O radiano como unidade de amplitude.md",
+                "file": "10ºAno/Matemática/Referencial Ortonormado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O radiano como unidade de amplitude"
+              "title": "Referencial Ortonormado"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ponto médio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,12 +145,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "4f5e08690fe3545a",
@@ -269,14 +269,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a949de925c7acc71",
+  "active": "fa78e14985d4c24b",
   "lastOpenFiles": [
+    "11ºAno/Matemática/O radiano como unidade de amplitude.md",
+    "11ºAno/Matemática/Equações de planos.md",
     "11ºAno/Matemática/Lugares geométricos.md",
     "11ºAno/Matemática/Vetores.md",
-    "11ºAno/Matemática/Equações de planos.md",
     "11ºAno/Matemática/Sucessões.md",
     "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
-    "11ºAno/Matemática/O radiano como unidade de amplitude.md",
     "11ºAno/Matemática/Ângulos orientados, generalizados e rotações.md",
     "10ºAno/Matemática/Referencial Ortonormado.md",
     "11ºAno/Matemática/Funções trigonométricas.md",
