@@ -54,13 +54,11 @@ Caracterizado por
 >Faz os cálculos passo-a-passo para ter mais pontos mesmo que erres :)
 
 ## Norma de um vetor
----
 norma = **comprimento** do vetor
 
 ||$\vec{u}$|| -> norma do vetor $\vec{u}$
 
 ## Perímetro de um número real por um vetor
----
 >[!Exemplo]
 >![[Pasted image 20240124180333.png]]
 >
@@ -88,14 +86,12 @@ norma = **comprimento** do vetor
 >Se $\vec{v}$ = $\vec{0}$ ou $\lambda$ = 0, $\lambda$$\vec{v}$ = $\vec{0}$
 
 ## Critério de colinearidade de 2 vetores
----
 >[!Summary] Caso geral
 >Seja $\vec{u}$ $\neq$ $\vec{0}$
 >
 >$\vec{v}$ é colinear com $\vec{u}$ SSE $\exists$ $\lambda$ $\in$ $\mathbb{R}$ : $\vec{v}$ = $\lambda$ $\vec{u}$
 
 ## Propriedades do produto de um vetor por um número real
----
 >[!Example] Propriedades do produto de um vetor
 >Sejam $\lambda$ e $\mu$ números reais
 >#### Propriedade distributiva

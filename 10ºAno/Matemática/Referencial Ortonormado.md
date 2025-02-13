@@ -34,7 +34,6 @@ Os pontos assinalados são indicados pelas suas coordenadas: P(x, y)
 >- $b$: ordenada na origem
 
 ### Distância entre 2 pontos
----
 >[!Cálculo]
 >#### d(A, B) = $\sqrt{(b_1 - a_1)^2 + (b_2 - a_2)^2}$
 >

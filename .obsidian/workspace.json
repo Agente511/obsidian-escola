@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Matemática/Funções pares e ímpares.md",
+                "file": "10ºAno/Matemática/Coordenadas de vetores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funções pares e ímpares"
+              "title": "Coordenadas de vetores"
             }
           },
           {
@@ -78,17 +78,17 @@
             }
           },
           {
-            "id": "fa78e14985d4c24b",
+            "id": "66532a5b18b71af0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Matemática/Referencial Ortonormado.md",
+                "file": "10ºAno/Matemática/Coordenadas de vetores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referencial Ortonormado"
+              "title": "Coordenadas de vetores"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ponto médio",
+                "query": "vetores colineares",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,21 +269,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa78e14985d4c24b",
+  "active": "66532a5b18b71af0",
   "lastOpenFiles": [
-    "11ºAno/Matemática/O radiano como unidade de amplitude.md",
-    "11ºAno/Matemática/Equações de planos.md",
-    "11ºAno/Matemática/Lugares geométricos.md",
+    "10ºAno/Matemática/Segmentos de reta orientados e Vetores.md",
     "11ºAno/Matemática/Vetores.md",
+    "11ºAno/Matemática/Equações de planos.md",
+    "10ºAno/Matemática/Coordenadas de vetores.md",
+    "10ºAno/Matemática/Funções pares e ímpares.md",
+    "10ºAno/Matemática/Referencial Ortonormado.md",
+    "11ºAno/Matemática/O radiano como unidade de amplitude.md",
+    "11ºAno/Matemática/Lugares geométricos.md",
     "11ºAno/Matemática/Sucessões.md",
     "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
     "11ºAno/Matemática/Ângulos orientados, generalizados e rotações.md",
-    "10ºAno/Matemática/Referencial Ortonormado.md",
     "11ºAno/Matemática/Funções trigonométricas.md",
     "11ºAno/Matemática/Redução ao primeiro quadrante.md",
     "11ºAno/Matemática/Equações trigonométricas.md",
     "11ºAno/Matemática/Trigonometria com ângulos agudos.md",
-    "10ºAno/Matemática/Funções pares e ímpares.md",
     "10ºAno/Matemática/Funções definidas por ramos.md",
     "10ºAno/Matemática/Função quadrática.md",
     "10ºAno/Matemática/Função módulo.md",
@@ -305,8 +307,6 @@
     "11ºAno/Biologia/D2 2. Reprodução Sexuada.md",
     "10ºAno/Biologia/Obtenção de energia.md",
     "11ºAno/Biologia/D2 3. Ciclos de Vida.md",
-    "Sem título.md",
-    "Sem título 1.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição",
     "repo",
     "Nova pasta",
