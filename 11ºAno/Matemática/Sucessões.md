@@ -95,15 +95,3 @@ Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou out
 >$$\begin{cases} u_1=3 \\\ u_{n+1}=2u_n+1, \forall n \in \mathbb N \end{cases}$$
 >
 
-
-
-
-
-
-
-
-
-
-
-Há algo em ti que me faz sorrir e que prende o meu olhar ao teu, sem que dês conta.
-Há meses que sonho contigo, sem coragem de te contar, mas talvez um dia esta carta deixe de ser anónima.
