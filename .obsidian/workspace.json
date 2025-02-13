@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Matemática/Lugares geométricos.md",
-                "mode": "source",
+                "file": "11ºAno/Matemática/Equações de planos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lugares geométricos"
+              "title": "Equações de planos"
             }
           },
           {
@@ -271,10 +271,10 @@
   },
   "active": "a949de925c7acc71",
   "lastOpenFiles": [
-    "11ºAno/Matemática/Equações de planos.md",
     "11ºAno/Matemática/Lugares geométricos.md",
-    "11ºAno/Matemática/Sucessões.md",
     "11ºAno/Matemática/Vetores.md",
+    "11ºAno/Matemática/Equações de planos.md",
+    "11ºAno/Matemática/Sucessões.md",
     "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
     "11ºAno/Matemática/O radiano como unidade de amplitude.md",
     "11ºAno/Matemática/Ângulos orientados, generalizados e rotações.md",
