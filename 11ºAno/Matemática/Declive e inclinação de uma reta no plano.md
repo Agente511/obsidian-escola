@@ -7,7 +7,7 @@ Equação reduzida da reta: $y=mx+b$
 $$\begin{flalign}& m=\frac {y_B-y_A} {x_B-x_A} &\end{flalign}$$
 
 Se $\vec u=(u_1,\ u_2)$ for **vetor diretor** da reta $r$, então $m=\frac {u_2} {u_1}$
-$\vec u=(x_b-x_a,\ y_B-y_A)$
+$\vec u=(x_B-x_A,\ y_B-y_A)$
 
 ## Inclinação de uma reta
 Fixado um plano munido de um referencial o. n. de origem $O$, e dada uma reta $r$ que passa pela origem e é distinta de $Ox$, a **inclinação da reta $r$** é a **amplitude de um ângulo convexo formado pelo semieixo positivo $Oy$ e a semirreta $OP$**, onde $P$ é um qualquer ponto da reta de ordenada positiva.
