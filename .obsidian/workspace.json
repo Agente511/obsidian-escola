@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,7 +268,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66532a5b18b71af0",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
     "10ºAno/Matemática/Segmentos de reta orientados e Vetores.md",
     "11ºAno/Matemática/Vetores.md",
