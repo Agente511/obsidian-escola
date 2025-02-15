@@ -184,23 +184,14 @@
               "icon": "lucide-file",
               "title": "Nova aba"
             }
-          },
-          {
-            "id": "3c95b8e737f607af",
-            "type": "leaf",
-            "state": {
-              "type": "interactive-panel",
-              "state": {},
-              "icon": "cloud-cog",
-              "title": "Cloud Atlas Interactive Mode"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +209,7 @@
       "cloud-atlas:Cloud Atlas panel": false
     }
   },
-  "active": "3c95b8e737f607af",
+  "active": "0046733a44a87f68",
   "lastOpenFiles": [
     "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
     "CloudAtlas/example.flow.md",
