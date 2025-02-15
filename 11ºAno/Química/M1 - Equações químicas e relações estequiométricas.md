@@ -1,0 +1,2 @@
+## Equações químicas
+Com base na Lei de Lavoisier, podemos concluir que durante uma reação química, os átomos de cada elemento **não se criam nem se destroem**, apenas **se ligam entre si de modo diferente**

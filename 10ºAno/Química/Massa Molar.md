@@ -2,16 +2,14 @@
 Volume: M4
 ---
 ### Definição
----
 À **quantidade de massa por mole**, dá-se o nome de massa molar.
 ### Medição
----
 Esta é medida em grama por mole (g/mol ou g mol$^{-1}$) e, geralmente, representado por M.
 
 >[!Cálculo]
 >**n $=$ $\frac{m}{M}$**
 >ou
->**M $=$ $\frac{m}{n}$** (mais fácil de lembrar, já que é, literalmente, massa por mole)
+>**M $=$ $\frac{m}{n}$** *(mais fácil de lembrar, já que é, literalmente, grama por mole)*
 >
 >Em que:
 >- n: Quantidade de matéria (em moles)

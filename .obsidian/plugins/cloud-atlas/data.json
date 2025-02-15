@@ -1,0 +1,28 @@
+{
+  "apiKey": "",
+  "advancedOptions": false,
+  "previewMode": false,
+  "entityRecognition": false,
+  "generateEmbeddings": false,
+  "wikify": [],
+  "canvasResolveLinks": false,
+  "canvasResolveBacklinks": false,
+  "useOpenAi": false,
+  "developmentMode": false,
+  "llmOptions": {
+    "temperature": 0.8,
+    "max_tokens": 2000
+  },
+  "timeoutMins": 5,
+  "openAiSettings": {
+    "apiKey": "",
+    "modelId": "gpt-4-vision-preview"
+  },
+  "azureAiSettings": {
+    "apiKey": "",
+    "deploymentId": "",
+    "endpoint": ""
+  },
+  "provider": "openai",
+  "registeredFlows": []
+}
