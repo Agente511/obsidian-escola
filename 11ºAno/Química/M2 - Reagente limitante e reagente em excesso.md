@@ -3,7 +3,7 @@ Em grande parte dos processos industriais, para **garantir que todo o reagente m
 O reagente limitante determina/limita a quantidade de produto que se pode formar numa reação química, visto que está em **menor quantidade estequiométrica relativa** e é **totalmente consumido**.
 ### Reagente em excesso
 Os reagentes em excesso numa reação química encontram-se em **maior quantidade estequiométrica relativa** e **não são totalmente consumidos**.
-## Cálculos estequiométricos com reagentes limitanets
+## Cálculos estequiométricos com reagentes limitantes
 Nos cálculos estequiométricos considera-se o reagente limitante, porque ele condiciona a maior quantidade possível que se pode obter dos produtos da reação.
 
 ### Averiguação do reagente limitante
