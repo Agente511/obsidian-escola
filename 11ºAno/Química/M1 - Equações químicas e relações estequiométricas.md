@@ -14,5 +14,11 @@ Nesta situação, deve-se reajustar/acertar o esquema, colocando **coeficientes 
 > [!NOTE] Exemplo
 > ![[WhatsApp Image 2025-02-15 at 17.45.31.jpeg|480]]
 
-De forma mais simplificada, a reação pode ser representada por uma **equação química** (representações simbólicas e abreviadas de uma reação química, usando fórmulas químicas):
+De forma mais simplificada, a reação do exemplo pode ser representada por uma **equação química** (representações simbólicas e abreviadas de uma reação química, usando fórmulas químicas):
 $$\begin{flalign}& CH_4(g)+2\ O_2(g) \longrightarrow CO_2(g)+2\ H_2O(g) &\end{flalign}$$
+
+![[Pasted image 20250215181935.png|550]]
+
+## Cálculos estequiométricos
+Os **coeficientes estequiométricos** de uma equação química indicam, em **mol** ou unidades estruturais, as **proporções de reagentes e de produtos na reação química**.
+
