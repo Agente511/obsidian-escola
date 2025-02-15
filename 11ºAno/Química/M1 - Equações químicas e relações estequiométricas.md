@@ -22,3 +22,5 @@ $$\begin{flalign}& CH_4(g)+2\ O_2(g) \longrightarrow CO_2(g)+2\ H_2O(g) &\end{fl
 ## Cálculos estequiométricos
 Os **coeficientes estequiométricos** de uma equação química indicam, em **mol** ou unidades estruturais, as **proporções de reagentes e de produtos na reação química**.
 
+A partir da quantidade de matéria indicada pelos coeficientes estequiométricos, é possível calcular a [[Quantidade de Matéria#Quantidade de matéria (ou química)|massa]], [[Volume Molar, Massa Volúmica, Fração Molar#Massa Volúmica (relacionando com o Volume Molar)|volume]] (no caso dos gases) e [[Quantidade de Matéria#Entidades elementares|número de entidades]].
+

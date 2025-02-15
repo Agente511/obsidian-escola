@@ -6,7 +6,6 @@ Volume: M14
 **Volumes iguais** de **gases diferentes**, nas mesmas condições de pressão e temperatura, contêm o **mesmo número de partículas**
 
 ### Volume molar
----
 Volume ocupado por uma mole de uma substância, em determinadas condições de pressão e temperatura.
 
 >[!Info] Volume molar de um gás nas Condições de Pressão e Temperatura Normais (PTN/CPTN)
@@ -29,7 +28,8 @@ O declive do gráfico representa o volume molar do gás, nas condições de pres
 ### Massa Volúmica (relacionando com o Volume Molar)
 ---
 >[!Note] Cálculo da Massa Volúmica
->### ![[Pasted image 20240121171131.png]] $\rho$ = $\frac {M} {V_m}$
+>### ![[Pasted image 20240121171131.png]] 
+>$\rho$ = $\frac {M} {V_m}$
 >
 >Sendo:
 >- $\rho$: massa volúmica (usual: g/dm$^3$)

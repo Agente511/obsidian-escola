@@ -1,10 +1,10 @@
 ---
 Volume: M4
 ---
-### Medição
-A quantidade de matéria/química é medida em **moles** (mol) e, geralmente, representada por n.
+### Quantidade de matéria (ou química)
+A quantidade de matéria é medida em **moles** (mol) e, geralmente, representada por $n$.
 
-Uma mole de qualquer substância, **contém 6,022 $*$ 10$^{23}$ entidades** elementares (constante de Avogadro).
+Uma mole de qualquer substância, **contém 6,022 $\times$ 10$^{23}$ entidades** elementares (constante de Avogadro).
 
 >[!Cálculo] Cálculo (mais usado na massa molar, mas pronto)
 >**n $=$ $\frac{m}{M}$**
@@ -14,7 +14,7 @@ Uma mole de qualquer substância, **contém 6,022 $*$ 10$^{23}$ entidades** elem
 >- m: massa (em gramas)
 >- M: massa molar (em grama por mole)
 ### Entidades elementares
-Moléculas, átomos, partículas, (...) são todos considerados entidades elementares.
+Moléculas, átomos, partículas, etc. são todos considerados entidades elementares.
 >[!Cálculo]
 >**N $=$ n $*$ N$_A$**
 >
