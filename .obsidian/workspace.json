@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "D3 2. Mecanismos de Evolução"
             }
+          },
+          {
+            "id": "bf4dc86ba33eea40",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,12 +245,10 @@
       "random-note:Abrir nota aleatória": false,
       "vault-size-history:Vault size history": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-git:Open Git source control": false,
-      "cloud-atlas:Cloud Atlas flows": false,
-      "cloud-atlas:Cloud Atlas panel": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "803d226fefa9a4ae",
+  "active": "bf4dc86ba33eea40",
   "lastOpenFiles": [
     "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
     "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
