@@ -12,6 +12,6 @@ A química verde propõe a economia atómica como um novo indicador de eficiênc
 >[!Summary] Cálculo da economia atómica
 >$$\begin{flalign}& e.a.(\%) =\frac {m_\text{produto desejado}} {m_\text{total reagentes}} &\end{flalign}$$
 >ou
->$$\begin{flalign}& e.a.(\%) =\frac {c.e. \times M_\text{produto desejado}} {c.e. \times m_\text{total reagentes}} &\end{flalign}$$
+>$$\begin{flalign}& e.a.(\%) =\frac {c.e. \times M_\text{produto desejado}} {c.e. \times M_\text{total reagentes}} &\end{flalign}$$
 >Sendo:
 >- $c.e.$: coeficiente estequiométrico
