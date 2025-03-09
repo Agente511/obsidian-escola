@@ -117,6 +117,26 @@ Por causa destas condicionantes que provocam a **variação da cor** de um miner
 
 A cor é determinada **objetivamente** pelo **espetro de absorção** de um mineral, enquanto que a simples **observação** é **subjetiva**.
 ### Dureza
+Traduz a **resistência de um mineral a ser riscado por outro**.
+Depende da **coesão da sua estrutura cristalina** (tipo de ligações estabelecidas entre as suas partículas constituintes).
+
+Como cada espécie mineral apresenta valores característicos de dureza, é uma propriedade eficiente de identificação de minerais.
+#### Avaliação da dureza
+A escala de dureza mais utilizada é Escala de Mohs, proposta, em 1812, por Friedrich Mohs, constituída por **10 minerais de dureza crescente**.
+
+Para **determinar a dureza de Mohs**, analisa-se a capacidade que a amostra mineral tem de **riscar os sucessivos termos de dureza**, **do mais duro para o menos duro** (para evitar o desgaste dos minerais da escala de menor dureza).
+Quando a amostra mineral tem uma **dureza superior à dos minerais que risca** e uma **dureza inferior à dos minerais que não risca**.
+
+>[!Info] Nota
+>Quando não se dispõe de uma escala de Mohs, pode-se avaliar a dureza de um mineral tendo por referência as seguintes durezas:
+>- unha: ligeiramente superior a 2
+>- lâmina de um canivete: próxima de 5
+>- vidro: 5,5
+>- lima de aço: 6,5
+
+![[Pasted image 20250309212321.png]]
+
+##### Métodos alternativos de determinação da dureza na Escala de Mohs
 
 ### Traço / Risca
 
