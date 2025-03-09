@@ -1,4 +1,6 @@
 ## Definição de mineral
+Os minerais são **constituintes das rochas**, sendo estas **monominerálicas** (se forem constituídas por apenas um mineral) ou **poliminerálicas** (se forem constituídas por múltiplos minerais).
+
 Um mineral tem todas as seguintes características:
 ### **Elemento** ou composto químico
 >[!Note] Exemplos
@@ -13,7 +15,7 @@ Ocorre naturalmente, sem a intervenção do ser humano nem de nenhum outro organ
 ### Com uma **estrutura interna cristalina**, ocorrendo no **estado sólido**
 As substâncias que ocorrem na natureza no estado **sólido** podem ter uma **estrutura interna** **cristalina** ou **amorfa**/vítrea. A dos minerais é **cristalina**.
 #### Estrutura cristalina
-As partículas destas estruturas **distribuem-se regularmente no espaço e de forma constante no tempo**, definindo uma **rede espacial**.
+As partículas (átomos ou iões) destas estruturas **distribuem-se regularmente no espaço e de forma constante no tempo**, definindo uma **rede espacial**.
 ![[Pasted image 20250309195246.png|200]]
 >[!Info] Sistemas cristalográficos de Bravais *(não é preciso saber)*
 >![[Pasted image 20250309192133.png]]
@@ -104,4 +106,18 @@ A cor de um mineral **deve ser observada numa superfície de fratura recente**.
   >- Fluorite
   
 #### Condicionantes da cor de um mineral
-A cor de um mineral pode ser condicionada pela sua **composição química** e 
+A cor de um mineral pode ser condicionada pela sua
+- exposição às **condições ambientais** (**meteorização**)
+- **composição química**
+- presença de elementos químicos designados **cromatóforos**
+>[!Note] Exemplo
+>![[Pasted image 20250309203252.png]]
+
+Por causa destas condicionantes que provocam a **variação da cor** de um mineral, esta propriedade **não é um método expedito de identificação de um mineral**.
+
+A cor é determinada **objetivamente** pelo **espetro de absorção** de um mineral, enquanto que a simples **observação** é **subjetiva**.
+### Dureza
+
+### Traço / Risca
+
+### Brilho
