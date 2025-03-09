@@ -65,6 +65,7 @@ A sua variação nalguns minerais é resultante da **intersubstituição de elem
 
 ## Propriedades dos minerais
 A estrutura interna cristalina dos minerais condiciona as suas propriedades.
+As propriedades dos minerais contribuem para o seu reconhecimento/identificação.
 ### Clivagem
 Propriedade física que traduz a **tendência dos minerais se fragmentarem** segundo **superfícies planas** e **paralelas** entre si, de **orientação bem definida e constante** (**planos de clivagem**), por aplicação de uma **força mecânica externa**.
 
@@ -79,4 +80,28 @@ Os minerais que não exibem clivagem e os de clivagem difícil tendem a **fragme
   Apresenta **superfícies encurvadas**.
   >[!Note] Exemplo de fratura concoidal
   >![[Pasted image 20250309201506.png|200]]
+
+>[!Info] Fratura
+>Refere as características da superfície de rutura que os minerais exibem segundo planos de direção não definidos, quando sujeitos a precursão. Revela que as ligações são igualmente fortes, seja qual for a direção considerada.
 #### Direção de clivagem
+A clivagem ocorre segundo **direções cristalográficas preferenciais**.
+Alguns minerais podem apresentar **várias direções de clivagem**, mas, geralmente, apresentam apenas **uma**.
+![[Pasted image 20250309202219.png]]
+
+### Cor
+Resulta da **absorção de radiações da luz natural que incide sobre um mineral**.
+A cor de um mineral **deve ser observada numa superfície de fratura recente**.
+#### Classificação dos minerais quanto à sua cor
+- **Idiocromáticos**
+  Apresentam uma **cor constante**.
+>[!Note] Exemplo
+>- Azurite
+>- Malaquite
+- **Alocromáticos**
+  Apresentam uma **variada gama de cores**.
+  >[!Note] Exemplo
+  >- Quartzo
+  >- Fluorite
+  
+#### Condicionantes da cor de um mineral
+A cor de um mineral pode ser condicionada pela sua **composição química** e 
