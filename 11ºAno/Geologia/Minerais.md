@@ -1,5 +1,5 @@
 ## Definição de mineral
-Um mineral é:
+Um mineral tem todas as seguintes características:
 ### **Elemento** ou composto químico
 >[!Note] Exemplos
 >- Ouro nativo, Au
@@ -11,9 +11,10 @@ Ocorre naturalmente, sem a intervenção do ser humano nem de nenhum outro organ
 >- Ostra, CaCO$_3$ e a pérola por ela produzida (apesar de terem composição química idêntica à do mineral aragonite)
 >- Quartzo sintético, SiO$_2$
 ### Com uma **estrutura interna cristalina**, ocorrendo no **estado sólido**
-As substâncias que ocorrem na natureza no estado **sólido** podem ter uma **estrutura interna** **cristalina** ou **amorfa**. A dos minerais é **cristalina**.
+As substâncias que ocorrem na natureza no estado **sólido** podem ter uma **estrutura interna** **cristalina** ou **amorfa**/vítrea. A dos minerais é **cristalina**.
 #### Estrutura cristalina
 As partículas destas estruturas **distribuem-se regularmente no espaço e de forma constante no tempo**, definindo uma **rede espacial**.
+![[Pasted image 20250309195246.png|200]]
 >[!Info] Sistemas cristalográficos de Bravais *(não é preciso saber)*
 >![[Pasted image 20250309192133.png]]
 
@@ -38,10 +39,30 @@ Definem-se 3 tipos de cristais quanto ao **desenvolvimento de faces**:
   >![[Pasted image 20250309194433.png|80]]
 
 Podem, ainda, ocorrer na natureza em:
--
+- **Cristais isolados**
+  >[!Note] Exemplo
+  >![[Pasted image 20250309194728.png|80]]
+- **Agregados de cristais**
+  >[!Note] Exemplo
+  >![[Pasted image 20250309194812.png|80]]
 ##### Determinação da estrutura cristalina de um mineral por difração de raios X
 Os sólidos de estrutura interna cristalina **difratam os raios X** segundo um **padrão característico para cada mineral**.
 ![[Pasted image 20250309193329.png|500]]
+#### Estrutura amorfa
+As partículas destas estruturas **distribuem-se aleatoriamente no espaço**, designando-se **mineraloides**.
+![[Pasted image 20250309195227.png|200]]
+>[!Note] Exemplo
+>- Opala
 
+>[!Warning] Não são minerais
 ### Com uma **composição química definida**
+A composição química dos minerais é definida, sendo **fixa** ou **variável**, dentro de limites bem definidos.
+É representada por uma **fórmula química**.
+#### Composição química variável
+A sua variação nalguns minerais é resultante da **intersubstituição de elementos químicos** na sua estrutura cristalina.
+>[!Note] Exemplo
+>A composição das **olivinas** varia entre limites conhecidos, sendo a sua fórmula geral (Mg,Fe)$_2$SiO$_4$.
 
+## Propriedades dos minerais
+A estrutura interna cristalina dos minerais condiciona as suas propriedades
+### Clivagem
