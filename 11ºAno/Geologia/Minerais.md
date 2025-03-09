@@ -1,5 +1,5 @@
 ## Definição de mineral
-Os minerais são **constituintes das rochas**, sendo estas **monominerálicas** (se forem constituídas por apenas um mineral) ou **poliminerálicas** (se forem constituídas por múltiplos minerais).
+Os minerais são **constituintes das rochas**, sendo estas **monominerálicas** (se forem constituídas por apenas uma espécie mineral) ou **poliminerálicas** (se forem constituídas por múltiplas espécies minerais).
 
 Um mineral tem todas as seguintes características:
 ### **Elemento** ou composto químico
@@ -47,6 +47,9 @@ Podem, ainda, ocorrer na natureza em:
 - **Agregados de cristais**
   >[!Note] Exemplo
   >![[Pasted image 20250309194812.png|80]]
+
+>[!Info] Definição de "geode"
+>Cavidade no seio de uma rocha formada de cristais de uma ou mais espécies.
 ##### Determinação da estrutura cristalina de um mineral por difração de raios X
 Os sólidos de estrutura interna cristalina **difratam os raios X** segundo um **padrão característico para cada mineral**.
 ![[Pasted image 20250309193329.png|500]]
@@ -113,7 +116,7 @@ A cor de um mineral pode ser condicionada pela sua
 >[!Note] Exemplo
 >![[Pasted image 20250309203252.png]]
 
-Por causa destas condicionantes que provocam a **variação da cor** de um mineral, esta propriedade **não é um método expedito de identificação de um mineral**.
+Como a cor é uma **propriedade variável** de um mineral, **não é um método expedito de identificação de um mineral**.
 
 A cor é determinada **objetivamente** pelo **espetro de absorção** de um mineral, enquanto que a simples **observação** é **subjetiva**.
 ### Dureza
@@ -144,8 +147,28 @@ O **método de dureza de Vickers**, HV (Hardness Vickers), baseia-se na **resist
 
 O HV é o **quociente da carga aplicada**, $F$, **pela área de impressão**, $A$, deixada no corpo ensaiado.
 Exprime-se em kg/mm$^2$.
+### Brilho
+Refere-se à **intensidade da luz refletida por uma superfície de fratura recente**.
+#### Tipos de brilho
+- **Metálico**
+- **Submetálico**
+- **Não metálico** / Vulgar
+	- **Vítreo** (reflexo semelhante ao vidro)
+	- **Nacarado** (aspeto iridescente do nácar ou das pérolas)
 ### Traço / Risca
 É a **cor de um mineral quando reduzido a pó**.
-#### Determinação do traço
 
-### Brilho
+Ao contrário da cor, que é uma propriedade variável, a risca é uma **propriedade constante** e, portanto, diferentes variedades da mesma espécie mineral exibem sempre uma risca com a mesma cor.
+Frequentemente, a cor da risca de um mineral não coincide com a sua cor.
+
+>[!Note] Exemplos de traços
+>- Nos minerais **idiocromáticos** de **brilho não metálico** e nos **metais nativos**, a risca é **da cor do mineral**, mas **mais esbatida**.
+>  ![[Pasted image 20250309215011.png|400]]
+>- Nos minerais **alocromáticos** de **brilho não metálico**, a risca é **branca** (ou quase branca).
+>
+>- Nos minerais de **brilho metálico**, com exceção dos metais nativos, a risca é **mais escura do que a sua cor** sendo, por vezes, **preta**.
+>  ![[Pasted image 20250309215359.png|400]]
+
+#### Determinação do traço
+- No caso de minerais com **dureza inferior à da porcelana** (7 na escala de Mohs), **risca-se com o mineral a superfície despolida de uma porcelana**.
+- No caso de minerais com **dureza superior a 7**, **reduz-se a pó**, num **almofariz**, uma pequena porção da amostra em estudo.
