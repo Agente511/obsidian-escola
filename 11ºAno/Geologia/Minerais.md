@@ -136,8 +136,16 @@ Quando a amostra mineral tem uma **dureza superior à dos minerais que risca** e
 
 ![[Pasted image 20250309212321.png]]
 
-##### Métodos alternativos de determinação da dureza na Escala de Mohs
+Podem também ser utilizados ***kits*** constituídos por **ponteiras de dureza 2 a 9** para determinar a dureza na Escala de Mohs.
+![[Pasted image 20250309212833.png|250]]
 
+##### Métodos de dureza de Vickers (alternativa à Escala de Mohs)
+O **método de dureza de Vickers**, HV (Hardness Vickers), baseia-se na **resistência** que o material oferece à **penetração de uma pirâmide de diamante de base quadrada** sob uma determinada carga.
+
+O HV é o **quociente da carga aplicada**, $F$, **pela área de impressão**, $A$, deixada no corpo ensaiado.
+Exprime-se em kg/mm$^2$.
 ### Traço / Risca
+É a **cor de um mineral quando reduzido a pó**.
+#### Determinação do traço
 
 ### Brilho
