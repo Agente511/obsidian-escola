@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "0b7844baa2b4364f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUew3u-ndmaRkki9VcylXU7tDnIBmvLUicljY4TjDscWSvR83hFrD-vlDt5ZqVe1ZnGqd1IVOK5yn3fAA0kDGbvKIacy_4K0rA-mMUk2LEsb41iAvqLz-Bwcf50j_MwmBgo5W-dq=s2048?key=ay2r0t2PEno0UKCZcvi2KvKp",
+                "title": "AGV_vUew3u-ndmaRkki9VcylXU7tDnIBmvLUicljY4TjDscWSvR83hFrD-vlDt5ZqVe1ZnGqd1IVOK5yn3fAA0kDGbvKIacy_4K0rA-mMUk2LEsb41iAvqLz-Bwcf50j_MwmBgo5W-dq=s2048 (1306×726)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUew3u-ndmaRkki9VcylXU7tDnIBmvLUicljY4TjDscWSvR83hFrD-vlDt5ZqVe1ZnGqd1IVOK5yn3fAA0kDGbvKIacy_4K0rA-mMUk2LEsb41iAvqLz-Bwcf50j_MwmBgo5W-dq=s2048 (1306×726)"
+            }
+          },
+          {
+            "id": "7c4723ae97c994dd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfom48rUuPFyPN9NvO3LjyrAeo3gYw1nxFiklDB_OG7wAJganYeM4PGhBgDGVyUlrSekpMoHMDqoapVNTBBnY52Ru6yfuBEjIf55uEcH5FwIhqAUlTsOMlUuULRTjvU6IQsp5VNEg=s2048?key=ay2r0t2PEno0UKCZcvi2KvKp",
+                "title": "AGV_vUfom48rUuPFyPN9NvO3LjyrAeo3gYw1nxFiklDB_OG7wAJganYeM4PGhBgDGVyUlrSekpMoHMDqoapVNTBBnY52Ru6yfuBEjIf55uEcH5FwIhqAUlTsOMlUuULRTjvU6IQsp5VNEg=s2048 (1252×802)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUfom48rUuPFyPN9NvO3LjyrAeo3gYw1nxFiklDB_OG7wAJganYeM4PGhBgDGVyUlrSekpMoHMDqoapVNTBBnY52Ru6yfuBEjIf55uEcH5FwIhqAUlTsOMlUuULRTjvU6IQsp5VNEg=s2048 (1252×802)"
+            }
+          },
+          {
             "id": "34c945d8a31966aa",
             "type": "leaf",
             "state": {
@@ -293,9 +321,11 @@
   },
   "active": "0046733a44a87f68",
   "lastOpenFiles": [
+    "Pasted image 20250309201506.png",
+    "11ºAno/Geologia/Minerais.md",
+    "Pasted image 20250309201108.png",
     "Pasted image 20250309195246.png",
     "Pasted image 20250309195227.png",
-    "11ºAno/Geologia/Minerais.md",
     "Pasted image 20250309194812.png",
     "Pasted image 20250309194728.png",
     "Pasted image 20250309194433.png",
@@ -309,14 +339,12 @@
     "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
     "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
-    "Imagens/Pasted image 20250210231640.png",
     "10ºAno/Química/Quantidade de Matéria.md",
     "10ºAno/Química/Tipos de Ligações Químicas.md",
     "10ºAno/Química/Densidade relativa de metais.md",
     "10ºAno/Química/Espetro Eletromagnético.md",
     "10ºAno/Química/Massa Molar.md",
     "10ºAno/Química/Átomos (...).md",
-    "Imagens/Pasted image 20250215181935.png",
     "CloudAtlas/example.flow.md",
     "CloudAtlas",
     "10ºAno/Química/Medições.md",

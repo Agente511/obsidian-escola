@@ -64,5 +64,19 @@ A sua variação nalguns minerais é resultante da **intersubstituição de elem
 >A composição das **olivinas** varia entre limites conhecidos, sendo a sua fórmula geral (Mg,Fe)$_2$SiO$_4$.
 
 ## Propriedades dos minerais
-A estrutura interna cristalina dos minerais condiciona as suas propriedades
+A estrutura interna cristalina dos minerais condiciona as suas propriedades.
 ### Clivagem
+Propriedade física que traduz a **tendência dos minerais se fragmentarem** segundo **superfícies planas** e **paralelas** entre si, de **orientação bem definida e constante** (**planos de clivagem**), por aplicação de uma **força mecânica externa**.
+
+Os **planos de clivagem** correspondem a **superfícies ou planos** da **estrutura cristalina** com **menor coesão entre si**.
+#### Classificação da clivagem
+![[Pasted image 20250309201108.png]]
+##### Características da clivagem difícil e ausente
+Os minerais que não exibem clivagem e os de clivagem difícil tendem a **fragmentar-se segundo superfícies irregulares**, de **orientação aleatória**:
+- **Fratura esquirolosa**
+  Apresenta **arestas cortantes** (**esquírolas**)
+- **Fratura concoidal**
+  Apresenta **superfícies encurvadas**.
+  >[!Note] Exemplo de fratura concoidal
+  >![[Pasted image 20250309201506.png|200]]
+#### Direção de clivagem
