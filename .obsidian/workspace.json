@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Minerais"
             }
+          },
+          {
+            "id": "c222a96f80560def",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdsv5oruplKQIRUWMbvv9x2KQsHkpsjlJM0HHdqeoEGf6I-giOV6tdVSVN3cb1F_UIzck6F42PNuSOo8c_-xfar1NL9t2TV2Mz_HKtIENZ1dyeIAFBy9Yhx9BDS3han1vcP12x8=s2048?key=ay2r0t2PEno0UKCZcvi2KvKp",
+                "title": "AGV_vUdsv5oruplKQIRUWMbvv9x2KQsHkpsjlJM0HHdqeoEGf6I-giOV6tdVSVN3cb1F_UIzck6F42PNuSOo8c_-xfar1NL9t2TV2Mz_HKtIENZ1dyeIAFBy9Yhx9BDS3han1vcP12x8=s2048 (1517×596)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUdsv5oruplKQIRUWMbvv9x2KQsHkpsjlJM0HHdqeoEGf6I-giOV6tdVSVN3cb1F_UIzck6F42PNuSOo8c_-xfar1NL9t2TV2Mz_HKtIENZ1dyeIAFBy9Yhx9BDS3han1vcP12x8=s2048 (1517×596)"
+            }
           }
         ]
       }
@@ -209,8 +223,9 @@
   },
   "active": "0046733a44a87f68",
   "lastOpenFiles": [
-    "11ºAno/Química/M4 - Química verde.md",
     "11ºAno/Geologia/Minerais.md",
+    "Pasted image 20250309192133.png",
+    "11ºAno/Química/M4 - Química verde.md",
     "11ºAno/Química/M3 - Rendimento das reações químicas.md",
     "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
     "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
@@ -245,10 +260,8 @@
     "10ºAno/Matemática/Segmentos de reta orientados e Vetores.md",
     "10ºAno/Matemática/Funções pares e ímpares.md",
     "10ºAno/Matemática/Referencial Ortonormado.md",
-    "11ºAno/Matemática/O radiano como unidade de amplitude.md",
     "Imagens/Pasted image 20250212193207.png",
     "Imagens/Pasted image 20250212180358.png",
-    "Imagens/Pasted image 20250212174646.png",
     "11ºAno/Português/Educação Literária/Amor de Perdição",
     "repo",
     "Nova pasta",
