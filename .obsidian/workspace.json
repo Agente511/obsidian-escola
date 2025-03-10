@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "a2be5900d23f0534",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "96f6c8424c13b4ff",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "AGV_vUcX5_wojbNhXW4BPpt7KR5iWfXJs_tGFbv6gEfglr1z67p-axbZ5Xq_v5fQkU73ks6uwN1Ti7OvQKMApRnh2G8eX1XZ2JfoAsWeOxWqUSEM4OQWbV898WVG8oro2J8ARjKXosVH=s2048 (1512×470)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,7 +248,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0046733a44a87f68",
+  "active": "a2be5900d23f0534",
   "lastOpenFiles": [
     "Pasted image 20250309235727.png",
     "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
