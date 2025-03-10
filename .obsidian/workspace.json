@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "4480d43108d5d160",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeLW-BEjksSwZD4auNI4FhycGTl0ch8ZlVrljZEGc16VaTzlcR-L37IAiQYdG6zy10EG5QkQrn5Mqpzm73Uknwk8fRYlx_myTMI1qNuHVPJ4cXhIcecqhnknNx1433_I-nu_bsnnQ=s2048?key=yuIDoF91vDN_EXaSi6S_Re6b",
+                "title": "AGV_vUeLW-BEjksSwZD4auNI4FhycGTl0ch8ZlVrljZEGc16VaTzlcR-L37IAiQYdG6zy10EG5QkQrn5Mqpzm73Uknwk8fRYlx_myTMI1qNuHVPJ4cXhIcecqhnknNx1433_I-nu_bsnnQ=s2048 (1518×525)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUeLW-BEjksSwZD4auNI4FhycGTl0ch8ZlVrljZEGc16VaTzlcR-L37IAiQYdG6zy10EG5QkQrn5Mqpzm73Uknwk8fRYlx_myTMI1qNuHVPJ4cXhIcecqhnknNx1433_I-nu_bsnnQ=s2048 (1518×525)"
+            }
+          },
+          {
             "id": "96f6c8424c13b4ff",
             "type": "leaf",
             "state": {
@@ -237,8 +251,11 @@
   },
   "active": "0046733a44a87f68",
   "lastOpenFiles": [
-    "11ºAno/Geologia/D1 1. Minerais.md",
+    "Pasted image 20250310213338.png",
     "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+    "Pasted image 20250310212400.png",
+    "Pasted image 20250310212153.png",
+    "11ºAno/Geologia/D1 1. Minerais.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
@@ -251,8 +268,6 @@
     "Pasted image 20250309234331.png",
     "Pasted image 20250309234250.png",
     "Pasted image 20250309232642.png",
-    "Pasted image 20250309232614.png",
-    "Pasted image 20250309230830.png",
     "11ºAno/Química/M4 - Química verde.md",
     "11ºAno/Química/M3 - Rendimento das reações químicas.md",
     "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
@@ -276,7 +291,6 @@
     "11ºAno/Matemática/Vetores.md",
     "11ºAno/Matemática/Lugares geométricos.md",
     "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
-    "10ºAno/Matemática/Coordenadas de vetores.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição",
     "repo",
     "Nova pasta",
