@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+                "file": "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D1 2. Formação das Rochas Sedimentares"
-            }
-          },
-          {
-            "id": "a2be5900d23f0534",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Frei Luís de Sousa - Características"
             }
           },
           {
@@ -61,8 +49,7 @@
               "title": "AGV_vUcX5_wojbNhXW4BPpt7KR5iWfXJs_tGFbv6gEfglr1z67p-axbZ5Xq_v5fQkU73ks6uwN1Ti7OvQKMApRnh2G8eX1XZ2JfoAsWeOxWqUSEM4OQWbV898WVG8oro2J8ARjKXosVH=s2048 (1512×470)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,10 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2be5900d23f0534",
+  "active": "0046733a44a87f68",
   "lastOpenFiles": [
-    "Pasted image 20250309235727.png",
+    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
+    "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
+    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
     "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+    "Pasted image 20250309235727.png",
     "Pasted image 20250309235527.png",
     "Pasted image 20250309235021.png",
     "Pasted image 20250309234828.png",
@@ -262,13 +252,11 @@
     "Pasted image 20250309232642.png",
     "Pasted image 20250309232614.png",
     "Pasted image 20250309230830.png",
-    "Pasted image 20250309230612.png",
     "11ºAno/Química/M4 - Química verde.md",
     "11ºAno/Química/M3 - Rendimento das reações químicas.md",
     "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
     "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
     "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md",
-    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
     "10ºAno/Química/Quantidade de Matéria.md",
     "10ºAno/Química/Tipos de Ligações Químicas.md",
     "10ºAno/Química/Densidade relativa de metais.md",
@@ -289,7 +277,6 @@
     "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
     "10ºAno/Matemática/Coordenadas de vetores.md",
     "10ºAno/Matemática/Segmentos de reta orientados e Vetores.md",
-    "10ºAno/Matemática/Funções pares e ímpares.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição",
     "repo",
     "Nova pasta",
