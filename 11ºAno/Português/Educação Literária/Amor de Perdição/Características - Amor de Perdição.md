@@ -1,5 +1,6 @@
 ## Estrutura
 ## Sugestão biográfico (Simão e narrador)
+![[Pasted image 20250311204348.png]]
 ## Crónica da mudança social
 ## Relações entre personagens
 ## Amor-paixão e construção do herói romântico
