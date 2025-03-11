@@ -35,7 +35,8 @@
               "title": "D1 2. Formação das Rochas Sedimentares"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0046733a44a87f68",
+  "active": "a1fde0a4e2fed94d",
   "lastOpenFiles": [
-    "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
     "11ºAno/Geologia/D1 1. Minerais.md",
+    "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
     "Pasted image 20250310221316.png",
     "Pasted image 20250310221238.png",
     "Pasted image 20250310213338.png",
