@@ -9,3 +9,13 @@ O narrador tenta **sensibilizar o narratório** e procurar a sua **compaixão** 
 
 ### Pontuação expressiva
 ![[Pasted image 20250311204403.png]]
+
+### Herói romântico
+- Força dos sentimentos
+- Excecionalidade
+- Individualismo
+- Egocentrismo
+- Esperança
+- Idealismo
+- Confronto com a sociedade
+- Desilusão/Frustração
