@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aae95969b6aa5c95",
+        "id": "f60a191761878a75",
         "type": "tabs",
         "children": [
           {
-            "id": "0046733a44a87f68",
+            "id": "559b0f0ef0d152ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Geologia/D1 1. Minerais.md",
+                "file": "11ºAno/Português/Educação Literária/Amor de Perdição/Amor de Perdição.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D1 1. Minerais"
-            }
-          },
-          {
-            "id": "a1fde0a4e2fed94d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D1 2. Formação das Rochas Sedimentares"
+              "title": "Amor de Perdição"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "4f5e08690fe3545a",
@@ -223,10 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1fde0a4e2fed94d",
+  "active": "559b0f0ef0d152ed",
   "lastOpenFiles": [
-    "11ºAno/Geologia/D1 1. Minerais.md",
+    "11ºAno/Português/Educação Literária/Amor de Perdição/Amor de Perdição.md",
     "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+    "11ºAno/Geologia/D1 1. Minerais.md",
     "Pasted image 20250310221316.png",
     "Pasted image 20250310221238.png",
     "Pasted image 20250310213338.png",
