@@ -14,14 +14,29 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Geologia/D1 1. Minerais.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "D1 1. Minerais"
             }
+          },
+          {
+            "id": "a1fde0a4e2fed94d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D1 2. Formação das Rochas Sedimentares"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,15 +223,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0046733a44a87f68",
+  "active": "a1fde0a4e2fed94d",
   "lastOpenFiles": [
+    "11ºAno/Geologia/D1 1. Minerais.md",
     "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
     "Pasted image 20250310221316.png",
     "Pasted image 20250310221238.png",
     "Pasted image 20250310213338.png",
     "Pasted image 20250310212400.png",
     "Pasted image 20250310212153.png",
-    "11ºAno/Geologia/D1 1. Minerais.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
     "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
