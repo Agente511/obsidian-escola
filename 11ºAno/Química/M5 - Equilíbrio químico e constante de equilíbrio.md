@@ -73,7 +73,14 @@ Um **equilíbrio químico heterogéneo** corresponde a um estado de equilíbrio 
 >[A] representa a concentração da substância A
 
 O valor da constante de equilíbrio de uma reação química **não depende das concentrações iniciais de reagentes e produtos**, mas **depende da temperatura**.
+Para a mesma reação química, à mesma temperatura, o valor de $K_c$ mantém-se inalterado.
 
+Se:
+- $K_c>>1$, a **conversão de reagentes em produtos é superior** à de produção de reagentes
+  (a reação é **muito extensa no sentido direto**)
+- $K_c \approx 1$, a **conversão de reagentes em produtos é aproximadamente igual à produção de reagentes**
+  (a reação é **igualmente extensa no sentido direto e inverso**)
+- $K_c<<1$, a **conversão de produtos em reagentes é superior** à de reagentes em produtos
+  (a reação é **pouco extensa no sentido direto**)
 
-
-TEMPERATURA (mais vale pôr tudo no M7, não?)
+TEMPERATURA PÁG 60 (mais vale pôr tudo no M7, não?)
