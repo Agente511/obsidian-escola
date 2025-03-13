@@ -24,11 +24,14 @@ Nas reações reversíveis, ao fim de um certo tempo, as **velocidades das reaç
 No **início da reação**:
 - A **velocidade de reação direta** é **máxima**
 - A **velocidade de reação inversa** é **nula**
+- A **concentração de reagentes** é **máxima**
+- A **concentração de produtos** é **nula**
  
 À medida que a **reação prossegue**:
-- A **velocidade da reação direta** e a **concentração** **diminui**
+- A **velocidade da reação direta**
 - A **velocidade da reação inversa** **aumenta**
-- A **concentração de reagentes diminui** 
+- A **concentração de reagentes diminui**
+- A **concentração de produtos aumenta**
 
 Após se atingir o **equilíbrio químico**:
 - A **velocidade da reação inversa** é **igual** à da **reação direta**
@@ -38,7 +41,13 @@ Após se atingir o **equilíbrio químico**:
 > ![[Pasted image 20250312164607.png|350]]
 > A **estabilização da cor** ao fim de um certo tempo evidencia que, **a partir desse instante**, se atingiu o equilíbrio químico.
 ### Equilíbrio químico como um equilíbrio dinâmico
-Após ser atingido um estado de equilíbrio químico, **mantêm-se inalteráveis as características macroscópicas** (não há alteração na cor e concentração), mas, ao **nível microscópico**, **continuam a ocorrer**, à **mesma velocidade** as **reações direta e inversa**.
+Após ser atingido um estado de equilíbrio químico, **mantêm-se inalteráveis as características macroscópicas**:
+- cor 
+- pressão/volume
+- concentração
+- temperatura
+
+Ao **nível microscópico**, **continuam a ocorrer**, à **mesma velocidade** as **reações direta e inversa**.
 Por isso, o equilíbrio químico é um **equilíbrio dinâmico**.
 ### Equilíbrio químico homogéneo e heterogéneo
 Quando uma reação química apresenta os **reagentes e produtos** em **fase gasosa** ou **em solução** (fase aquosa), é designada uma **reação homogénea** e o seu estado de equilíbrio é também um **equilíbrio químico homogéneo**.
@@ -46,11 +55,12 @@ Quando uma reação química apresenta os **reagentes e produtos** em **fase gas
 >- Em fase aquosa: $NH_4OH(aq) \rightleftharpoons NH^+_4(aq)+OH^-(aq)$
 >- Em fase gasosa: $N_2(g)+3H_2(g) \rightleftharpoons 2NH_3(g)$
 
-Um **equilíbrio químico heterogéneo** corresponde a um estado de equilíbrio de uma **mistura reacional heterogénea**.
+Um **equilíbrio químico heterogéneo** corresponde a um estado de equilíbrio de uma **mistura reacional heterogénea** (em que os reagentes e produtos estão em diferentes estados físicos).
 >[!Note] Exemplos
 >- $CaCO_3(s) \rightleftharpoons CaO(s)+CO_2(g)$
 >- $AgCl(s) \rightleftharpoons Ag^+(aq)+Cl^-(aq)$
 ## Constante de equilíbrio, $K_c$
 
->[!Tip] Representação abreviada das concentração
+
+>[!Info] Representação abreviada das concentração
 >[X] representa a concentração da substância X
