@@ -18,12 +18,7 @@ Em reações reversíveis, logo após o início da formação do produto, inicia
 > >[!Info] Comparação com as reações completas
 >Se esta reação fosse completa e se a quantidade de matéria dos dois reagentes fosse a mesma inicialmente, o **sistema reacional deveria ser incolor** no **final da reação**.
 ## Equilíbrio químico
-Nas reações reversíveis, ao fim de um certo tempo, as **concentrações dos reagentes e produtos** mantêm-se **constantes**.
-
-> [!Note] Exemplo
-> ![[Pasted image 20250312164607.png|350]]
-> A **estabilização da cor** ao fim de um certo tempo evidencia que, **a partir desse instante**, as **concentrações de reagentes e produtos mantêm-se constantes**.
-> ![[Pasted image 20250312164235.png]]
+Nas reações reversíveis, ao fim de um certo tempo, as **velocidades das reações direta e inversa são iguais** e as **concentrações dos reagentes e produtos** permanecem-se **constantes**, atingindo-se um estado de equilíbrio químico.
 
 No **início da reação**:
 - A **velocidade de reação direta** é **máxima**
@@ -36,7 +31,14 @@ No **início da reação**:
 A partir do instante que se atinge o **equilíbrio químico**:
 - A **velocidade da reação inversa igual a da direta**
 
->[!Tip] Nota [Concentrações]
->Pode-se coiso e tal []
+> [!Note] Exemplo
+> ![[Pasted image 20250312164607.png|350]]
+> A **estabilização da cor** ao fim de um certo tempo evidencia que, **a partir desse instante**, se atingiu o equilíbrio químico.
+> ![[Pasted image 20250312164235.png]]
+### Equilíbrio químico como um equilíbrio dinâmico
+Quando é atingido um estado de equilíbrio químico, **não se evidencia**, à **escala macroscópica**,  **qualquer variação no sistema reacional** (não há alteração na cor e concentração), mas, ao **nível microscópico**, **continuam a ocorrer**, à **mesma velocidade** as **reações direta e inversa**.
+Por isso, o equilíbrio químico é um **equilíbrio dinâmico**.
+## Constante de equilíbrio, $K_c$
 
-## Constante de equilíbrio
+>[!Tip] Representação abreviada das concentração
+>[X] representa a concentração da substância X
