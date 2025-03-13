@@ -20,23 +20,25 @@ Em reações reversíveis, logo após o início da formação do produto, inicia
 ## Equilíbrio químico
 Nas reações reversíveis, ao fim de um certo tempo, as **velocidades das reações direta e inversa são iguais** e as **concentrações dos reagentes e produtos** permanecem-se **constantes**, atingindo-se um estado de equilíbrio químico.
 
+![[Pasted image 20250312164235.png]]
 No **início da reação**:
 - A **velocidade de reação direta** é **máxima**
 - A **velocidade de reação inversa** é **nula**
  
 À medida que a **reação prossegue**:
-- A **velocidade da reação direta** **diminui**
+- A **velocidade da reação direta** e a **concentração** **diminui**
 - A **velocidade da reação inversa** **aumenta**
+- A **concentração de reagentes diminui** 
 
-A partir do instante que se atinge o **equilíbrio químico**:
-- A **velocidade da reação inversa igual a da direta**
+Após se atingir o **equilíbrio químico**:
+- A **velocidade da reação inversa** é **igual** à da **reação direta**
+- A **concentração de reagentes e produtos** permanecem **constantes**
 
 > [!Note] Exemplo
 > ![[Pasted image 20250312164607.png|350]]
 > A **estabilização da cor** ao fim de um certo tempo evidencia que, **a partir desse instante**, se atingiu o equilíbrio químico.
-> ![[Pasted image 20250312164235.png]]
 ### Equilíbrio químico como um equilíbrio dinâmico
-Quando é atingido um estado de equilíbrio químico, **mantêm-se inalteráveis as características macroscópicas** (não há alteração na cor e concentração), mas, ao **nível microscópico**, **continuam a ocorrer**, à **mesma velocidade** as **reações direta e inversa**.
+Após ser atingido um estado de equilíbrio químico, **mantêm-se inalteráveis as características macroscópicas** (não há alteração na cor e concentração), mas, ao **nível microscópico**, **continuam a ocorrer**, à **mesma velocidade** as **reações direta e inversa**.
 Por isso, o equilíbrio químico é um **equilíbrio dinâmico**.
 ### Equilíbrio químico homogéneo e heterogéneo
 Quando uma reação química apresenta os **reagentes e produtos** em **fase gasosa** ou **em solução** (fase aquosa), é designada uma **reação homogénea** e o seu estado de equilíbrio é também um **equilíbrio químico homogéneo**.
