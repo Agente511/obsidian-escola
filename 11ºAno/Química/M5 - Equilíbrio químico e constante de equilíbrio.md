@@ -36,8 +36,18 @@ A partir do instante que se atinge o **equilíbrio químico**:
 > A **estabilização da cor** ao fim de um certo tempo evidencia que, **a partir desse instante**, se atingiu o equilíbrio químico.
 > ![[Pasted image 20250312164235.png]]
 ### Equilíbrio químico como um equilíbrio dinâmico
-Quando é atingido um estado de equilíbrio químico, **não se evidencia**, à **escala macroscópica**,  **qualquer variação no sistema reacional** (não há alteração na cor e concentração), mas, ao **nível microscópico**, **continuam a ocorrer**, à **mesma velocidade** as **reações direta e inversa**.
+Quando é atingido um estado de equilíbrio químico, **mantêm-se inalteráveis as características macroscópicas** (não há alteração na cor e concentração), mas, ao **nível microscópico**, **continuam a ocorrer**, à **mesma velocidade** as **reações direta e inversa**.
 Por isso, o equilíbrio químico é um **equilíbrio dinâmico**.
+### Equilíbrio químico homogéneo e heterogéneo
+Quando uma reação química apresenta os **reagentes e produtos** em **fase gasosa** ou **em solução** (fase aquosa), é designada uma **reação homogénea** e o seu estado de equilíbrio é também um **equilíbrio químico homogéneo**.
+>[!Note] Exemplos
+>- Em fase aquosa: $NH_4OH(aq) \rightleftharpoons NH^+_4(aq)+OH^-(aq)$
+>- Em fase gasosa: $N_2(g)+3H_2(g) \rightleftharpoons 2NH_3(g)$
+
+Um **equilíbrio químico heterogéneo** corresponde a um estado de equilíbrio de uma **mistura reacional heterogénea**.
+>[!Note] Exemplos
+>- $CaCO_3(s) \rightleftharpoons CaO(s)+CO_2(g)$
+>- $AgCl(s) \rightleftharpoons Ag^+(aq)+Cl^-(aq)$
 ## Constante de equilíbrio, $K_c$
 
 >[!Tip] Representação abreviada das concentração
