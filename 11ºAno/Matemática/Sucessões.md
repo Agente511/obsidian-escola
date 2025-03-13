@@ -86,6 +86,12 @@ Uma sucessão $(u_n)$ é:
 Pode-se **estudar uma sucessão quanto à monotonia** calculando a **diferença $u_{n+1}-u_n$**:
 - **crescente** se **$u_{n+1}-u_n>0$**
 - **decrescente** se **$u_{n+1}-u_n<0$**
+## Sucessões limitadas
+Uma sucessão $(u_n)$ é limitada se o [[#Conjunto limitado|conjunto dos seus termos for limitado]], ou seja, se for:
+- **minorada**, se $\exists\ a \in \mathbb R: \forall\ n \in \mathbb N, u_n \geq a$ , ou seja, se o [[#Minorante de um conjunto|conjunto dos seus termos for minorado]]
+- **majorada**, se  $\exists\ b \in \mathbb R: \forall\ n \in \mathbb N, u_n \leq b$, ou seja, se o [[#Majorante de um conjunto|conjunto dos seus termos for majorado]]
+
+Será, portanto, **limitada** se for **minorada e majorada**, ou seja, se existirem números reais $a$ e $b$ tais que $\forall\ n \in \mathbb N, a \leq u_n \leq b$
 ## Sucessões definidas por recorrência
 Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou outro) é a **relação entre o termo seguinte e a recorrência**.
 >[!Note] Exemplo
