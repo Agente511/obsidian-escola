@@ -33,6 +33,9 @@ No **início da reação**:
 - A **velocidade da reação direta** **diminui**
 - A **velocidade da reação inversa** **aumenta**
 
+A partir do instante que se atinge o **equilíbrio químico**:
+- A **velocidade da reação inversa igual a da direta**
+
 >[!Tip] Nota [Concentrações]
 >Pode-se coiso e tal []
 
