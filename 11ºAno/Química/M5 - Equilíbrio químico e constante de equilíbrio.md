@@ -50,7 +50,7 @@ Após ser atingido um estado de equilíbrio químico, **mantêm-se inalteráveis
 Ao **nível microscópico**, **continuam a ocorrer**, à **mesma velocidade** as **reações direta e inversa**.
 Por isso, o equilíbrio químico é um **equilíbrio dinâmico**.
 ### Equilíbrio químico homogéneo e heterogéneo
-Quando uma reação química apresenta os **reagentes e produtos** em **fase gasosa** ou **em solução** (fase aquosa), é designada uma **reação homogénea** e o seu estado de equilíbrio é também um **equilíbrio químico homogéneo**.
+Quando uma reação química apresenta todos os **reagentes e produtos** em **fase gasosa** ou **em solução** (fase aquosa), é designada uma **reação homogénea** e o seu estado de equilíbrio é também um **equilíbrio químico homogéneo**.
 >[!Note] Exemplos
 >- Em fase aquosa: $NH_4OH(aq) \rightleftharpoons NH^+_4(aq)+OH^-(aq)$
 >- Em fase gasosa: $N_2(g)+3H_2(g) \rightleftharpoons 2NH_3(g)$
@@ -63,10 +63,17 @@ Um **equilíbrio químico heterogéneo** corresponde a um estado de equilíbrio 
 É o **quociente** entre o **produto das concentrações dos produtos da reação** e do **produto das concentrações dos reagentes**, **elevadas aos respetivos coeficientes estequiométricos**.
 É uma grandeza adimensional.
 >[!Summary] Cálculo da constante de equilíbrio
->
+>Para qualquer sistema homogéneo, fechado e em equilíbrio químico, a uma dada temperatura: $a\ A+b\ B \rightleftharpoons c\ C+ d\ D$, a constante de equilíbrio da reação é dada por:
 >$$\begin{flalign}& K_c=\frac {[C]^c\times[D]^d} {[A]^a\times[B]^b} &\end{flalign}$$
+>
 >Sendo:
 >- $K_c$: constante de equilíbrio da reação ($c$ em $K_c$ refere-se a concentrações)
+>
+>>[!Info] Representação abreviada da concentração molar
+>[A] representa a concentração da substância A
 
->[!Info] Representação abreviada das concentração
->[X] representa a concentração da substância X
+O valor da constante de equilíbrio de uma reação química **não depende das concentrações iniciais de reagentes e produtos**, mas **depende da temperatura**.
+
+
+
+TEMPERATURA (mais vale pôr tudo no M7, não?)
