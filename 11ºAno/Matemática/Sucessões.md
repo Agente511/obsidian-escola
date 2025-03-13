@@ -88,10 +88,21 @@ Pode-se **estudar uma sucessão quanto à monotonia** calculando a **diferença 
 - **decrescente** se **$u_{n+1}-u_n<0$**
 ## Sucessões limitadas
 Uma sucessão $(u_n)$ é limitada se o [[#Conjunto limitado|conjunto dos seus termos for limitado]], ou seja, se for:
-- **minorada**, se $\exists\ a \in \mathbb R: \forall\ n \in \mathbb N, u_n \geq a$ , ou seja, se o [[#Minorante de um conjunto|conjunto dos seus termos for minorado]]
-- **majorada**, se  $\exists\ b \in \mathbb R: \forall\ n \in \mathbb N, u_n \leq b$, ou seja, se o [[#Majorante de um conjunto|conjunto dos seus termos for majorado]]
+- **minorada**, se $\exists\ a \in \mathbb R: \forall\ n \in \mathbb N,\ u_n \geq a$ , ou seja, se o [[#Minorante de um conjunto|conjunto dos seus termos for minorado]]
+- **majorada**, se  $\exists\ b \in \mathbb R: \forall\ n \in \mathbb N,\ u_n \leq b$, ou seja, se o [[#Majorante de um conjunto|conjunto dos seus termos for majorado]]
 
-Será, portanto, **limitada** se for **minorada e majorada**, ou seja, se existirem números reais $a$ e $b$ tais que $\forall\ n \in \mathbb N, a \leq u_n \leq b$
+Será, portanto, **limitada** se for **minorada e majorada**, ou seja, se existirem números reais $a$ e $b$ tais que $\forall\ n \in \mathbb N,\ a \leq u_n \leq b$.
+
+>[!Note] Exemplo
+>1. $u_n=(-1)^n$
+>![[Pasted image 20250313223118.png|550]]
+>$-1\leq u_n \leq$ 1, logo, $(u_n)$ é limitada.
+>
+>---
+>2. $u_n=\frac {6_n+1} {2_n+4}$
+>
+>$$\begin{flalign}& u_{n+1}-u_n=\frac  &\end{flalign}$$
+
 ## Sucessões definidas por recorrência
 Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou outro) é a **relação entre o termo seguinte e a recorrência**.
 >[!Note] Exemplo
