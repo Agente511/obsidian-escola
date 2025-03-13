@@ -101,8 +101,21 @@ Será, portanto, **limitada** se for **minorada e majorada**, ou seja, se existi
 >---
 >2. $u_n=\frac {6_n+1} {2_n+4}$
 >
->$$\begin{flalign}& u_{n+1}-u_n=\frac  &\end{flalign}$$
+>$$\begin{flalign}& u_{n+1}-u_n= &\end{flalign}$$
+>$$\begin{flalign}& = \frac {6(n+1)+1} {2(n+1)+4}-\frac {6n+1} {2n+4} = &\end{flalign}$$
+>$$\begin{flalign}& = \frac {6n+7} {2n+6} - \frac {6n+1} {2n+4} = &\end{flalign}$$
+>$$\begin{flalign}& = \frac {(6n+7)(2n+4)} {(2n+6)(2n+4)} - \frac {(6n+1)(2n+6)} {(2n+4)(2n+6)} &\end{flalign}$$
+>$$\begin{flalign}& = \frac {(6n+7)(2n+4)-(6n+1)(2n+6)} {(2n+6)(2n+4)} &\end{flalign}$$
+>$$\begin{flalign}& =\frac {(12n^2+24n+14n+28)-(12n^2+36n+2n+6)} {(2n+4)(2n+6)} &\end{flalign}$$
+>$$\begin{flalign}& =\frac {12n^2+38n+28-12n^2-38n-6} {(2n+4)(2n+6)} &\end{flalign}$$
+>$$\begin{flalign}& =\frac {22} {(2n+4)(2n+6)} &\end{flalign}$$
+>
+>Como $\frac {22} {(2n+4)(2n+6)}>0$, $(u_n)$ é crescente
+>
+>$$\begin{flalign}& u_1=\frac {6 \times 1 +1} {2 \times 1 + 4} = \frac 7 6 &\end{flalign}$$
 
+
+NÃO PUS EXEMPLOS DE MINORANTES E MAJORANTES??
 ## Sucessões definidas por recorrência
 Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou outro) é a **relação entre o termo seguinte e a recorrência**.
 >[!Note] Exemplo
