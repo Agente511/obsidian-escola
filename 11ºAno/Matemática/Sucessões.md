@@ -126,10 +126,6 @@ Será, portanto, **limitada** se for **minorada e majorada**, ou seja, se existi
 >
 >**Logo, $\frac 7 6 \leq u_n \leq 3$**
 >**($u_n$) é limitada.**
-
-
-
-NÃO PUS EXEMPLOS DE MINORANTES E MAJORANTES??
 ## Sucessões definidas por recorrência
 Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou outro) é a **relação entre o termo seguinte e a recorrência**.
 >[!Note] Exemplo
@@ -139,3 +135,9 @@ Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou out
 >$$\begin{cases} u_1=3 \\\ u_{n+1}=2u_n+1, \forall n \in \mathbb N \end{cases}$$
 >
 
+## Progressão aritmética
+
+
+
+
+>>>>>**Fazer exemplos majorante e minorante**
