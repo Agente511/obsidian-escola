@@ -139,10 +139,40 @@ Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou out
 Uma sucessão é uma progressão aritmética se e só se a **diferença entre $u_{n+1}$ e $u_n$ for constante**, sendo essa a **razão**.
 ### Razão
 >[!Summary] Cálculo da razão
->$$\begin{flalign}&  &\end{flalign}$$
->Sendo:
->- $$: ()
+>$$\begin{flalign}& u_{n+1}-u_n=r &\end{flalign}$$
 
+### Termo geral (relação entre 2 termos quaisquer)
+>[!Summary] Termo geral
+>$u_n=u_1+(n-1)r$
+>ou
+>$u_n=u_k+(n-k)r$
 
+### Monotonia
+- **Crescente**, se $u_{n+1}-u_n>0$ ($r>0$)
+- **Constante**, se $u_{n+1}-u_n=0$ ($r=0$)
+- **Decrescente**, se $u_{n+1}-u_n<0$ ($r<0$)
+### Soma de $n$ termos consecutivos
+>[!Summary] Soma de $n$ termos consecutivos
+> $$\begin{flalign}& S_n=\frac {u_1+u_n} 2 \times n &\end{flalign}$$
+> ou
+> $$\begin{flalign}& S_\text{(entre k e p parcelas)}=\frac {u_k+u_p} 2 \times (p-k+1) &\end{flalign}$$
+## Progressão geométrica
+### Razão
+>[!Summary] Cálculo da razão
+>$$\begin{flalign}& \frac {u_{n+1}} {u_n}=r &\end{flalign}$$
+### Termo geral (relação entre 2 termos quaisquer)
+>[!Summary] Termo geral
+>$u_n=u_1\times r^{n-1}$
+>ou
+>$u_n=u_k\times r^{n-k}$
+### Monotonia
+- **Crescente**, se $u_{n+1}-u_n>0$ ($r>0$)
+- **Constante**, se $u_{n+1}-u_n=0$ ($r=0$)
+- **Decrescente**, se $u_{n+1}-u_n<0$ ($r<0$)
+### Soma de $n$ termos consecutivos
+>[!Summary] Soma de $n$ termos consecutivos
+> $$\begin{flalign}& S_n=u_1 \times \frac {1-r^n} {1-r} &\end{flalign}$$
+> ou
+> $$\begin{flalign}& S_\text{(entre k e p parcelas)}=\frac {u_k+u_p} 2 \times (p-k+1) &\end{flalign}$$
 
 >>>>>**Fazer exemplos majorante e minorante**
