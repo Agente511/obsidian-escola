@@ -136,7 +136,12 @@ Um sucessão definida por recorrência quando **se conhece o 1º termo** (ou out
 >
 
 ## Progressão aritmética
-
+Uma sucessão é uma progressão aritmética se e só se a **diferença entre $u_{n+1}$ e $u_n$ for constante**, sendo essa a **razão**.
+### Razão
+>[!Summary] Cálculo da razão
+>$$\begin{flalign}&  &\end{flalign}$$
+>Sendo:
+>- $$: ()
 
 
 
