@@ -112,11 +112,22 @@ Será, portanto, **limitada** se for **minorada e majorada**, ou seja, se existi
 >
 >Como $\frac {22} {(2n+4)(2n+6)}>0$, $(u_n)$ é crescente
 >
->$$\begin{flalign}& u_1=\frac {6 \times 1 +1} {2 \times 1 + 4} = \frac 7 6 &\end{flalign}$$
+>$$\begin{flalign}& u_1=\frac {6 \times 1 +1} {2 \times 1 + 4} = \frac 7 6 \longleftarrow \text{minorante} &\end{flalign}$$
 >
+>$$\begin{array}{r|l}
+6n+1 & 2n+4
+\\\hline
+-6n-12 & 3
+\\ \hline
+-11 \end{array}
+>$$
+>$$\begin{flalign}& \frac {6n+1} {2n+4}=3+\frac {-11} {2n+4}=3-\frac {11} {2n+4} &\end{flalign}$$
+>$3 \longleftarrow \text{majorante}$
 >
+>**Logo, $\frac 7 6 \leq u_n \leq 3$**
+>**($u_n$) é limitada.**
 
-$$\begin{array}{rll} 125 \\[-3pt]  {500}\kern-.2ex \\[-3pt] \underline{4\phantom{00}} \\[-3pt] 10\phantom{0}\\[-3pt] \end{array}$$
+
 
 NÃO PUS EXEMPLOS DE MINORANTES E MAJORANTES??
 ## Sucessões definidas por recorrência
