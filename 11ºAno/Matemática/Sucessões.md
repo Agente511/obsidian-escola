@@ -32,8 +32,7 @@ Seja $A$ um conjunto de números reais:
 - O conjunto $A$ é **majorado** se tiver **pelo menos um majorante**.
 
 >[!Note] Exemplos
->- O intervalo de números reais $[4,7]$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 7**. $[7, +\infty[$ é o conjunto dos majorantes do conjunto
->- O intervalo de números reais $[4,7[$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 7**. $[7, +\infty[$ é o conjunto dos majorantes do conjunto..
+>- O intervalo de números reais $[4,7]$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 7**. $[7, +\infty[$ é o conjunto dos majorantes do conjunto.
 >- O conjunto $A={1,2,3}$ é **majorado**, tendo como **majorantes** todos os **números superiores ou iguais a 3**. $[3, +\infty[$ é o conjunto dos majorantes do conjunto.
 >- O intervalo de números reais $[3, +\infty[$ **não é majorado**, porque **não tem majorantes**.
 >- O conjunto $\mathbb N$ **não é majorado**, porque **não tem majorantes**.
@@ -53,7 +52,6 @@ Seja $A$ um conjunto de números reais:
 
 >[!Note] Exemplos
 >- O intervalo de números reais $[4,7]$ é **minorado**, tendo como **minorantes** todos os **números inferiores ou iguais a 4**. $]-\infty, 4]$ é o conjunto dos minorantes do conjunto.
->- O intervalo de números reais $]4,7]$ é **minorado**, tendo como **minorantes** todos os **números inferiores ou iguais a 4**. $]-\infty, 4]$ é o conjunto dos minorantes do conjunto.
 >- O intervalo de números reais $]-\infty,3]$ **não é minorado**, porque **não tem minorantes**. 
 >- O conjunto $\mathbb N$ é **minorado**, tendo como **minorantes** todos os **números inferiores ou iguais a 1**.
 
@@ -62,7 +60,7 @@ Seja $A$ um conjunto de números reais:
 - Um número real é **mínimo de $A$** se **pertencer a $A$** e for **minorante de $A$**.
 
 >[!Note] Exemplos
->- **4 é mínimo** do intervalo de números reais **$[4,7]$**, pois **4 $\in [4,7]$** e **7 é minorante deste conjunto**.
+>- **4 é mínimo** do intervalo de números reais **$[4,7]$**, pois **4 $\in [4,7]$** e **4 é minorante deste conjunto**.
 >- **4 não é mínimo** (nem nenhum outro número é) do intervalo de números reais **$]4,7]$**, pois **4 $\notin\ ]4,7]$**, apesar de ser **minorante** deste conjunto.
 
 Um conjunto só pode ter **um único mínimo**.
