@@ -173,6 +173,6 @@ Uma sucessão é uma progressão aritmética se e só se a **diferença entre $u
 >[!Summary] Soma de $n$ termos consecutivos
 > $$\begin{flalign}& S_n=u_1 \times \frac {1-r^n} {1-r} &\end{flalign}$$
 > ou
-> $$\begin{flalign}& S_\text{(entre k e p parcelas)}=\frac {u_k+u_p} 2 \times (p-k+1) &\end{flalign}$$
+> $$\begin{flalign}& S=u_k \times \frac {1-r^{p-k+1}} {1-r} &\end{flalign}$$
 
 >>>>>**Fazer exemplos majorante e minorante**
