@@ -164,14 +164,22 @@ Uma sucessão é uma progressão aritmética se e só se a **diferença entre $u
 >ou
 >$u_n=u_k\times r^{n-k}$
 ### Monotonia
-- **Crescente**, se $u_{n+1}-u_n>0$ ($r>0$)
-- **Constante**, se $u_{n+1}-u_n=0$ ($r=0$)
-- **Decrescente**, se $u_{n+1}-u_n<0$ ($r<0$)
+- **Não monótona**, se $r<0$
+- **Monótona**, se $r>0$
+	- **Crescente**, se:
+		-  $0<r<1$ e $u_1<0$
+		- $r>1$ e $u_1>0$
+	- **Decrescente**, se:
+		- $0<r<1$ e $u_1>0$
+		- $r>1$ e $u_1<0$
+- **Constante**, se $r=1$
 ### Soma de $n$ termos consecutivos
 >[!Summary] Soma de $n$ termos consecutivos
 > $$\begin{flalign}& S_n=u_1 \times \frac {1-r^n} {1-r} &\end{flalign}$$
 > ou
 > $$\begin{flalign}& S=u_k \times \frac {1-r^{p-k+1}} {1-r} &\end{flalign}$$
+> 
+> Se $(u_n)$ for **constante**: $S_n=n \times u_1$
 
 
 ---
