@@ -173,4 +173,6 @@ Uma sucessão é uma progressão aritmética se e só se a **diferença entre $u
 > ou
 > $$\begin{flalign}& S=u_k \times \frac {1-r^{p-k+1}} {1-r} &\end{flalign}$$
 
->>>>>**Fazer exemplos majorante e minorante**
+
+---
+>>>>>***Devia apontar exemplos de determinação de majorantes e minorantes nas sucessões***
