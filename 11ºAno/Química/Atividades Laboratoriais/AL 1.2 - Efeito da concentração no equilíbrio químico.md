@@ -31,7 +31,9 @@ $$
 >[!Info] Origem do $Ag^+$
 >$AgNO_3(s) \longrightarrow Ag^+ (aq) + NO_3^-(aq)$
 #### Efeitos da adição de substâncias em solução aquosa
-- **$Fe(NO_3)_3$**: 
+- **$Fe(NO_3)_3$**:
+	- sistema reacional fica **mais amarelo**
+	- concentração de **$Fe^{3+}$ aumenta**
 #### Razão da atividade ser feita em microescala (reduzidas quantidades de reagentes)
 - Minimiza o gasto de reagentes
 - Reduz a formação de resíduos
@@ -48,5 +50,6 @@ $$
 ### Aleatórios (ou acidentais)
 - 
 
-
-como são $(NO_3)$**$_3$**, cada 
+## Perigos das substâncias utilizadas
+- $Fe(NO_3)_3$:
+	- 
