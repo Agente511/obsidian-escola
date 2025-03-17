@@ -20,7 +20,7 @@ $$
   $Fe(NO_3)_3(s) \xrightarrow[\text{}]{\text{água}} Fe^{3+}(aq)+3NO_3^-(aq)$
 - A dissociação do sal $KSCN$ faz-se através da equação:
   $KSCN (s) \xrightarrow[\text{}]{\text{água}} K^+(aq)+SCN^-(aq)$
-#### Formação dos precipitados $Fe(OH)_3$ e $AgSCN$
+#### Formação dos precipitados insolúveis $Fe(OH)_3$ e $AgSCN$
 (usado para diminuir as concentrações dos reagentes da reação em estudo)
 
 - $Fe^{3+}(aq)+3OH^-(aq) \longrightarrow Fe(OH)_3(s)$
@@ -31,9 +31,18 @@ $$
 >[!Info] Origem do $Ag^+$
 >$AgNO_3(s) \longrightarrow Ag^+ (aq) + NO_3^-(aq)$
 #### Efeitos da adição de substâncias em solução aquosa
-- **$Fe(NO_3)_3$**:
-	- sistema reacional fica **mais amarelo**
+- $Fe(NO_3)_3$:
 	- concentração de **$Fe^{3+}$ aumenta**
+	- sistema reacional fica **vermelho mais escuro**
+- $KSCN$:
+	- concentração de **$SCN^-$ aumenta**
+	- sistema reacional fica **vermelho mais escuro**
+- $NaOH$:
+	- concentração de **$Fe^{3+}$ diminui**
+	- sistema reacional fica **vermelho mais claro**
+- $AgNO_3$
+	- concentração de **$SCN^-$ diminui**
+	- sistema reacional fica **vermelho mais claro**
 #### Razão da atividade ser feita em microescala (reduzidas quantidades de reagentes)
 - Minimiza o gasto de reagentes
 - Reduz a formação de resíduos
@@ -42,13 +51,14 @@ $$
 - 
 ## Procedimento
 *(Livro)*
-## Exploração dos resultados
-- 
 ## Possíveis erros
 ### Sistemáticos
-- 
+- Impurezas nos reagentes
+- Variações na temperatura (porque altera o equilíbrio químico)
+- Materiais contaminados
 ### Aleatórios (ou acidentais)
-- 
+- Observação subjetiva da cor
+- Agitação inconsistente das soluções, levando a homogeneizações diferentes da mistura
 
 ## Perigos das substâncias utilizadas
 - $Fe(NO_3)_3$:
