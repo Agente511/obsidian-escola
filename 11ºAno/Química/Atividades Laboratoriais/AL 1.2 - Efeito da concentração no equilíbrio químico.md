@@ -3,7 +3,7 @@
 ### Introdução/Outros objetivos
 - Investigar alterações de equilíbrio químicos num sistema aquoso por variação da concentração de reagentes e produtos
 - Explicar a alteração da cor do sistema reacional, com base no Princípio de Le Chântelier
-- 
+- Comparar a intensidade da cor de diferentes soluções
 
 ## Fundamentos teóricos da atividade
 Nesta atividade, vai se deduzir as deslocações do equilíbrio numa reação com reagente corados cuja intensidade da cor depende da concentração.
@@ -49,7 +49,7 @@ $$
 - Reduz a formação de resíduos
 - Minimiza a exposição a substâncias perigosas
 ### Teoria das questões finais
-- *(achei desnecessário)*
+*(achei desnecessário)*
 ## Procedimento
 *(Livro)*
 ## Possíveis erros
@@ -69,5 +69,19 @@ $$
 	- Irritação nas vias respiratórias
 	- Toxicidade
 - $KSCN$:
-	- Toxicidade oral, por inalação e 
-	- 
+	- Nocivo por ingestão
+	- Nocivo ao ser inalado
+	- Nocivo em contacto com a pele
+	- Nocivo para organismos aquáticos
+	- **Usar luvas de proteção/proteção ocular/proteção facial**
+- $NaOH$:
+	- Corrosão cutânea e queimaduras na pele
+	- Corrosivo para os metais
+	- **Usar luvas de proteção/proteção ocular/proteção facial**
+- $AgNO_3$
+	- Corrosão cutânea e queimaduras na pele
+	- Provoca lesões oculares graves
+	- Corrosivo para os metais
+	- Tóxico para organismos aquáticos
+	- **Evitar libertação para o ambiente**
+	- **Usar luvas de proteção/proteção ocular/proteção facial**
