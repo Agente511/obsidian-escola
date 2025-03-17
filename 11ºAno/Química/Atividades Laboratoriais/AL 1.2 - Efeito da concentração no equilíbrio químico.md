@@ -23,6 +23,13 @@ $$
 
 - $SCN^-(aq)+Ag^+(aq) \longrightarrow AgSCN(s)$
 >[!Info] Origem do $Ag^+$
+>$AgNO_3(s) \longrightarrow Ag^+ (aq) + NO_3^-(aq)$
+#### Efeitos da adição de substâncias em solução aquosa
+- **$Fe(NO_3)_3$** 
+#### Razão da atividade ser feita em microescala (reduzidas quantidades de reagentes)
+- Minimiza o gasto de reagentes
+- Reduz a formação de resíduos
+- Minimiza a exposição a substâncias perigosas
 ### Questões finais
 - 
 ## Procedimento
