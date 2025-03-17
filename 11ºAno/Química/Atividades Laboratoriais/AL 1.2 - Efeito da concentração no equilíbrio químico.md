@@ -49,7 +49,7 @@ $$
 - Reduz a formação de resíduos
 - Minimiza a exposição a substâncias perigosas
 ### Teoria das questões finais
-*(achei desnecessário)*
+*(não me apeteceu)*
 ## Procedimento
 *(Livro)*
 ## Possíveis erros
