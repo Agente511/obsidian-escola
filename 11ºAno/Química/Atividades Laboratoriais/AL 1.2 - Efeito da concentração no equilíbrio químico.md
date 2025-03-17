@@ -2,7 +2,8 @@
 
 ### Introdução/Outros objetivos
 - Investigar alterações de equilíbrio químicos num sistema aquoso por variação da concentração de reagentes e produtos
-- ...
+- Explicar a alteração da cor do sistema reacional, com base no Princípio de Le Chântelier
+- 
 
 ## Fundamentos teóricos da atividade
 Nesta atividade, vai se deduzir as deslocações do equilíbrio numa reação com reagente corados cuja intensidade da cor depende da concentração.
@@ -48,18 +49,25 @@ $$
 - Reduz a formação de resíduos
 - Minimiza a exposição a substâncias perigosas
 ### Teoria das questões finais
-- 
+- *(achei desnecessário)*
 ## Procedimento
 *(Livro)*
 ## Possíveis erros
 ### Sistemáticos
 - Impurezas nos reagentes
-- Variações na temperatura (porque altera o equilíbrio químico)
 - Materiais contaminados
-### Aleatórios (ou acidentais)
+- Erros de paralaxe
 - Observação subjetiva da cor
+### Aleatórios (ou acidentais)
 - Agitação inconsistente das soluções, levando a homogeneizações diferentes da mistura
+- Variações na temperatura (porque altera o equilíbrio químico)
 
 ## Perigos das substâncias utilizadas
 - $Fe(NO_3)_3$:
+	- Irritação cutânea
+	- Irritação ocular
+	- Irritação nas vias respiratórias
+	- Toxicidade
+- $KSCN$:
+	- Toxicidade oral, por inalação e 
 	- 
