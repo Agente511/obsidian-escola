@@ -2,7 +2,7 @@
 
 ### Introdução/Outros objetivos
 - Investigar alterações de equilíbrio químicos num sistema aquoso por variação da concentração de reagentes e produtos
-- 
+- ...
 
 ## Fundamentos teóricos da atividade
 Nesta atividade, vai se deduzir as deslocações do equilíbrio numa reação com reagente corados cuja intensidade da cor depende da concentração.
@@ -12,16 +12,14 @@ $$
 - $Fe^{3+}$ é proveniente da [[#Dissociação dos sais $Fe(No_3)_3$ e $KSCN$|solução aquosa de nitrato de ferro(III)]], $Fe(NO_3)_3$. Ambos são amarelos.
 - $SCN^-$ é proveniente da [[#Dissociação dos sais $Fe(No_3)_3$ e $KSCN$|solução aquosa de tiocianato de potássio]], $KSCN$. Ambos são incolores.
 - $[FeSCN]^{2+}$ é vermelho.
-### Questões pré-laboratoriais
-#### Dissociação dos sais $Fe(No_3)_3$ e $KSCN$
+### Teoria das questões pré-laboratoriais
+#### Dissociação dos sais $Fe(NO_3)_3$ e $KSCN$
 (usado para aumentar as concentrações dos reagentes da reação em estudo)
 
 - A dissociação do sal $Fe(NO_3)_3$ faz-se através da equação:
-  $Fe(No_3)_3(s) + H_2O (l) \longrightarrow Fe^{3+}(aq)+3NO_3^-(aq)$
+  $Fe(NO_3)_3(s) \xrightarrow[\text{}]{\text{água}} Fe^{3+}(aq)+3NO_3^-(aq)$
 - A dissociação do sal $KSCN$ faz-se através da equação:
-  $KSCN (s) + H_2O \longrightarrow K^+(aq)+SCN^-(aq)$
->[!Tip] Nota
->O $H_2O$ pode-se pôr por cima da seta ($\longrightarrow$)
+  $KSCN (s) \xrightarrow[\text{}]{\text{água}} K^+(aq)+SCN^-(aq)$
 #### Formação dos precipitados $Fe(OH)_3$ e $AgSCN$
 (usado para diminuir as concentrações dos reagentes da reação em estudo)
 
@@ -38,7 +36,7 @@ $$
 - Minimiza o gasto de reagentes
 - Reduz a formação de resíduos
 - Minimiza a exposição a substâncias perigosas
-### Questões finais
+### Teoria das questões finais
 - 
 ## Procedimento
 *(Livro)*
@@ -49,3 +47,6 @@ $$
 - 
 ### Aleatórios (ou acidentais)
 - 
+
+
+como são $(NO_3)$**$_3$**, cada 
