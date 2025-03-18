@@ -34,16 +34,16 @@ $$
 #### Efeitos da adição de substâncias em solução aquosa
 - $Fe(NO_3)_3$:
 	- concentração de **$Fe^{3+}$ aumenta**
-	- sistema reacional fica **vermelho mais intenso/escuro**
+	- sistema reacional fica **vermelho mais intenso/escuro** do que na amostra de controlo (cavidade 1)
 - $KSCN$:
 	- concentração de **$SCN^-$ aumenta**
-	- sistema reacional fica **vermelho mais intenso/escuro**
+	- sistema reacional fica **vermelho mais intenso/escuro** do que na amostra de controlo (cavidade 1)
 - $NaOH$:
 	- concentração de **$Fe^{3+}$ diminui**
-	- sistema reacional fica **mais amarelada**
+	- sistema reacional fica **mais amarelada** (apesar de também poder ser considerado um vermelho menos acentuado) do que na amostra de controlo (cavidade 1)
 - $AgNO_3$
 	- concentração de **$SCN^-$ diminui**
-	- sistema reacional fica **mais amarelada**
+	- sistema reacional fica **mais amarelada** (apesar de também poder ser considerado um vermelho menos acentuado) do que na amostra de controlo (cavidade 1)
 #### Razão da atividade ser feita em microescala (reduzidas quantidades de reagentes)
 - Minimiza o gasto de reagentes
 - Reduz a formação de resíduos
