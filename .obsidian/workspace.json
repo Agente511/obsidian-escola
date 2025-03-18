@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "D1 3. Classificação das rochas sedimentares"
             }
+          },
+          {
+            "id": "05486561b2f01750",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfrFINkDLKO08B_9lH5hrspMYy6F594DqKQ5Ci0y-CfKDnW7zuxfZvs8A27SfwLm-EbrTuK5fd0vnSkC9YbRg4em9XK41Sfm6Xw9dJaOUq_aE6XUK9sjbm_VidXtbFAECNtv1f7Zw=s2048?key=yBxbHDxxRgWTr8NDI4g6uEZn",
+                "title": "AGV_vUfrFINkDLKO08B_9lH5hrspMYy6F594DqKQ5Ci0y-CfKDnW7zuxfZvs8A27SfwLm-EbrTuK5fd0vnSkC9YbRg4em9XK41Sfm6Xw9dJaOUq_aE6XUK9sjbm_VidXtbFAECNtv1f7Zw=s2048 (565×423)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUfrFINkDLKO08B_9lH5hrspMYy6F594DqKQ5Ci0y-CfKDnW7zuxfZvs8A27SfwLm-EbrTuK5fd0vnSkC9YbRg4em9XK41Sfm6Xw9dJaOUq_aE6XUK9sjbm_VidXtbFAECNtv1f7Zw=s2048 (565×423)"
+            }
+          },
+          {
+            "id": "3657477412b38f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Geologia/D1. 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D1. 4"
+            }
           }
         ]
       }
@@ -209,19 +237,25 @@
   },
   "active": "559b0f0ef0d152ed",
   "lastOpenFiles": [
+    "Pasted image 20250318011629.png",
+    "Pasted image 20250318011627.png",
     "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
+    "Pasted image 20250318011547.png",
+    "Pasted image 20250318011515.png",
+    "11ºAno/Geologia/D1. 4.md",
+    "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+    "11ºAno/Geologia/D1 1. Minerais.md",
+    "Pasted image 20250318010322.png",
     "Pasted image 20250318010254.png",
     "Pasted image 20250318005324.png",
     "Pasted image 20250318004734.png",
     "Pasted image 20250318004237.png",
     "11ºAno/Química/Atividades Laboratoriais/AL 1.2 - Efeito da concentração no equilíbrio químico.md",
     "11ºAno/Física/Atividades Laboratoriais/AE 7.md",
-    "11ºAno/Geologia/D1 1. Minerais.md",
     "Tamanho PDFs.md",
     "Joana CO.md",
     "Imagens/Pasted image 20250313223118.png",
     "Imagens/Pasted image 20250309234828.png",
-    "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
     "10ºAno/Devia fazer resumos das ALs de FQ talvez....md",
     "11ºAno/Matemática/Sucessões.md",
     "Sem título.md",
@@ -234,16 +268,11 @@
     "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
     "11ºAno/Matemática/Vetores.md",
     "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
-    "Imagens/Pasted image 20250312164607.png",
-    "Imagens/Pasted image 20250312164324.png",
-    "Imagens/Pasted image 20250312164235.png",
-    "Imagens/Pasted image 20250312164228.png",
     "11ºAno/Química/M4 - Química verde.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição/Características - Amor de Perdição.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição/Sem título.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição/Relação com Frei Luís de Sousa.md",
     "11ºAno/Português/Educação Literária/Amor de Perdição/Amor de Perdição.md",
-    "11ºAno/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
     "CloudAtlas",
     "11ºAno/Química/Atividades Laboratoriais",
     "11ºAno/Geologia",
