@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
+                "file": "11ºAno/Geologia/D1 1. Minerais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de D4 1.+2. Sistemas de classificação e regras de nomenclatura"
+              "title": "Índice de D1 1. Minerais"
             }
           },
           {
@@ -215,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
