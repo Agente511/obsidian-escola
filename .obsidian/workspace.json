@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+                "file": "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de D1 2. Formação das Rochas Sedimentares"
+              "title": "Índice de D1 3. Classificação das rochas sedimentares"
             }
           },
           {
@@ -237,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d9f5704688cd5bb",
+  "active": "559b0f0ef0d152ed",
   "lastOpenFiles": [
-    "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
     "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+    "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
     "11ºAno/Geologia/D1 1. Minerais.md",
     "Pasted image 20250318191516.png",
     "Pasted image 20250318190447.png",
