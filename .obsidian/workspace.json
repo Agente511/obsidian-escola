@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "D1 3. Classificação das rochas sedimentares"
             }
+          },
+          {
+            "id": "4b9cda8f7ff61459",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcxbbVrnpRHU1YA3gKjTKGpQT4v5gygBQMPtAtoGBW6UjTWiL6n8s7qejZu7Pkg0yl4ilOFXGI5TOOAgHUT5GlgJxVeZjIYza0aw_zCHv2wuj9bToUIBjualDhqxdhHbOYeNRnuFg=s2048?key=Y40qqzrRIrBuGlwkmL2hVJ_Z",
+                "title": "AGV_vUcxbbVrnpRHU1YA3gKjTKGpQT4v5gygBQMPtAtoGBW6UjTWiL6n8s7qejZu7Pkg0yl4ilOFXGI5TOOAgHUT5GlgJxVeZjIYza0aw_zCHv2wuj9bToUIBjualDhqxdhHbOYeNRnuFg=s2048 (1517×452)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUcxbbVrnpRHU1YA3gKjTKGpQT4v5gygBQMPtAtoGBW6UjTWiL6n8s7qejZu7Pkg0yl4ilOFXGI5TOOAgHUT5GlgJxVeZjIYza0aw_zCHv2wuj9bToUIBjualDhqxdhHbOYeNRnuFg=s2048 (1517×452)"
+            }
           }
         ]
       }
@@ -207,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "559b0f0ef0d152ed",
   "lastOpenFiles": [
+    "Pasted image 20250318174049.png",
     "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
     "Pasted image 20250318020435.png",
     "Pasted image 20250318015825.png",
