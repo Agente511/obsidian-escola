@@ -49,7 +49,8 @@
               "title": "D1 3. Classificação das rochas sedimentares"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Geologia/D1 1. Minerais.md",
+                "file": "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de D1 1. Minerais"
+              "title": "Índice de D1 2. Formação das Rochas Sedimentares"
             }
           },
           {
@@ -236,11 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "830f04544776b428",
+  "active": "3d9f5704688cd5bb",
   "lastOpenFiles": [
+    "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
     "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
     "11ºAno/Geologia/D1 1. Minerais.md",
-    "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
     "Pasted image 20250318191516.png",
     "Pasted image 20250318190447.png",
     "Pasted image 20250318185005.png",
