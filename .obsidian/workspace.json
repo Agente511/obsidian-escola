@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "D1 3. Classificação das rochas sedimentares"
             }
-          },
-          {
-            "id": "ce4a3cf3e1af6137",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "da",
+                "query": "diatom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
