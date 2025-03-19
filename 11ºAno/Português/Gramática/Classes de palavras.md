@@ -111,5 +111,25 @@ Modifica o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como 
 - ### de Frase
 	Age como modificador
 	>[!Exemplo]
-	>*Felizmente, obviamente, essencialmente, historicamente,
-[...]
+	>*Felizmente, talvez, obviamente, essencialmente, historicamente, certamente...
+
+- ### Interrogativo
+	>[!Exemplo]
+	>*onde?, quando?, porque?, porquê?, como?*
+
+- ### Relativo
+	Referente ao constituinte relativizado numa oração relativa
+	>[!Exemplo]
+	>- A rua **onde** moro é bonita.
+	>- O prato **que** comi estava delicioso.
+- ### Conectivo
+	Conecta a frase através de, por exemplo, relações de consequência, contraste ou ordenação
+	>[!Exemplo]
+	>- O João falou com a Maria. **Seguidamente**, foi para casa.
+	>- A Madalena caiu. **Consequentemente**, partiu uma perna.
+	>- Está frio. O Tiago, **contudo**, vestiu uns calções.
+	>- **Primeiro** batem-se os ovos com o açúcar,
+
+- ### de Designação
+	>[!Exemplo]
+	>*Eis*
