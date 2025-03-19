@@ -1,4 +1,4 @@
-
+[[Subordinação]]
 
 **Elemento subordinante**: Palavra, constituinte ou oração de que depende uma oração subordinada
 

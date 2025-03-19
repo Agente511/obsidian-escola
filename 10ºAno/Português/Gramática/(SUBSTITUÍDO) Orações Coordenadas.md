@@ -1,3 +1,5 @@
+[[Coordenação]]
+
 **Sindéticas**: Quando as orações são ligadas por um elemento de ligação (conjunção/locução conjuntiva)
 **Assindéticas**: Quando as orações são separadas por uma vírgula.
 
