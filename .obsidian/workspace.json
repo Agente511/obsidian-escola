@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
-                "mode": "preview",
+                "file": "11ºAno/Matemática/Limites.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D1 2. Formação das Rochas Sedimentares"
+              "title": "Limites"
             }
           },
           {
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "4f5e08690fe3545a",
@@ -239,8 +238,10 @@
   },
   "active": "3d9f5704688cd5bb",
   "lastOpenFiles": [
-    "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
+    "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
+    "11ºAno/Matemática/Limites.md",
     "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+    "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
     "11ºAno/Geologia/D1 1. Minerais.md",
     "Pasted image 20250318191516.png",
     "Pasted image 20250318190447.png",
@@ -266,7 +267,6 @@
     "10ºAno/Matemática/Função real de variável real.md",
     "11ºAno/Matemática/Equações de planos.md",
     "11ºAno/Matemática/Lugares geométricos.md",
-    "11ºAno/Matemática/Declive e inclinação de uma reta no plano.md",
     "11ºAno/Matemática/Vetores.md",
     "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "11ºAno/Química/M4 - Química verde.md",
