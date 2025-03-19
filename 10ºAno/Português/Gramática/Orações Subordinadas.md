@@ -1,3 +1,5 @@
+
+
 **Elemento subordinante**: Palavra, constituinte ou oração de que depende uma oração subordinada
 
 >[!Example] Lista de Orações Subordinadas Adverbiais (função do modificador do grupo verbal)
