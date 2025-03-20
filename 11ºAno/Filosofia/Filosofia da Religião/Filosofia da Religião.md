@@ -90,6 +90,6 @@ Permanecem **neutros** ou indecisos sobre o problema da existência de Deus.
 Quando se questiona se a fé em Deus pode ser racional (o [[#Problema central Será **racional** ter **fé** em **Deus**?|problema central]]), no fundo, o que estamos a questionar é **se a crença no Deus teísta** (dado que uma grande parte da sociedade tem fé no Deus teísta) **pode ter racionalidade epistémica ou, pelo menos, racionalidade prudencial**, ou seja, se há boas razões para acreditar na sua existência.
 
 Para responder a este problema, destacam-se 3 teorias:
-- [[Teria da Teologia Natural]]
+- [[Teoria da Teologia Natural]]
 - [[Teoria da Ateologia]]
 - [[Teoria do Fideísmo]]

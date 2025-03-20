@@ -1,4 +1,4 @@
-Defende que a fé em Deus é apenas **prudencialmente racional** e **não epistémica**, considerando que a fé em Deus está **justificada pelos benefícios práticos que ela traz**, mesmo não havendo bons argumentos a seu favor, negando ambas as teorias da [[Teria da Teologia Natural|Teologia Natural]] e da [[Teoria da Ateologia|Ateologia]].
+Defende que a fé em Deus é apenas **prudencialmente racional** e **não epistémica**, considerando que a fé em Deus está **justificada pelos benefícios práticos que ela traz**, mesmo não havendo bons argumentos a seu favor, negando ambas as teorias da [[Teoria da Teologia Natural|Teologia Natural]] e da [[Teoria da Ateologia|Ateologia]].
 ## Aposta de Pascal
 ##### Parte 1 do raciocínio
 Visto que **nenhum dos argumentos da Teologia Natural nos permite perceber se Deus existe ou não**, devemos olhar para os benefícios e custos de Deus existir ou de Deus não existir, **escolhendo acreditar na que melhor nos recompensa**.
