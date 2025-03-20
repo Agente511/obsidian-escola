@@ -16,7 +16,21 @@ Ramo da filosofia que estuda os conceitos e problemas levantados na **contempla�
 
 Os **objetos estéticos** são todos os objetos naturais e artefactos que **despertam uma experiência estética** e sobre os quais são feitos **juízos estéticos**, através da **atitude estética**.
 
-### Distinções
-- Não é filosofia da arte
-> [!Info] Filosofia da arte
-> Sub-ramo da Estética que trata apenas a criação artística e a obra de arte, excluindo a natureza.
+### Atitude estética
+
+
+>[!Warning] Estética não é:
+> - **Filosofia da arte**
+>	Sub-ramo da Estética que trata apenas a criação artística e a obra de arte, excluindo a natureza.
+>	As suas questões são comuns à Estética, mas colocam-se apenas aos objetos estéticos:
+>	- "O que é a arte?"
+>	- "O que é a criação artística?"
+>	- "O que é a expressão artística?"
+>	- "O que distingue arte de não-arte?"
+>- **Ciência da arte**
+>	Investiga as técnicas, estilos, materiais, contextos históricos e culturais das obras.
+>- **Poética**
+>	Analisa os elementos formais e estruturais de uma obra e os processos de composição artística.
+>- **Crítica de arte**
+>	Avalia e interpreta obras de arte, emitindo juízos sobre a sua qualidade, significado e impacto.
+
