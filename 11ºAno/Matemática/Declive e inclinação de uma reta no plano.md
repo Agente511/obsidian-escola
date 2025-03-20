@@ -10,7 +10,7 @@ Se $\vec u=(u_1,\ u_2)$ for **vetor diretor** da reta $r$, então $m=\frac {u_2}
 $\vec u=(x_B-x_A,\ y_B-y_A)$
 
 ## Inclinação de uma reta
-Fixado um plano munido de um referencial o. n. de origem $O$, e dada uma reta $r$ que passa pela origem e é distinta de $Ox$, a **inclinação da reta $r$** é a **amplitude de um ângulo convexo formado pelo semieixo positivo $Oy$ e a semirreta $OP$**, onde $P$ é um qualquer ponto da reta de ordenada positiva.
+Fixado um plano munido de um referencial o. n. de origem $O$, e dada uma reta $r$ que passa pela origem e é distinta de $Ox$, a **inclinação da reta $r$** é a **amplitude de um ângulo convexo formado pelo semieixo positivo $Ox$ e a semirreta $OP$**, onde $P$ é um qualquer ponto da reta de ordenada positiva.
 
 ![[Pasted image 20241203161219.png|400]]
 
@@ -36,11 +36,6 @@ A inclinação é **sempre entre 0º e 180º**.
 >Quando se calcula a **inclinação de uma reta**, a partir de um **declive negativo**, através da $\tan^{-1}$ na calculadora, o resultado vem em graus negativos, sendo preciso somar 180º.
 >>[!Note] Exemplo
 >>$r: 3x+2y=1 \iff 2y=1-3x \iff y=-\frac 3 2 x +\frac 1 2$
->>$$ $$
->>$$\begin{flalign}& 3x+2y=1 &\end{flalign}$$
->>$$\begin{flalign}& \iff 2y=1-3x &\end{flalign}$$
->>$$\begin{flalign}& \iff y=\frac 1 2 - \frac 3 2 x &\end{flalign}$$
->>$$ $$
 >>$$\begin{flalign}& m_s=-\frac 3 2  &\end{flalign}$$
 >>$$\begin{flalign}& \iff \tan(\alpha)=-\frac 3 2 &\end{flalign}$$
 >>$$\begin{flalign}& \iff \alpha=180º+\tan^{-1}(-\frac 3 2) &\end{flalign}$$
