@@ -16,7 +16,7 @@ Ramo da filosofia que estuda os conceitos e problemas levantados na **contempla�
 > 
 > A arte é a atividade humana com a finalidade de produzir este tipo de objetos belos e específicos da experiência estética.
 ### Objetos estéticos
-Os **objetos estéticos** são todos os objetos naturais e artefactos que **despertam uma experiência estética** e sobre os quais são feitos **juízos estéticos**, através da **atitude estética**. Ou seja, é algo a que pode ser atribuída uma **propriedade estética** (beleza, harmonia, expressividade, etc).
+Os **objetos estéticos** são todos os objetos naturais e artefactos que **despertam uma experiência estética** e sobre os quais são feitos **[[#Juízo estético|juízos estéticos]]**, através da **[[#Atitude estética|atitude estética]]**. Ou seja, é algo a que pode ser atribuída uma **propriedade estética** (beleza, harmonia, expressividade, etc).
 >[!Exemplos de objetos estéticos]
 >- dança
 >- música
@@ -25,10 +25,18 @@ Os **objetos estéticos** são todos os objetos naturais e artefactos que **desp
 >- objetos comuns
 >- aspetos da natureza
 
+### Juízo estético
+Atribui-se uma propriedade estética a algo que percepcionamos, exprimindo uma experiência estética. É um juízo de valor e, por isso, há discordância quanto à sua verdade.
 ### Atitude estética
-Não tem interesse em expandir o conhecimento, ao contrário da atitude cognitiva. Tem interesse na experiência perspetiva.
-Ao contemplar ou observar um objeto, não se tem em conta a sua utilidade.
-Não é uma atitude personalizada. Deve-se contemplar o objeto estético para contemplar o que este lhe oferece de forma impessoal, não considerando a relação desse consigo próprio.
+- **Não tem interesse em expandir o conhecimento**, ao contrário da atitude cognitiva. Tem apenas interesse na **experiência perspetiva**.
+- **Não é uma atitude personalizada**. O sujeito estético deve contemplar o objeto estético para captar o que este lhe oferece de forma impessoal, não considerando a relação desse consigo próprio.
+
+Além disso, ao contemplar-se um objeto, não se tem em conta a sua utilizadade.
+### Sentido do termo "arte"
+- ##### Sentido classificativo
+	Distinguir arte do que não é arte
+- ##### Sentido valorativo (avaliativo)
+
 
 >[!Warning] Estética não é:
 > - **Filosofia da arte**
@@ -44,4 +52,3 @@ Não é uma atitude personalizada. Deve-se contemplar o objeto estético para co
 >	Analisa os elementos formais e estruturais de uma obra e os processos de composição artística.
 >- **Crítica de arte**
 >	Avalia e interpreta obras de arte, emitindo juízos sobre a sua qualidade, significado e impacto.
-
