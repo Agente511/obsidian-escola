@@ -52,7 +52,7 @@ Além disso, ao contemplar-se um objeto, não se tem em conta a sua utilidade.
 - ##### Sentido classificativo (descritivo)
 	Identificar um objeto como sendo uma obra de arte ou não. Dizer a que categoria pertence um objeto.
 - ##### Sentido valorativo (avaliativo)
-	Reconhecer que, além de ser arte, o objeto é um bom exemplar dessa categoria (é uma boa obra de arte), valorizando-o em relação a outros como o que tem maior valor estético.
+	Reconhecer que, além de ser arte, o objeto é um bom exemplar dessa categoria (é uma boa obra de arte), tendo em conta as características intrínsecas do objeto e valorizando-o em relação a outros como o que tem maior valor estético.
 
 ### Formas de definir arte
 #### Definição explícita
