@@ -53,3 +53,17 @@ Além disso, ao contemplar-se um objeto, não se tem em conta a sua utilidade.
 	Identificar um objeto como sendo uma obra de arte ou não. Dizer a que categoria pertence um objeto.
 - ##### Sentido valorativo (avaliativo)
 	Reconhecer que, além de ser arte, o objeto é um bom exemplar dessa categoria (é uma boa obra de arte), valorizando-o em relação a outros como o que tem maior valor estético.
+
+### Formas de definir arte
+#### Definição explícita
+Numa definição explícita, estabelece-se as **condições necessárias e suficientes** para que algo possa ser **considerado arte**:
+- ##### Condições necessárias
+	Propriedades **comuns a todas as obras de arte**.
+	Se algo é arte, tem essas características.
+- ##### Condições suficientes
+	Conjunto de propriedades que **só a arte tem**.
+	Se algo tem essas características, é arte.
+#### Definição implícita
+Não requer que se estabeleçam as condições necessárias e suficientes, ou seja, **não se exige que todas as obras de arte tenham características em comum**.
+No entanto, **pode-se dar uma definição consoante a situação**, num **conceito aberto**.
+
