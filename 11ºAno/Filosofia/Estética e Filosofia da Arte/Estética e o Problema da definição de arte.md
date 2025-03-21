@@ -31,12 +31,7 @@ Atribui-se uma propriedade estética a algo que percepcionamos, exprimindo uma e
 - **Não tem interesse em expandir o conhecimento**, ao contrário da atitude cognitiva. Tem apenas interesse na **experiência perspetiva**.
 - **Não é uma atitude personalizada**. O sujeito estético deve contemplar o objeto estético para captar o que este lhe oferece de forma impessoal, não considerando a relação desse consigo próprio.
 
-Além disso, ao contemplar-se um objeto, não se tem em conta a sua utilizadade.
-### Sentido do termo "arte"
-- ##### Sentido classificativo
-	Distinguir arte do que não é arte
-- ##### Sentido valorativo (avaliativo)
-
+Além disso, ao contemplar-se um objeto, não se tem em conta a sua utilidade.
 
 >[!Warning] Estética não é:
 > - **Filosofia da arte**
@@ -52,3 +47,9 @@ Além disso, ao contemplar-se um objeto, não se tem em conta a sua utilizadade.
 >	Analisa os elementos formais e estruturais de uma obra e os processos de composição artística.
 >- **Crítica de arte**
 >	Avalia e interpreta obras de arte, emitindo juízos sobre a sua qualidade, significado e impacto.
+## O problema da definição de "arte"
+### Sentido do termo "arte"
+- ##### Sentido classificativo (descritivo)
+	Identificar um objeto como sendo uma obra de arte ou não. Dizer a que categoria pertence um objeto.
+- ##### Sentido valorativo (avaliativo)
+	Reconhecer que, além de ser arte, o objeto é um bom exemplar dessa categoria (é uma boa obra de arte), valorizando-o em relação a outros como o que tem maior valor estético.
