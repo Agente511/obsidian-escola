@@ -11,3 +11,11 @@ Defende que algo é arte **se imitar algo**. No entanto, **nem tudo o que imita 
 
 A **imitação** é uma **condição necessária**.
 
+> [!Quote] Sentido valorativo da arte
+> X é uma obra de arte se, e só se, X é uma imitação.
+> 
+> Sendo X uma obra de arte, X é tão mais belo, quando mais próxima da realidade for a sua imitação.
+
+### Representação não imitativa
+>[!Info]
+>Surge no séc. XIX, após o surgimento da fotografia
