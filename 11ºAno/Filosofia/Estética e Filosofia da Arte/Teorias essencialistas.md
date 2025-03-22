@@ -69,7 +69,7 @@ Goodman define arte como um símbolo, com a função de simbolizar ou fazer refe
 ## Teoria expressivista (Collingwood)
 Defende que a arte **expressa emoções**.
 
-O artista faz arte com base em sentimentos desconhecidos de que vai tomando consciência à medida
+O artista faz arte com base em sentimentos desconhecidos de que vai tomando consciência e entendendo à medida que completa a obra.
 
 
 >[!Warning] Diferença entre expressar e estimular emoções
