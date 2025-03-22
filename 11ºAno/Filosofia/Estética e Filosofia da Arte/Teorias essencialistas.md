@@ -52,10 +52,16 @@ Representar não significa que seja semelhante ao representado mas que faça ref
 
 ### Críticas à teoria representacionista
 - ##### Demasiado restrita
-	A sua condição necessária de que algo tem de ser uma representação de outra coisa ou de comentar um assunto deixa de fora:
+	A sua **condição necessária** de que algo tem de ser uma representação de outra coisa ou de comentar um assunto deixa de fora:
 	- arquitetura
 	- arte perceptiva
 	- música instrumental
 	- Found Art
 	- arte decorativa
-- #####
+- ##### Confusão na distinção entre possuir uma característica e ser sobre uma característica
+	O neo-representacionismo interpreta todas as características da arte como sendo comentários sobre algo, sendo que isso não é necessariamente verdade.
+	>[!Note] Exemplo
+	>Uma música pode ser triste e não fazer qualquer comentário sobre a tristeza.
+
+## Teoria expressivista
+
