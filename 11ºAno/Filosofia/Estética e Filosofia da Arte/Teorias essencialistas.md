@@ -46,6 +46,9 @@ Representar não significa que seja semelhante ao representado mas que faça ref
 > [!Quote] Sentido valorativo da arte
 > **X é uma obra de arte se X for sobre alguma coisa, ou seja, tiver um assunto sobre o qual apresenta uma perspetiva.**
 
+#### Função simbólica da arte (Nelson Goodman)
+Goodman define arte como um símbolo, com a função de simbolizar ou fazer referência a algo. Um símbolo representa porque faz referência sem a necessidade de se assemelhar verdadeiramente ao referenciado.
+
 > [!Exemplo]
 >- Bandeira de Portugal.
 >	Sabe-se que representa Portugal, apesar de não fazer alusão ao país, geografia ou língua. Ninguém que não conheça Portugal pode concluir que seja a bandeira de Portugal porque não conseguirá interpretar o símbolo se não o tiver aprendido.
@@ -63,5 +66,12 @@ Representar não significa que seja semelhante ao representado mas que faça ref
 	>[!Note] Exemplo
 	>Uma música pode ser triste e não fazer qualquer comentário sobre a tristeza.
 
-## Teoria expressivista
+## Teoria expressivista (Collingwood)
+Defende que a arte **expressa emoções**.
 
+O artista faz arte com base em sentimentos desconhecidos de que vai tomando consciência à medida
+
+
+>[!Warning] Diferença entre expressar e estimular emoções
+>**Estimular emoções** implica **saber antes de produzir** o que e como tem de produzir de modo a **provocar emoções no público**, tal como um carpinteiro sabe no que vai transformar a matéria-prima e que emoções irá provocar (neste caso a utilidade).
+>  Para Collingwood, isto **não é arte**, é um **ofício**.
