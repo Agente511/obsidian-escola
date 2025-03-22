@@ -75,7 +75,7 @@ Defende que a arte **expressa emoções**.
 >**Estimular emoções** implica **saber antes de produzir** o que e como tem de produzir de modo a **provocar emoções no público**, tal como um carpinteiro sabe no que vai transformar a matéria-prima e que emoções irá provocar (neste caso a utilidade).
 >  Para Collingwood, isto **não é arte**, é um **ofício**.
 
-### Sentido próprio e impróprio da arte
+### Sentido próprio e sentido impróprio da arte
 - ##### Sentido próprio
 	**Expressão de emoções** através da **criação artística**.
 	
@@ -84,5 +84,12 @@ Defende que a arte **expressa emoções**.
 	Segundo Collingwood, não se tem consciência e conhecimento real das emoções que sentimos antes de nos perguntarem o que estamos a sentir e de verbalizarmos ou expressarmos as emoções.
 - ##### Sentido impróprio
 	**Estimulação de emoções**
-	Tipíca dos **ofícios**.
+	
 	O criador dos objetos procura estimular no seu público determinadas emoções preconcebidas e previamente idealizadas sem necessariamente as ter sentido ele mesmo.
+	Para Collingwood, isto não é arte, é um **ofício**.
+
+### Expressão imaginativa e manifestação de emoções
+- ##### Expressão imaginativa de emoções
+	**Processo consciente** e **controlado**
+- ##### Manifestação de emoções
+	**Processo corporal** e fisiológico **automático** do qual **não temos consciência**
