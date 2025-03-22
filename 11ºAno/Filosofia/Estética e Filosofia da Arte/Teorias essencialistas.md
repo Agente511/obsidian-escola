@@ -77,9 +77,10 @@ Defende que a arte **expressa emoções**.
 
 ### Sentido próprio e impróprio da arte
 - ##### Sentido próprio
-	Expressão de emoções através da criação artística.
+	**Expressão de emoções** através da **criação artística**.
 	
 	O artista faz arte com base em sentimentos e emoções desconhecidas de que vai tomando consciência e entendendo à medida que completa a obra, logo não tem ideia preconcebida antes de começar a fazer arte. A arte é usada como uma forma de nos expressarmos.
 	
-	Segundo Collingwood, não se tem consciência e consciência real das emoções que sentimos antes de nos perguntarem o que estamos a sentir e de verbalizarmos ou expressarmos as emoções.
+	Segundo Collingwood, não se tem consciência e conhecimento real das emoções que sentimos antes de nos perguntarem o que estamos a sentir e de verbalizarmos ou expressarmos as emoções.
 - ##### Sentido impróprio
+	Tipíca dos **ofícios**.
