@@ -79,8 +79,10 @@ Defende que a arte **expressa emoções**.
 - ##### Sentido próprio
 	**Expressão de emoções** através da **criação artística**.
 	
-	O artista faz arte com base em sentimentos e emoções desconhecidas de que vai tomando consciência e entendendo à medida que completa a obra, logo não tem ideia preconcebida antes de começar a fazer arte. A arte é usada como uma forma de nos expressarmos.
+	O artista faz arte com base em sentimentos e emoções desconhecidas de que vai tomando consciência e entendendo à medida que as expressa ao completar a obra, logo não tem ideia preconcebida antes de começar a fazer arte. A arte é usada como uma forma de nos expressarmos.
 	
 	Segundo Collingwood, não se tem consciência e conhecimento real das emoções que sentimos antes de nos perguntarem o que estamos a sentir e de verbalizarmos ou expressarmos as emoções.
 - ##### Sentido impróprio
+	**Estimulação de emoções**
 	Tipíca dos **ofícios**.
+	O criador dos objetos procura estimular no seu público determinadas emoções preconcebidas e previamente idealizadas sem necessariamente as ter sentido ele mesmo.
