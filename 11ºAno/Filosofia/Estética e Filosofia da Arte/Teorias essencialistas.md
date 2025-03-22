@@ -22,6 +22,10 @@ Logo, a **imitação** é uma **condição necessária**.
 
 Defende que algo é arte se **representar algo** (está em vez de outro objeto), **sem o imitar**. Esta substituição é **reconhecida pelo observador.
 
+Logo, a **representação** é uma **condição necessária**.
+
+Deixa-se de imitar a realidade como ela é, passando a representá-la sem que seja necessariamente semelhante, mas fazendo referência à mesma. Na representação podem ser adicionadas características que não sejam imitativas da realidade.
+
 > [!Quote] Sentido valorativo da arte
 > **X é uma obra de arte se, e só se, X é uma representação.**
 > ou
@@ -29,23 +33,29 @@ Defende que algo é arte se **representar algo** (está em vez de outro objeto),
 > 
 > Sendo X uma obra de arte, X é tão mais belo quanto mais forte for o reconhecimento da intenção do artista de que X esteja em vez de Y.
 
-Deixa-se de imitar a realidade como ela é, passando a representá-la sem que seja necessariamente semelhante, mas fazendo referência à mesma. Na representação podem ser adicionadas características que não sejam imitativas da realidade.
-
 >[!Exemplos]
 >- Caricaturas
 >- Expressionismo
 >- Cubismo
 
 ### Teoria do neo-representacionismo
-Defende que algo é arte se **fizer um comentário sobre um assunto** ou apresentar uma perspetiva sobre a mesma. Por isso, a arte **requer uma interpretação para a sua compreensão**.
+Defende que algo é arte se **fizer um comentário sobre um assunto**, apresentando uma perspetiva sobre a mesma.
+Como **todas as obras de arte requerem interpretação para a sua compreensão** e tudo o que requer interpretação é sobre alguma coisa, **todas as obras de arte são sobre alguma coisa**.
 Representar não significa que seja semelhante ao representado mas que faça referência a ele.
 
 > [!Quote] Sentido valorativo da arte
 > **X é uma obra de arte se X for sobre alguma coisa, ou seja, tiver um assunto sobre o qual apresenta uma perspetiva.**
-
 
 > [!Exemplo]
 >- Bandeira de Portugal.
 >	Sabe-se que representa Portugal, apesar de não fazer alusão ao país, geografia ou língua. Ninguém que não conheça Portugal pode concluir que seja a bandeira de Portugal porque não conseguirá interpretar o símbolo se não o tiver aprendido.
 
 ### Críticas à teoria representacionista
+- ##### Demasiado restrita
+	A sua condição necessária de que algo tem de ser uma representação de outra coisa ou de comentar um assunto deixa de fora:
+	- arquitetura
+	- arte perceptiva
+	- música instrumental
+	- Found Art
+	- arte decorativa
+- #####
