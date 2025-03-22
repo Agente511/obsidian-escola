@@ -79,17 +79,22 @@ Defende que a arte **expressa emoções**.
 - ##### Sentido próprio
 	**Expressão de emoções** através da **criação artística**.
 	
-	O artista faz arte com base em **sentimentos e emoções desconhecidas** de que vai tomando consciência e entendendo à medida que as expressa ao completar a obra, logo não tem ideia preconcebida antes de começar a fazer arte. A arte é usada como uma forma de nos expressarmos.
+	O artista faz arte com base em **sentimentos e emoções desconhecidas** de que **vai tomando consciência e entendendo à medida que as expressa ao completar a obra,** logo **não tem ideia preconcebida antes de começar a fazer arte**. A **arte** é usada como uma **forma de nos expressarmos**.
 	
 	Segundo Collingwood, não se tem consciência e conhecimento real das emoções que sentimos antes de nos perguntarem o que estamos a sentir e de verbalizarmos ou expressarmos as emoções.
 - ##### Sentido impróprio
 	**Estimulação de emoções**
 	
-	O criador dos objetos procura **estimular no seu público** determinadas **emoções preconcebidas** e previamente idealizadas sem necessariamente as ter sentido ele mesmo.
+	O criador dos objetos transforma matéria prima num objeto preconcebido procurando **estimular no seu público** determinadas **emoções** também **preconcebidas e previamente idealizadas** sem necessariamente as ter sentido ele mesmo.
 	
 	Para Collingwood, isto não é arte, é um **ofício**.
 	
-	Desta forma,
+	>[!Exemplos de arte em sentido impróprio]
+	>- ##### Arte de entretenimento
+	>	Visa apenas **divertir ou entreter**, **estimulando certas emoções passageiras** (durante um curto período de tempo) no seu público, **não tendo qualquer relação com a vida do criador**, ou as suas emoções expressas.
+	>- ##### Arte mágica, arte 
+	>	Visa **estimular emoções não passageiras** no seu público, relacionadas com o quotidiano (de forma consistente ao longo da vida) e orientando os nossos comportamentos, tais como o fazem algumas obras de arte religiosa como catedrais, esculturas, cânticos, mas também algumas obras políticas como o hino, monumentos, cartazes, entre outros.
+
 
 ### Expressão imaginativa e manifestação de emoções
 - ##### Expressão imaginativa de emoções
