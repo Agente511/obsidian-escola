@@ -20,7 +20,7 @@ Logo, a **imitação** é uma **condição necessária**.
 >[!Info]
 >Surge no séc. XIX, após o surgimento da fotografia que captura e imita a realidade de forma perfeita. A imitação cede o seu lugar à representação.
 
-Defende que algo é arte se **representar algo** (está em vez de outro objeto), **sem o imitar**.
+Defende que algo é arte se **representar algo** (está em vez de outro objeto), **sem o imitar**. Esta substituição é **reconhecida pelo observador.
 
 > [!Quote] Sentido valorativo da arte
 > **X é uma obra de arte se, e só se, X é uma representação.**
@@ -38,6 +38,7 @@ Deixa-se de imitar a realidade como ela é, passando a representá-la sem que se
 
 ### Teoria do neo-representacionismo
 Defende que algo é arte se **fizer um comentário sobre um assunto** ou apresentar uma perspetiva sobre a mesma. Por isso, a arte **requer uma interpretação para a sua compreensão**.
+Representar não significa que seja semelhante ao representado mas que faça referência a ele.
 
 > [!Quote] Sentido valorativo da arte
 > **X é uma obra de arte se X for sobre alguma coisa, ou seja, tiver um assunto sobre o qual apresenta uma perspetiva.**
