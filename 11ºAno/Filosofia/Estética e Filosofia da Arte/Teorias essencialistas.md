@@ -125,4 +125,5 @@ Defende que a arte **expressa emoções**.
 	- Telepatia (o artista consegue transmitir uma emoção telepaticamente ao seu público, tomando consciência dessa durante a transmissão,) 
 	- Alucinógenos (comprimidos que que, uma vez tomados, nosfizessem aderir a um estado de espírito semelhante ao de quem os criou.)
 - ##### Falácia intencional
+	Classifica a obra de arte tendo em conta as intenções do artista quando fez a obra sua origem em vez das propriedades da obra em si.
 	
