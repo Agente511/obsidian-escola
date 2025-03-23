@@ -128,5 +128,9 @@ Defende que a arte **expressa emoções**.
 	Classifica a obra de arte tendo em conta as intenções do artista quando fez a obra sua origem em vez das propriedades da obra em si. O  artista terá sentido a mesma emoção que expressa com a obra de arte, sem tentar estimular as emoções
 	
 	Como é difícil ter a certeza sobre a intenção do artista, surgiram 2 posições acerca deste debate filosófico:
-	- **Intencionalistas**: Defende que devemos averiguar a intenção do artista, por todos os meios, através do que escreveu ou disse ao longo da sua vida.
-	- **Intencionalistas hipotéticos**: Defende que a intenção do artista pode ser desconhecida até por ele mesmo. Os comentários feitos pelo mesmo à sua obra num tempo posterior podem ser uma falácia post-hoc.
+	- **Intencionalism**: Defende que devemos averiguar a intenção do artista, por todos os meios, através do que escreveu ou disse ao longo da sua vida.
+	- **Intencionalismo hipotético**: Defende que a intenção do artista pode ser desconhecida até por ele mesmo. Os comentários feitos pelo mesmo à sua obra num tempo posterior podem ser uma falácia post-hoc, atribuindo uma falsa causa à obra. A intenção reconhecida é apenas uma hipótese.
+	- **Teoria da maximização do valor**: Defende que qualquer interpretação acerca da intenção do autor é válida, desde que aumente o valor estético da mesma. A obra vale por si e o autor é uma figura impessoal diferente do artista que criou a obra.
+
+## Formalismo (Clive Bell)
+
