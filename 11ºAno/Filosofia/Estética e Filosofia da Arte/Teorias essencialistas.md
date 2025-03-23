@@ -125,5 +125,8 @@ Defende que a arte **expressa emoções**.
 	- Telepatia (o artista consegue transmitir uma emoção telepaticamente ao seu público, tomando consciência dessa durante a transmissão,) 
 	- Alucinógenos (comprimidos que que, uma vez tomados, nosfizessem aderir a um estado de espírito semelhante ao de quem os criou.)
 - ##### Falácia intencional
-	Classifica a obra de arte tendo em conta as intenções do artista quando fez a obra sua origem em vez das propriedades da obra em si.
+	Classifica a obra de arte tendo em conta as intenções do artista quando fez a obra sua origem em vez das propriedades da obra em si. O  artista terá sentido a mesma emoção que expressa com a obra de arte, sem tentar estimular as emoções
 	
+	Como é difícil ter a certeza sobre a intenção do artista, surgiram 2 posições acerca deste debate filosófico:
+	- **Intencionalistas**: Defende que devemos averiguar a intenção do artista, por todos os meios, através do que escreveu ou disse ao longo da sua vida.
+	- **Intencionalistas hipotéticos**: Defende que a intenção do artista pode ser desconhecida até por ele mesmo. Os comentários feitos pelo mesmo à sua obra num tempo posterior podem ser uma falácia post-hoc.
