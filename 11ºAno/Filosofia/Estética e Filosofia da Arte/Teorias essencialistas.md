@@ -125,7 +125,7 @@ Defende que a arte **expressa emoções**.
 	- Telepatia (o artista consegue transmitir uma emoção telepaticamente ao seu público, tomando consciência dessa durante a transmissão,) 
 	- Alucinógenos (comprimidos que que, uma vez tomados, nosfizessem aderir a um estado de espírito semelhante ao de quem os criou.)
 - ##### Falácia intencional
-	Classifica a obra de arte tendo em conta as intenções do artista quando fez a obra sua origem em vez das propriedades da obra em si. O  artista terá sentido a mesma emoção que expressa com a obra de arte, sem tentar estimular as emoções
+	Classifica a obra de arte tendo em conta as intenções do artista quando fez a obra (sua origem) em vez das propriedades intrínsecas da obra em si. O artista terá sentido a mesma emoção que expressa com a obra de arte, sem tentar estimular as emoções
 	
 	Como é difícil ter a certeza sobre a intenção do artista, surgiram 2 posições acerca deste debate filosófico:
 	- **Intencionalismo**: Defende que devemos averiguar a intenção do artista, por todos os meios, através do que escreveu ou disse ao longo da sua vida.
@@ -139,7 +139,19 @@ Defende que a arte **expressa emoções**.
 >[!Info]
 >Surgiu devido aos novos movimentos artísticos modernos e contemporâneos cujas obras não têm conteúdo representacional estando antes focadas em obter imagens apelativas pela sua organização visual, forma e design atrativo.
 
-Defende que
+Defende que algo é arte se tiver forma significante.
 
-Foca-se nas características intrínsecas e essenciais da obra de arte e nas suas respetivas qualidades formais.
+Foca-se nas **características intrínsecas e essenciais** da obra de arte e nas suas respetivas **qualidades formais**.
+### Condição necessária: presença de forma significante
+Todos os objetos têm forma, mas apenas os objetos artísticos têm forma significante.
+
+A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a produzir uma imagem apelativa ao público, recorrendo à sua gestalt, para que estes
+consigam captar a configuração criada e entender o seu valor estético.
+
+>[!Info] Psicologia de gestalt
+>Esclarece como os olhos dão forma aquilo que surge diante deles.
+>O artista manipula as formas na sua arte para estimular esta capacidade cognitiva do seu público que é capaz de reconhecer configurações mais belas do que outras.
+
+
+
 
