@@ -111,5 +111,12 @@ Defende que a arte **expressa emoções**.
 	- Fotografia (perspetiva e luz)
 	- Filmes de terror e *thrillers* (*scare jumps*)
 	- Obras pagas a artistas para serem feitas
+	
+	Exclui obras de arte que revelam pureza nas emoções que o criador sentiu e que são apresentadas de forma caótica e descontrolada:
+	- Arte punk
+	
+	Exclui arte que não tem relação emocional com o criador:
+	- Arte aleatória
+	- Arte feita 
 - ##### Demasiado inclusiva
 - ##### Falácia intencional
