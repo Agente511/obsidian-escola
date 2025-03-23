@@ -103,20 +103,26 @@ Defende que a arte **expressa emoções**.
 
 ### Críticas à teoria expressivista
 - ##### Demasiado restrita
-	Exigir que a arte implique que o artista expresse alguma emoção exclui:
+	Deixa de fora várias obras de arte que não verificam os momentos do processo da criação artística
+	1. Experiência: Exigir que a arte implique que o artista expresse alguma emoção exclui:
 	- Arte perceptiva
 	
-	Exigir que o criador tenha sentido a mesma emoção que a sua arte criada expressa exclui obras de arte que usem técnicas para provocar determinado efeito no público:
+	2. Identidade: Exigir que o criador tenha sentido a mesma emoção que a sua arte criada expressa exclui obras de arte que usem técnicas para provocar determinado efeito no público:
 	- Poesia (rima e métrica)
 	- Fotografia (perspetiva e luz)
 	- Filmes de terror e *thrillers* (*scare jumps*)
 	- Obras pagas a artistas para serem feitas
 	
-	Exclui obras de arte que revelam pureza nas emoções que o criador sentiu e que são apresentadas de forma caótica e descontrolada:
+	3. Consciência: Exclui obras de arte que revelam pureza nas emoções que o criador sentiu e que são apresentadas de forma caótica e descontrolada:
 	- Arte punk
 	
-	Exclui arte que não tem relação emocional com o criador:
+	4. Expressividade: Exclui arte que não tem relação emocional com o criador:
 	- Arte aleatória
-	- Arte feita 
+	- Arte feita por IA
 - ##### Demasiado inclusiva
+	Considera arte tudo que seja resultado de um processo em que o criador toma consciência das suas emoções, expressando-as imaginativamente:
+	- Psicoterapia (o paciente acede ao seu subconsciente de forma a expressar imaginativamente, por sugestão do psicoterapeuta, aquilo que sente)
+	- Telepatia (o artista consegue transmitir uma emoção telepaticamente ao seu público, tomando consciência dessa durante a transmissão,) 
+	- Alucinógenos (comprimidos que que, uma vez tomados, nosfizessem aderir a um estado de espírito semelhante ao de quem os criou.)
 - ##### Falácia intencional
+	
