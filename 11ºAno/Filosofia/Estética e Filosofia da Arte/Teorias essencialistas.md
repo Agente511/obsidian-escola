@@ -143,15 +143,8 @@ Defende que algo é arte se tiver forma significante.
 
 Foca-se nas **características intrínsecas e essenciais** da obra de arte e nas suas respetivas **qualidades formais**.
 ### Condição necessária: presença de forma significante
-Todos os objetos têm forma, mas apenas os objetos artísticos têm forma significante.
 
-A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a produzir uma imagem apelativa ao público, recorrendo à sua [[#^54712b|gestalt]], para que estes consigam captar a configuração criada e entender o seu valor estético.
 
->[!Info] Psicologia de gestalt
->Esclarece como os olhos dão forma aquilo que surge diante deles.
->O artista manipula as formas na sua arte para estimular esta capacidade cognitiva do seu público que é capaz de reconhecer configurações mais belas do que outras.
-
-^54712b
 
 ### Emoção estética
 Emoção que resulta da percepção da boa forma de uma obra de arte.
@@ -159,6 +152,16 @@ Emoção que resulta da percepção da boa forma de uma obra de arte.
 Para Bell, a representação e a expressão de emoções provocam apenas emoções da ordem do quotidiano no espectador.
 
 ### Argumento do denominador comum
+Segundo Bell, o **conteúdo representacional e o emocional** são **irrelevantes** para a obra, logo, apesar de esta poder conter estes conteúdos, **não são condições necessárias** (não são estes que fazem de si uma obra de arte).
+
+>[!Note] Exemplo
+>A arte primitiva não tem conteúdo representacional nem emocional mas é uma obra de arte porque tem forma significante.
+
+Todos os objetos têm forma, mas apenas os objetos artísticos têm forma significante.
+
+A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a produzir uma imagem apelativa ao público, recorrendo à sua [[#^54712b|gestalt]], para que estes consigam captar a configuração criada e entender o seu valor estético.
+
+### Argumento da função primária
 
 
 
