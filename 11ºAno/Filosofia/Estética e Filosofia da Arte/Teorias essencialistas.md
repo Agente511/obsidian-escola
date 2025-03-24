@@ -157,15 +157,22 @@ Segundo Bell, o **conteúdo representacional e o emocional** são **irrelevantes
 >[!Note] Exemplo
 >A arte primitiva não tem conteúdo representacional nem emocional mas é uma obra de arte porque tem forma significante.
 
+A **forma** é, então, a **condição necessária**, por estar presente em todas as obras de arte.
+No entanto, a forma por si só **não é condição suficiente**, já que quase tudo na realidade tem forma.
+
 Todos os objetos têm forma, mas apenas os objetos artísticos têm forma significante.
 
 A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a produzir uma imagem apelativa ao público, recorrendo à sua [[#^54712b|gestalt]], para que estes consigam captar a configuração criada e entender o seu valor estético.
-
 ### Argumento da função primária: condição suficiente
-Nem em todos os objetos a forma significante é a função primária deles.
+No entanto, nem em todos os objetos a forma significante é a função primária deles.
 >[!Exemplo]
 >A matemática tem como função primária fornecer provas que levam a uma conclusão e não a sua forma.
 >
 
-Existem ainda objetos
+Apenas a **forma significante como função primária** é **condição suficiente**, por ser função primária apenas na arte.
 
+Existem ainda objetos que possuem conteúdo representacional e conteúdo emocional, mas que não são arte. Logo, a representação e a expressão **não são condições suficientes**.
+
+---
+Portanto, a **forma significante** é **condição necessária e suficiente**.
+Como esta não tem em conta as intenções do artista,
