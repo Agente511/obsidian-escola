@@ -173,4 +173,16 @@ Portanto, a **forma significante** é **condição necessária e suficiente**.
 - ##### Falso dilema/trilema
 	Bell sustenta que a forma é a condição necessária a todas as obras, admitindo que como alternativas só seria possível a representação e a expressão.
 - ##### Petição de princípio
-	Define forma significante a partir da emoção estética ()
+	Define forma significante a partir da emoção estética (configuração de linhas, cores, formas, espaços e vetores que têm a capacidade de provocar uma emoção estética no público) e emoção estética a partir de forma significante (o tipo de emoção que sentimos perante uma forma significante.)
+- ##### Existência de arte sem forma
+	A existência de arte sem forma significante contraria a forma significante como condição primária.
+	>[!Exemplo]
+	>- Música 4’ 33 de John Cage
+	
+- ##### Existem obras de arte com formas de objetos 
+	Não parece haver nada que distinga a forma significante da forma dos objetos quotidianos, pois, na verdade, eles são objetos do quotidiano.
+	>[!Exemplo]
+	>- Falsificações de arte
+	
+- ##### Impossibilidade de dissociar o conteúdo da forma
+	
