@@ -175,4 +175,4 @@ Existem ainda objetos que possuem conteúdo representacional e conteúdo emocion
 
 ---
 Portanto, a **forma significante** é **condição necessária e suficiente**.
-Como esta não tem em conta as intenções do artista,
+Esta não tem em conta as intenções do artista, o que era crítica à teoria expressivista.
