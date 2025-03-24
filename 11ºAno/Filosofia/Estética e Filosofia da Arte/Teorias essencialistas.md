@@ -145,12 +145,20 @@ Foca-se nas **características intrínsecas e essenciais** da obra de arte e nas
 ### Condição necessária: presença de forma significante
 Todos os objetos têm forma, mas apenas os objetos artísticos têm forma significante.
 
-A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a produzir uma imagem apelativa ao público, recorrendo à sua gestalt, para que estes
-consigam captar a configuração criada e entender o seu valor estético.
+A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a produzir uma imagem apelativa ao público, recorrendo à sua [[#^54712b|gestalt]], para que estes consigam captar a configuração criada e entender o seu valor estético.
 
 >[!Info] Psicologia de gestalt
 >Esclarece como os olhos dão forma aquilo que surge diante deles.
 >O artista manipula as formas na sua arte para estimular esta capacidade cognitiva do seu público que é capaz de reconhecer configurações mais belas do que outras.
+
+^54712b
+
+### Emoção estética
+Emoção que resulta da percepção da boa forma de uma obra de arte.
+
+Para Bell, a representação e a expressão de emoções provocam apenas emoções da ordem do quotidiano no espectador.
+
+### Argumento do denominador comum
 
 
 
