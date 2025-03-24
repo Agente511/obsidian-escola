@@ -151,7 +151,7 @@ Emoção que resulta da percepção da boa forma de uma obra de arte.
 
 Para Bell, a representação e a expressão de emoções provocam apenas emoções da ordem do quotidiano no espectador.
 
-### Argumento do denominador comum
+### Argumento do denominador comum: condição necessária
 Segundo Bell, o **conteúdo representacional e o emocional** são **irrelevantes** para a obra, logo, apesar de esta poder conter estes conteúdos, **não são condições necessárias** (não são estes que fazem de si uma obra de arte).
 
 >[!Note] Exemplo
@@ -161,8 +161,11 @@ Todos os objetos têm forma, mas apenas os objetos artísticos têm forma signif
 
 A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a produzir uma imagem apelativa ao público, recorrendo à sua [[#^54712b|gestalt]], para que estes consigam captar a configuração criada e entender o seu valor estético.
 
-### Argumento da função primária
+### Argumento da função primária: condição suficiente
+Nem em todos os objetos a forma significante é a função primária deles.
+>[!Exemplo]
+>A matemática tem como função primária fornecer provas que levam a uma conclusão e não a sua forma.
+>
 
-
-
+Existem ainda objetos
 
