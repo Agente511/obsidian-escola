@@ -185,4 +185,6 @@ Portanto, a **forma significante** é **condição necessária e suficiente**.
 	>- Falsificações de arte
 	
 - ##### Impossibilidade de dissociar o conteúdo da forma
-	
+	Apesar de Bell defender que o conteúdo representacional e emocional são irrelevantes e que apenas a forma significante desempenha a função primária das obras de arte, verifica-se que determinadas formas se tornam mais apelativas devido à maneira com que se representam determinados conteúdos.
+	>[!Exemplo]
+	>No quadro Landscape with the fall of Icarus, podemos ver como a forma e o conteúdo são associadas beneficamente. O quadro retrata em plano de fundo a queda de Icarus quando a sua tentativa de fugir de Creta saiu frustrada, mas ocupa um lugar tangencial na obra. Por outro lado, podemos ver centrada na obra atividades do quotidiano, como se o quotidiano de fundo estivesse no centro e os eventos dos deuses fossem o plano de fundo na obra. A estrutura narrativa e a composição do quadro opõem-se criando uma tensão formal na pintura e na nossa percepção dela.
