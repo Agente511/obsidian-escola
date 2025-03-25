@@ -64,6 +64,15 @@ Enquanto o sentido classificativo da arte permite identificar algo como obra de 
 ### 1ª condição: Direito de posse / Autorização
 Se o artista **não for proprietário da sua obra**, essa **não pode ser considerada uma obra de arte válida**.
 ### 2ª condição: Intenção séria + encarado-como-obra-de-arte + corretamente encaradas
-O proprietário deve ter uma vontade e intenção séria, sólida e duradoura de que a **obra de arte seja corretamente encarada como obras de arte anteriores**. O artista não pode ter tido uma vontade apenas momentânea ou ter produzido o objeto por brincadeira.
+O proprietário deve ter uma **vontade e intenção séria, sólida e duradoura** de que a **obra de arte seja corretamente encarada como obras de arte anteriores**. O artista não pode ter tido uma vontade apenas momentânea ou ter produzido o objeto por brincadeira.
 
-Para que um objeto seja encarado-como-obra-de-arte
+Para que um objeto seja **encarado-como-obra-de-arte**, deve-se verificar uma conexão com obras anteriores. Não são necessárias semelhanças exteriores.
+Não é necessário que o autor saiba a que obras está a fazer alusão, mas sabe que intentou.
+
+Um objeto ser encarado-como-obra-de-arte como foram **corretamente encaradas** obras de arte anteriores, significa que existe uma quantidade de obras de arte que não devia ser considerada arte (são incorretamente encaradas), devido aos seus artistas não terem procurado intencionalmente produzir algo artisticamente, e, portanto, os objetos não devem ser encarados dessa forma.
+### Críticas à teoria histórica
+- ##### Problema da primeira obra de arte
+	Como a primeira obra não tem precedentes históricos, não pode ser corretamente encarada como obras de arte anteriores.
+	Assim, não é explicado porquê que essa primeira obra de arte é considerada arte, o que é problemático na medida que, segundo a teoria histórica, se não tivermos uma primeira obra de arte, não podemos ter todas as outras consequentes.
+- ##### Demasiado inclusiva
+	
