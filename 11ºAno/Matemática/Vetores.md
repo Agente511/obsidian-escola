@@ -55,12 +55,12 @@ Fixado um referencial ortonormado $xOy$ no plano e sejam $\vec u(u_1, u_2)$ e $\
 $$\begin{flalign}& \vec u \cdot \vec v = u_1 \times v_1 + u_2 \times v_2 &\end{flalign}$$
 
 >[!Note] Exemplo
->1. Sendo $\vec u(-1, 4)$ e $\vec v(2, 3)$, determina o produto escalar $\vec u \cdot \vec v$.
+>1. Sendo $\vec u(-1, 4)$ e $\vec v(2, 3)$, determina o produto escalar $\vec u \cdot (2\vec v)$.
 >
 >	$$\begin{flalign}& \vec u \cdot (2\vec v) = 2(\vec u \cdot \vec v) = 2 \times (-1 \times 2 + 4 \times 3) = 2 \times 10 = 20 &\end{flalign}$$
 >1. Sendo $A(-1, 3)$, $B(0, -1)$, $C(2, -3)$, [[#Ângulos de vetores|determina o ângulo]] $A\widehat BC$.
 >
->	$A \widehat BC = \vec {BA}\widehat{\ \ \ }\vec {BC}$
+>	$A \widehat BC = (\vec {BA}\widehat{\ \ \ }\vec {BC})$
 >	###### Determinação das coordenadas dos vetores
 >	$\vec{BA}=A-B=$
 >	$\ \ \ \ \ \ =(-1,3)-(0,-1)=$
@@ -78,8 +78,8 @@ $$\begin{flalign}& \vec u \cdot \vec v = u_1 \times v_1 + u_2 \times v_2 &\end{f
 >	$\iff -2-8=\sqrt{136}\cos(\vec{BA}\widehat{\ \ \ }\vec{BC})$
 >	$\iff -10=\sqrt{136}\cos(\vec{BA}\widehat{\ \ \ }\vec{BC})$
 >	$\iff \cos(\vec{BA}\widehat{\ \ \ }\vec{BC})=-\frac {10} {\sqrt{136}}$
->	$\iff \vec{BA}\widehat{\ \ \ }\vec{BC}=\cos^{-1}(-\frac{10}{\sqrt{136}}$
->	$\iff \vec{BA}\widehat{\ \ \ }\vec{BC}=2,6$ rad
+>	$\iff (\vec{BA}\widehat{\ \ \ }\vec{BC})=\cos^{-1}(-\frac{10}{\sqrt{136}})$
+>	$\iff (\vec{BA}\widehat{\ \ \ }\vec{BC})=2,6$ rad
 
 #### Vetores perpendiculares
 Dado um vetor não nulo $\vec u(u_1,u_2)$, os vetores $\vec v(-u_2,u_1)$ e $\vec w(u_2,-u_1)$ (com as **coordenadas trocadas** e uma delas **simétrica**) são **perpendiculares a $\vec u$** e têm **igual norma** à de $\vec u$.
