@@ -11,7 +11,7 @@ Para Weitz, identificamos obras de arte tendo em conta as semelhanças com um ob
 ### 1º condição: Artefacto
 No sentido lato, o termo artefacto engloba mais do que objetos produzidos ou transformados pelo artista.
 A obra de arte é um objeto **material ou imaterial**.
-Pode ainda ser um objeto que, embora não tenha sido produzido pelo artista, veem o seu contexto modificado por este.
+Pode ainda ser um objeto que, embora não tenha sido produzido pelo artista, veem o seu contexto modificado por este (neste caso, a modificação é o próprio artefacto e não o objeto).
 
 >[!Exemplo]
 >- Coreoografias
@@ -20,4 +20,21 @@ Pode ainda ser um objeto que, embora não tenha sido produzido pelo artista, vee
 ### 2ª condição: Instituição social
 Ao artefacto deve ser concedido o **estatuto de candidato de apreciação a obra artística** por uma ou mais pessoas que represente a **instituição social do mundo da arte**.
 
+>[!Info] Definição de instituição social
+>Prática social praticada ao longo de gerações
+>- #### Instituições sociais formais
+>	São atribuídos determinados **estatutos** e são reguladas por **regras e costumes**.
+>	>[!Exemplo]
+>	>- Leis civis
+>	>- Religião
+>- #### Instituições sociais informais
+>	Atribuem **estatutos** segundo **regras que não são estabelecidas**, mas que são **implícitas**.
+>	>[!Exemplo]
+>	>- Namoro (assumem o estatuto de namorados sem cerimónia, regulamentação ou designação por um superior)
+>	>- Cortesia
+>	>- **Arte**
+
+O **mundo da arte** designa a instituição social na qual decorre a prática social da arte, na qual contribuem os artistas, os críticos de arte, os produtores, os diretores de museus, espectadores, jornalistas, etc. Todos aqueles envolvidos na arte ou com a arte fazem parte do mundo da arte e são estes que o representam.
+
+Para uma obra de arte ser **candidata a apreciação**, o artefacto tem de ser apresentado por alguém do mundo da arte como "possível de ser atribuído o estatuto de candidato a apreciação"
 ## Teoria histórica
