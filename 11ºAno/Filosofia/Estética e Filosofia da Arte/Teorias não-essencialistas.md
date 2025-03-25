@@ -54,4 +54,16 @@ Enquanto o sentido classificativo da arte permite identificar algo como obra de 
 - ##### Demasiado restrita
 	- Impossibilita a arte solitária, já que esta não é candidata a apreciação.
 	- Impossibilita a arte primitiva, porque não havia mundo da arte quando a primeira pessoa fez arte.
-## Teoria histórica
+## Teoria histórica (Jerold Levinson)
+> [!Quote] Sentido classificativo da arte
+> **X é uma obra de arte se, e só se, X é um objeto cujo sujeito que tenha direito de posse sobre ele (o proprietário) tenha a intenção séria de que seja encarado-como-obra-de-arte, ou seja, que seja encarado da mesma forma como foram corretamente encaradas obras de arte anteriores.**
+
+É resolvido o problema do homem no Neolítico: Ao pilhar pedras umas em cima de outras de forma a obter prazer visual, na verdade, ainda que não detenha esse conhecimento, o homem do Neolítico está a ter uma intenção séria que é encarada da mesma forma como foi encarada corretamente uma boa parte das obras de arte anteriores, nomeadamente, a de produzir prazer visual. Muitas das obras do passado tentaram produzir prazer visual no seu criador e nos seus espectadores.
+
+É necessário que a obra de arte tenha sido criada com a intenção séria de ser encarada da mesma forma como obras de arte anteriores tenham sido corretamente encaradas. Por outras palavras, basta que na História da Arte encontremos bons exemplos (pelo menos um) paradigmáticos daquele tipo de arte para que consideremos essa instância artística como uma obra de arte.
+### 1ª condição: Direito de posse / Autorização
+Se o artista **não for proprietário da sua obra**, essa **não pode ser considerada uma obra de arte válida**.
+### 2ª condição: Intenção séria + encarado-como-obra-de-arte + corretamente encaradas
+O proprietário deve ter uma vontade e intenção séria, sólida e duradoura de que a **obra de arte seja corretamente encarada como obras de arte anteriores**. O artista não pode ter tido uma vontade apenas momentânea ou ter produzido o objeto por brincadeira.
+
+Para que um objeto seja encarado-como-obra-de-arte
