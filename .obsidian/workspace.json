@@ -25,13 +25,18 @@
             "id": "f192968295c60fd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias não-essencialistas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Teorias não-essencialistas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,11 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "830f04544776b428",
+  "active": "f192968295c60fd0",
   "lastOpenFiles": [
+    "11ºAno/Matemática/Lugares geométricos.md",
     "11ºAno/Matemática/Vetores.md",
     "11ºAno/Matemática/Limites.md",
-    "11ºAno/Matemática/Lugares geométricos.md",
     "11ºAno/Matemática/Equações de planos.md",
     "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias não-essencialistas.md",
     "11ºAno/Filosofia/Estética e Filosofia da Arte/Estética e o Problema da definição de arte.md",
