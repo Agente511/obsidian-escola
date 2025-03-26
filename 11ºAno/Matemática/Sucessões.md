@@ -47,7 +47,7 @@ Seja $A$ um conjunto de números reais:
 Um conjunto só pode ter **um único máximo**.
 ### Minorante de um conjunto
 Seja $A$ um conjunto de números reais:
-- Um número real $m$ é **minorante** de $A$ se $A$ se $\forall a \in A, a \geq m$ (todos os números do conjunto forem maiores ou iguais a $m$).
+- Um número real $m$ é **minorante** de $A$ se $\forall a \in A, a \geq m$ (todos os números do conjunto forem maiores ou iguais a $m$).
 - Diz-se que $A$ é **minorado** se tiver **pelo menos um minorante**.
 
 >[!Note] Exemplos
@@ -154,6 +154,7 @@ Uma sucessão é uma progressão aritmética se e só se a **diferença entre $u
 > $$\begin{flalign}& S_n=\frac {u_1+u_n} 2 \times n &\end{flalign}$$
 > ou
 > $$\begin{flalign}& S_\text{(entre k e p parcelas)}=\frac {u_k+u_p} 2 \times (p-k+1) &\end{flalign}$$
+> ^*este aqui de baixo tem um símbolo específico, mas tive preguiça de pôr*
 ## Progressão geométrica
 ### Razão
 >[!Summary] Cálculo da razão
