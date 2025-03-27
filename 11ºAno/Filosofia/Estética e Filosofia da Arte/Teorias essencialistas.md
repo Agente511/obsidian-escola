@@ -65,7 +65,7 @@ Goodman **define arte como um símbolo**, com a função de **simbolizar ou faze
 	- música instrumental
 	- Found Art
 	- arte decorativa
-- ##### Confusão na distinção entre possuir uma característica e ser sobre uma característica
+- ##### Confusão na distinção entre possuir uma característica e ser sobre uma característica (no neo-representacionismo)
 	O **neo-representacionismo** interpreta **todas as características da arte como sendo comentários sobre algo**, sendo que isso **não é necessariamente verdade**.
 	>[!Note] Exemplo
 	>Uma música pode ser triste e não fazer qualquer comentário sobre a tristeza.
@@ -74,17 +74,18 @@ Goodman **define arte como um símbolo**, com a função de **simbolizar ou faze
 > [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se, e só se, X é expressão imaginativa das emoções.**
 
-Defende que a arte **expressa emoções**.
+Defende que a arte **expressa emoções** que são **percebidas pelo público ao contemplar a obra de arte**.
 
 >[!Warning] Diferença entre expressar e estimular emoções
->**Estimular emoções** implica **saber antes de produzir** o quê e como tem de produzir de modo a **provocar emoções no público**, tal como um carpinteiro sabe no que vai transformar a matéria-prima e que emoções irá provocar (neste caso a utilidade).
+>**Estimular emoções** implica **saber antes de produzir** o quê e como tem de produzir o objeto de modo a **provocar emoções no público**, tal como um carpinteiro sabe no que vai transformar a matéria-prima e que emoções irá provocar (neste caso a utilidade).
 >  Para Collingwood, isto **não é arte**, é um **ofício**.
 
 ### Arte em sentido próprio e em sentido impróprio
 - ##### Arte em sentido próprio
 	**Expressão de emoções** através da **criação artística**.
 	
-	O artista faz arte com base em **sentimentos e emoções desconhecidas** de que **vai tomando consciência e entendendo à medida que as expressa ao completar a obra,** logo **não tem ideia preconcebida antes de começar a fazer arte**. A **arte** é usada como uma **forma de expressarmos as nossas emoções**.
+	O artista faz arte com base em **sentimentos e emoções desconhecidas** de que **vai tomando consciência e entendendo à medida que as expressa ao criar a obra,** logo **não tem ideia preconcebida antes de começar a fazer arte**.
+	A **arte** é usada como uma **forma de expressarmos as nossas emoções**.
 	
 	Segundo Collingwood, não se tem consciência e conhecimento real das emoções que sentimos antes de nos perguntarem o que estamos a sentir e de verbalizarmos ou expressarmos as emoções.
 	
