@@ -53,7 +53,7 @@ Para procurar uma resposta ao problema "O que é a arte?" deve-se ter em conta a
 - ##### Sentido classificativo (descritivo)
 	Identificar um objeto como sendo uma **obra de arte ou não**. Dizer a que categoria pertence um objeto.
 - ##### Sentido valorativo (avaliativo)
-	Reconhecer que, além de ser arte, o objeto é um **bom exemplar** dessa categoria (é uma **boa obra de arte**), tendo em conta as **características intrínsecas do objeto** e v**alorizando-o em relação a outros** como o que tem maior valor estético.
+	Reconhecer que, além de ser arte, o objeto é um **bom exemplar** dessa categoria (é uma **boa obra de arte**), tendo em conta as **características intrínsecas do objeto** e **valorizando-o em relação a outros** como o que tem maior valor estético.
 
 ### Formas de definir arte
 
@@ -69,7 +69,7 @@ Numa definição explícita, estabelece-se as **condições necessárias e sufic
 	Conjunto de propriedades que **só a arte tem**.
 	Se algo tem essas características, é arte.
 #### Definição implícita
-As **[[Teorias não-essencialistas|teorias não-essencialistas da arte]]** focam-se nas **propriedades extrínsecas dos objetos artísticos**, como as relações com o contexto histórico e social que envolve os objetos artísticos e os processos por que passam, procurando uma definição implícita de arte.
+As **[[Teorias não-essencialistas|teorias não-essencialistas da arte]]** focam-se nas **propriedades extrínsecas dos objetos artísticos**, como as relações com o contexto histórico e social que os envolve e os processos por que passam, procurando uma definição implícita de arte.
 
 Uma definição implícita não requer que se estabeleçam as condições necessárias e suficientes, ou seja, **não se exige que todas as obras de arte tenham características em comum**.
 No entanto, **pode-se dar uma definição consoante a situação**, num **conceito aberto**.
