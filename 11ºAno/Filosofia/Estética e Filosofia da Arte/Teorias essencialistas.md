@@ -27,11 +27,11 @@ Logo, a **imitação** é uma **condição necessária**.
 >[!Info]
 >Surge no séc. XIX, após o surgimento da fotografia que captura e imita a realidade de forma perfeita. A imitação cede o seu lugar à representação.
 
-Defende que algo é arte se **representar algo** (está em vez de outro objeto), **sem o imitar**. Esta substituição é **reconhecida pelo observador.
+Defende que algo é arte se **representar algo** (está em vez de outro objeto), **sem o imitar**. Esta substituição é **reconhecida pelo observador**.
 
 Logo, a **representação** é uma **condição necessária**.
 
-Deixa-se de imitar a realidade como ela é, passando a representá-la sem que seja necessariamente semelhante, mas fazendo referência à mesma. Na representação podem ser adicionadas características que não sejam imitativas da realidade.
+Deixa-se de imitar a realidade como ela é, passando a **representá-la sem que seja necessariamente semelhante**, mas fazendo **referência à mesma**. Na representação podem ser **adicionadas características que não sejam imitativas da realidade**.
 
 >[!Exemplos]
 >- Caricaturas
@@ -47,7 +47,7 @@ Como **todas as obras de arte requerem interpretação para a sua compreensão**
 Representar não significa que seja semelhante ao representado mas que faça referência a ele.
 
 #### Função simbólica da arte (Nelson Goodman)
-Goodman define arte como um símbolo, com a função de simbolizar ou fazer referência a algo. Um símbolo representa porque faz referência sem a necessidade de se assemelhar verdadeiramente ao referenciado.
+Goodman **define arte como um símbolo**, com a função de **simbolizar ou fazer referência a algo**. Um símbolo representa porque **faz referência sem a necessidade de se assemelhar verdadeiramente ao referenciado**.
 
 > [!Exemplo]
 >- Bandeira de Portugal.
@@ -62,7 +62,7 @@ Goodman define arte como um símbolo, com a função de simbolizar ou fazer refe
 	- Found Art
 	- arte decorativa
 - ##### Confusão na distinção entre possuir uma característica e ser sobre uma característica
-	O neo-representacionismo interpreta todas as características da arte como sendo comentários sobre algo, sendo que isso não é necessariamente verdade.
+	O **neo-representacionismo** interpreta **todas as características da arte como sendo comentários sobre algo**, sendo que isso **não é necessariamente verdade**.
 	>[!Note] Exemplo
 	>Uma música pode ser triste e não fazer qualquer comentário sobre a tristeza.
 
