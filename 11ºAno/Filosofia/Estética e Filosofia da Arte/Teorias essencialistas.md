@@ -125,12 +125,12 @@ Defende que a arte **expressa emoções**.
 	- Arte aleatória
 	- Arte feita por IA
 - ##### Demasiado inclusiva
-	Considera arte **tudo que seja resultado de um processo em que o criador toma consciência das suas emoções**, **expressando-as imaginativamente**:
+	A teoria expressivista considera arte **tudo que seja resultado de um processo em que o criador toma consciência das suas emoções**, **expressando-as imaginativamente**:
 	- Psicoterapia (o paciente acede ao seu subconsciente de forma a expressar imaginativamente, por sugestão do psicoterapeuta, aquilo que sente)
 	- Telepatia (o artista consegue transmitir uma emoção telepaticamente ao seu público, tomando consciência dessa durante a transmissão)
 	- Alucinógenos (comprimidos que, uma vez tomados, nos fizessem aderir a um estado de espírito semelhante ao de quem os criou)
 - ##### Falácia intencional
-	Classifica a obra de arte com base nas **intenções do artista quando fez a obra** (sua **origem**) **em vez das propriedades intrínsecas da obra** em si: Se o artista tiver tido a **intenção de expressar as emoções que sentiu**, será uma **obra de arte em sentido próprio**, mas se tentar apenas **estimular as emoções de forma cínica**, será um **ofício**.
+	A teoria expressivista classifica a obra de arte com base nas **intenções do artista quando fez a obra** (sua **origem**) **em vez das propriedades intrínsecas da obra** em si: Se o artista tiver tido a **intenção de expressar as emoções que sentiu**, será uma **obra de arte em sentido próprio**, mas se tentar apenas **estimular as emoções de forma cínica**, será um **ofício**.
 	No entanto, é **difícil ter certeza sobre a intenção do artista**.
 	
 	Surgiram então 3 posições acerca deste debate filosófico: ^b14856
@@ -141,7 +141,7 @@ Defende que a arte **expressa emoções**.
 	- ##### Teoria da maximização do valor
 	  Defende que **qualquer interpretação acerca da intenção do autor é válida**, desde que aumente o valor estético da mesma. A **obra vale por si e pelas interpretações que suscita** independentemente daquilo que o artista pretendia quando a concebeu.
 
-## Formalismo (Clive Bell)
+## Teoria formalista (Clive Bell)
 > [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se, e só se, X tem forma significativa.**
 
@@ -150,24 +150,25 @@ Defende que a arte **expressa emoções**.
 
 Defende que algo é arte se tiver forma significante.
 
-Foca-se nas **características intrínsecas e essenciais** da obra de arte e nas suas respetivas **qualidades formais**. Esta não tem em conta as intenções do artista, que era [[#^b14856|crítica à teoria expressivista]].
-### Emoção estética
-Emoção que resulta da percepção da boa forma de uma obra de arte.
+A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a **provocar uma [[#Emoção estética|emoção estética]]** e produzir uma imagem apelativa ao público, recorrendo à sua **gestalt** (capacidade cognitiva) para que estes consigam **captar a configuração criada e entender o seu valor estético**.
 
-Para Bell, a representação e a expressão de emoções provocam apenas emoções da ordem do quotidiano no espectador.
+O formalismo foca-se nas **características intrínsecas e essenciais** da obra de arte e nas suas respetivas **qualidades formais**. Esta não tem em conta as intenções do artista, que era [[#^b14856|crítica à teoria expressivista]].
+### Emoção estética
+Emoção que **resulta da percepção da boa forma significante de uma obra de arte**.
+
+Para Bell, a [[#Teoria representacionista|representação]] e a [[#Teoria expressivista (Collingwood)|expressão de emoções]] provocam apenas emoções da ordem do quotidiano no espectador.
 
 ### Argumento do denominador comum: condição necessária
-Segundo Bell, o **conteúdo representacional e o emocional** são **irrelevantes** para a obra, logo, apesar de esta poder conter estes conteúdos, **não são condições necessárias** (não são estes que fazem de si uma obra de arte).
+Segundo Bell, o **conteúdo [[#Teoria representacionista|representacional]] e o [[#Teoria expressivista (Collingwood)|emocional]]** são **irrelevantes** para a obra, logo, apesar de esta poder conter estes conteúdos, **não são condições necessárias** (não são estes que fazem de si uma obra de arte).
 
 >[!Note] Exemplo
 >A arte primitiva não tem conteúdo representacional nem emocional mas é uma obra de arte porque tem forma significante.
 
-A **forma significante** é, então, a **condição necessária**, por estar presente em todas as obras de arte.
-A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a produzir uma imagem apelativa ao público, recorrendo à sua [[#^54712b|gestalt]], para que estes consigam captar a configuração criada e entender o seu valor estético.
+A **forma significante** é, então, a **condição necessária**, por estar presente em todas as obras de arte (todas têm forma).
 
 No entanto, a forma significante por si só **não é condição suficiente**, já que quase tudo na realidade tem forma.
 ### Argumento da função primária: condição suficiente
-A contemplação da forma significante é a função primária apenas das obras de arte.
+A **contemplação da forma significante** é a função primária apenas das obras de arte.
 >[!Exemplo]
 >A matemática tem como função primária fornecer provas que levam a uma conclusão e não a sua forma.
 >
