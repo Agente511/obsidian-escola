@@ -168,7 +168,7 @@ Segundo Bell, o **conteúdo [[#Teoria representacionista|representacional]] e o 
 
 No entanto, a **forma significante** por si só **não é condição suficiente**, já que quase tudo na realidade tem forma.
 ### Argumento da função primária: condição suficiente
-Apenas a **contemplação da forma significante como função primária** é **condição suficiente**, por ser função primária apenas na arte.
+Apenas a contemplação da **forma significante como função primária** é **condição suficiente**, por ser função primária apenas na arte.
 >[!Exemplo]
 >A matemática tem como função primária fornecer provas que levam a uma conclusão e não a sua forma.
 >
@@ -176,20 +176,22 @@ Apenas a **contemplação da forma significante como função primária** é **c
 Existem ainda objetos que possuem conteúdo representacional e conteúdo emocional, mas que não são arte. Logo, a representação e a expressão **não são condições suficientes** (não são estes que fazem de um objeto uma obra de arte).
 ### Críticas à teoria formalista
 - ##### Falso dilema/trilema
-	Bell sustenta que a **forma** é a **condição necessária** a todas as obras, admitindo que como **alternativas só seria possível a representação e a expressão**.
+	Bell sustenta que a **forma** é a **condição necessária** a todas as obras, admitindo que como **alternativas só seria possível a representação e a expressão**. No entanto, há mais do que essas 3 opções e, além disso, a arte também tem a hipótese de ser um conceito aberto.
 - ##### Petição de princípio
-	**Define forma significante a partir da emoção estética** (configuração de linhas, cores, formas, espaços e vetores que têm a capacidade de provocar uma emoção estética no público) e **emoção estética a partir de forma significante** (o tipo de emoção que sentimos perante uma forma significante.)
-- ##### Existência de arte sem forma
-	A **existência de arte sem forma significante** contraria a forma significante como condição primária.
+	**Define forma significante a partir da emoção estética** (configuração de linhas, cores, formas, espaços e vetores que têm a capacidade de provocar uma emoção estética no público) e **emoção estética a partir de forma significante** (o tipo de emoção que sentimos perante uma forma significante). O autor **não as define de forma independente uma da outra**.
+- ##### Existe arte sem forma
+	A **existência de arte sem forma significante** contraria a forma significante como condição necessária e a função primária da forma significante na arte como condição suficiente..
 	>[!Exemplo]
 	>- Música 4’ 33 de John Cage
 	
-- ##### Existem obras de arte com formas de objetos 
-	Não parece haver nada que distinga a forma significante da forma dos objetos quotidianos, pois, na verdade, eles são objetos do quotidiano.
+- ##### Existem obras de arte com formas de objetos comuns
+	**Não parece haver nada que distinga a forma significante da forma dos objetos quotidianos**, pois, na verdade, existem obras de arte que são objetos do quotidiano.
 	>[!Exemplo]
+	>- *Found Art*
+	>- *Readymade Art*
 	>- Falsificações de arte
 	
 - ##### Impossibilidade de dissociar o conteúdo da forma
-	Apesar de Bell defender que o conteúdo representacional e emocional são irrelevantes e que apenas a forma significante desempenha a função primária das obras de arte, verifica-se que determinadas formas se tornam mais apelativas devido à maneira com que se representam determinados conteúdos.
+	Apesar de Bell defender que o conteúdo representacional e emocional são irrelevantes e que apenas a forma significante desempenha a função primária das obras de arte, verifica-se que **determinadas formas se tornam mais apelativas devido à maneira com que se materializam determinados conteúdos**, ou seja, algumas obras podem ter como objetivo a **associação da forma e conteúdo**, não havendo uma divisão entre as duas.
 	>[!Exemplo]
-	>No quadro Landscape with the fall of Icarus, podemos ver como a forma e o conteúdo são associadas beneficamente. O quadro retrata em plano de fundo a queda de Icarus quando a sua tentativa de fugir de Creta saiu frustrada, mas ocupa um lugar tangencial na obra. Por outro lado, podemos ver centrada na obra atividades do quotidiano, como se o quotidiano de fundo estivesse no centro e os eventos dos deuses fossem o plano de fundo na obra. A estrutura narrativa e a composição do quadro opõem-se criando uma tensão formal na pintura e na nossa percepção dela.
+	>No quadro "Landscape with the fall of Icarus", podemos ver como a forma e o conteúdo são associadas beneficamente. O quadro retrata em plano de fundo a queda de Icarus quando a sua tentativa de fugir de Creta saiu frustrada, mas ocupa um lugar tangencial na obra. Por outro lado, podemos ver centrada na obra atividades do quotidiano, como se o quotidiano de fundo estivesse no centro e os eventos dos deuses fossem o plano de fundo na obra. A estrutura narrativa e a composição do quadro opõem-se criando uma tensão formal na pintura e na nossa percepção dela.
