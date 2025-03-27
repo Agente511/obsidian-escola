@@ -1,4 +1,4 @@
-Procuram uma definição fechada e objetiva de arte.
+Procuram uma **definição fechada e objetiva de arte**.
 Distinguem arte de não-arte de acordo com a sua essência, ou seja, as **características intrínsecas**, **necessárias** (presentes em todas as obras de arte) e **suficientes** (exclusivas das obras de arte) que fazem de determinado objeto uma obra de arte, independentemente do seu contexto.
 ## Teoria representacionista
 ### Teoria da representação mimética

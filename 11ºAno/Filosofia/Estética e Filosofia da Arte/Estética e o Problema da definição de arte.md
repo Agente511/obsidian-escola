@@ -59,7 +59,7 @@ Para procurar uma resposta ao problema "O que é a arte?" deve-se ter em conta a
 
 #### Definição explícita
 As **[[Teorias essencialistas|teorias essencialistas da arte]]** da arte tentam classificar obras de arte e considerar o seu
-valor de acordo com as **propriedades intrínsecas do objeto artístico**, encontrando uma definição explícita da arte.
+valor de acordo com as **propriedades intrínsecas do objeto artístico**, independentemente do seu contexto histórico ou de outros fatores externos, encontrando uma definição explícita da arte.
 
 Numa definição explícita, estabelece-se as **condições necessárias e suficientes** para que algo possa ser **considerado arte**:
 - ##### Condições necessárias
@@ -69,8 +69,11 @@ Numa definição explícita, estabelece-se as **condições necessárias e sufic
 	Conjunto de propriedades que **só a arte tem**.
 	Se algo tem essas características, é arte.
 #### Definição implícita
-As **[[Teorias não-essencialistas|teorias não-essencialistas da arte]]** focam-se nas **propriedades extrínsecas dos mesmos**, como as relações com o contexto histórico e social que envolve os objetos artísticos e os processos por que passam, definindo a arte de forma implícita.
+As **[[Teorias não-essencialistas|teorias não-essencialistas da arte]]** focam-se nas **propriedades extrínsecas dos objetos artísticos**, como as relações com o contexto histórico e social que envolve os objetos artísticos e os processos por que passam, procurando uma definição implícita de arte.
 
 Uma definição implícita não requer que se estabeleçam as condições necessárias e suficientes, ou seja, **não se exige que todas as obras de arte tenham características em comum**.
 No entanto, **pode-se dar uma definição consoante a situação**, num **conceito aberto**.
+
+>[!Note] Exemplo do conceito aberto de jogo
+>A variedade de jogos é tão imensa que não existe uma característica comum a todas eles.
 
