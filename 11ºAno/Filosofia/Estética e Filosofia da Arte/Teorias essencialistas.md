@@ -150,7 +150,7 @@ Defende que a arte **expressa emoções**.
 
 Defende que algo é arte se tiver forma significante.
 
-A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a **provocar uma [[#Emoção estética|emoção estética]]** e produzir uma imagem apelativa ao público, recorrendo à sua **gestalt** (capacidade cognitiva) para que estes consigam **captar a configuração criada e entender o seu valor estético**.
+A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a **provocar uma [[#Emoção estética|emoção estética]]** e produzir uma imagem apelativa ao público, recorrendo à sua **gestalt** (capacidade cognitiva relacionada com o modo como a nossa visão se apropria das formas que observa) para que estes consigam **captar a configuração criada e entender o seu valor estético**.
 
 O formalismo foca-se nas **características intrínsecas e essenciais** da obra de arte e nas suas respetivas **qualidades formais**. Esta não tem em conta as intenções do artista, que era [[#^b14856|crítica à teoria expressivista]].
 ### Emoção estética
@@ -159,33 +159,28 @@ Emoção que **resulta da percepção da boa forma significante de uma obra de a
 Para Bell, a [[#Teoria representacionista|representação]] e a [[#Teoria expressivista (Collingwood)|expressão de emoções]] provocam apenas emoções da ordem do quotidiano no espectador.
 
 ### Argumento do denominador comum: condição necessária
-Segundo Bell, o **conteúdo [[#Teoria representacionista|representacional]] e o [[#Teoria expressivista (Collingwood)|emocional]]** são **irrelevantes** para a obra, logo, apesar de esta poder conter estes conteúdos, **não são condições necessárias** (não são estes que fazem de si uma obra de arte).
+A **forma significante** é a **condição necessária**, por estar presente em todas as obras de arte (todas têm forma).
+
+Segundo Bell, o **conteúdo [[#Teoria representacionista|representacional]] e o [[#Teoria expressivista (Collingwood)|emocional]]** são **irrelevantes** para a obra, logo, apesar de esta poder conter estes conteúdos, **não são condições necessárias**.
 
 >[!Note] Exemplo
 >A arte primitiva não tem conteúdo representacional nem emocional mas é uma obra de arte porque tem forma significante.
 
-A **forma significante** é, então, a **condição necessária**, por estar presente em todas as obras de arte (todas têm forma).
-
-No entanto, a forma significante por si só **não é condição suficiente**, já que quase tudo na realidade tem forma.
+No entanto, a **forma significante** por si só **não é condição suficiente**, já que quase tudo na realidade tem forma.
 ### Argumento da função primária: condição suficiente
-A **contemplação da forma significante** é a função primária apenas das obras de arte.
+Apenas a **contemplação da forma significante como função primária** é **condição suficiente**, por ser função primária apenas na arte.
 >[!Exemplo]
 >A matemática tem como função primária fornecer provas que levam a uma conclusão e não a sua forma.
 >
 
-Apenas a **forma significante como função primária** é **condição suficiente**, por ser função primária apenas na arte.
-
-Existem ainda objetos que possuem conteúdo representacional e conteúdo emocional, mas que não são arte. Logo, a representação e a expressão **não são condições suficientes**.
-
----
-Portanto, a **forma significante** é **condição necessária e suficiente**.
+Existem ainda objetos que possuem conteúdo representacional e conteúdo emocional, mas que não são arte. Logo, a representação e a expressão **não são condições suficientes** (não são estes que fazem de um objeto uma obra de arte).
 ### Críticas à teoria formalista
 - ##### Falso dilema/trilema
-	Bell sustenta que a forma é a condição necessária a todas as obras, admitindo que como alternativas só seria possível a representação e a expressão.
+	Bell sustenta que a **forma** é a **condição necessária** a todas as obras, admitindo que como **alternativas só seria possível a representação e a expressão**.
 - ##### Petição de princípio
-	Define forma significante a partir da emoção estética (configuração de linhas, cores, formas, espaços e vetores que têm a capacidade de provocar uma emoção estética no público) e emoção estética a partir de forma significante (o tipo de emoção que sentimos perante uma forma significante.)
+	**Define forma significante a partir da emoção estética** (configuração de linhas, cores, formas, espaços e vetores que têm a capacidade de provocar uma emoção estética no público) e **emoção estética a partir de forma significante** (o tipo de emoção que sentimos perante uma forma significante.)
 - ##### Existência de arte sem forma
-	A existência de arte sem forma significante contraria a forma significante como condição primária.
+	A **existência de arte sem forma significante** contraria a forma significante como condição primária.
 	>[!Exemplo]
 	>- Música 4’ 33 de John Cage
 	
