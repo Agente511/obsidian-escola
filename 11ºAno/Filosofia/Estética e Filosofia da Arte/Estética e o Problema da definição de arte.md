@@ -49,13 +49,18 @@ Além disso, ao contemplar-se um objeto, não se tem em conta a sua utilidade.
 >	Avalia e interpreta obras de arte, emitindo juízos sobre a sua qualidade, significado e impacto.
 ## O problema da definição de "arte"
 ### Sentido do termo "arte"
+Para procurar uma resposta ao problema "O que é a arte?" deve-se ter em conta a distinção entre os dois usos comuns da palavra "arte":
 - ##### Sentido classificativo (descritivo)
 	Identificar um objeto como sendo uma **obra de arte ou não**. Dizer a que categoria pertence um objeto.
 - ##### Sentido valorativo (avaliativo)
 	Reconhecer que, além de ser arte, o objeto é um **bom exemplar** dessa categoria (é uma **boa obra de arte**), tendo em conta as **características intrínsecas do objeto** e v**alorizando-o em relação a outros** como o que tem maior valor estético.
 
 ### Formas de definir arte
+
 #### Definição explícita
+As **[[Teorias essencialistas|teorias essencialistas da arte]]** da arte tentam classificar obras de arte e considerar o seu
+valor de acordo com as **propriedades intrínsecas do objeto artístico**, encontrando uma definição explícita da arte.
+
 Numa definição explícita, estabelece-se as **condições necessárias e suficientes** para que algo possa ser **considerado arte**:
 - ##### Condições necessárias
 	Propriedades **comuns a todas as obras de arte**.
@@ -64,6 +69,8 @@ Numa definição explícita, estabelece-se as **condições necessárias e sufic
 	Conjunto de propriedades que **só a arte tem**.
 	Se algo tem essas características, é arte.
 #### Definição implícita
-Não requer que se estabeleçam as condições necessárias e suficientes, ou seja, **não se exige que todas as obras de arte tenham características em comum**.
+As **[[Teorias não-essencialistas|teorias não-essencialistas da arte]]** focam-se nas **propriedades extrínsecas dos mesmos**, como as relações com o contexto histórico e social que envolve os objetos artísticos e os processos por que passam, definindo a arte de forma implícita.
+
+Uma definição implícita não requer que se estabeleçam as condições necessárias e suficientes, ou seja, **não se exige que todas as obras de arte tenham características em comum**.
 No entanto, **pode-se dar uma definição consoante a situação**, num **conceito aberto**.
 
