@@ -18,13 +18,13 @@ Para Weitz, identificamos obras de arte tendo em conta as suas **semelhanças co
 >[!Quote] Sentido valorativo da arte
 >Neste caso, vai **depender da apreciação do público e dos restantes membros do [[#2ª condição Instituição social|mundo da arte]]**.
 
-Defende que algo é arte se **for um artefacto apresentado por membros do mundo da arte como candidato a apreciação**.
+Defende que algo é arte se **for um artefacto a que é atribuído o estatuto de candidato a apreciação por membros do mundo da arte**.
 
 ---
-Condições para algo ser obra de arte:
+Condições necessárias e simultaneamente suficientes para algo ser obra de arte:
 ### 1º condição: Artefacto
 No sentido lato, o termo artefacto engloba mais do que objetos produzidos ou transformados pelo artista.
-A obra de arte é um objeto **material ou imaterial**.
+O artefacto é um objeto **material ou imaterial**.
 Pode ainda ser um objeto que, embora não tenha sido produzido pelo artista, tem o seu contexto modificado por este (neste caso, o artefacto é a modificação e não o objeto).
 
 >[!Exemplo]
@@ -51,19 +51,19 @@ Ao artefacto deve ser concedido o **estatuto de candidato de apreciação a obra
 
 O **mundo da arte** designa a instituição social informal na qual decorre a **prática social da arte**. Todos aqueles **envolvidos na arte ou com a arte** (artistas, críticos de arte, produtores, diretores de museus, espectadores, jornalistas, etc) **fazem parte do mundo da arte** e **representam-no**.
 
-Para uma obra de arte ser **candidata a apreciação**, o artefacto tem de ser **apresentado por alguém do mundo da arte** como **"possível de ser atribuído o estatuto de candidato a apreciação"**. Depois, um membro do mundo da arte precisa de **aprovar o estatuto de candidato a apreciação**.
+Para uma obra de arte ser **candidata a apreciação**, o artefacto tem de ser **apresentado por alguém do mundo da arte** como **"possibilidade de ser atribuído o estatuto de obra de arte"**. Depois, um membro do mundo da arte precisa de **aprovar o estatuto de candidato a apreciação**, o que faz com que o artefacto passe a ser considerado obra de arte no **sentido classificativo**.
 ### Críticas à teoria institucional
 - ##### Petição de princípio
-	Não esclarece devidamente o que é o mundo da arte e a obra de arte:
+	**Não esclarece devidamente o que é o mundo da arte e a obra de arte**:
 	- uma obra de arte é uma obra de arte se os representantes do mundo da arte aprovarem o seu estatuto de candidato a apreciação.
 	- os representantes do mundo da arte são aqueles que aprovam o estatuto de candidato de apreciação das obras de arte.
 - ##### Inutilidade da definição de obra de arte
-	Qualquer coisa pode ser candidata a apreciação
-	- Se tudo puder ser considerado arte, então temos uma teoria aleatória na sua tentativa de definir arte e não devemos preocupar-nos com a sua definição.
+	**Qualquer coisa pode ser candidata a apreciação** e, consequentemente, **ser arte**:
+	- Se tudo puder ser considerado arte, então é completamente infundada e arbitrária e não há razão para nos preocuparmos com a sua definição.
 	- Se nem tudo puder ser considerado arte, significa que existem um conjunto de características da arte que é independente das considerações dos representantes do mundo da arte.
 - ##### Demasiado restrita
-	- Impossibilita a arte solitária, já que esta não é candidata a apreciação.
-	- Impossibilita a arte primitiva, porque não havia mundo da arte quando a primeira pessoa fez arte.
+	- **Impossibilita a arte solitária**, já que esta não é candidata a apreciação.
+	- **Impossibilita a arte primitiva**, porque não havia mundo da arte quando a primeira pessoa fez arte.
 ## Teoria histórica (Jerold Levinson)
 > [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se, e só se, X é um objeto cujo sujeito que tenha direito de posse sobre ele (o proprietário) tenha a intenção séria de que seja encarado-como-obra-de-arte, ou seja, que seja encarado da mesma forma como foram corretamente encaradas obras de arte anteriores.**
