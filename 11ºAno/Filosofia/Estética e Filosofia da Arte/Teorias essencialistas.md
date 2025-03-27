@@ -1,5 +1,7 @@
 Procuram uma **definição fechada e objetiva de arte**.
+
 Distinguem arte de não-arte de acordo com a sua essência, ou seja, as **características intrínsecas**, **necessárias** (presentes em todas as obras de arte) e **suficientes** (exclusivas das obras de arte) que fazem de determinado objeto uma obra de arte, independentemente do seu contexto.
+Definem arte de forma **[[Estética e o Problema da definição de arte#Definição explícita|explícita]]**.
 ## Teoria representacionista
 ### Teoria da representação mimética (Platão e Aristóteles)
 > [!Quote] Sentido classificativo da arte
