@@ -90,7 +90,7 @@ Defende que a arte **expressa emoções**.
 - ##### Arte em sentido impróprio
 	**Estimulação de emoções**
 	
-	O criador dos objetos transforma matéria prima num objeto preconcebido procurando **estimular no seu público** determinadas **emoções** também **preconcebidas e previamente idealizadas** sem necessariamente as ter sentido ele mesmo.
+	O criador dos objetos **transforma matéria-prima num objeto preconcebido** procurando **estimular no seu público** determinadas **emoções** também **preconcebidas e previamente idealizadas** sem necessariamente as ter sentido ele mesmo.
 	
 	Para Collingwood, isto não é arte, é um **ofício**.
 	
@@ -98,39 +98,40 @@ Defende que a arte **expressa emoções**.
 	>- ##### Arte de entretenimento
 	>	Visa apenas **divertir ou entreter**, **estimulando certas emoções passageiras** (durante um curto período de tempo) no seu público, **não tendo qualquer relação com a vida do criador**, ou as suas emoções expressas.
 	>- ##### Arte mágica, arte religiosa e arte política
-	>	A arte mágica visa **estimular emoções não passageiras** no seu público, relacionadas com o quotidiano (de forma consistente ao longo da vida) e orientando os nossos comportamentos, tais como o fazem algumas obras de arte religiosa como catedrais, esculturas, cânticos, mas também algumas obras políticas como o hino, monumentos, cartazes, entre outros.
+	>	A arte mágica visa **estimular emoções não passageiras** no seu público, relacionadas com o quotidiano (de forma consistente ao longo da vida) e **orientando os nossos comportamentos**, tais como o fazem algumas obras de arte religiosa como catedrais, esculturas, cânticos, mas também algumas obras políticas como o hino, monumentos, cartazes, entre outros.
 
 ### Expressão imaginativa e manifestação de emoções
 - ##### Expressão imaginativa de emoções
-	**Processo consciente** e **controlado** que envolve algum tipo de linguagem com a qual se toma consciência das emoções e as expressa (obra de arte, no caso do artista)
+	**Processo consciente** e **controlado** que envolve algum tipo de linguagem (obra de arte, no caso do artista) com a qual **se toma consciência das emoções e as expressa**.
 - ##### Manifestação de emoções
-	**Processo corporal** e fisiológico **automático** do qual **não temos consciência**
+	**Processo corporal** e fisiológico **automático** do qual **não temos consciência**.
 
 ### Críticas à teoria expressivista
 - ##### Demasiado restrita
-	Deixa de fora várias obras de arte que não verificam os momentos do processo da criação artística
-	1. Experiência: Exigir que a arte implique que o artista expresse alguma emoção exclui:
+	Deixa de fora várias obras de arte que **não verificam os momentos do processo da criação artística**
+	1. Experiência: Exigir que a arte implique que o **artista expresse alguma emoção** **exclui**:
 	- Arte perceptiva
 	
-	2. Identidade: Exigir que o criador tenha sentido a mesma emoção que a sua arte criada expressa exclui obras de arte que usem técnicas para provocar determinado efeito no público:
+	1. Identidade: Exigir que o **criador tenha sentido a mesma emoção que a sua arte criada expressa** **exclui** obras de arte que usem técnicas para provocar determinado efeito no público:
 	- Poesia (rima e métrica)
 	- Fotografia (perspetiva e luz)
 	- Filmes de terror e *thrillers* (*scare jumps*)
 	- Obras pagas a artistas para serem feitas
 	
-	3. Consciência: Exclui obras de arte que revelam pureza nas emoções que o criador sentiu e que são apresentadas de forma caótica e descontrolada:
+	1. Consciência: **Exclui** obras de arte que revelam **pureza nas emoções que o criador sentiu** e que são **apresentadas de forma caótica e descontrolada**:
 	- Arte punk
 	
-	4. Expressividade: Exclui arte que não tem relação emocional com o criador:
+	1. Expressividade: **Exclui** arte que **não tem relação emocional com o criado**r:
 	- Arte aleatória
 	- Arte feita por IA
 - ##### Demasiado inclusiva
-	Considera arte tudo que seja resultado de um processo em que o criador toma consciência das suas emoções, expressando-as imaginativamente:
+	Considera arte **tudo que seja resultado de um processo em que o criador toma consciência das suas emoções**, **expressando-as imaginativamente**:
 	- Psicoterapia (o paciente acede ao seu subconsciente de forma a expressar imaginativamente, por sugestão do psicoterapeuta, aquilo que sente)
-	- Telepatia (o artista consegue transmitir uma emoção telepaticamente ao seu público, tomando consciência dessa durante a transmissão,) 
-	- Alucinógenos (comprimidos que que, uma vez tomados, nosfizessem aderir a um estado de espírito semelhante ao de quem os criou.)
+	- Telepatia (o artista consegue transmitir uma emoção telepaticamente ao seu público, tomando consciência dessa durante a transmissão)
+	- Alucinógenos (comprimidos que, uma vez tomados, nos fizessem aderir a um estado de espírito semelhante ao de quem os criou)
 - ##### Falácia intencional
-	Classifica a obra de arte tendo em conta as intenções do artista quando fez a obra (sua origem) em vez das propriedades intrínsecas da obra em si. Para ser uma obra de arte, o artista terá sentido a mesma emoção que expressa com a obra de arte, sem tentar apenas estimular as emoções de forma cínica.
+	Classifica a obra de arte tendo em conta as **intenções do artista quando fez a obra** (sua **origem**) **em vez das propriedades intrínsecas da obra** em si.
+	Para ser uma obra de arte, o artista terá sentido a mesma emoção que expressa com a obra de arte, sem tentar apenas estimular as emoções de forma cínica.
 	
 	Como é difícil ter a certeza sobre a intenção do artista, surgiram 2 posições acerca deste debate filosófico: ^b14856
 	- **Intencionalismo**: Defende que devemos averiguar a intenção do artista, por todos os meios, através do que escreveu ou disse ao longo da sua vida.
