@@ -70,30 +70,31 @@ Para uma obra de arte ser **candidata a apreciação**, o artefacto tem de ser *
 
 É necessário que a obra de arte tenha sido **criada com a intenção séria de ser encarada da mesma forma como obras de arte anteriores tenham sido corretamente encaradas**. Por outras palavras, basta que na História da Arte encontremos bons exemplos (pelo menos um) paradigmáticos daquele tipo de arte para que consideremos essa instância artística como uma obra de arte.
 
->[!Note] Exemplo do homem 
+>[!Note] Exemplo do homem do Neolítico
 >Ao pilhar pedras umas em cima de outras de forma a obter prazer visual, o homem do Neolítico, ainda que não detenha esse conhecimento, está, na verdade, a ter uma intenção séria que é encarada da mesma forma como foi encarada corretamente uma boa parte das obras de arte anteriores, nomeadamente, a de produzir prazer visual. Muitas das obras do passado tentaram produzir prazer visual no seu criador e nos seus espectadores.
 
 ---
 Condições para algo ser obra de arte:
 ### 1ª condição: Direito de posse / Autorização
 Se o artista **não for proprietário da sua obra ou dos meios de produção da mesma**, essa **não pode ser considerada uma obra de arte válida**.
-### 2ª condição: Intenção séria + encarado-como-obra-de-arte + corretamente encaradas
+### 2ª condição: Intenção séria de que seja encarado-como-obra-de-arte
 O proprietário deve ter uma **vontade e intenção séria, sólida e duradoura** de que a **obra de arte seja corretamente encarada como obras de arte anteriores**. O artista não pode ter tido uma vontade apenas momentânea ou ter produzido o objeto por brincadeira.
 
 Para que um objeto seja **encarado-como-obra-de-arte**, deve-se verificar uma conexão com obras anteriores. Não são necessárias semelhanças exteriores.
-Não é necessário que o autor saiba a que obras está a fazer alusão, mas sabe que intentou.
+**Não é necessário que o autor saiba a que obras está a fazer alusão**, mas sabe que intentou.
 
-Um objeto ser encarado-como-obra-de-arte como foram **corretamente encaradas** obras de arte anteriores, significa que existe uma quantidade de obras de arte que não devia ser considerada arte (são incorretamente encaradas), devido aos seus artistas não terem procurado intencionalmente produzir algo artisticamente, e, portanto, os objetos não devem ser encarados dessa forma.
+Um objeto ser encarado como foram **corretamente encaradas** obras de arte anteriores, implica que existam **obras de arte que não deviam ser consideradas arte** (são incorretamente encaradas), devido aos seus **artistas não terem procurado intencionalmente produzir algo artisticamente**, e, portanto, os objetos não devem ser encarados dessa forma.
 ### Críticas à teoria histórica
 - ##### Problema da primeira obra de arte
 	Como a **primeira obra não tem precedentes históricos**, **não pode ser corretamente encarada como obras de arte anteriores**.
-	Assim, não é explicado porquê que essa primeira obra de arte é considerada arte, o que é problemático na medida que, segundo a teoria histórica, **se não tivermos uma primeira obra de arte, não podemos ter todas as outras consequentes**.
+	Assim, não é explicado porquê que essa primeira obra de arte é considerada arte, o que é problemático devido a, segundo a teoria histórica, **se não tivermos uma primeira obra de arte, não podemos ter todas as outras consequentes**.
 - ##### Demasiado inclusiva
-	Ao **não considerar a possibilidade de formas de arte expirarem**, inclui formas de fazer arte que têm **diferentes importâncias em diferentes momentos**, o que faz com que, ainda que o criador tenha uma intenção séria de que a sua criação seja encarada da mesma forma como uma obra de arte do passado foi corretamente encarada, isso possa não bastar para ser considerada arte.
+	Ao **não considerar a possibilidade de formas de arte expirarem**, inclui formas de fazer arte que têm **diferentes importâncias em diferentes momentos**, o que faz com que, ainda que o criador tenha uma intenção séria de que a sua criação seja encarada da mesma forma como uma obra de arte do passado foi corretamente encarada, isso possa não bastar para ser considerada arte, caso essa **arte do passado tenha parado de ser corretamente encarada**.
 	>[!Exemplo]
 	>- Reportagens fotográficas de férias
 	>- Retratos-robô
 	>- Fotografias tipo passe
+	>  (os retratos artísticos antigos que tentavam representar o modelo real, da forma mais próxima da realidade possível, já não são corretamente encarados)
 	>- Falsificações (o autor pode ter a intenção séria de que a sua criação substitua o original tal como a arte representativa do passado buscava.)
 - ##### Demasiado restrita
 	Ao **exigir que o artista tenha direito de propriedade da sua obra de arte**, exclui:
