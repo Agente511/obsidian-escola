@@ -1,10 +1,11 @@
 Procuram uma **definição fechada e objetiva de arte**.
 Distinguem arte de não-arte de acordo com a sua essência, ou seja, as **características intrínsecas**, **necessárias** (presentes em todas as obras de arte) e **suficientes** (exclusivas das obras de arte) que fazem de determinado objeto uma obra de arte, independentemente do seu contexto.
 ## Teoria representacionista
-### Teoria da representação mimética
-> [!Quote] Sentido valorativo da arte
+### Teoria da representação mimética (Platão e Aristóteles)
+> [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se, e só se, X é uma imitação.**
-> 
+
+>[!Quote] Sentido valorativo da arte
 > Sendo X uma obra de arte, X é tão mais belo, quando mais próxima da realidade for a sua imitação.
 
 > [!Info] Papel da arte segundo Platão e Aristóteles
@@ -17,11 +18,12 @@ Defende que algo é arte se **imitar algo**. No entanto, **nem tudo o que imita 
 
 Logo, a **imitação** é uma **condição necessária**.
 ### Representação não imitativa
-> [!Quote] Sentido valorativo da arte
+> [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se, e só se, X é uma representação.**
 > ou
 > X representa Y se, e só se, um emissor tem a intenção de que X esteja em vez de Y e o público reconhece essa intenção.
-> 
+
+>[!Quote] Sentido valorativo da arte
 > Sendo X uma obra de arte, X é tão mais belo quanto mais forte for o reconhecimento da intenção do artista de que X esteja em vez de Y.
 
 >[!Info]
@@ -39,7 +41,7 @@ Deixa-se de imitar a realidade como ela é, passando a **representá-la sem que 
 >- Cubismo
 
 ### Teoria do neo-representacionismo
-> [!Quote] Sentido valorativo da arte
+> [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se X for sobre alguma coisa, ou seja, tiver um assunto sobre o qual apresenta uma perspetiva.**
 
 Defende que algo é arte se **fizer um comentário sobre um assunto**, apresentando uma perspetiva sobre a mesma.
@@ -67,23 +69,25 @@ Goodman **define arte como um símbolo**, com a função de **simbolizar ou faze
 	>Uma música pode ser triste e não fazer qualquer comentário sobre a tristeza.
 
 ## Teoria expressivista (Collingwood)
-> [!Quote] Sentido valorativo da arte
+> [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se, e só se, X é expressão imaginativa das emoções.**
 
 Defende que a arte **expressa emoções**.
 
 >[!Warning] Diferença entre expressar e estimular emoções
->**Estimular emoções** implica **saber antes de produzir** o que e como tem de produzir de modo a **provocar emoções no público**, tal como um carpinteiro sabe no que vai transformar a matéria-prima e que emoções irá provocar (neste caso a utilidade).
+>**Estimular emoções** implica **saber antes de produzir** o quê e como tem de produzir de modo a **provocar emoções no público**, tal como um carpinteiro sabe no que vai transformar a matéria-prima e que emoções irá provocar (neste caso a utilidade).
 >  Para Collingwood, isto **não é arte**, é um **ofício**.
 
-### Sentido próprio e sentido impróprio da arte
-- ##### Sentido próprio
+### Arte em sentido próprio e em sentido impróprio
+- ##### Arte em sentido próprio
 	**Expressão de emoções** através da **criação artística**.
 	
 	O artista faz arte com base em **sentimentos e emoções desconhecidas** de que **vai tomando consciência e entendendo à medida que as expressa ao completar a obra,** logo **não tem ideia preconcebida antes de começar a fazer arte**. A **arte** é usada como uma **forma de expressarmos as nossas emoções**.
 	
 	Segundo Collingwood, não se tem consciência e conhecimento real das emoções que sentimos antes de nos perguntarem o que estamos a sentir e de verbalizarmos ou expressarmos as emoções.
-- ##### Sentido impróprio
+	
+	Para Collingwood, isto é a **arte propriamente dita**.
+- ##### Arte em sentido impróprio
 	**Estimulação de emoções**
 	
 	O criador dos objetos transforma matéria prima num objeto preconcebido procurando **estimular no seu público** determinadas **emoções** também **preconcebidas e previamente idealizadas** sem necessariamente as ter sentido ele mesmo.
@@ -134,7 +138,7 @@ Defende que a arte **expressa emoções**.
 	- **Teoria da maximização do valor**: Defende que qualquer interpretação acerca da intenção do autor é válida, desde que aumente o valor estético da mesma. A obra vale por si e o autor é uma figura impessoal diferente do artista que criou a obra.
 
 ## Formalismo (Clive Bell)
-> [!Quote] Sentido valorativo da arte
+> [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se, e só se, X tem forma significativa.**
 
 >[!Info]
