@@ -26,7 +26,7 @@ Os **objetos estéticos** são todos os objetos naturais e artefactos que **desp
 >- aspetos da natureza
 
 ### Juízo estético
-Atribui-se uma propriedade estética a algo que percepcionamos, exprimindo uma experiência estética. É um juízo de valor e, por isso, há discordância quanto à sua verdade.
+**Atribui-se uma propriedade estética** a algo que percepcionamos, exprimindo uma experiência estética. É um **juízo de valor** e, por isso, há discordância quanto à sua verdade.
 ### Atitude estética
 - **Não tem interesse em expandir o conhecimento**, ao contrário da atitude cognitiva. Tem apenas interesse na **experiência perspetiva**.
 - **Não é uma atitude personalizada**. O sujeito estético deve contemplar o objeto estético para captar o que este lhe oferece de forma impessoal, não considerando a relação desse consigo próprio.
@@ -50,9 +50,9 @@ Além disso, ao contemplar-se um objeto, não se tem em conta a sua utilidade.
 ## O problema da definição de "arte"
 ### Sentido do termo "arte"
 - ##### Sentido classificativo (descritivo)
-	Identificar um objeto como sendo uma obra de arte ou não. Dizer a que categoria pertence um objeto.
+	Identificar um objeto como sendo uma **obra de arte ou não**. Dizer a que categoria pertence um objeto.
 - ##### Sentido valorativo (avaliativo)
-	Reconhecer que, além de ser arte, o objeto é um bom exemplar dessa categoria (é uma boa obra de arte), tendo em conta as características intrínsecas do objeto e valorizando-o em relação a outros como o que tem maior valor estético.
+	Reconhecer que, além de ser arte, o objeto é um **bom exemplar** dessa categoria (é uma **boa obra de arte**), tendo em conta as **características intrínsecas do objeto** e v**alorizando-o em relação a outros** como o que tem maior valor estético.
 
 ### Formas de definir arte
 #### Definição explícita
