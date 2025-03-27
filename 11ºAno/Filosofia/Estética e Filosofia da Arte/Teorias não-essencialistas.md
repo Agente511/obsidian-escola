@@ -1,9 +1,8 @@
-Consideram que a arte é **indefinível de forma objetiva e aplicável a todos os casos**. É, por isso, um **conceito aberto**.
-
 Distinguem arte de não-arte de acordo com as **características extrínsecas** à obra de arte, relacionadas com a situação em que o objeto se encontra, isto é, o seu **contexto envolvente (exterior)**.
 Definem arte de forma **[[Estética e o Problema da definição de arte#Definição implícita|implícita]]**.
 ### Fracasso das [[Teorias essencialistas|teorias essencialistas]] e arte como conceito aberto (Morris Weitz)
-Segundo **Morris Weitz**, as **teorias essencialistas falham**, porque tentam **impor limites à arte procurando condições necessárias e suficientes**, sendo que a **arte**, para Weitz, **é um conceito em aberto**.
+Segundo **Morris Weitz**, as **teorias essencialistas falham**, porque tentam **impor limites à arte procurando condições necessárias e suficientes**, sendo que a **arte**, para Weitz, **é um conceito em aberto**, sendo **indefinível de forma objetiva e aplicável a todos os casos**.
+
 O conceito de arte deve estar **aberto à mudança**, de modo a permitir que os artistas produzam algo criativo.
 
 Para Weitz, identificamos obras de arte tendo em conta as suas **semelhanças com um objeto artístico existente**.
