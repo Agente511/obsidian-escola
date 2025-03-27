@@ -72,8 +72,5 @@ Numa definição explícita, estabelece-se as **condições necessárias e sufic
 As **[[Teorias não-essencialistas|teorias não-essencialistas da arte]]** focam-se nas **propriedades extrínsecas dos objetos artísticos**, como as relações com o contexto histórico e social que os envolve e os processos por que passam, procurando uma definição implícita de arte.
 
 Uma definição implícita não requer que se estabeleçam as condições necessárias e suficientes, ou seja, **não se exige que todas as obras de arte tenham características em comum**.
-No entanto, **pode-se dar uma definição consoante a situação**, num **conceito aberto**.
-
->[!Note] Exemplo do conceito aberto de jogo
->A variedade de jogos é tão imensa que não existe uma característica comum a todas eles.
+No entanto, **pode-se dar uma definição consoante a situação**.
 

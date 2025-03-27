@@ -3,6 +3,9 @@ Definem arte de forma **[[Estética e o Problema da definição de arte#Definiç
 ### Fracasso das [[Teorias essencialistas|teorias essencialistas]] e arte como conceito aberto (Morris Weitz)
 Segundo **Morris Weitz**, as **teorias essencialistas falham**, porque tentam **impor limites à arte procurando condições necessárias e suficientes**, sendo que a **arte**, para Weitz, **é um conceito em aberto**, sendo **indefinível de forma objetiva e aplicável a todos os casos**.
 
+>[!Note] Exemplo do conceito aberto de jogo
+>A variedade de jogos é tão imensa que não existe uma característica comum a todas eles.
+
 O conceito de arte deve estar **aberto à mudança**, de modo a permitir que os artistas produzam algo criativo.
 
 Para Weitz, identificamos obras de arte tendo em conta as suas **semelhanças com um objeto artístico existente**.
