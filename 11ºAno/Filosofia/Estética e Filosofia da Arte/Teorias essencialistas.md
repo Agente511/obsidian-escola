@@ -130,13 +130,16 @@ Defende que a arte **expressa emoções**.
 	- Telepatia (o artista consegue transmitir uma emoção telepaticamente ao seu público, tomando consciência dessa durante a transmissão)
 	- Alucinógenos (comprimidos que, uma vez tomados, nos fizessem aderir a um estado de espírito semelhante ao de quem os criou)
 - ##### Falácia intencional
-	Classifica a obra de arte tendo em conta as **intenções do artista quando fez a obra** (sua **origem**) **em vez das propriedades intrínsecas da obra** em si.
-	Para ser uma obra de arte, o artista terá sentido a mesma emoção que expressa com a obra de arte, sem tentar apenas estimular as emoções de forma cínica.
+	Classifica a obra de arte com base nas **intenções do artista quando fez a obra** (sua **origem**) **em vez das propriedades intrínsecas da obra** em si: Se o artista tiver tido a **intenção de expressar as emoções que sentiu**, será uma **obra de arte em sentido próprio**, mas se tentar apenas **estimular as emoções de forma cínica**, será um **ofício**.
+	No entanto, é **difícil ter certeza sobre a intenção do artista**.
 	
-	Como é difícil ter a certeza sobre a intenção do artista, surgiram 2 posições acerca deste debate filosófico: ^b14856
-	- **Intencionalismo**: Defende que devemos averiguar a intenção do artista, por todos os meios, através do que escreveu ou disse ao longo da sua vida.
-	- **Intencionalismo hipotético**: Defende que a intenção do artista pode ser desconhecida até por ele mesmo. Os comentários feitos pelo mesmo à sua obra num tempo posterior podem ser uma falácia post-hoc, atribuindo uma falsa causa à obra. A intenção reconhecida é apenas uma hipótese.
-	- **Teoria da maximização do valor**: Defende que qualquer interpretação acerca da intenção do autor é válida, desde que aumente o valor estético da mesma. A obra vale por si e o autor é uma figura impessoal diferente do artista que criou a obra.
+	Surgiram então 3 posições acerca deste debate filosófico: ^b14856
+	- ##### Intencionalismo
+	  Defende que **devemos averiguar a intenção do artista**, por **todos os meios,** através do que escreveu ou disse ao longo da sua vida.
+	- ##### Intencionalismo hipotético
+	  Defende que a **intenção do artista pode ser desconhecida até por ele mesmo**. Os comentários feitos pelo mesmo à sua obra num tempo posterior podem ser uma falácia post-hoc, atribuindo uma falsa causa à obra. A intenção reconhecida é apenas uma hipótese.
+	- ##### Teoria da maximização do valor
+	  Defende que **qualquer interpretação acerca da intenção do autor é válida**, desde que aumente o valor estético da mesma. A **obra vale por si e pelas interpretações que suscita** independentemente daquilo que o artista pretendia quando a concebeu.
 
 ## Formalismo (Clive Bell)
 > [!Quote] Sentido classificativo da arte
