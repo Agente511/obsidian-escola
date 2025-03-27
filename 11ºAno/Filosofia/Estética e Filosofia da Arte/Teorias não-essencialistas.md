@@ -15,6 +15,12 @@ Para Weitz, identificamos obras de arte tendo em conta as suas **semelhanças co
 > 
 > X é uma obra de arte se, e só se, X é um artefacto apresentado por um agente com entendimento artístico a um público preparado para o entender artisticamente.
 
+>[!Quote] Sentido valorativo da arte
+>Neste caso, vai **depender da apreciação do público e dos restantes membros do [[#2ª condição Instituição social|mundo da arte]]**.
+
+Defende que algo é arte se **for um artefacto apresentado por membros do mundo da arte como candidato a apreciação**.
+
+---
 Condições para algo ser obra de arte:
 ### 1º condição: Artefacto
 No sentido lato, o termo artefacto engloba mais do que objetos produzidos ou transformados pelo artista.
@@ -43,10 +49,9 @@ Ao artefacto deve ser concedido o **estatuto de candidato de apreciação a obra
 >	>- Cortesia
 >	>- **Arte**
 
-O **mundo da arte** designa a instituição social na qual decorre a prática social da arte, na qual contribuem os artistas, os críticos de arte, os produtores, os diretores de museus, espectadores, jornalistas, etc. Todos aqueles envolvidos na arte ou com a arte fazem parte do mundo da arte e são estes que o representam.
+O **mundo da arte** designa a instituição social informal na qual decorre a **prática social da arte**. Todos aqueles **envolvidos na arte ou com a arte** (artistas, críticos de arte, produtores, diretores de museus, espectadores, jornalistas, etc) **fazem parte do mundo da arte** e **representam-no**.
 
 Para uma obra de arte ser **candidata a apreciação**, o artefacto tem de ser **apresentado por alguém do mundo da arte** como **"possível de ser atribuído o estatuto de candidato a apreciação"**. Depois, um membro do mundo da arte precisa de **aprovar o estatuto de candidato a apreciação**.
-Enquanto o sentido classificativo da arte permite identificar algo como obra de arte, o sentido valorativo valoriza a obra como boa ou má arte, o que depende da apreciação do público e dos restantes membros do mundo da arte.
 ### Críticas à teoria institucional
 - ##### Petição de princípio
 	Não esclarece devidamente o que é o mundo da arte e a obra de arte:
