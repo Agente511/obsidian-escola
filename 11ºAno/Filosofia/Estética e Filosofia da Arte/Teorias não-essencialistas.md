@@ -2,7 +2,7 @@ Consideram que a arte é **indefinível de forma objetiva e aplicável a todos o
 
 Distinguem arte de não-arte de acordo com as **características extrínsecas** à obra de arte, relacionadas com a situação em que o objeto se encontra, isto é, o seu **contexto envolvente (exterior)**.
 Definem arte de forma **[[Estética e o Problema da definição de arte#Definição implícita|implícita]]**.
-### Fracasso das [[Teorias essencialistas|teorias essencialistas]]
+### Fracasso das [[Teorias essencialistas|teorias essencialistas]] e arte como conceito aberto (Morris Weitz)
 Segundo **Morris Weitz**, as **teorias essencialistas falham**, porque tentam **impor limites à arte procurando condições necessárias e suficientes**, sendo que a **arte**, para Weitz, **é um conceito em aberto**.
 O conceito de arte deve estar **aberto à mudança**, de modo a permitir que os artistas produzam algo criativo.
 
@@ -18,7 +18,7 @@ Para Weitz, identificamos obras de arte tendo em conta as suas **semelhanças co
 >[!Quote] Sentido valorativo da arte
 >Neste caso, vai **depender da apreciação do público e dos restantes membros do [[#2ª condição Instituição social|mundo da arte]]**.
 
-Defende que algo é arte se **for um artefacto a que é atribuído o estatuto de candidato a apreciação por membros do mundo da arte**.
+Defende que algo é arte se **for um artefacto que é apresentado como candidato a apreciação por por alguém com entendimento artístico que pertença ao "mundo da arte"**.
 
 ---
 Condições para algo ser obra de arte:
@@ -33,7 +33,7 @@ Pode ainda ser um objeto que, embora não tenha sido produzido pelo artista, tem
 >- Notas musicais
 >- *Found art*
 ### 2ª condição: Instituição social
-Ao artefacto deve ser concedido o **estatuto de candidato de apreciação a obra artística** por uma ou mais pessoas que represente a **instituição social do mundo da arte**.
+Ao artefacto deve ser concedido o **estatuto de candidato de apreciação a obra artística** por uma ou mais pessoas que represente a **instituição social do "mundo da arte"**.
 
 >[!Info] Definição de instituição social
 >Prática social praticada ao longo de gerações
@@ -49,7 +49,7 @@ Ao artefacto deve ser concedido o **estatuto de candidato de apreciação a obra
 >	>- Cortesia
 >	>- **Arte**
 
-O **mundo da arte** designa a instituição social informal na qual decorre a **prática social da arte**. Todos aqueles **envolvidos na arte ou com a arte** (artistas, críticos de arte, produtores, diretores de museus, espectadores, jornalistas, etc) **fazem parte do mundo da arte** e **representam-no**.
+O **"mundo da arte"** designa a instituição social informal na qual decorre a **prática social da arte**. Todos aqueles **envolvidos na arte ou com a arte** (artistas, críticos de arte, produtores, diretores de museus, espectadores, jornalistas, etc) **fazem parte do mundo da arte** e **representam-no**.
 
 Para uma obra de arte ser **candidata a apreciação**, o artefacto tem de ser **apresentado por alguém do mundo da arte** como **"possibilidade de ser atribuído o estatuto de obra de arte"**. Depois, um membro do mundo da arte precisa de **aprovar o estatuto de candidato a apreciação**, o que faz com que o artefacto passe a ser considerado obra de arte no **sentido classificativo**.
 ### Críticas à teoria institucional
@@ -95,7 +95,8 @@ Um objeto ser encarado como foram **corretamente encaradas** obras de arte anter
 	>- Retratos-robô
 	>- Fotografias tipo passe
 	>  (os retratos artísticos antigos que tentavam representar o modelo real, da forma mais próxima da realidade possível, já não são corretamente encarados)
-	>- Falsificações (o autor pode ter a intenção séria de que a sua criação substitua o original tal como a arte representativa do passado buscava.)
+	
+	Além disso, considera as **falsificações** arte, porque o autor tem a **intenção séria de que a sua criação substitua o original** tal como a arte representativa do passado buscava.
 - ##### Demasiado restrita
 	Ao **exigir que o artista tenha direito de propriedade da sua obra de arte**, exclui:
 	- Grafitti
