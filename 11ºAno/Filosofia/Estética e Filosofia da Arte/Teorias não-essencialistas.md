@@ -11,23 +11,23 @@ O conceito de arte deve estar **aberto à mudança**, de modo a permitir que os 
 Para Weitz, identificamos obras de arte tendo em conta as suas **semelhanças com um objeto artístico existente**.
 ## Teoria institucional (George Dickie)
 > [!Quote] Sentido classificativo da arte
-> **X é uma obra de arte no sentido classificativo se, e só se, X for um artefacto ao qual um conjunto de pessoas que atuam em nome da instituição social do mundo da arte atribuem o estatuto de candidato de apreciação.**
+> **X é uma obra de arte no sentido classificativo se, e só se, X for um artefacto ao qual um conjunto de pessoas que atuam em nome da instituição social do mundo da arte atribuem o estatuto de candidato a apreciação.**
 > 
 > ou
 > 
 > X é uma obra de arte se, e só se, X é um artefacto apresentado por um agente com entendimento artístico a um público preparado para o entender artisticamente.
 
->[!Quote] Sentido valorativo da arte
+>[!Summary] Sentido valorativo da arte
 >Neste caso, vai **depender da apreciação do público e dos restantes membros do [[#2ª condição Instituição social|mundo da arte]]**.
 
-Defende que algo é arte se **for um artefacto que é apresentado como candidato a apreciação por por alguém com entendimento artístico que pertença ao "mundo da arte"**.
+Defende que algo é arte se **for um artefacto que é apresentado como candidato a apreciação por alguém com entendimento artístico que pertença ao "mundo da arte"**.
 
 ---
 Condições para algo ser obra de arte:
 ### 1º condição: Artefacto
 No sentido lato, o termo artefacto engloba mais do que objetos produzidos ou transformados pelo artista.
 O artefacto é um objeto **material ou imaterial**.
-Pode ainda ser um objeto que, embora não tenha sido produzido pelo artista, tem o seu contexto modificado por este (neste caso, o artefacto é a modificação e não o objeto).
+Pode ainda ser um objeto que, embora não tenha sido produzido pelo artista, tem o seu contexto modificado por este (neste caso, o artefacto é a modificação e não o objeto por si só).
 
 >[!Exemplo]
 >- Coreografias
