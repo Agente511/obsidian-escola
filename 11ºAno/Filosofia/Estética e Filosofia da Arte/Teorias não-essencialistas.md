@@ -35,7 +35,7 @@ Pode ainda ser um objeto que, embora não tenha sido produzido pelo artista, tem
 >- Notas musicais
 >- *Found art*
 ### 2ª condição: Instituição social
-Ao artefacto deve ser concedido o **estatuto de candidato de apreciação a obra artística** por uma ou mais pessoas que represente a **instituição social do "mundo da arte"**.
+Ao artefacto deve ser concedido o **estatuto de candidato a apreciação a obra artística** por uma ou mais pessoas que represente a **instituição social do "mundo da arte"**.
 
 >[!Info] Definição de instituição social
 >Prática social praticada ao longo de gerações
@@ -83,7 +83,7 @@ Se o artista **não for proprietário da sua obra ou dos meios de produção da 
 O proprietário deve ter uma **vontade e intenção séria, sólida e duradoura** de que a **obra de arte seja corretamente encarada como obras de arte anteriores**. O artista não pode ter tido uma vontade apenas momentânea ou ter produzido o objeto por brincadeira.
 
 Para que um objeto seja **encarado-como-obra-de-arte**, deve-se verificar uma conexão com obras anteriores. Não são necessárias semelhanças exteriores.
-**Não é necessário que o autor saiba a que obras está a fazer alusão**, mas sabe que intentou.
+**Não é necessário que o autor saiba a que obras está a fazer alusão**, mas sabe que intentou alguma coisa.
 
 Um objeto ser encarado como foram **corretamente encaradas** obras de arte anteriores, implica que existam **obras de arte que não deviam ser consideradas arte** (são incorretamente encaradas), devido aos seus **artistas não terem procurado intencionalmente produzir algo artisticamente**, e, portanto, os objetos não devem ser encarados dessa forma.
 ### Críticas à teoria histórica
