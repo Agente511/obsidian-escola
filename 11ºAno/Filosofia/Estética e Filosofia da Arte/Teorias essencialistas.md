@@ -146,14 +146,14 @@ Defende que a arte **expressa emoções**.
 
 ## Teoria formalista (Clive Bell)
 > [!Quote] Sentido classificativo da arte
-> **X é uma obra de arte se, e só se, X tem forma significativa.**
+> **X é uma obra de arte se, e só se, X tem forma significante.**
 
 >[!Info]
 >Surgiu devido aos novos movimentos artísticos modernos e contemporâneos cujas obras não têm conteúdo representacional estando antes focadas em obter imagens apelativas pela sua organização visual, forma e design atrativo.
 
 Defende que algo é arte se tiver forma significante.
 
-A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas** pelo artista de forma a **provocar uma [[#Emoção estética|emoção estética]]** e produzir uma imagem apelativa ao público, recorrendo à sua **gestalt** (capacidade cognitiva relacionada com o modo como a nossa visão se apropria das formas que observa) para que estes consigam **captar a configuração criada e entender o seu valor estético**.
+A forma significante é a **configuração de linhas, cores, formas, espaços, vetores**, entre outras propriedades formais, **intencionalmente manipuladas pelo artista** de forma a **provocar uma [[#Emoção estética|emoção estética]]** e produzir uma imagem apelativa ao público, recorrendo à sua **gestalt** (capacidade cognitiva relacionada com o modo como a nossa visão se apropria das formas que observa) para que estes consigam **captar a configuração criada e entender o seu valor estético**.
 
 O formalismo foca-se nas **características intrínsecas e essenciais** da obra de arte e nas suas respetivas **qualidades formais**. Esta não tem em conta as intenções do artista, que era [[#^b14856|crítica à teoria expressivista]].
 ### Emoção estética
@@ -178,7 +178,7 @@ Apenas a contemplação da **forma significante como função primária** é **c
 
 Existem ainda objetos que possuem conteúdo representacional e conteúdo emocional, mas que não são arte. Logo, a representação e a expressão **não são condições suficientes** (não são estes que fazem de um objeto uma obra de arte).
 ### Críticas à teoria formalista
-- ##### Falso dilema/trilema
+- ##### Falso trilema
 	Bell sustenta que a **forma** é a **condição necessária** a todas as obras, admitindo que como **alternativas só seria possível a representação e a expressão**. No entanto, há mais do que essas 3 opções e, além disso, a arte também tem a hipótese de ser um conceito aberto.
 - ##### Petição de princípio
 	**Define forma significante a partir da emoção estética** (configuração de linhas, cores, formas, espaços e vetores que têm a capacidade de provocar uma emoção estética no público) e **emoção estética a partir de forma significante** (o tipo de emoção que sentimos perante uma forma significante). O autor **não as define de forma independente uma da outra**.
