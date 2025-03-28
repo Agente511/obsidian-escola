@@ -74,7 +74,7 @@ Goodman **define arte como um símbolo**, com a função de **simbolizar ou faze
 > [!Quote] Sentido classificativo da arte
 > **X é uma obra de arte se, e só se, X é expressão imaginativa das emoções.**
 
-Defende que a arte **expressa emoções** que são **percebidas pelo público ao contemplar a obra de arte**.
+Defende que a arte **expressa emoções**.
 
 >[!Warning] Diferença entre expressar e estimular emoções
 >**Estimular emoções** implica **saber antes de produzir** o quê e como tem de produzir o objeto de modo a **provocar emoções no público**, tal como um carpinteiro sabe no que vai transformar a matéria-prima e que emoções irá provocar (neste caso a utilidade).
@@ -84,7 +84,7 @@ Defende que a arte **expressa emoções** que são **percebidas pelo público ao
 - ##### Arte em sentido próprio
 	**Expressão de emoções** através da **criação artística**.
 	
-	O artista faz arte com base em **sentimentos e emoções desconhecidas** de que **vai tomando consciência e entendendo à medida que as expressa ao criar a obra,** logo **não tem ideia preconcebida antes de começar a fazer arte**.
+	O artista faz arte com base em **sentimentos e emoções desconhecidas** de que **vai tomando consciência e entendendo à medida que cria a obra,** logo **não tem ideia preconcebida antes de começar a fazer arte**. O **público**, ao contemplar a obra de arte, **percebe essas mesmas emoções expressas**.
 	A **arte** é usada como uma **forma de expressarmos as nossas emoções**.
 	
 	Segundo Collingwood, não se tem consciência e conhecimento real das emoções que sentimos antes de nos perguntarem o que estamos a sentir e de verbalizarmos ou expressarmos as emoções.
@@ -115,16 +115,16 @@ Defende que a arte **expressa emoções** que são **percebidas pelo público ao
 	1. Experiência: Exigir que a arte implique que o **artista expresse alguma emoção** **exclui**:
 	- Arte perceptiva
 	
-	1. Identidade: Exigir que o **criador tenha sentido a mesma emoção que a sua arte criada expressa** **exclui** obras de arte que usem técnicas para provocar determinado efeito no público:
+	2. Identidade: Exigir que o **criador tenha sentido a mesma emoção que a sua arte criada expressa** **exclui** obras de arte que usem técnicas para provocar determinado efeito no público:
 	- Poesia (rima e métrica)
 	- Fotografia (perspetiva e luz)
 	- Filmes de terror e *thrillers* (*scare jumps*)
 	- Obras pagas a artistas para serem feitas
 	
-	1. Consciência: **Exclui** obras de arte que revelam **pureza nas emoções que o criador sentiu** e que são **apresentadas de forma caótica e descontrolada**:
+	3. Consciência: **Exclui** obras de arte que revelam **pureza nas emoções que o criador sentiu** e que são **apresentadas de forma caótica e descontrolada**:
 	- Arte punk
 	
-	1. Expressividade: **Exclui** arte que **não tem relação emocional com o criado**r:
+	4. Expressividade: **Exclui** arte que **não tem relação emocional com o criado**r:
 	- Arte aleatória
 	- Arte feita por IA
 - ##### Demasiado inclusiva
