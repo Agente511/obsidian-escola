@@ -31,4 +31,14 @@ De acordo com o [[#Princípio de Le Châtelier]]:
 ### Temperatura
 A variação da temperatura **altera a constante de equilíbrio da reação** (**$K_c$**).
 
-Para avaliar o efeito da variação da temperatura num sistema em equilíbrio químico, é preciso saber se a reação é
+Para avaliar o efeito da variação da temperatura num sistema em equilíbrio químico, é preciso saber se a reação é, no sentido direto:
+- **endotérmica** ($\Delta H >0$)
+  Absorve energia térmica.
+  ![[Pasted image 20250329195439.png|150]]
+- **exotérmica** ($\Delta H < 0$)
+  Liberta energia térmica.
+  ![[Pasted image 20250329195451.png|150]]
+
+Se uma reação for **endotérmica no sentido direto**, será **exotérmica no sentido inverso** e vice-versa.
+
+
