@@ -10,8 +10,24 @@ Quanto **maior** for a **constante de equilíbrio de uma reação química rever
 >[!Note] Exemplo
 >$H_2(g)+I_2(g) \rightleftharpoons 2\ HI(g)$
 >$$\begin{flalign}& K_c=\frac {[HI]^2} {[H_2]\times[I_2]}=54,5 &\end{flalign}$$
+>![[Pasted image 20250329180959.png]]
 >Invertendo a reação química, tem-se:
 >
 >$2\ HI(g) \rightleftharpoons H_2(g)+I_2(g)$
 >$$\begin{flalign}& K'_c=\frac {[H_2]\times[I_2]} {[HI]^2}=0,0183 &\end{flalign}$$
 >que também pode ser obtido através de $$\begin{flalign}& K'_c=\frac 1 {54,5}=0,0183 &\end{flalign}$$
+>![[Pasted image 20250329181008.png]]
+
+## Quociente da reação, $Q_c$
+Pode ser determinado em qualquer instante, **sem que o sistema esteja em equilíbrio**, através do  **quociente** entre o **produto das concentrações dos produtos da reação** e do **produto das concentrações dos reagentes**, **elevadas aos respetivos coeficientes estequiométricos** (mesmo cálculo que o utilizado para $K_c$).
+É uma grandeza adimensional.
+
+>[!Summary] Cálculo do quociente da reação
+>Para qualquer sistema homogéneo, fechado e em equilíbrio químico, a uma dada temperatura: $a\ A+b\ B \rightleftharpoons c\ C+ d\ D$, a constante de equilíbrio da reação é dada por:
+>$$\begin{flalign}& K_c=\frac {[C]^c\times[D]^d} {[A]^a\times[B]^b} &\end{flalign}$$
+>
+>Sendo:
+>- $K_c$: constante de equilíbrio da reação ($c$ em $K_c$ refere-se a concentrações)
+>
+>>[!Info] Representação abreviada da concentração molar
+>[A] representa a concentração da substância A

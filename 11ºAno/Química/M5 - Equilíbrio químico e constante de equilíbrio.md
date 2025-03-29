@@ -60,10 +60,10 @@ Um **equilíbrio químico heterogéneo** corresponde a um estado de equilíbrio 
 >- $CaCO_3(s) \rightleftharpoons CaO(s)+CO_2(g)$
 >- $AgCl(s) \rightleftharpoons Ag^+(aq)+Cl^-(aq)$
 ## Constante de equilíbrio, $K_c$
-É o **quociente** entre o **produto das concentrações dos produtos da reação** e do **produto das concentrações dos reagentes**, **elevadas aos respetivos coeficientes estequiométricos**.
+É o **quociente** entre o **produto das concentrações dos produtos da reação** e do **produto das concentrações dos reagentes**, **elevadas aos respetivos coeficientes estequiométricos**, quando a **reação está num estado de equilíbrio químico**.
 É uma grandeza adimensional.
 >[!Summary] Cálculo da constante de equilíbrio
->Para qualquer sistema homogéneo, fechado e em equilíbrio químico, a uma dada temperatura: $a\ A+b\ B \rightleftharpoons c\ C+ d\ D$, a constante de equilíbrio da reação é dada por:
+>Para qualquer sistema homogéneo, fechado e em **equilíbrio químico**, a uma dada temperatura: $a\ A+b\ B \rightleftharpoons c\ C+ d\ D$, a constante de equilíbrio da reação é dada por:
 >$$\begin{flalign}& K_c=\frac {[C]^c\times[D]^d} {[A]^a\times[B]^b} &\end{flalign}$$
 >
 >Sendo:
