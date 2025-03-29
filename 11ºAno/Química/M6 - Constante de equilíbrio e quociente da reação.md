@@ -23,11 +23,22 @@ Pode ser determinado em qualquer instante, **sem que o sistema esteja em equilí
 É uma grandeza adimensional.
 
 >[!Summary] Cálculo do quociente da reação
->Para qualquer sistema homogéneo, fechado e em equilíbrio químico, a uma dada temperatura: $a\ A+b\ B \rightleftharpoons c\ C+ d\ D$, a constante de equilíbrio da reação é dada por:
+>Para uma reação química $a\ A+b\ B \rightleftharpoons c\ C+ d\ D$, o quociente da reação é dado por:
 >$$\begin{flalign}& K_c=\frac {[C]^c\times[D]^d} {[A]^a\times[B]^b} &\end{flalign}$$
->
->Sendo:
->- $K_c$: constante de equilíbrio da reação ($c$ em $K_c$ refere-se a concentrações)
 >
 >>[!Info] Representação abreviada da concentração molar
 >[A] representa a concentração da substância A
+
+### Comparação de $Q_c$ com $K_c$
+Através da comparação de $Q_c$ com $K_c$ à mesma temperatura, prevê-se o **sentido em que a reação ocorrerá**, **a maior a velocidade**, **até se atingir o equilíbrio químico**:
+- $Q_c=K_c$
+  O sistema **está em equilíbrio químico**.
+  As concentrações de reagentes e produtos são as concentrações de equilíbrio.
+- $Q_c<K_c$
+  O sistema **evoluirá no sentido da reação direta até atingir o equilíbrio químico**.
+  Existe **maior concentração de reagentes** e **menor concentração de produtos** **do que as esperadas no equilíbrio**.
+- $Q_c>K_c$
+  O sistema **evoluirá no sentido da reação inversa até atingir o equilíbrio químico**.
+  Existe **maior concentração de produtos** e **menor concentração de reagentes** **do que as esperadas no equilíbrio**.
+
+

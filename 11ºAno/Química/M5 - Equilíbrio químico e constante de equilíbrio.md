@@ -76,13 +76,16 @@ O valor da constante de equilíbrio de uma reação química **não depende das 
 Para a mesma reação química, à mesma temperatura, o valor de $K_c$ mantém-se inalterado.
 
 Quanto maior a constante de equilíbrio de uma reação química, mais extensa é a reação direta e menos extensa é a reação inversa:
-- $K_c>>1$, a **conversão de reagentes em produtos é superior** à de produção de reagentes
+- $K_c>>1$
+  A **conversão de reagentes em produtos é superior** à de produção de reagentes
   (a reação é **muito mais extensa no sentido direto do que no sentido inverto**)
   ![[Pasted image 20250329172741.png|180]]
-- $K_c \approx 1$, a **conversão de reagentes em produtos é aproximadamente igual à produção de reagentes**
+- $K_c \approx 1$
+  A **conversão de reagentes em produtos é aproximadamente igual à produção de reagentes**
   (a reação é **igualmente extensa no sentido direto e inverso**)
   ![[Pasted image 20250329172820.png|180]]
-- $K_c<<1$, a **conversão de produtos em reagentes é superior** à de reagentes em produtos
+- $K_c<<1$
+  A **conversão de produtos em reagentes é superior** à de reagentes em produtos
   (a reação é **muito menos extensa no sentido direto do que no sentido inverso**)
   ![[Pasted image 20250329172839.png|180]]
 
