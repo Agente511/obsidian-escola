@@ -1,7 +1,6 @@
 Distinguem arte de não-arte de acordo com as **características extrínsecas** à obra de arte, relacionadas com a situação em que o objeto se encontra, isto é, o seu **contexto envolvente (exterior)**.
-Definem arte de forma **[[Estética e o Problema da definição de arte#Definição implícita|implícita]]**.
-### Fracasso das [[Teorias essencialistas|teorias essencialistas]] e arte como conceito aberto (Morris Weitz)
-Segundo **Morris Weitz**, as **teorias essencialistas falham**, porque tentam **impor limites à arte procurando condições necessárias e suficientes**, sendo que a **arte**, para Weitz, **é um conceito em aberto**, sendo **indefinível de forma objetiva e aplicável a todos os casos**.
+### Arte como conceito aberto (Morris Weitz)
+Segundo **Morris Weitz**, as **teorias essencialistas falham**, porque tentam **impor limites à arte procurando condições necessárias e suficientes**, sendo que a **arte**, para si, **é um conceito em aberto**, **indefinível de forma objetiva e aplicável a todos os casos**. Por isso, define arte de forma **[[Estética e o Problema da definição de arte#Definição implícita|implícita]]**.
 
 >[!Note] Exemplo do conceito aberto de jogo
 >A variedade de jogos é tão imensa que não existe uma característica comum a todas eles.
@@ -23,7 +22,7 @@ Para Weitz, identificamos obras de arte tendo em conta as suas **semelhanças co
 Defende que algo é arte se **for um artefacto que é apresentado como candidato a apreciação por alguém com entendimento artístico que pertença ao "mundo da arte"**.
 
 ---
-Condições para algo ser obra de arte:
+Condições necessárias e simultaneamente suficientes para algo ser obra de arte ([[Estética e o Problema da definição de arte#Definição explícita|definição explícita]]):
 ### 1º condição: Artefacto
 No sentido lato, o termo artefacto engloba mais do que objetos produzidos ou transformados pelo artista.
 O artefacto é um objeto **material ou imaterial**.
@@ -76,7 +75,7 @@ Para uma obra de arte ser **candidata a apreciação**, o artefacto tem de ser *
 >Ao pilhar pedras umas em cima de outras de forma a obter prazer visual, o homem do Neolítico, ainda que não detenha esse conhecimento, está, na verdade, a ter uma intenção séria que é encarada da mesma forma como foi encarada corretamente uma boa parte das obras de arte anteriores, nomeadamente, a de produzir prazer visual. Muitas das obras do passado tentaram produzir prazer visual no seu criador e nos seus espectadores.
 
 ---
-Condições para algo ser obra de arte:
+Condições necessárias e simultaneamente suficientes para algo ser obra de arte:
 ### 1ª condição: Direito de posse / Autorização
 Se o artista **não for proprietário da sua obra ou dos meios de produção da mesma**, essa **não pode ser considerada uma obra de arte válida**.
 ### 2ª condição: Intenção séria de que seja encarado-como-obra-de-arte

@@ -77,10 +77,10 @@ Para a mesma reação química, à mesma temperatura, o valor de $K_c$ mantém-s
 
 Se:
 - $K_c>>1$, a **conversão de reagentes em produtos é superior** à de produção de reagentes
-  (a reação é **muito extensa no sentido direto**)
+  (a reação é **muito mais extensa no sentido direto do que no sentido inverto**)
 - $K_c \approx 1$, a **conversão de reagentes em produtos é aproximadamente igual à produção de reagentes**
   (a reação é **igualmente extensa no sentido direto e inverso**)
 - $K_c<<1$, a **conversão de produtos em reagentes é superior** à de reagentes em produtos
-  (a reação é **pouco extensa no sentido direto**)
+  (a reação é **muito menos extensa no sentido direto do que no sentido inverso**)
 
 TEMPERATURA PÁG 60 (mais vale pôr tudo no M7, não?)

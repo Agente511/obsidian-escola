@@ -8,49 +8,34 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b66505ea6e884b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M5 - Equilíbrio químico e constante de equilíbrio"
+            }
+          },
+          {
             "id": "e5eece3c3ab8a810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Filosofia/Estética e Filosofia da Arte/Estética e o Problema da definição de arte.md",
+                "file": "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estética e o Problema da definição de arte"
-            }
-          },
-          {
-            "id": "555759140e65e155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias não-essencialistas.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teorias não-essencialistas"
-            }
-          },
-          {
-            "id": "8e4871d41b852dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias não-essencialistas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teorias não-essencialistas"
+              "title": "M6 - Constante de equilíbrio e quociente da reação"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,10 +221,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "555759140e65e155",
+  "active": "b66505ea6e884b7e",
   "lastOpenFiles": [
-    "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias essencialistas.md",
+    "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
+    "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
+    "Sem título.md",
+    "Sem título 1.md",
+    "Imagens/Pasted image 20250318191516.png",
+    "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
+    "11ºAno/Química/M3 - Rendimento das reações químicas.md",
+    "11ºAno/Química/M4 - Química verde.md",
     "11ºAno/Filosofia/Estética e Filosofia da Arte/Estética e o Problema da definição de arte.md",
+    "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias essencialistas.md",
     "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias não-essencialistas.md",
     "11ºAno/Matemática/Sucessões.md",
     "11ºAno/Matemática/Equações de planos.md",
@@ -249,8 +242,6 @@
     "11ºAno/Matemática/Trigonometria com ângulos agudos.md",
     "11ºAno/Matemática/Equações trigonométricas.md",
     "11ºAno/Matemática/Limites.md",
-    "Sem título 1.md",
-    "Sem título.md",
     "11ºAno/Português/Gramática/Funções Sintáticas.md",
     "11ºAno/Português/Gramática/Atos de fala.md",
     "11ºAno/Português/Gramática/Subclasses do Verbo.md",
@@ -259,22 +250,16 @@
     "11ºAno/Português/Gramática/Frase complexa.md",
     "11ºAno/Português/Gramática/Dêixis.md",
     "11ºAno/Português/Gramática/Coesão textual.md",
-    "11ºAno/Português/Gramática/Tempos verbais.md",
-    "11ºAno/Português/Gramática/Classes de palavras.md",
-    "11ºAno/Filosofia/Filosofia da Religião/Teoria do Fideísmo.md",
-    "11ºAno/Filosofia/Filosofia da Religião/Teoria da Ateologia.md",
-    "11ºAno/Filosofia/Filosofia da Religião/Teoria da Teologia Natural.md",
     "11ºAno/Filosofia/Estética e Filosofia da Arte",
-    "Pasted image 20250318191516.png",
-    "Pasted image 20250318190447.png",
-    "Pasted image 20250318185005.png",
-    "Pasted image 20250318180456.png",
-    "Pasted image 20250318180443.png",
-    "Pasted image 20250318180427.png",
-    "AGV_vUfx9k26w6pXigwiKnXqR3-ErjNoe0pp4Y3Rsj5A-HmDuvpgdoOZP0rA27F8dVIMRH68K-jdsQbRu0dS2cPwPt1DliHPwowZhMgjiqs9GsowVhzP6SzHNOSVnXehJhvFPLxcB_D26g=s2048key=Y40qqzrRIrBuGlwkmL2hVJ_Z.png",
-    "Pasted image 20250318180359.png",
-    "Pasted image 20250318180113.png",
-    "Pasted image 20250318175720.png",
+    "Imagens/Pasted image 20250318190447.png",
+    "Imagens/Pasted image 20250318185005.png",
+    "Imagens/Pasted image 20250318180456.png",
+    "Imagens/Pasted image 20250318180443.png",
+    "Imagens/Pasted image 20250318180427.png",
+    "Imagens/AGV_vUfx9k26w6pXigwiKnXqR3-ErjNoe0pp4Y3Rsj5A-HmDuvpgdoOZP0rA27F8dVIMRH68K-jdsQbRu0dS2cPwPt1DliHPwowZhMgjiqs9GsowVhzP6SzHNOSVnXehJhvFPLxcB_D26g=s2048key=Y40qqzrRIrBuGlwkmL2hVJ_Z.png",
+    "Imagens/Pasted image 20250318180359.png",
+    "Imagens/Pasted image 20250318180113.png",
+    "Imagens/Pasted image 20250318175720.png",
     "CloudAtlas",
     "11ºAno/Química/Atividades Laboratoriais",
     "11ºAno/Geologia",
