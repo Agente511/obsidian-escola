@@ -14,4 +14,4 @@ Quanto **maior** for a **constante de equilíbrio de uma reação química rever
 >
 >$2\ HI(g) \rightleftharpoons H_2(g)+I_2(g)$
 >$$\begin{flalign}& K'_c=\frac {[H_2]\times[I_2]} {[HI]^2}=0,0183 &\end{flalign}$$
->que pode ser obtido através de $$\begin{flalign}& K'_c=\frac 1 {K_c} &\end{flalign}$$
+>que também pode ser obtido através de $$\begin{flalign}& K'_c=\frac 1 {54,5}=0,0183 &\end{flalign}$$
