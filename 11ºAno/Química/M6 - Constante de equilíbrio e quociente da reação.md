@@ -30,7 +30,10 @@ Pode ser determinado em qualquer instante, **sem que o sistema esteja em equilí
 >[A] representa a concentração da substância A
 
 ### Comparação de $Q_c$ com $K_c$
-Sempre que um sistema **não está em equilíbrio**, **uma das reações** (direta ou inversa) **ocorrerá a maior velocidade até que o equilíbrio químico seja atingido**. Através da comparação de $Q_c$ com $K_c$ à mesma temperatura, prevê-se qual o sentido.
+Sempre que um sistema **não está em equilíbrio**, **uma das reações** (direta ou inversa) **ocorrerá a maior velocidade até que o equilíbrio químico seja atingido**. Através da comparação de $Q_c$ com $K_c$ à mesma temperatura, prevê-se o sentido em que a reação evolui:
+>[!Info] Significado de "evoluir/progredir/deslocar-se no sentido..."
+>A reação ocorre com maior velocidade nesse sentido do que no sentido contrário.
+
 - $Q_c=K_c$
   O sistema **está em equilíbrio químico**.
   As concentrações de reagentes e produtos são as concentrações de equilíbrio.
@@ -42,3 +45,6 @@ Sempre que um sistema **não está em equilíbrio**, **uma das reações** (dire
   Existe **maior concentração de produtos** e **menor concentração de reagentes** **do que as esperadas no equilíbrio**.
 
 ![[Pasted image 20250329183524.png|500]]
+
+![[Pasted image 20250329184827.png|400]]
+

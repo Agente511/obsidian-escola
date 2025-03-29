@@ -35,7 +35,7 @@ No **início da reação**:
 
 Após se atingir o **equilíbrio químico**:
 - A **velocidade da reação inversa** é **igual** à da **reação direta**
-- A **concentração de reagentes e produtos** permanecem **constantes**
+- A **concentração de reagentes e produtos** permanecem **constantes** (inalteráveis)
 
 > [!Note] Exemplo
 > ![[Pasted image 20250312164607.png|350]]
