@@ -33,12 +33,20 @@ A variação da temperatura **altera a constante de equilíbrio da reação** (*
 
 Para avaliar o efeito da variação da temperatura num sistema em equilíbrio químico, é preciso saber se a reação é, no sentido direto:
 - **endotérmica** ($\Delta H >0$)
-  Absorve energia térmica.
+  Absorve energia térmica (calor) da vizinhança, em sistema não isolado.
   ![[Pasted image 20250329195439.png|150]]
 - **exotérmica** ($\Delta H < 0$)
-  Liberta energia térmica.
+  Liberta energia térmica (calor) da vizinhança, em sistema não isolado.
   ![[Pasted image 20250329195451.png|150]]
 
 Se uma reação for **endotérmica no sentido direto**, será **exotérmica no sentido inverso** e vice-versa.
 
+De acordo com o [[#Princípio de Le Châtelier]]:
+- O **aumento da temperatura** faz evoluir a reação no **sentido da reação endotérmica**, até se atingir um novo estado de equilíbrio (alterou-se a posição de equilíbrio).
+- A **diminuição da temperatura** faz evoluir a reação no **sentido da reação exotérmica**, até se atingir um novo estado de equilíbrio (alterou-se a posição de equilíbrio).
+- Nas **reações endotérmicas**, o **$K_c$ aumenta** com o **aumento da temperatura**.
+- Nas **reações exotérmicas**, o **$K_c$ diminui** com o **aumento da temperatura**.
 
+>[!Note] Exemplo
+>![[Pasted image 20250330114337.png|500]]
+>![[Pasted image 20250330114619.png]]
