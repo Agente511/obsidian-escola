@@ -1,4 +1,4 @@
-Na prática, na maioria dos processos as **quantidades reais obtidas não são iguais às quantidades previstas** de acordo com a estequiometria da reação, sendo geralmente **menores**.
+Na prática, na maioria dos processos, as **quantidades reais obtidas não são iguais às quantidades previstas** de acordo com a estequiometria da reação, sendo geralmente **menores**.
 
 >[!Example] Causas da diferença de valores
 >- Ocorrência de **reações reversíveis** (incompletas), em que os produtos reagem entre si, regenerando os reagentes.
@@ -12,7 +12,8 @@ O rendimento de uma reação química é o **quociente entre a quantidade de pro
 >$$\begin{flalign}& \eta(\%)=\frac {n_\text{produto obtido}} {n_\text{produto previsto}} \times 100\% &\end{flalign}$$
 >>[!Warning] Nota
 >>Também pode ser calculado usando o volume (nos gases) e/ou a massa, em vez da quantidade de matéria.
+>
 >Sendo:
 >- $n_\text{produto obtido}$: quantidade de produto obtido (mol)
->- $n_\text{produto obtido}$: quantidade de produto previsto (mol)
+>- $n_\text{produto previsto}$: quantidade de produto previsto (mol)
 >- $\eta$: rendimento (adimensional)
