@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
+                "file": "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M5 - Equilíbrio químico e constante de equilíbrio"
+              "title": "M2 - Reagente limitante e reagente em excesso"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b66505ea6e884b7e",
+  "active": "e5eece3c3ab8a810",
   "lastOpenFiles": [
+    "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
+    "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
     "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
     "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
@@ -238,7 +241,6 @@
     "Pasted image 20250329184827.png",
     "Sem título.md",
     "Sem título 1.md",
-    "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
     "11ºAno/Química/M3 - Rendimento das reações químicas.md",
     "11ºAno/Química/M4 - Química verde.md",
     "11ºAno/Filosofia/Estética e Filosofia da Arte/Estética e o Problema da definição de arte.md",
