@@ -3,7 +3,7 @@ Quando se **altera**, a um **sistema em equilíbrio**, um dos **[[#Fatores que a
 ## Fatores que afetam o estado de equilíbrio
 
 ### Concentração (em sistemas gasosos ou aquosos)
-O efeito da variação de pressão só é sentido em sistemas químicos com **componentes** (reagentes e/ou produtos) no **estado gasoso** ou em **solução aquosa**.
+O efeito da variação de concentração dos reagentes ou produtos só é sentido em sistemas químicos com **componentes** (reagentes e/ou produtos) no **estado gasoso** ou em **solução aquosa**.
 
 De acordo com o [[#Princípio de Le Châtelier]]:
 - O **aumento da concentração de um dos reagentes** e/ou a **diminuição da concentração de um dos produtos** faz evoluir a reação no **sentido direto**, até se atingir um novo estado de equilíbrio (alterou-se a posição de equilíbrio).
@@ -22,6 +22,11 @@ Quando **diminui o volume** do recipiente onde a mistura gasosa está encerrada,
 De acordo com o [[#Princípio de Le Châtelier]]:
 - O **aumento da pressão** (por diminuição de volume) faz evoluir a reação no **sentido do menor número de moles no estado gasoso**, até se atingir um novo estado de equilíbrio (alterou-se a posição de equilíbrio).
 - A **diminuição da pressão** (por aumento de volume) faz evoluir a reação no **sentido do maior número de moles no estado gasoso**, até se atingir um novo estado de equilíbrio (alterou-se a posição de equilíbrio).
+
+>[!Info] Nota
+>Se o número de moles de reagentes e produtos for igual, a variação da pressão **não tem qualquer efeito no equilíbrio**.
+>>[!Exemplo]
+>>$N_2(g)+O_2(g) \rightleftharpoons 2\ NO(g)$
 
 >[!Warning] $K_c$ mantém-se constante nos dois estados de equilíbrio. Só se altera com a temperatura.
 
