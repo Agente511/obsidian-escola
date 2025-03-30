@@ -50,3 +50,19 @@ De acordo com o [[#Princípio de Le Châtelier]]:
 >[!Note] Exemplo
 >![[Pasted image 20250330114337.png|500]]
 >![[Pasted image 20250330114619.png]]
+
+---
+>[!Info] Nota (referente aos 3 fatores anteriores)
+>Sempre que é **favorecido o sentido direto**, o **rendimento aumenta**.
+>Sempre que é **favorecido o sentido inverso**, o **rendimento diminui**.
+
+---
+### Adição de catalisador(es)
+**Não altera a posição de equilíbrio químico**, **nem influencia $K_c$**, **nem o rendimento obtido no processo**.
+
+O uso de um catalisador **diminui o tempo necessário para o sistema atingir o equilíbrio químico** (**aumenta a velocidade das reações direta e inversa**).
+
+![[Pasted image 20250330120256.png]]
+
+## Processo de Haber-Bosch
+*(achei desnecessário. está na pág. 84 e 85)*
