@@ -1,4 +1,4 @@
-## Constante de equilíbrio das reações direta e inversa
+## Constante de equilíbrio da reação inversa
 Quanto **maior** for a **constante de equilíbrio de uma reação química reversível no sentido direto**, **menor** é a **constante de equilíbrio dessa reação no sentido inverso**, e vice-versa. 
 >[!Summary] Cálculo da constante de equilíbrio da reação inversa
 >$$\begin{flalign}& K'_c=\frac 1 {K_c} &\end{flalign}$$
