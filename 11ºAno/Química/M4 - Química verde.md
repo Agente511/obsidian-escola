@@ -10,8 +10,8 @@ Na química tradicional, a **eficiência** de um processo é medida pelo seu [[M
 A química verde propõe a economia atómica como um novo indicador de eficiência, que **tem em conta a redução de resíduos na fonte**.
 
 >[!Summary] Cálculo da economia atómica
->$$\begin{flalign}& e.a.(\%) =\frac {m_\text{produto desejado}} {m_\text{total reagentes}} &\end{flalign}$$
+>$$\begin{flalign}& e.a.(\%) =\frac {m_\text{prevista de produto desejado}} {m_\text{total reagentes}} &\end{flalign}$$
 >ou
->$$\begin{flalign}& e.a.(\%) =\frac {c.e. \times M_\text{produto desejado}} {c.e. \times M_\text{total reagentes}} &\end{flalign}$$
+>$$\begin{flalign}& e.a.(\%) =\frac {c.e. \times M_\text{produto desejado}} {c.e. \times M_\text{reagente} + ...} &\end{flalign}$$
 >Sendo:
 >- $c.e.$: coeficiente estequiométrico
