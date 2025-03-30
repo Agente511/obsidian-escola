@@ -28,7 +28,7 @@ No **início da reação**:
 - A **concentração de produtos** é **nula**
  
 À medida que a **reação prossegue**:
-- A **velocidade da reação direta**
+- A **velocidade da reação direta diminui**
 - A **velocidade da reação inversa** **aumenta**
 - A **concentração de reagentes diminui**
 - A **concentração de produtos aumenta**
@@ -78,7 +78,7 @@ Para a mesma reação química, à mesma temperatura, o valor de $K_c$ mantém-s
 Quanto maior a constante de equilíbrio de uma reação química, mais extensa é a reação direta e menos extensa é a reação inversa:
 - $K_c>>1$
   A **conversão de reagentes em produtos é superior** à de produção de reagentes
-  (a reação é **muito mais extensa no sentido direto do que no sentido inverto**)
+  (a reação é **muito mais extensa no sentido direto do que no sentido inverso**)
   ![[Pasted image 20250329172741.png|180]]
 - $K_c \approx 1$
   A **conversão de reagentes em produtos é aproximadamente igual à produção de reagentes**
