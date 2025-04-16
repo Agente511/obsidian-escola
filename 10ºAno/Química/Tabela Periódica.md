@@ -4,7 +4,7 @@ Volume: M9
 ### Definição
 ---
 Consiste no tabelamento dos elementos químicos, ordenando-os tendo em conta a sua configuração eletrónica, através de grupos, períodos e blocos.
-### Pai da TP
+### Mendeleev
 ---
 Dmitri Mendeleev é considerado o "pai" da tabela periódica.
 >[!Example] Contributos de Mendeleev
