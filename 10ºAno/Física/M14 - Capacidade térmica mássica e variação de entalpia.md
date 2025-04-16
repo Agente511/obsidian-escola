@@ -2,7 +2,6 @@
 - No entanto, quando se transfere energia por calor a uma substância, pode acontecer que ela **mude de estado físico**.
 
 ## Transferência de energia por calor, sem mudança de estado físico
----
 Quando se transfere energia por calor a um corpo, **sem que ocorra mudança de estado físico**, a **temperatura aumenta**.
 ### Capacidade térmica mássica
 A capacidade térmica mássica é uma grandeza física que corresponde à **energia que é necessário fornecer a uma substância, por unidade de massa, para que a sua temperatura varie 1K/1ºC**.
@@ -17,8 +16,8 @@ A **energia transferida por calor** (cedida ou recebida) a um corpo, quando **n�
 Logo, se a capacidade térmica mássica for elevada, a energia por calor necessária para variar 1K/1ºC de temperatura do material é elevada.
 
 >[!Summary] Cálculo
->#### $E=mc \Delta T$
->##### $\iff c = \frac E {m \Delta T}$
+>$E=mc \Delta T$
+>$$\begin{flalign}& \iff c = \frac E {m \Delta T} &\end{flalign}$$
 >Sendo:
 >- $E$: energia transferida por calor a um corpo, quando não há mudança de estado físico (J)
 >- $m$: massa do corpo (kg)
@@ -38,7 +37,7 @@ Logo, se a capacidade térmica mássica for elevada, a energia por calor necess�
 >>![[Pasted image 20240602004703.png]]
 >>- o declive da reta é igual ao produto $\frac 1 {mc}$
 
-#### Fenómenos do quotidiano relacionados com a capacidade térmica mássica
+### Fenómenos do quotidiano relacionados com a capacidade térmica mássica
 >[!Note] Exemplo 1 - Areia e água do mar
 >Se considerarmos massas iguais de areia e água do mar, aquecida pela radiação solar nas mesmas condições e durante o mesmo tempo, a **elevação de temperatura da areia é muito maior do que a água do mar**.
 >
@@ -64,7 +63,6 @@ Logo, se a capacidade térmica mássica for elevada, a energia por calor necess�
 
 
 ## Transferência de energia por calor, com mudança de estado físico
----
 Quando, a pressão constante, se transfere energia por calor a um corpo **enquanto ocorre mudança de estado físico** da substância que o constitui, a **temperatura não varia**.
 
 Durante, por exemplo, a fusão de uma substância, a **energia fornecida é utilizada para alterar as ligações entre as partículas** e não para aumentar a sua agitação. Logo a temperatura permanece constante. Após a mudança de estado físico, a agitação das partículas aumenta e a temperatura sobe.

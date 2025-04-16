@@ -30,7 +30,7 @@ Verifica-se que a **quantidade de energia por calor que atravessa um corpo, por 
 >- $l$: espessura (m)
 >- $\Delta T$ ou $\Delta \theta$: variação de temperatura (K ou ºC)
 
-# Efeitos da condutividade térmica no quotidiano
+### Efeitos da condutividade térmica no quotidiano
 Como diferentes materiais apresentam condutividades térmicas diferentes, quando, por exemplo, colocamos a mão num puxador metálico de uma porta de madeira, e, em seguida, na própria porta, o **puxador parece mais frio**. No entanto, os dois materiais estão em equilíbrio térmico.
 
 A sensação de "frio" que temos ao tocar no puxador metálico **deve-se ao facto de a condutividade térmica do metal ser muito superior à da madeira** (o metal cede e recebe energia por calor muito mais rapidamente que a madeira).
@@ -39,11 +39,10 @@ A sensação de "frio" que temos ao tocar no puxador metálico **deve-se ao fact
 >- A carne assa mais rapidamente num espeto de metal (condutividade térmica elevada)
 >- A madeira é um bom isolador térmico (condutividade térmica muito baixa)
 ## Coletores solares
----
 Os coletores solares são **dispositivos que aproveitam a radiação solar para aquecerem um fluido que circula no seu interior**.
 
 Num coletor solar há transferências de energia por **radiação**, **condução** e **convecção**.
-#### Principais aplicações dos coletores solares
+### Principais aplicações dos coletores solares
 >[!Note] Exemplos de aplicações dos coletores solares
 >- Aquecimento de água para utilização doméstica
 >- Aquecimento da água de piscinas
@@ -53,18 +52,18 @@ Num coletor solar há transferências de energia por **radiação**, **conduçã
 Há vários tipos de coletores solares, **sendo o coletor solar plano o mais comum**.
 
 >[!Example] Constituição de um coletor solar plano
->- #### Caixa com isolamento térmico
+>- ##### Caixa com isolamento térmico
 >  (Normalmente lã de vidro ou espuma de poliuretano).
 >  **Minimiza as transferências de energia** e **protege o coletor solar** de agentes externos
->- #### Tubos condutores absorsores
+>- ##### Tubos condutores absorsores
 >  (Em geral de cobre, devido à sua alta condutividade térmica e resistência à corrosão. Normalmente revestidos de um material negro na parte exposta ao sol).
 >  Tubos em que **circula o fluido que se pretende aquecer**
->- #### Fluido
+>- ##### Fluido
 >  Geralmente, **água** com um anticongelante, para evitar o seu congelamento em regiões mais frias, no inverno.
->- #### Placa de absorção
+>- ##### Placa de absorção
 >  (Normalmente de alumínio ou cobre, pintada de preto fosco)
 >  **Absorve a radiação solar**, à qual estão soldados os tubos por onde circula o fluido que se pretende aquecer
->- #### Cobertura transparente
+>- ##### Cobertura transparente
 >  (Geralmente de vidro ou acrílico)
 >  **Permite a passagem da radiação solar**. Como é **transparente à radiação visível que incide no coletor** e **opaca à radiação infravermelha emitida**. origina um **efeito de estufa**, que contribui para o **aumento do rendimento do coletor**.
 >  A cobertura também **minimiza as perdas de energia por convecção** para o exterior
