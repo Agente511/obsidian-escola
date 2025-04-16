@@ -4,7 +4,6 @@ tags:
   - Física
 ---
 ## Potência elétrica ($P$)
----
 A potência elétrica, $P$, de um recetor é a **energia transferida para o [[M6 - Circuitos elétricos e grandezas elétricas#^0ead4e|recetor por unidade de tempo]]** e que ele **transforma em outra(s) forma(s) de energia**.
 Mede, portanto, a **rapidez com que a energia é transferida**.
 
@@ -17,7 +16,7 @@ Mede, portanto, a **rapidez com que a energia é transferida**.
 
 >[!Tip] Nota
 >A sua unidade SI é o watt, W.
-#### Medição da potência elétrica de um aparelho
+### Medição da potência elétrica de um aparelho
 A potência elétrica de um aparelho pode ser medida:
 - diretamente, com um **wattímetro**
 - indiretamente, através da **[[M6 - Circuitos elétricos e grandezas elétricas#Diferença de potencial elétrico/Tensão elétrica ($U$)|diferença de potencial elétrico]]**, aplicada nos **terminais do recetor** (que pode ser, por exemplo, uma [[M6 - Circuitos elétricos e grandezas elétricas#Lei de Ohm|resistência óhmica]], um motor ou um voltâmetro (não confundir com voltímetro)) e da **[[M6 - Circuitos elétricos e grandezas elétricas#Corrente elétrica ($I$)|corrente elétrica]]** que percorre o recetor:
@@ -31,7 +30,6 @@ A potência elétrica de um aparelho pode ser medida:
   >>Pode-se substituir o $I$ por $\frac U R$, resultando na equação:
   >>##### $P = \frac {U^2} R$ 
 ## Energia transferida para um recetor de um circuito elétrico
----
 A energia transferida para um recetor **depende da diferença de potencial elétrico** aplicada nos seus terminais, da **corrente elétrica** que o percorre e do **tempo de funcionamento**.
 
 >[!Summary] Cálculo da energia transferida para um recetor de um circuito elétrico
@@ -49,7 +47,6 @@ A energia transferida para um recetor **depende da diferença de potencial elét
 >$\iff 1$ kW h $= 3,6 \times 10^6$ J
 
 ## Efeito Joule
----
 **Energia dissipada** num condutor, com uma **determinada resistência elétrica**, quando percorrido por uma corrente elétrica.
 
 >[!Summary] Cálculo da energia dissipada

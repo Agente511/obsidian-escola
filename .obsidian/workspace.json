@@ -13,15 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Química/_TOC_.md",
+                "file": "10ºAno/Física/_TOC_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "_TOC_"
             }
+          },
+          {
+            "id": "1bce6f22ff714841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Física/_TOC_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_TOC_"
+            }
+          },
+          {
+            "id": "9a026f2efeeaa994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Física/_TOC_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_TOC_"
+            }
+          },
+          {
+            "id": "51b1bc68d96d24c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Física/_TOC_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_TOC_"
+            }
+          },
+          {
+            "id": "dce883588e8f1c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Física/_TOC_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_TOC_"
+            }
+          },
+          {
+            "id": "3314c7251eda0548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Física/_TOC_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_TOC_"
+            }
+          },
+          {
+            "id": "561929a4d7b9a022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Física/M13 - Condutividade térmica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M13 - Condutividade térmica"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -137,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Geologia/D1 2. Formação das Rochas Sedimentares.md",
+                "file": "10ºAno/Física/M13 - Condutividade térmica.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de D1 2. Formação das Rochas Sedimentares"
+              "title": "Índice de M13 - Condutividade térmica"
             }
           },
           {
@@ -190,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +291,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5eece3c3ab8a810",
+  "active": "561929a4d7b9a022",
   "lastOpenFiles": [
+    "10ºAno/Física/M12 - Interação radiação-matéria.md",
+    "10ºAno/Física/M11 - Transferências de energia por calor e trabalho.md",
+    "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
+    "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
+    "10ºAno/Física/M8 - Associação de componentes elétricos.md",
+    "10ºAno/Física/M7 - Potência elétrica.md",
+    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
+    "10ºAno/Física/M5 - Variação da energia mecânica, Potência e Rendimento.md",
+    "10ºAno/Física/M4 - Conservação de energia mecânica.md",
+    "10ºAno/Física/M3 - Energia de sistemas em movimento de translação.md",
+    "10ºAno/Física/M2 - Trabalho realizado por forças constantes.md",
+    "10ºAno/Física/M1 - Energia cinética e Energia potencial.md",
+    "10ºAno/Física/_TOC_.md",
+    "10ºAno/Física/M15 - Primeira e Segunda Leis da Termodinâmica.md",
+    "10ºAno/Física/M14 - Capacidade térmica mássica e variação de entalpia.md",
+    "10ºAno/Física/M13 - Condutividade térmica.md",
+    "10ºAno/Química/_TOC_.md",
     "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
     "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
     "10ºAno/Química/Composição quantitativa de soluções.md",
@@ -218,24 +319,7 @@
     "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
     "10ºAno/Química/Ligação covalente.md",
     "10ºAno/Química/Tipos de Ligações Químicas.md",
-    "10ºAno/Química/Densidade relativa de metais.md",
-    "10ºAno/Química/Propriedades periódicas dos elementos.md",
-    "10ºAno/Química/Tabela Periódica.md",
-    "10ºAno/Química/Modelo da Nuvem Eletrónica.md",
-    "10ºAno/Química/Energias de Remoção Eletrónica.md",
-    "10ºAno/Química/Espetro do Atomo de Hidrogéneo.md",
-    "10ºAno/Química/Espetroscopia Atómica.md",
-    "10ºAno/Química/Espetro Atómico.md",
-    "10ºAno/Química/Espetro Eletromagnético.md",
-    "10ºAno/Química/Massa Molar.md",
-    "10ºAno/Química/Quantidade de Matéria.md",
-    "10ºAno/Química/Átomos (...).md",
-    "10ºAno/Química/Medições.md",
-    "10ºAno/Química/_TOC_.md",
-    "10ºAno/Química/Sistema Internacional de Unidades (SI).md",
-    "11ºAno/Química/Atividades Laboratoriais/AL 1.1 - Síntese do ácido acetilsalicílico.md",
     "Pasted image 20250330215544.png",
-    "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
     "Pasted image 20250330120256.png",
     "Pasted image 20250330114619.png",
     "Pasted image 20250330114337.png",

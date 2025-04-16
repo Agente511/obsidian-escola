@@ -1,5 +1,5 @@
 A **energia não é transferida por calor com a mesma rapidez por todos os materiais**.
-#### Bons e maus condutores térmicos
+### Bons e maus condutores térmicos
 Os materiais que cedem ou recebem energia por calor, por condução, muito rapidamente, são designados **bons condutores térmicos**.
 >[!Note] Exemplos de bons condutores térmicos
 >Metais e ligas metálicas
@@ -10,11 +10,11 @@ Por outro lado, os materiais que, nas mesmas condições, cedem ou recebem energ
 >Líquidos e gases.
 
 Materiais diferentes, com a mesma forma e nas mesmas condições **conduzem a energia por calor mais ou menos rapidamente**. Dizemos que têm **condutividades térmicas diferentes**.
-#### Condutividade térmica
+### Condutividade térmica
 Grandeza física, característica de um material, que está associada à **taxa temporal de transferência de energia por calor**, por condução:
 - um material com uma **condutividade térmica elevada** é um **bom condutor térmico**
 - um material com uma **condutividade térmica baixa** é um **mau condutor térmico**, ou seja, um **bom isolador térmico**.
-#### Lei da Condução Térmica
+### Lei da Condução Térmica
 Verifica-se que a **quantidade de energia por calor que atravessa um corpo, por unidade de tempo**, é:
 - **diretamente proporcional à área**, $A$, do corpo
 - **inversamente proporcional à espessura**, $l$, do corpo
@@ -30,7 +30,7 @@ Verifica-se que a **quantidade de energia por calor que atravessa um corpo, por 
 >- $l$: espessura (m)
 >- $\Delta T$ ou $\Delta \theta$: variação de temperatura (K ou ºC)
 
-#### Efeitos da condutividade térmica no quotidiano
+# Efeitos da condutividade térmica no quotidiano
 Como diferentes materiais apresentam condutividades térmicas diferentes, quando, por exemplo, colocamos a mão num puxador metálico de uma porta de madeira, e, em seguida, na própria porta, o **puxador parece mais frio**. No entanto, os dois materiais estão em equilíbrio térmico.
 
 A sensação de "frio" que temos ao tocar no puxador metálico **deve-se ao facto de a condutividade térmica do metal ser muito superior à da madeira** (o metal cede e recebe energia por calor muito mais rapidamente que a madeira).

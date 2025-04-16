@@ -4,9 +4,8 @@ tags:
   - Física
 ---
 ## Circuito elétrico
----
 Quando se liga um **gerador de tensão**, como, por exemplo, uma pilha, **às extremidades de um fio metálico**, a energia transferida faz com que os **eletrões de condução** (eletrões de valência) **passem a mover-se ao longo do fio condutor ordenadamente**.
-#### Corrente elétrica
+### Corrente elétrica
 Designa-se por **corrente elétrica** o **movimento orientado de portadores de carga elétrica** (eletrões ou iões positivos e iões negativos), através de um **circuito fechado**, normalmente constituído por:
 - ##### Fonte de energia elétrica ou gerador de tensão:
 	**fornece energia** de modo a **produzir um deslocamento orientado das partículas** com carga elétrica
@@ -21,7 +20,6 @@ Designa-se por **corrente elétrica** o **movimento orientado de portadores de c
 >Num **fio de cobre ligado a um gerador** temos um movimento orientado de **eletrões**.
 >Durante uma **eletrólise** temos um movimento orientado de **iões positivos e negativos**.
 ## Corrente elétrica ($I$)
----
 Grandeza que mede a **carga elétrica que passa, por unidade de tempo, através de uma secção reta de um condutor**.
 
 >[!Summary] Cálculo da corrente elétrica
@@ -49,14 +47,12 @@ Quando num determinado condutor, a **corrente elétrica aumenta**, isso **não s
 >![[Pasted image 20240414153908.png]]
 
 ## Sentido da corrente elétrica
----
 O sentido do movimento dos portadores de carga elétrica depende do sinal da carga elétrica desses portadores.
 - **Por convenção**, considera-se como o **sentido da corrente elétrica** o **sentido contrário** ao do **movimento dos portadores de carga elétrica negativa** (**do polo positivo do gerador para o polo negativo**)
 - O **movimento real** dos eletrões é **do polo negativo para o polo positivo**
 ![[Pasted image 20240414154729.png]]
-> falta apontar sobre os iões (vão os catiões (+ -> -) no sentido oposto dos aniões (- -> +), e o convencional é o sentido dos catiões)
+> falta apontar sobre os iões (os catiões (+ -> -) vão no sentido oposto dos aniões (- -> +). o sentido convencional é o sentido dos catiões).
 ## Diferença de potencial elétrico/Tensão elétrica ($U$)
----
 Para que, num circuito elétrico, os portadores de carga tenham movimento orientado, é **necessário fornecer-lhes energia**. É, por isso, preciso haver sempre uma **fonte de energia** que vai **criar uma diferença de potencial elétrico nos terminais dos condutores** que fazem parte do circuito.
 
 A grandeza diferença de potencial elétrico ou tensão elétrica, nos terminais de um condutor percorrido por uma corrente elétrica, é a energia transferida para o condutor por unidade de carga elétrica que o atravessa.
@@ -73,7 +69,6 @@ A grandeza diferença de potencial elétrico ou tensão elétrica, nos terminais
 >A difereça de potencial elétrico **mede-se com voltímetros**. A sua unidade SI é o volt, V.
 
 ## Resistência elétrica de um condutor ($R$)
----
 A resistência, $R$, de um condutor, é igual ao **quociente entre a diferença de potencial elétrico aplicada aos terminais do condutor e a corrente elétrica que o percorre**.
 
 >[!Summary] Cálculo da resistência elétrica
@@ -84,7 +79,7 @@ A resistência, $R$, de um condutor, é igual ao **quociente entre a diferença 
 >- $U$: diferença de potencial elétrico/tensão elétrica (V)
 >- $I$: corrente elétrica (A)
 
-#### Lei de Ohm
+### Lei de Ohm
 Verifica-se que, em muitos materiais, a resistência elétrica **permanece constante**, a uma **dada temperatura**. Este comportamento é conhecido como **Lei de Ohm** e os condutores designam-se por **condutores óhmicos**.
 
 Os **condutores óhmicos** são conhecidos por **condutores lineares**, pois o gráfico da corrente elétrica em função da diferença de potencial elétrico é uma **reta que passa pela origem do referencial**.
@@ -96,7 +91,6 @@ A **função $I = I(U)$** designa-se por **característica do condutor** e o **g
 >![[Pasted image 20240414163020.png]]
 
 ## Fatores de que depende a resistência elétrica de um condutor filiforme
----
 - #### Resistividade ($\rho$)
 	Propriedade física associada à **dificuldade** que um **material oferece à passagem de corrente elétrica**,
 	![[Pasted image 20240414163649.png]]

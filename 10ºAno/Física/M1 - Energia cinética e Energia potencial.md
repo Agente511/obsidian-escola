@@ -4,7 +4,6 @@ tags:
   - Física
 ---
 ## Energia cinética
----
 Energia **associada ao movimento de um corpo**.
 
 É **diretamente proporcional**:
@@ -23,12 +22,10 @@ Energia **associada ao movimento de um corpo**.
 >Para que a energia seja expressa em joule, as outras grandezas também têm de ser expressas em unidades SI.
 
 ## Energia potencial
----
 Energia **associada à interação de um corpo com outros corpos**.
 Pode assumir, por exemplo, a forma de energia potencial gravítica, energia potencial elétrica ou de energia potencial elástica.
 
 ## Energia potencial gravítica
----
 Energia **associada à interação entre um corpo e a Terra**.
 
 É **diretamente proporcional**:
@@ -47,7 +44,6 @@ Energia **associada à interação entre um corpo e a Terra**.
 >[!Warning] Atenção
 >Para que a energia seja expressa em joule, as outras grandezas também têm de ser expressas em unidades SI.
 ## Energia mecânica
----
 A energia mecânica é igual à **soma da energia cinética de um corpo com a sua energia potencial gravítica**.
 
 >[!Summary] Cálculo da energia mecânica
@@ -59,7 +55,6 @@ A **energia potencial gravítica** de um corpo pode **transformar-se em energia 
 Se não houver transferência de energia do corpo para a vizinhança, a **energia mecânica mantém-se constante**
 
 ## Energia interna
----
 A energia interna está associada à energia cinética e potencial das partículas do corpo.
 
 >[!Summary] Cálculo da energia interna
@@ -76,13 +71,11 @@ A energia interna está associada à energia cinética e potencial das partícul
 >#### $E_{total} = E_{int} + \frac 1 2 m v^2 + mgh$
 
 ## Sistema mecânico
----
 Sistema em que as **variações de energia interna** **não são tidas em conta**
 
 Como muitas vezes se pretende estudar o **movimento de um sistema complexo, não atendendo às variações da sua energia interna** estudando-o como um sistema simples, o sistema em estudo passa a designar-se sistema mecânico.
 
 ## Centro de massa
----
 O movimento de um **sistema mecânico**, **indeformável** e que possua apenas **movimento de translação**, pode ser reduzido ao de uma partícula com massa igual à massa do sistema.
 
 

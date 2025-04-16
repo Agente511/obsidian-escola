@@ -1,5 +1,4 @@
 ## Radiação eletromagnética
----
 As ondas/radiações eletromagnéticas, como a luz, **não precisam de um meio material para se propagarem**.
 
 Radiações como as ondas de rádio, micro-ondas, infravermelho, ultravioleta, raios X ou raios gama, são **radiações não visíveis**. O ser humano só consegue detetar **luz visível** numa determinada gama de frequências que vai, aproximadamente, dos 3,9 $\times$ 10$^{14}$ Hz (extremo vermelho) aos 7,7 $\times$ 10$^{14}$ Hz (extremo violeta).
@@ -10,7 +9,6 @@ As radiações eletromagnéticas transportam energia. Esta energia depende da su
 - de duas radiações com a **mesma amplitude**, tem **mais energia** a radiação de **maior frequência**
 - de duas radiações com a **mesma frequência**, tem **mais energia** a radiação de **maior amplitude**
 ## Reflexão, absorção e transmissão da radiação
----
 Da radiação que incide num corpo:
 - uma parte é **refletida** na superfície do corpo
 - outra parte é **absorvida**, podendo provocar **aquecimento do corpo**
@@ -19,7 +17,7 @@ Da radiação que incide num corpo:
 >[!Summary] Cálculo da energia da radiação
 >Segundo a Lei da Conservação da Energia:
 >#### $E_{rad.\ incidente} = E_{rad.\ refletida} + E_{rad.\ absorvida} + E_{rad.\ transmitida}$
-#### Corpos opacos e transparentes
+### Corpos opacos e transparentes
 Existem **corpos opacos à radiação**, isto é, **não transmitem** essa radiação (não se deixam atravessar por ela). Estes corpos **apenas absorvem ou refletem**.
 
 Os **corpos transparentes** a uma radiação deixam-se atravessar por essa radiação, **transmitindo-a**.
@@ -29,20 +27,19 @@ Os **corpos transparentes** a uma radiação deixam-se atravessar por essa radia
 >Assim, há um **aquecimento** do ambiente interior.
 
 ## Irradiância
----
 **Todos os corpos emitem radiação eletromagnética**, a qualquer temperatura, **devido à agitação térmica das suas partículas** com cargas elétricas (átomos, moléculas ou iões) que os constituem.
-#### Tipo de radiação emitida por um corpo
+### Tipo de radiação emitida por um corpo
 O tipo de radiação emitida **depende da temperatura do corpo**:
 - À **temperatura ambiente**, os corpos **emitem predominantemente radiação infravermelha**.
 - **Quanto maior a temperatura**, a emissão passa a ter uma **maior contribuição de luz visível**: de início luz vermelha, passando para luz amarela, verde e azul.
 - A **temperaturas elevadas**, a radiação emitida pode chegar à região do **ultravioleta** do espetro eletromagnético.
 >[!Tip] Nota
 >À temperatura ambiente, a **cor dos objetos** que vemos deve-se à **radiação refletida** por eles (reflexão especular e difusa) e não à luz por eles emitida, pois esta radiação emitida é predominantemente no infravermelho.
-#### Emissão e absorção de radiação
+### Emissão e absorção de radiação
 Ao mesmo tempo que emite, um corpo **também absorve radiação eletromagnética da sua vizinhança**:
 - Se um corpo estiver a uma **temperatura superior à da vizinhança**, a **radiação que emite é maior do que a que absorve** da vizinhança, até ser atingido o equilíbrio térmico
 - Se um corpo está em **equilíbrio térmico** com a sua vizinhança, **emite e absorve energia como radiação à mesma taxa temporal**
-#### Irradiância
+### Irradiância
 Designa-se por irradiância a **energia de radiação emitida por um corpo, por unidade de área e por unidade de tempo**.
 >[!Summary] Cálculo da irradiância
 >### $E_r = \frac E {A \Delta t}$
@@ -60,7 +57,7 @@ Designa-se por irradiância a **energia de radiação emitida por um corpo, por 
 >- $P$: potência (W)
 >- $A$: área (m$^2$)
 
-#### Relação entre a energia e a superfície de um corpo
+### Relação entre a energia e a superfície de um corpo
 A **energia de radiação emitida** por um corpo também **depende da natureza da superfície**.
 Por exemplo, as **superfícies pretas emitem e absorvem todas as radiações**, o que não acontece com outras superfícies. Por isso, fala-se em **emissividade**:
 - Se a **emissividade** de um corpo for **pequena** (próxima de 0), o corpo é **mau absorsor** e, consequentemente, **mau emissor** de radiação.
@@ -70,7 +67,6 @@ Por exemplo, as **superfícies pretas emitem e absorvem todas as radiações**, 
 >- o **cubo cinzento-metalizado** sofre uma **variação de temperatura pouco relevante**, pois tem um **elevado poder de reflexão** (baixa emissividade)
 >- o **cubo preto** sofre um **aumento de temperatura considerável**, pois tem um **elevado poder de absorção** (elevada emissividade)
 ## Aplicações da radiação infravermelha
----
 A radiação infravermelha tem muitas **aplicações práticas importantes**:
 As **câmaras de termografia por infravermelhos** fornecem imagens (termogramas) da radiação infravermelha emitida pelo corpo. Possuem também **sensores de infravermelho** que permitem **conhecer a temperatura** através das diferentes cores da imagem (de laranja para azul, com a diminuição de temperatura). Os termogramas são muito usados em diagnósticos térmicos para estudar a eficiência energética de edifícios.
 
@@ -79,11 +75,10 @@ Na Segunda Guerra Mundial, foram usados **sistemas de visão noturna**.
 Atualmente, algumas aplicações da radiação infravermelha muito utilizadas no nosso dia-a-dia são os **comandos remotos**, **alarmes** e **termómetros de infravermelho**.
 
 ## Painéis fotovoltaicos
----
 Os painéis fotovoltaicos são dispositivos, **constituídos por células fotovoltaicas**, utilizados para **produzirem energia elétrica a partir da radiação solar incidente**. São atualmente cada vez mais usados a nível mundial para produzir energia elétrica em larga escala.
 
 As **células fotovoltaicas**, constituídas geralmente por cristais de silício (material semicondutor), **aproveitam a energia da radiação para criarem diretamente uma diferença de potencial elétrico nos seus terminais**, produzindo uma **corrente elétrica contínua**.
-#### Uso de painéis fotovoltaicos
+### Uso de painéis fotovoltaicos
 >[!Example] Dificuldades na implementação dos painéis fotovoltaicos
 >- **Custos elevados** da tecnologia utilizada
 >- Necessidade de **ocupação de grandes áreas** para se **produzir uma quantidade significativa de energia**
@@ -103,11 +98,11 @@ Os painéis solares devem ser colocados **perpendicularmente** em relação à *
 >- **Sinalização** de estradas, aeroportos, etc
 >- **Relógios**, **máquinas de calcular**, **lanternas**, etc
 >- **Iluminação** de edifícios, jardins, etc
-#### Autoprodução fotovoltaica
+### Autoprodução fotovoltaica
 Os painéis fotovoltaicos que são utilizados para fornecer corrente elétrica (que produzem durante o dia) a habitações, sinalizações, iluminação noturna, entre outras aplicações, necessitam de:
 - um **inversor de corrente elétrica** que **converte a corrente elétrica contínua**, produzida pelo painel fotovoltaico, **em corrente elétrica alternada com a mesma tensão e frequência da corrente fornecida pelas empresas de distribuição**
 - uma **bateria** para **armazenar energia elétrica produzida em excesso**, durante determinado período do dia, para que possa ser utilizada durante a noite ou vendida à rede elétrica, de acordo com as necessidades da instalação elétrica em causa
-#### Dimensionamento da área de um painel fotovoltaico
+### Dimensionamento da área de um painel fotovoltaico
 Para dimensionar a área de um painel fotovoltaico para uma determinada instalação elétrica, é essencial:
 - Calcular a **potência elétrica necessária**. Para isso, é preciso fazer um levantamento dos aparelhos elétricos que irão funcionar em simultâneo, bem como saber a respetiva potência
 - Calcular a **potência solar média disponível por unidade de área do painel**, sabendo que depende do local da instalação e do número médio de horas de luz solar por dia

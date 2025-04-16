@@ -9,7 +9,6 @@ Nos circuitos elétricos fazem-se, habitualmente, associações de componentes e
 >Também é possível uma **associação mista de resistências elétricas**, onde há resistências associadas **em série** com resistências associadas **em paralelo**.
 >![[Pasted image 20240421133918.png]]
 ## Associação de resistências elétricas em série
----
 Numa associação de resistências elétricas em série, estas encontram-se **ligadas umas a seguir às outras**, existindo um **"só caminho" para a corrente elétrica**.
 ![[Pasted image 20240421133411.png]]
 
@@ -21,7 +20,6 @@ A **diferença de potencial elétrico nos extremos** da associação das resist�
 #### $U_R = U_{R_1} + U_{R_2} + U_{R_3} + U_{R_4} + ...$
 
 ## Associação de resistências elétricas em paralelo
----
 Numa associação de resistências elétricas em paralelo, estas encontram-se **ligadas aos mesmos pontos**, designados por **nós**.
 ![[Pasted image 20240421134447.png]]
 A **diferença de potencial elétrico é igual** nos **terminais das resistências elétricas**:

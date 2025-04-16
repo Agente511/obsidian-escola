@@ -4,8 +4,7 @@ tags:
   - Física
 ---
 ## Variação da energia mecânica
----
-#### Lançamento vertical de uma bola ao ar e sua queda
+### Lançamento vertical de uma bola ao ar e sua queda
 Se a **resistência do ar** ($\vec R_{ar}$) **não for desprezada**, a bola atinge uma **altura menor na subida** e **chega ao solo com menor energia cinética**.
 Esta **diminuição de energia mecânica** deve-se à **energia dissipada** por ação da **resistência do ar**, que é uma **força resistiva**, isto é, que se opõe ao movimento.
 #### ${E_m}\ _{inicial} = {E_m}\ _{final} + E_{dissipada}$
@@ -27,7 +26,6 @@ Se designarmos o trabalho realizado pelas forças conservativas e não conservat
 >#### $\iff W_{NC} = \Delta E_m$
 
 ## Potência
----
 Grandeza física que mede a **energia transferida por unidade de tempo** (rapidez com que a energia se transfere)
 
 >[!Summary] Cálculo da potência
@@ -48,7 +46,6 @@ Grandeza física que mede a **energia transferida por unidade de tempo** (rapide
 >- $P$: potência do aparelho (W)
 >- $\Delta t$: intervalo de tempo de funcionamento do aparelho (s)
 ## Rendimento em sistemas físicos
----
 Sempre que em transferências de energia ocorre **dissipação de energia**, **nem toda a energia que se transfere é utilizada de forma útil**; parte **dissipa-se por calor**, fazendo aumentar a energia interna do sistema e da sua vizinhança.
 
 Atendendo à [[M4 - Conservação de energia mecânica#Lei da conservação da energia mecânica|Lei da Conservação de Energia]]: 
