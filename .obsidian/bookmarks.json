@@ -42,14 +42,61 @@
             },
             {
               "type": "group",
-              "ctime": 1744987263290,
-              "items": [],
+              "ctime": 1744988400017,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1744988396131,
+                  "path": "10ºAno/Química/Espetro Eletromagnético.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988396131,
+                  "path": "10ºAno/Química/Modelo da Nuvem Eletrónica.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988396131,
+                  "path": "10ºAno/Química/Energias de Remoção Eletrónica.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988396131,
+                  "path": "10ºAno/Química/Espetro do Atomo de Hidrogéneo.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988396131,
+                  "path": "10ºAno/Química/Espetroscopia Atómica.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988396131,
+                  "path": "10ºAno/Química/Espetro Atómico.md"
+                }
+              ],
               "title": "SD2"
             },
             {
               "type": "group",
-              "ctime": 1744987265539,
-              "items": [],
+              "ctime": 1744988365675,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1744988359087,
+                  "path": "10ºAno/Química/Tabela Periódica.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988359087,
+                  "path": "10ºAno/Química/Densidade relativa de metais.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988359087,
+                  "path": "10ºAno/Química/Propriedades periódicas dos elementos.md"
+                }
+              ],
               "title": "SD3"
             }
           ],
@@ -61,27 +108,197 @@
           "items": [
             {
               "type": "group",
-              "ctime": 1744987321563,
-              "items": [],
-              "title": "SD1"
+              "ctime": 1744988440090,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1744988434519,
+                  "path": "10ºAno/Química/Tipos de Ligações Químicas.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988434519,
+                  "path": "10ºAno/Química/Ligações intermoleculares.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988434519,
+                  "path": "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988434519,
+                  "path": "10ºAno/Química/Ligação covalente.md"
+                }
+              ],
+              "title": "SD4"
             },
             {
               "type": "group",
-              "ctime": 1744987319789,
-              "items": [],
-              "title": "SD2"
+              "ctime": 1744988458054,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1744988449569,
+                  "path": "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988449569,
+                  "path": "10ºAno/Química/Composição quantitativa de soluções.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988449569,
+                  "path": "10ºAno/Química/Composição da troposfera terrestre.md"
+                }
+              ],
+              "title": "SD5"
             },
             {
               "type": "group",
-              "ctime": 1744987316387,
-              "items": [],
-              "title": "SD3"
+              "ctime": 1744988482649,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1744988476208,
+                  "path": "10ºAno/Química/Reações Químicas e Energia de Ligação.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988476208,
+                  "path": "10ºAno/Química/Reações fotoquímicas na atmosfera.md"
+                }
+              ],
+              "title": "SD6"
             }
           ],
           "title": "D2"
         }
       ],
       "title": "Química 10º Ano"
+    },
+    {
+      "type": "group",
+      "ctime": 1744988503042,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1744988560314,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1744988554675,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1744988543243,
+                  "path": "10ºAno/Física/M1 - Energia cinética e Energia potencial.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988543243,
+                  "path": "10ºAno/Física/M5 - Variação da energia mecânica, Potência e Rendimento.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988543243,
+                  "path": "10ºAno/Física/M4 - Conservação de energia mecânica.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988543243,
+                  "path": "10ºAno/Física/M3 - Energia de sistemas em movimento de translação.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988543243,
+                  "path": "10ºAno/Física/M2 - Trabalho realizado por forças constantes.md"
+                }
+              ],
+              "title": "SD1"
+            },
+            {
+              "type": "group",
+              "ctime": 1744988605297,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1744988576215,
+                  "path": "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988576215,
+                  "path": "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988576215,
+                  "path": "10ºAno/Física/M8 - Associação de componentes elétricos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988576215,
+                  "path": "10ºAno/Física/M7 - Potência elétrica.md"
+                }
+              ],
+              "title": "SD2"
+            },
+            {
+              "type": "group",
+              "ctime": 1744988618227,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1744988612585,
+                  "path": "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988612585,
+                  "path": "10ºAno/Física/M15 - Primeira e Segunda Leis da Termodinâmica.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988612585,
+                  "path": "10ºAno/Física/M14 - Capacidade térmica mássica e variação de entalpia.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988612585,
+                  "path": "10ºAno/Física/M13 - Condutividade térmica.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988612585,
+                  "path": "10ºAno/Física/M12 - Interação radiação-matéria.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1744988612585,
+                  "path": "10ºAno/Física/M11 - Transferências de energia por calor e trabalho.md"
+                }
+              ],
+              "title": "SD3"
+            }
+          ],
+          "title": "D1"
+        }
+      ],
+      "title": "Física 10º Ano"
+    },
+    {
+      "type": "group",
+      "ctime": 1744988631962,
+      "items": [],
+      "title": "Física 11º Ano"
+    },
+    {
+      "type": "group",
+      "ctime": 1744988639075,
+      "items": [],
+      "title": "Química 11º Ano"
     }
   ]
 }
