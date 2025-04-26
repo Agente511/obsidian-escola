@@ -31,4 +31,4 @@ A massa atómica/molecular relativa de um dado elemento tem tanta massa quanto 1
 >- XY: uma molécula qualquer
 >- M: massa molar
 
-Por esta razão, pode-se muitas vezes calcular a massa molar como se fosse a massa atómica relativa.
+Por esta razão, pode-se calcular a massa molar como se fosse a massa atómica relativa.
