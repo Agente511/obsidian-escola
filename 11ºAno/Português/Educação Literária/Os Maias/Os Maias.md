@@ -46,7 +46,15 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 	- Inércia
 	- Falta de cultura
 	- Pobreza intelectual
-
+## Descrição do Ramalhete
+- Sombrio casarão de paredes severas
+- Aspeto tristonho
+- Residência eclesiástica (semelhante a uma igreja)
+- Permaneceu desabitado
+- Com uma sineta e com uma cruz no topo assemelhar-se-ia a um colégio de Jesuítas
+- Teias de aranha pelas grades dos postigos térreos
+- Tons de ruína
+- Gravidade clerical do edifíci
 ## Valores e atitudes culturais
 ### Educação como condicionante
 #### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
@@ -55,15 +63,20 @@ Gera **adultos fracos, improdutivos e sem moralidade**.
 - **Preceptor:** Abade Custódio
 - **Estudava**, em **casa**, **latim** e **não estudava a ciência**
 - É lhe imposto a **cartilha**, a **ideia de pecados** e **valores da fé cristã**
-- Passava os dias nas saias da titi
-- Embrulhado num cobertor
-- Segundo Vilaça, "a **ginástica fazia mal**"
-- Perninhas bambas
-- Os **familiares impediam-no de brincar com Carlos**
+- Tinha as **perninhas bambas** devido a não ser ativo, já que, segundo Vilaça, "a **ginástica fazia mal**". Por isso, os **familiares impediam-no de brincar com Carlos**.
+- Passava os dias nas saias da titi e embrulhado num cobertor
 - **Mimado**
 - **Só fazia algo chantageado**
 #### Modelo inglês (Carlos da Maia)
-Resulta em **adultos fortes, capazes de ultrapassar as dificuldades e independentes**.
+Resulta em **adultos fortes, capazes de ultrapassar as dificuldades, independentes, cultos e com projetos de vida**.
 ##### Carlos da Maia
 - **Preceptor**: S. Brown (inglês)
-- 
+- **Estudava inglês** e **valorizava-se o conhecimento científico**. Só **estudaria latim mais tarde**, pois, segundo Afonso, "não se deve começar por uma língua morta"
+- **Ausência da religião**
+- **Contacto com a natureza** e as suas brincadeiras, como **correr, saltar, trepar, etc.** requeriam **muita energia** ("mente são em corpo são")
+- **Rigor**, por exemplo, com o **horário para dormir**
+- **Tomava banho de água fria** todas as **manhãs**
+### Influência do meio e Fatores genéticos como condicionante
+Apesar da **educação de Carlos**, ele falha devido aos **fatores genéticos** e a **influência do meio lisboeta**, caracterizado pela **ociosidade** e que o conduz ao **diletantismo**.
+
+A prática de **adultério** por **Maria Monforte**, **Raquel Cohen** e a **condessa de Gouvarinho**, também se liga à influência do meio (e à educação).
