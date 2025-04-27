@@ -104,7 +104,15 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 	- _**pathos**_: sofrimento das personagens após a descoberta da identidade de Maria Eduarda
 	- **catástrofe**: consequências do incesto, como a morte física de Afonso, a morte do amor para Carlos e Maria Eduarda e a morte social para a família
 ## Presságios
-- Paredes do Ramlhate
+- Alusão de Vilaça "a uma lenda, segundo a qual eram sempre fatais aos Maias as paredes do Ramalhete"
+- Ega compara Carlos a D. Juan
+- Origem dos olhos azuis de Rosa
+- Carlos diz que nunca se sabe se o que nos acontece é na verdade bom ou mau
+- Sombrinhas escarlate que cobria Afonso como uma larga mancha de sangue a alastrar-se
+- Os três lírios brancos que murchavam em casa de Maria Eduarda
+- Ega pressente um "grave cogido (cogido?)" na vida de Carlos
+- Decoração do quarto d'A Toca
+- Afinidades/semelhanças entre as personagens
 ## Valores e atitudes culturais
 ### Educação como condicionante
 #### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
