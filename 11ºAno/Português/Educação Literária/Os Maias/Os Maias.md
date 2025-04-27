@@ -46,9 +46,9 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 	- Inércia
 	- Falta de cultura
 	- Pobreza intelectual
-## Intrigas
+## Diversificação da intriga amorosa
 Existe um **paralelismo na construção das duas intrigas**. A **intriga secundária precede a principal**.
-### Intriga secundária (Pedro e Maria Monforte)
+### Intriga secundária (Pedro e Maria Monforte) - amor romântico e fatal
 - Pedro vê Maria Monforte pela primeira vez na rua, frente ao Marrare
 - A relação é vivida com uma intensidade avassaladora
 - Encontro ocasional
@@ -56,7 +56,7 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Maria Monforte foge com Tancredo e a filha Maria Eduarda, deixando Carlos Eduardo com Pedro
 - Pedro suicida-se
 - Afonso parece sucumbir com o desgosto: Vilaça "veio dizer para Lisboa que o velho não durava um ano"
-### Intriga principal (Carlos e Maria Eduarda)
+### Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico
 - Carlos vê Maria Eduarda pela primeira vez no peristilo do Hotel Central e considera-a divina: "passou diante deles, com um passo soberano de deusa"
 - Carlos procura Maria Eduarda com obsessão
 - Encontro ocasional
@@ -65,7 +65,20 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Carlos descobre que vive um amor incestuoso, o que irá provocar a separação
 - Carlos pondera o suicídio, mas parte para Paris
 - Afonso torna-se oponente quando descobre que é uma relação incestuosa e morre
-## Características trágicas dos protagonistas
+#### João da Ega e Raquel Cohen - adultério
+- Paixão escondida à sociedade
+- Relação descoberta pelo marido de Raquel, provocando um escândalo social
+- Retiro de Ega de Celorico e ida dos Cohen para o estrangeiro
+- Regresso de Ega a Lisboa o que faz reacender a sua humilhação
+## Características trágicas dos protagonistas (e presságios?)
+### Afonso
+- Mudança para o Ramalhete após anos de ausência
+### Carlos
+- Semelhança física com a mãe, reconhecida por Maria Eduarda
+- Semelhança fisionómica com o pai: "os olhos dos Maias, aqueles irresistíveis olhos do pai"
+### Maria Eduarda
+- Semelhança temperamental com Afonso, reconhecida por Carlos
+### Afonso, Carlos e Maria Eduarda
 ## Valores e atitudes culturais
 ### Educação como condicionante
 #### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
