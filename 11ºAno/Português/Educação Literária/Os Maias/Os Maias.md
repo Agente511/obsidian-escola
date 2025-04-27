@@ -77,7 +77,10 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 - Maria Eduarda não gostava de um quadro com a cabeça decapitada -> **indício de morte**
 - Quadro de Marte e Vénus -> **indício de incesto entre Carlos e Maria Eduarda**
 
-##
+## Intrigas
+### Intriga principal
+### Intriga secundária
+## Características trágicas dos protagonistas
 ## Valores e atitudes culturais
 ### Educação como condicionante
 #### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
