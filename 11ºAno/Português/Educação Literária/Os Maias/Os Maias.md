@@ -33,13 +33,18 @@ Refere-se ainda à
   História amorosa de **Pedro da Maia e Maria Monforte**.
 ### Subtítulo - *Episódios da Vida Romântica*
 Aponta para a ideia da **crítica de costumes** (análise social da sociedade portuguesa do século XIX) através de **vários episódios**, retratando os seus **hábitos e comportamentos** e denunciando os seus **vícios e falhas**:
-Alta sociedade lisboeta
+- Sociedade decadente **incapaz de reformar o país**
+- Sociedade que herdou **valores românticos**:
+	- Valoriza as paixões
+	- Inábil na organização e na disciplina
+	- Incapaz de concretizar projetos
+	- Materialista
+- Características da alta sociedade lisboeta
 	- Parasitismo
 	- Oportunismo
 	- Inércia
 	- Falta de cultura
 	- Pobreza intelectual
 
-
-
-## Educação de Eusébiozinho e Carlos Eduardo
+## Valores e atitudes culturais
+### Educação de Eusébiozinho e Carlos Eduardo
