@@ -46,6 +46,51 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 	- Inércia
 	- Falta de cultura
 	- Pobreza intelectual
+## Intrigas
+Existe um **paralelismo na construção das duas intrigas**. A **intriga secundária precede a principal**.
+### Intriga secundária (Pedro e Maria Monforte)
+- Pedro vê Maria Monforte pela primeira vez na rua, frente ao Marrare
+- A relação é vivida com uma intensidade avassaladora
+- Encontro ocasional
+- Pedro casa com Maria Monforte, apesar da oposição do seu pai, Afonso, por Maria Monforte ser filha do negreiro (envolvido no tráfico de escravos)
+- Maria Monforte foge com Tancredo e a filha Maria Eduarda, deixando Carlos Eduardo com Pedro
+- Pedro suicida-se
+- Afonso parece sucumbir com o desgosto: Vilaça "veio dizer para Lisboa que o velho não durava um ano"
+### Intriga principal (Carlos e Maria Eduarda)
+- Carlos vê Maria Eduarda pela primeira vez no peristilo do Hotel Central e considera-a divina: "passou diante deles, com um passo soberano de deusa"
+- Carlos procura Maria Eduarda com obsessão
+- Encontro ocasional
+- Carlos instala Maria Eduarda n'A Toca, passando longos períodos com ela
+- Carlos pensa em casar e fugir com Maria Eduarda, mas não o faz por não querer desgostar o avô
+- Carlos descobre que vive um amor incestuoso, o que irá provocar a separação
+- Carlos pondera o suicídio, mas parte para Paris
+- Afonso torna-se oponente quando descobre que é uma relação incestuosa e morre
+## Características trágicas dos protagonistas
+## Valores e atitudes culturais
+### Educação como condicionante
+#### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
+Gera **adultos fracos, improdutivos e sem moralidade**.
+##### Eusebiozinho
+- **Preceptor:** Abade Custódio
+- **Estudava**, em **casa**, **latim** e **não estudava a ciência**
+- É lhe imposto a **cartilha**, a **ideia de pecados** e **valores da fé cristã**
+- Tinha as **perninhas bambas** devido a não ser ativo, já que, segundo Vilaça, "a **ginástica fazia mal**". Por isso, os **familiares impediam-no de brincar com Carlos**.
+- Passava os dias nas saias da titi e embrulhado num cobertor
+- **Mimado**
+- **Só fazia algo chantageado**
+#### Modelo inglês (Carlos da Maia)
+Resulta em **adultos fortes, capazes de ultrapassar as dificuldades, independentes, cultos e com projetos de vida**.
+##### Carlos da Maia
+- **Preceptor**: S. Brown (inglês)
+- **Estudava inglês** e **valorizava-se o conhecimento científico**. Só **estudaria latim mais tarde**, pois, segundo Afonso, "não se deve começar por uma língua morta"
+- **Ausência da religião**
+- **Contacto com a natureza** e as suas brincadeiras, como **correr, saltar, trepar, etc.** requeriam **muita energia** ("mente são em corpo são")
+- **Rigor**, por exemplo, com o **horário para dormir**
+- **Tomava banho de água fria** todas as **manhãs**
+### Influência do meio e Fatores genéticos como condicionante
+Apesar da **educação de Carlos**, ele falha devido aos **fatores genéticos** e a **influência do meio lisboeta**, caracterizado pela **ociosidade** e que o conduz ao **diletantismo**.
+
+A prática de **adultério** por **Maria Monforte**, **Raquel Cohen** e a **condessa de Gouvarinho**, também se liga à influência do meio (e à educação).
 ## Descrição do Ramalhete
 ##### 1º momento
 - Sombrio casarão de paredes severas (elegantes)
@@ -76,33 +121,3 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 - Mudez de soledade e de abandono
 - Maria Eduarda não gostava de um quadro com a cabeça decapitada -> **indício de morte**
 - Quadro de Marte e Vénus -> **indício de incesto entre Carlos e Maria Eduarda**
-
-## Intrigas
-### Intriga principal
-### Intriga secundária
-## Características trágicas dos protagonistas
-## Valores e atitudes culturais
-### Educação como condicionante
-#### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
-Gera **adultos fracos, improdutivos e sem moralidade**.
-##### Eusebiozinho
-- **Preceptor:** Abade Custódio
-- **Estudava**, em **casa**, **latim** e **não estudava a ciência**
-- É lhe imposto a **cartilha**, a **ideia de pecados** e **valores da fé cristã**
-- Tinha as **perninhas bambas** devido a não ser ativo, já que, segundo Vilaça, "a **ginástica fazia mal**". Por isso, os **familiares impediam-no de brincar com Carlos**.
-- Passava os dias nas saias da titi e embrulhado num cobertor
-- **Mimado**
-- **Só fazia algo chantageado**
-#### Modelo inglês (Carlos da Maia)
-Resulta em **adultos fortes, capazes de ultrapassar as dificuldades, independentes, cultos e com projetos de vida**.
-##### Carlos da Maia
-- **Preceptor**: S. Brown (inglês)
-- **Estudava inglês** e **valorizava-se o conhecimento científico**. Só **estudaria latim mais tarde**, pois, segundo Afonso, "não se deve começar por uma língua morta"
-- **Ausência da religião**
-- **Contacto com a natureza** e as suas brincadeiras, como **correr, saltar, trepar, etc.** requeriam **muita energia** ("mente são em corpo são")
-- **Rigor**, por exemplo, com o **horário para dormir**
-- **Tomava banho de água fria** todas as **manhãs**
-### Influência do meio e Fatores genéticos como condicionante
-Apesar da **educação de Carlos**, ele falha devido aos **fatores genéticos** e a **influência do meio lisboeta**, caracterizado pela **ociosidade** e que o conduz ao **diletantismo**.
-
-A prática de **adultério** por **Maria Monforte**, **Raquel Cohen** e a **condessa de Gouvarinho**, também se liga à influência do meio (e à educação).
