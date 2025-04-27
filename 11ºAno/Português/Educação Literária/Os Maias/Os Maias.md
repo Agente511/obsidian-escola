@@ -70,7 +70,8 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Relação descoberta pelo marido de Raquel, provocando um escândalo social
 - Retiro de Ega de Celorico e ida dos Cohen para o estrangeiro
 - Regresso de Ega a Lisboa o que faz reacender a sua humilhação
-## Características trágicas dos protagonistas (e presságios?)
+## Complexidade dos protagonistas
+## Características trágicas dos protagonistas
 ### Afonso
 - Mudança para o Ramalhete após anos de ausência
 ### Carlos
@@ -78,7 +79,32 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Semelhança fisionómica com o pai: "os olhos dos Maias, aqueles irresistíveis olhos do pai"
 ### Maria Eduarda
 - Semelhança temperamental com Afonso, reconhecida por Carlos
+### Carlos e Maria Eduarda
+- Similitude dos nomes
+- Parecenças enquanto crianças
+- Semelhanças físicas, por exemplo, ao nível dos olhos negros
+- Concretização da relação amorosa na Toca, local cujo nome dá ideia de um espaço isolado, aconchegante e escondido e de uma relação animalesca de incesto e vivida ocultamente.
+  Também a decoração tem algumas características trágicas:
+	- A cor amarela dá ideia de luxúria e sensualidade
+	- As tapeçarias onde estão representados os amores de Vénus e Marte, sendo estes irmãos, indiciam o incesto
+	- Sendo Vénus e Marte, respetivamente, deuses do amor e da guerra, indiciam as dificuldades da relação entre Carlos e Maria Eduarda
+	- O painel antigo com uma cabeça degolada indicia a morte de Afonso
+	- A coruja empalhada e os seus dois olhos agourantes associam-se à morte
+- Implicação num caso de incesto
 ### Afonso, Carlos e Maria Eduarda
+- Superioridade física, moral e intelectual, destacando-se no meio pequeno e medíocre em que vivem
+- A força do destino: o "implacável destino" de Afonso, o "irreparável destino" de Carlos e a "implacável rede de fatalidades" de Maria Eduarda
+- A lenda do Ramalhete: "eram sempre fatais aos Maias as paredes" da casa
+- Confronto contínuo com presságios/indícios trágicos
+- Contacto com espaços físicos associados à morte e à destruição (o Ramalhete e o seu jardim e a Toca)
+- O envolvimento na intriga trágica, marcada pelos seguintes elementos:
+	- _**hybris**_: amor incestuoso de Carlos e Maria Eduarda, constituindo um desafio à ordem estabelecida
+	- **peripécia**: passagem brusca da felicidade para a infelicidade após as revelações do Sr. Guimarães a Ega, propiciadas pelo encontro de Maria Eduarda com o Sr. Guimarães
+	- **duplo reconhecimento**: revelações de Guimarães a Ega e de Ega a Carlos
+	- _**pathos**_: sofrimento das personagens após a descoberta da identidade de Maria Eduarda
+	- **catástrofe**: consequências do incesto, como a morte física de Afonso, a morte do amor para Carlos e Maria Eduarda e a morte social para a família
+## Presságios
+- Paredes do Ramlhate
 ## Valores e atitudes culturais
 ### Educação como condicionante
 #### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
