@@ -38,8 +38,9 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 	- Valoriza as paixões
 	- Inábil na organização e na disciplina
 	- Incapaz de concretizar projetos
-	- Materialista
-- Características da alta sociedade lisboeta
+	- Materialismo e gosto pelo luxo
+	- Existência ociosa e diletante
+- Características da alta sociedade lisboeta:
 	- Parasitismo
 	- Oportunismo
 	- Inércia
@@ -47,4 +48,22 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 	- Pobreza intelectual
 
 ## Valores e atitudes culturais
-### Educação de Eusébiozinho e Carlos Eduardo
+### Educação como condicionante
+#### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
+Gera **adultos fracos, improdutivos e sem moralidade**.
+##### Eusebiozinho
+- **Preceptor:** Abade Custódio
+- **Estudava**, em **casa**, **latim** e **não estudava a ciência**
+- É lhe imposto a **cartilha**, a **ideia de pecados** e **valores da fé cristã**
+- Passava os dias nas saias da titi
+- Embrulhado num cobertor
+- Segundo Vilaça, "a **ginástica fazia mal**"
+- Perninhas bambas
+- Os **familiares impediam-no de brincar com Carlos**
+- **Mimado**
+- **Só fazia algo chantageado**
+#### Modelo inglês (Carlos da Maia)
+Resulta em **adultos fortes, capazes de ultrapassar as dificuldades e independentes**.
+##### Carlos da Maia
+- **Preceptor**: S. Brown (inglês)
+- 
