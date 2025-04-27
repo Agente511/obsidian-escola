@@ -47,14 +47,37 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 	- Falta de cultura
 	- Pobreza intelectual
 ## Descrição do Ramalhete
-- Sombrio casarão de paredes severas
+##### 1º momento
+- Sombrio casarão de paredes severas (elegantes)
 - Aspeto tristonho
 - Residência eclesiástica (semelhante a uma igreja)
 - Permaneceu desabitado
 - Com uma sineta e com uma cruz no topo assemelhar-se-ia a um colégio de Jesuítas
 - Teias de aranha pelas grades dos postigos térreos
 - Tons de ruína
-- Gravidade clerical do edifíci
+- Gravidade clerical do edifício e paz dormente do bairro
+- Disposição apalaçada
+- Pobre quintal inculto
+- Cascatazinha seca -> **Indício de morte** e **reflexo da decadência da família**
+- Um cipreste, um cedro
+- Estátua de mármore de Vénus Citereia enegrecendo -> **representa negativamente Maria Monforte**
+##### 2º momento
+- \[Carlos] gostava até do seu quintalejo (compara-o com o luxo que viu pela Europa)
+- Ar simpático
+- Girassóis perfilados
+- Cipreste e o cedro envelhecendo juntos como dois amigos tristes -> **representa Carlos e João da Ega**
+- Vénus Citereia \[...] no seu tom claro -> **representa positivamente a chegada de Maria Eduarda**
+- Água abundava, a cascatazinha era deliciosa -> **representa a regeneração e purificação da família**
+##### 3º momento
+- Jardim, bem areado, limpo e frio na sua nudez de inverno
+- Ferrugem verde cobria os grossos membros da Vénus Citereia -> **representa o fim da relação entre Carlos e Maria Eduarda devido a revelar-se incestuosa**
+- O cipreste e o cedro envelheciam juntos -> **representam Carlos e Ega que permaneciam amigos**
+- Mais lento corria o prontozinho da cascata, gota a gota -> **parece que está a chorar a morte de Afonso**
+- Mudez de soledade e de abandono
+- Maria Eduarda não gostava de um quadro com a cabeça decapitada -> **indício de morte**
+- Quadro de Marte e Vénus -> **indício de incesto entre Carlos e Maria Eduarda**
+
+##
 ## Valores e atitudes culturais
 ### Educação como condicionante
 #### Modelo tradicional português (Eusebiozinho e Pedro da Maia)
