@@ -26,4 +26,4 @@
 >- Um **ácido** é uma **espécie aceitadora de um par de eletrões**
 >- Uma **base** é uma **espécie dadora de um par de eletrões**
 ## Ácidos e bases segundo Brönsted e Lowry
-De acordo com a [[#^4592ca|teoria protónica]], uma substância só se comporta como ácido (dadora de H$^+$) na presença de uma base (aceitadora de H$^+$).
+De acordo com a [[#^4592ca|teoria protónica]], uma substância só se comporta como ácido (dadora de H$^+$) na presença de uma base (aceitadora de H$^+$), e vice-versa.
