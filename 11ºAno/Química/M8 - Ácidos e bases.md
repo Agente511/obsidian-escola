@@ -26,4 +26,10 @@
 >- Um **ácido** é uma **espécie aceitadora de um par de eletrões**
 >- Uma **base** é uma **espécie dadora de um par de eletrões**
 ## Ácidos e bases segundo Brönsted e Lowry
-De acordo com a [[#^4592ca|teoria protónica]], uma substância só se comporta como ácido (dadora de H$^+$) na presença de uma base (aceitadora de H$^+$), e vice-versa.
+De acordo com a [[#^4592ca|teoria protónica]], uma **reação ácido-base** é uma reação química que se dá por **transferência de protões entre um ácido e uma base**. Uma substância só se comporta como **ácido** (**dadora de H$^+$**) na presença de uma **base** (**aceitadora de H$^+$**), e vice-versa.
+
+> [!NOTE] Exemplo
+> ![[Pasted image 20250504124119.png|500]]
+
+### Par conjugado ácido-base
+Uma equação química apresenta **2 pares conjugados ácido-base**.
