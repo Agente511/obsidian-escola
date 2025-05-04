@@ -49,8 +49,8 @@ As reações ácido-base podem ser **[[M5 - Equilíbrio químico e constante de 
 >- **muito extensa** no sentido direto, a **seta**, na equação química, tem um **único sentido** ($\longrightarrow$).
 >- **pouco extensa** no sentido direto, utiliza-se uma **dupla seta** ($\leftrightharpoons$)
 
-### Ácidos fortes e fracos
-#### Ácido forte
+#### Ácidos fortes e fracos
+##### Ácido forte
 Sofre **ionização praticamente total** (muito extensa).
 >[!Note] Exemplos
 >- Ácido nítrico, HNO$_3$
@@ -60,7 +60,7 @@ Sofre **ionização praticamente total** (muito extensa).
 >- Iodeto de hidrogénio, HI
 >- Ácido sulfúrico H$_2$SO$_4$
 >- Ácido perclórico, HClO$_4$
-#### Ácido fraco
+##### Ácido fraco
 Sofre **ionização parcial** (pouco extensa).
 >[!Note] Exemplos
 >- Ácido cianídrico, HCN
@@ -69,8 +69,8 @@ Sofre **ionização parcial** (pouco extensa).
 >- Ácido fosfórico, H$_3$PO$_4$
 >- Ácido acético, CH$_3$COOH
 >- Ácido carbónico, H$_2$CO$_3$
-### Bases fortes e fracas
-#### Base forte
+#### Bases fortes e fracas
+##### Base forte
 Sofre **dissociação praticamente total** (muito extensa).
 >[!Note] Exemplos
 >- Hidróxido de sódio, NaOH
@@ -83,7 +83,7 @@ Sofre **dissociação praticamente total** (muito extensa).
 >- Hidróxido de bário, Ba(OH)$_2$
 >- Hidróxido de potássio, KOH
 >- Amida de sódio, NaNH$_2$
-#### Base fraca
+##### Base fraca
 Sofre **ionização parcial** (pouco extensa).
 >[!Note] Exemplos
 >- Hidroxilamina, HONH$_2$
