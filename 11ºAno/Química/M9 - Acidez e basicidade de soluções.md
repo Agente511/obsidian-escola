@@ -14,7 +14,6 @@ As moléculas de água ligam-se entre si por ligações de hidrogénio, estabele
 >>$K_c \times [H_2O]^2_e=$ constante
 
 O produto iónico da água **não se aplica só à água pura**, mas também a **todas as soluções aquosas**.
-Em qualquer solução aquosa neutra e água pura, a **concentração, em equilíbrio, de H$_3$O$^+$ e OH$^-$ é igual**.
 ### Variação com a temperatura
 Tal como as restantes constantes de equilíbrio, o produto iónico da água varia com a temperatura:
 - O **aumento da temperatura**, faz **aumentar a extensão da reação** (maior é o produto iónico da água). É um processo **[[M7 - Alteração do estado de equilíbrio#Temperatura|endotérmico]]**
@@ -22,8 +21,7 @@ Tal como as restantes constantes de equilíbrio, o produto iónico da água vari
 ![[Pasted image 20250504150412.png]]
 
 > [!Summary] Produto iónico a 25ºC
-> A 25ºC **$K_w=1,00 \times 10^{-14}$**, logo:
-> $1,00 \times 10^{-14}=[H_3O^+]_e \times [OH^-]_e$
+> A 25ºC, **$K_w=1,00 \times 10^{-14}$**, logo, $1,00 \times 10^{-14}=[H_3O^+]_e \times [OH^-]_e$
 
 ## pH e concentrações de H$_3$O$^+$ e de OH$^-$
 >[!Info]
@@ -42,7 +40,17 @@ Tal como as restantes constantes de equilíbrio, o produto iónico da água vari
 ### Escala de pH
 O **caráter químico** (ácido, básico ou neutro) de uma solução é determinado através de uma **escala de pH**.
 
-A **25ºC**, a escala **varia entre 0 e 14**.
+> [!Note] A 25ºC
+> A **25ºC**, a escala **varia entre 0 e 14**.
+
 #### Soluções neutras
+Em qualquer solução aquosa neutra e água pura, a **concentração, em equilíbrio, de H$_3$O$^+$ e OH$^-$ é igual** (\[H$_3$O$^+$]$_e$=\[OH$^-$]$_e$).
+
+> [!NOTE] A 25ºC
+> A **25ºC**, $[H_3O^+]_e=[OH^-]_e=\sqrt {1,00 \times 10^{-14}}= 1,00 \times 10^{-7}$ mol/dm$^3$.
+> 
+> Nestas condições, o valor de pH é:
+> $pH=-\log[1,00\times 10^{-7}] \iff pH= 7,00$
+
 #### Soluções ácidas
 #### Soluções básicas
