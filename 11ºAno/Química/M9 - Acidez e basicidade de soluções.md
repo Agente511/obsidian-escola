@@ -23,8 +23,8 @@ Tal como as restantes constantes de equilíbrio, o produto iónico da água vari
 
 > [!Summary] Produto iónico a 25ºC
 > A 25ºC **$K_w=1,00 \times 10^{-14}$**, logo:
-> - $1,00 \times 10^{-14}=[H_3O^+]_e \times [OH^-]_e$
-> - $[H_3O^+]_e=[OH^-]_e=\sqrt {1,00 \times 10^{-14}}= 1,00 \times 10^{-7}$ mol/dm$^3$
+> $1,00 \times 10^{-14}=[H_3O^+]_e \times [OH^-]_e$
+
 ## pH e concentrações de H$_3$O$^+$ e de OH$^-$
 >[!Info]
 >Para simplificar os valores das concentrações de H$_3$O$^+$ e OH$^-$, que são usualmente muito baixos, Soren Sorensen criou o **potencial hidrogeniónico**, **pH**.
@@ -35,4 +35,14 @@ Tal como as restantes constantes de equilíbrio, o produto iónico da água vari
 >[!Summary] Cálculo da [H$_3$O$^+$]$_e$ a partir do pH
 >$[H_3O^+]_e=10^{-\text{pH}}$
 
-## Soluções ácidas
+> [!Summary] Cálculo da [OH$^-$]$_e$
+> Como o **produto iónico da água é sempre constante à mesma temperatura**:
+> $$\begin{flalign}& [OH^-]_e=\frac {K_w} {[H_3O^+]_e} &\end{flalign}$$
+
+### Escala de pH
+O **caráter químico** (ácido, básico ou neutro) de uma solução é determinado através de uma **escala de pH**.
+
+A **25ºC**, a escala **varia entre 0 e 14**.
+#### Soluções neutras
+#### Soluções ácidas
+#### Soluções básicas
