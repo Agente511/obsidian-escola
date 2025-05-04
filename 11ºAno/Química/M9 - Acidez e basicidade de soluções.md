@@ -57,16 +57,16 @@ Em qualquer solução aquosa neutra e água pura, a **concentração, em equilí
 > - $pH=-\log[1,00\times 10^{-7}] \iff pH= 7,00$
 
 #### Soluções ácidas
-Se a **concentração, em equilíbrio, H$_3$O$^+$ for superior à de OH$^-$**, a solução aquosa é ácida:
-\[H$_3$O$^+$]$_e<$ \[OH$^-$]$_e$
+Se a **concentração, em equilíbrio, H$_3$O$^+$ (ácido) for superior à de OH$^-$ (proveniente da água e da base)**, a solução aquosa é ácida:
+\[H$_3$O$^+$]$_e>$ \[OH$^-$]$_e$
 
-Quanto menor o pH, maior é a \[H$_3$O$^+$]$_e$.
+Quanto **menor o pH**, **maior é a \[H$_3$O$^+$]$_e$**.
 
 >[!Note] Exemplo
 >Na reação de ionização do HCl:
 >HCl (aq) + H$_2$O (l) $\longrightarrow$ Cl$^-$ (aq) + H$_3$O$^+$ (aq)
 >
->Ao adicionar o ácido clorídrico à água, a concentração de H$_3$O$^+$ aumenta o que faz com que a reação evolua no sentido inverso, diminuindo a concentração de OH$^-$ e o pH.
+>Ao **adicionar o ácido clorídrico à água**, a **concentração de H$_3$O$^+$ aumenta** o que faz com que, segundo o [[M7 - Alteração do estado de equilíbrio#Princípio de Le Châtelier|Princípio de Le Châtelier]] a reação evolua no **sentido inverso**, **diminuindo a concentração de OH$^-$ e o pH**.
 
 > [!NOTE] A 25ºC
 > A **25ºC**:
@@ -76,3 +76,13 @@ Quanto menor o pH, maior é a \[H$_3$O$^+$]$_e$.
 > Nestas condições, o valor de pH é:
 > - $pH=-\log[H_3O^+]_e \iff pH < 7,00$
 #### Soluções básicas
+Se a **concentração, em equilíbrio, OH$^-$ (base) for superior à de H$_3$O$^+$ (proveniente da água e do ácido)**, a solução aquosa é básica:
+\[OH$^-$]$_e$>\[H$_3$O$^+$]$_e$ 
+
+Quanto **maior o pH**, **maior é a \[OH$^-$]$_e$**.
+
+>[!Note] Exemplo
+>Na reação de ionização do HCl:
+>HCl (aq) + H$_2$O (l) $\longrightarrow$ Cl$^-$ (aq) + H$_3$O$^+$ (aq)
+>
+>Ao **adicionar o ácido clorídrico à água**, a **concentração de H$_3$O$^+$ aumenta** o que faz com que, segundo o [[M7 - Alteração do estado de equilíbrio#Princípio de Le Châtelier|Princípio de Le Châtelier]] a reação evolua no **sentido inverso**, **diminuindo a concentração de OH$^-$ e o pH**.
