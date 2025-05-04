@@ -13,6 +13,8 @@ As moléculas de água ligam-se entre si por ligações de hidrogénio, estabele
 >>$$\begin{flalign}& K_c=\frac {[H_3O^+]_e \times [OH^-]_e} {[H_2O]^2_e} &\end{flalign}$$
 >>$K_c \times [H_2O]^2_e=$ constante
 
+O produto iónico da água **não se aplica só à água pura**, mas também a **todas as soluções aquosas**.
+Em qualquer solução aquosa neutra e água pura, a **concentração, em equilíbrio, de H$_3$O$^+$ e OH$^-$ é igual**.
 ### Variação com a temperatura
 Tal como as restantes constantes de equilíbrio, o produto iónico da água varia com a temperatura:
 - O **aumento da temperatura**, faz **aumentar a extensão da reação** (maior é o produto iónico da água). É um processo **[[M7 - Alteração do estado de equilíbrio#Temperatura|endotérmico]]**
@@ -20,4 +22,17 @@ Tal como as restantes constantes de equilíbrio, o produto iónico da água vari
 ![[Pasted image 20250504150412.png]]
 
 > [!Summary] Produto iónico a 25ºC
-> A 25ºC, $K_w=1,00 \times 10^{-14}$.
+> A 25ºC **$K_w=1,00 \times 10^{-14}$**, logo:
+> - $1,00 \times 10^{-14}=[H_3O^+]_e \times [OH^-]_e$
+> - $[H_3O^+]_e=[OH^-]_e=\sqrt {1,00 \times 10^{-14}}= 1,00 \times 10^{-7}$ mol/dm$^3$
+## pH e concentrações de H$_3$O$^+$ e de OH$^-$
+>[!Info]
+>Para simplificar os valores das concentrações de H$_3$O$^+$ e OH$^-$, que são usualmente muito baixos, Soren Sorensen criou o **potencial hidrogeniónico**, **pH**.
+
+>[!Summary] Cálculo do pH a partir da [H$_3$O$^+$]$_e$
+>$\text{pH}=-\log[H_3O^+]_e$
+
+>[!Summary] Cálculo da [H$_3$O$^+$]$_e$ a partir do pH
+>$[H_3O^+]_e=10^{-\text{pH}}$
+
+## Soluções ácidas
