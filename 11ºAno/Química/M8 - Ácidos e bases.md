@@ -52,23 +52,42 @@ As reações ácido-base podem ser **[[M5 - Equilíbrio químico e constante de 
 ### Ácidos fortes e fracos
 #### Ácido forte
 Sofre **ionização praticamente total** (muito extensa).
->[!Note] Exemplo
+>[!Note] Exemplos
 >- Ácido nítrico, HNO$_3$
->  ![[Pasted image 20250504130702.png|400]]
+>  ![[Pasted image 20250504130702.png|350]]
+>- Cloreto de hidrogénio, HCl
+>- Ácido bromídrico, HBr
+>- Iodeto de hidrogénio, HI
+>- Ácido sulfúrico H$_2$SO$_4$
+>- Ácido perclórico, HClO$_4$
 #### Ácido fraco
 Sofre **ionização parcial** (pouco extensa).
->[!Note] Exemplo
+>[!Note] Exemplos
 >- Ácido cianídrico, HCN
->  ![[Pasted image 20250504131121.png|400]]
+>  ![[Pasted image 20250504131121.png|350]]
+>- Ácido nitroso, HNO$_2$
+>- Ácido fosfórico, H$_3$PO$_4$
+>- Ácido acético, CH$_3$COOH
+>- Ácido carbónico, H$_2$CO$_3$
 ### Bases fortes e fracas
 #### Base forte
 Sofre **dissociação praticamente total** (muito extensa).
->[!Note] Exemplo
+>[!Note] Exemplos
 >- Hidróxido de sódio, NaOH
->  ![[Pasted image 20250504131451.png|400]]
+>  ![[Pasted image 20250504131451.png|350]]
 >  >[!Info] Nota
+>  >O NaOH é um sal (constituído pelos iões Na$^+$ e OH$^-$).
+>  >Não há transferência de protões nesta equação.
+>  >O anião OH$^-$, em rigor, é o que funciona como base forte.
+>  
+>- Hidróxido de bário, Ba(OH)$_2$
+>- Hidróxido de potássio, KOH
+>- Amida de sódio, NaNH$_2$
 #### Base fraca
 Sofre **ionização parcial** (pouco extensa).
->[!Note] Exemplo
+>[!Note] Exemplos
 >- Hidroxilamina, HONH$_2$
->  ![[Pasted image 20250504131519.png|400]]
+>  ![[Pasted image 20250504131519.png|350]]
+>- Amoníaco, NH$_3$
+>- Anilina, C$_6$H$_5$NH$_2$
+>- Metilamina, CH$_3$NH$_2$
