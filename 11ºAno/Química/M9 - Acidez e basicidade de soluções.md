@@ -47,16 +47,32 @@ O **caráter químico** (ácido, básico ou neutro) de uma solução é determin
 
 #### Soluções neutras
 Em qualquer solução aquosa neutra e água pura, a **concentração, em equilíbrio, de H$_3$O$^+$ e OH$^-$ é igual**:
-\[H$_3$O$^+$]$_e$=\[OH$^-$]$_e$
+\[H$_3$O$^+$]$_e=$ \[OH$^-$]$_e$
 
 > [!NOTE] A 25ºC
-> A **25ºC**, $[H_3O^+]_e=[OH^-]_e=\sqrt {1,00 \times 10^{-14}}= 1,00 \times 10^{-7}$ mol/dm$^3$.
+> A **25ºC**:
+> - $[H_3O^+]_e=[OH^-]_e=\sqrt {1,00 \times 10^{-14}}= 1,00 \times 10^{-7}$ mol/dm$^3$.
 > 
 > Nestas condições, o valor de pH é:
-> $pH=-\log[1,00\times 10^{-7}] \iff pH= 7,00$
+> - $pH=-\log[1,00\times 10^{-7}] \iff pH= 7,00$
 
 #### Soluções ácidas
 Se a **concentração, em equilíbrio, H$_3$O$^+$ for superior à de OH$^-$**, a solução aquosa é ácida:
+\[H$_3$O$^+$]$_e<$ \[OH$^-$]$_e$
 
 Quanto menor o pH, maior é a \[H$_3$O$^+$]$_e$.
+
+>[!Note] Exemplo
+>Na reação de ionização do HCl:
+>HCl (aq) + H$_2$O (l) $\longrightarrow$ Cl$^-$ (aq) + H$_3$O$^+$ (aq)
+>
+>Ao adicionar o ácido clorídrico à água, a concentração de H$_3$O$^+$ aumenta o que faz com que a reação evolua no sentido inverso, diminuindo a concentração de OH$^-$ e o pH.
+
+> [!NOTE] A 25ºC
+> A **25ºC**:
+> - $[H_3O^+]_e > 1,00 \times 10^{-7}$ mol/dm$^3$
+> - $[OH^-]_e < 1,00 \times 10^{-7}$ mol/dm$^3$.
+> 
+> Nestas condições, o valor de pH é:
+> - $pH=-\log[H_3O^+]_e \iff pH < 7,00$
 #### Soluções básicas
