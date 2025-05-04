@@ -30,6 +30,22 @@ De acordo com a [[#^4592ca|teoria protónica]], uma **reação ácido-base** é 
 
 > [!NOTE] Exemplo
 > ![[Pasted image 20250504124119.png|500]]
-
+### Espécie química anfotérica/anfiprótica
+Espécie química que se pode comportar como **ácido ou base**.
+>[!Note] Exemplo
+>- H$_2$O
 ### Par conjugado ácido-base
+Um par conjugado ácido-base é o conjunto de duas espécies químicas (um ácido e uma base) que, numa reação ácido-base de Brönsted e Lowry, **diferem entre si em apenas um protão H$^+$**.
+
 Uma equação química apresenta **2 pares conjugados ácido-base**.
+
+> [!NOTE] Exemplo
+> ![[Pasted image 20250504125401.png]]
+
+### Ácidos fortes e fracos
+As reações ácido-base podem ser **muito ou pouco extensas no sentido direto**.
+>[!Info] Nota
+>Se a reação em equilíbrio químico for
+>- **muito extensa** no sentido direto, a **seta**, na equação química, tem um **único sentido** ($\longrightarrow$).
+>- **pouco extensa** no sentido direto, utiliza-se uma **dupla seta** ($\leftrightharpoons$)
+### Bases fortes e fracas
