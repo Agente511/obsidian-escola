@@ -41,11 +41,34 @@ Uma equação química apresenta **2 pares conjugados ácido-base**.
 
 > [!NOTE] Exemplo
 > ![[Pasted image 20250504125401.png]]
+### Extensão das reações ácido-base
+As reações ácido-base podem ser **[[M5 - Equilíbrio químico e constante de equilíbrio#Constante de equilíbrio, $K_c$|muito ou pouco extensas]] no sentido direto**.
 
-### Ácidos fortes e fracos
-As reações ácido-base podem ser **muito ou pouco extensas no sentido direto**.
 >[!Info] Nota
 >Se a reação em equilíbrio químico for
 >- **muito extensa** no sentido direto, a **seta**, na equação química, tem um **único sentido** ($\longrightarrow$).
 >- **pouco extensa** no sentido direto, utiliza-se uma **dupla seta** ($\leftrightharpoons$)
+
+### Ácidos fortes e fracos
+#### Ácido forte
+Sofre **ionização praticamente total** (muito extensa).
+>[!Note] Exemplo
+>- Ácido nítrico, HNO$_3$
+>  ![[Pasted image 20250504130702.png|400]]
+#### Ácido fraco
+Sofre **ionização parcial** (pouco extensa).
+>[!Note] Exemplo
+>- Ácido cianídrico, HCN
+>  ![[Pasted image 20250504131121.png|400]]
 ### Bases fortes e fracas
+#### Base forte
+Sofre **dissociação praticamente total** (muito extensa).
+>[!Note] Exemplo
+>- Hidróxido de sódio, NaOH
+>  ![[Pasted image 20250504131451.png|400]]
+>  >[!Info] Nota
+#### Base fraca
+Sofre **ionização parcial** (pouco extensa).
+>[!Note] Exemplo
+>- Hidroxilamina, HONH$_2$
+>  ![[Pasted image 20250504131519.png|400]]

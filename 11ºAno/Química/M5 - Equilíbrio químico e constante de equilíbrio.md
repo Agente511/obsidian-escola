@@ -90,4 +90,4 @@ Quanto maior a constante de equilíbrio de uma reação química, mais extensa �
   ![[Pasted image 20250329172839.png|180]]
 
 ### Efeito da temperatura na constante de equilíbrio
-*(Deixei no [[M7 - Alteração do estado de equilíbrio#Temperatura]], para não estar a repetir.)*
+*(Deixei no [[M7 - Alteração do estado de equilíbrio#Temperatura|M7 - Alteração do estado de equilíbrio]], para não estar a repetir.)*
