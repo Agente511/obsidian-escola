@@ -21,7 +21,7 @@ Tal como as restantes constantes de equilíbrio, o produto iónico da água vari
 ![[Pasted image 20250504150412.png]]
 
 > [!Summary] Produto iónico a 25ºC
-> A 25ºC, **$K_w=1,00 \times 10^{-14}$**, logo, $1,00 \times 10^{-14}=[H_3O^+]_e \times [OH^-]_e$
+> A 25ºC, $K_w=1,00 \times 10^{-14}$.
 
 ## pH e concentrações de H$_3$O$^+$ e de OH$^-$
 >[!Info]
@@ -42,9 +42,12 @@ O **caráter químico** (ácido, básico ou neutro) de uma solução é determin
 
 > [!Note] A 25ºC
 > A **25ºC**, a escala **varia entre 0 e 14**.
+> 
+> ![[Pasted image 20250504160419.png|500]]
 
 #### Soluções neutras
-Em qualquer solução aquosa neutra e água pura, a **concentração, em equilíbrio, de H$_3$O$^+$ e OH$^-$ é igual** (\[H$_3$O$^+$]$_e$=\[OH$^-$]$_e$).
+Em qualquer solução aquosa neutra e água pura, a **concentração, em equilíbrio, de H$_3$O$^+$ e OH$^-$ é igual**:
+\[H$_3$O$^+$]$_e$=\[OH$^-$]$_e$
 
 > [!NOTE] A 25ºC
 > A **25ºC**, $[H_3O^+]_e=[OH^-]_e=\sqrt {1,00 \times 10^{-14}}= 1,00 \times 10^{-7}$ mol/dm$^3$.
@@ -53,4 +56,7 @@ Em qualquer solução aquosa neutra e água pura, a **concentração, em equilí
 > $pH=-\log[1,00\times 10^{-7}] \iff pH= 7,00$
 
 #### Soluções ácidas
+Se a **concentração, em equilíbrio, H$_3$O$^+$ for superior à de OH$^-$**, a solução aquosa é ácida:
+
+Quanto menor o pH, maior é a \[H$_3$O$^+$]$_e$.
 #### Soluções básicas
