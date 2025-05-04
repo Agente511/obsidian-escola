@@ -86,3 +86,6 @@ Quanto **maior o pH**, **maior é a \[OH$^-$]$_e$**.
 >HCl (aq) + H$_2$O (l) $\longrightarrow$ Cl$^-$ (aq) + H$_3$O$^+$ (aq)
 >
 >Ao **adicionar o ácido clorídrico à água**, a **concentração de H$_3$O$^+$ aumenta** o que faz com que, segundo o [[M7 - Alteração do estado de equilíbrio#Princípio de Le Châtelier|Princípio de Le Châtelier]] a reação evolua no **sentido inverso**, **diminuindo a concentração de OH$^-$ e o pH**.
+>
+>FALTA FAZER A PARTIR DESTE EXEMPLO (q só tá copiado do outro) PÁG 108
+
