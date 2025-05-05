@@ -43,10 +43,10 @@ O **caráter químico** (ácido, básico ou neutro) de uma solução é determin
 > [!Note] A 25ºC
 > A **25ºC**, a escala **varia entre 0 e 14**.
 > 
-> ![[Pasted image 20250504160419.png|500]]
+> ![[Pasted image 20250505225512.png]]
 
-#### Soluções neutras
-Em qualquer solução aquosa neutra e água pura, a **concentração, em equilíbrio, de H$_3$O$^+$ e OH$^-$ é igual**:
+#### Soluções neutras ou água "pura"
+Em qualquer solução aquosa neutra ou água "pura", a **concentração, em equilíbrio, de H$_3$O$^+$ e OH$^-$ é igual**:
 \[H$_3$O$^+$]$_e=$ \[OH$^-$]$_e$
 
 > [!NOTE] A 25ºC
@@ -60,7 +60,7 @@ Em qualquer solução aquosa neutra e água pura, a **concentração, em equilí
 Se a **concentração, em equilíbrio, H$_3$O$^+$ (ácido) for superior à de OH$^-$ (proveniente da água e da base)**, a solução aquosa é ácida:
 \[H$_3$O$^+$]$_e>$ \[OH$^-$]$_e$
 
-Quanto **menor o pH**, **maior é a \[H$_3$O$^+$]$_e$**.
+Quanto **menor o pH**, **maior é a \[H$_3$O$^+$]$_e$** e **menor é a  \[OH$^-$]$_e$**.
 
 >[!Note] Exemplo
 >Na reação de ionização do HCl:
@@ -75,17 +75,23 @@ Quanto **menor o pH**, **maior é a \[H$_3$O$^+$]$_e$**.
 > 
 > Nestas condições, o valor de pH é:
 > - $pH=-\log[H_3O^+]_e \iff pH < 7,00$
-#### Soluções básicas
+#### Soluções básicas/alcalinas
 Se a **concentração, em equilíbrio, OH$^-$ (base) for superior à de H$_3$O$^+$ (proveniente da água e do ácido)**, a solução aquosa é básica:
 \[OH$^-$]$_e$>\[H$_3$O$^+$]$_e$ 
 
-Quanto **maior o pH**, **maior é a \[OH$^-$]$_e$**.
-
+Quanto **maior o pH**, **menor é a \[H$_3$O$^+$]$_e$** e **maior é a \[OH$^-$]$_e$**.
 >[!Note] Exemplo
 >Na reação de dissociação do NaOH:
 >NaOH (aq) $\longrightarrow$ Na$^+$ (aq) + OH$^-$ (aq)
 >
->Ao **adicionar o hidróxido de sódio à água**, a **concentração de H$_3$O$^+$ aumenta** o que faz com que, segundo o [[M7 - Alteração do estado de equilíbrio#Princípio de Le Châtelier|Princípio de Le Châtelier]] a reação evolua no **sentido inverso**, **diminuindo a concentração de OH$^-$ e o pH**.
+>Ao **adicionar o hidróxido de sódio (base) à água**, a **concentração de OH$^-$ aumenta** o que faz com que, segundo o [[M7 - Alteração do estado de equilíbrio#Princípio de Le Châtelier|Princípio de Le Châtelier]] a reação evolua no **sentido inverso**, **diminuindo a concentração de H$_3$O$^+$** e **aumentando o pH**.
 >
->FALTA FAZER A PARTIR DESTE EXEMPLO (q só tá copiado do outro) PÁG 108
+
+> [!NOTE] A 25ºC
+> A **25ºC**:
+> - $[H_3O^+]_e < 1,00 \times 10^{-7}$ mol/dm$^3$
+> - $[OH^-]_e > 1,00 \times 10^{-7}$ mol/dm$^3$.
+> 
+> Nestas condições, o valor de pH é:
+> - $pH=-\log[H_3O^+]_e \iff pH > 7,00$
 
