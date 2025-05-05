@@ -31,7 +31,25 @@ Como a [[M8 - Ácidos e bases#Bases fortes e fracas|extensão da ionização/dis
 >[!Warning] Atenção
 >Só se associam valores de $K_b$ às bases fracas.
 
-## pH
+## Determinação do pH
 ### Ácidos e bases fortes
 >[!Info] Info
->O ácido acético, $CH_3COOH$, e o ácido clorídico, $HCl$, são **ácidos monopróticos**, por cederem apenas **um protão** ($H)
+>O ácido acético, $CH_3COOH$, e o ácido clorídico, $HCl$, são **ácidos monopróticos**, por **cederem** apenas **um protão $H^+$**.
+>Por cada **mol de ácido que sofre ionização**, forma-se **uma mol de $H_3O^+$** (estequiometria 1:1).
+>
+>O amoníaco, $NH_3$, é uma **base monoprótica** por **aceitar** apenas **um protão $H^+$**.
+>Por cada **mol de base que sofre ionização**, forma-se **uma mol de $OH^-$** (estequiometria 1:1).
+
+(*Explicado no [[M9 - Acidez e basicidade de soluções#pH e concentrações de H$_3$O$ +$ e de OH$ -$|M9 - Acidez e basicidade de soluções]]*)
+
+>[!Note] Exemplo
+>![[Pasted image 20250505235527.png]]
+### Ácido fraco
+
+>[!Note] Exemplo
+>![[Pasted image 20250505235559.png]]
+
+### Base fraca
+
+>[!Note] Exemplo
+>![[Pasted image 20250505235619.png]]
