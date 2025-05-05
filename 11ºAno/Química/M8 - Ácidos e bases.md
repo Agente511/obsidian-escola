@@ -52,6 +52,7 @@ As reações ácido-base podem ser **[[M5 - Equilíbrio químico e constante de 
 #### Ácidos fortes e fracos
 ##### Ácido forte
 Sofre **ionização praticamente total** (muito extensa).
+No equilíbrio, a concentração dos produtos é muito superior à dos reagentes, que é praticamente nula.
 >[!Note] Exemplos
 >- Ácido nítrico, HNO$_3$
 >  ![[Pasted image 20250504130702.png|350]]
@@ -62,6 +63,7 @@ Sofre **ionização praticamente total** (muito extensa).
 >- Ácido perclórico, HClO$_4$
 ##### Ácido fraco
 Sofre **ionização parcial** (pouco extensa).
+No equilíbrio, a concentração dos reagentes é superior à dos produtos.
 >[!Note] Exemplos
 >- Ácido cianídrico, HCN
 >  ![[Pasted image 20250504131121.png|350]]
@@ -72,6 +74,7 @@ Sofre **ionização parcial** (pouco extensa).
 #### Bases fortes e fracas
 ##### Base forte
 Sofre **dissociação praticamente total** (muito extensa).
+No equilíbrio, a concentração dos produtos é muito superior à dos reagentes, que é praticamente nula.
 >[!Note] Exemplos
 >- Hidróxido de sódio, NaOH
 >  ![[Pasted image 20250504131451.png|350]]
@@ -85,6 +88,7 @@ Sofre **dissociação praticamente total** (muito extensa).
 >- Amida de sódio, NaNH$_2$
 ##### Base fraca
 Sofre **ionização parcial** (pouco extensa).
+No equilíbrio, a concentração dos reagentes é superior à dos produtos.
 >[!Note] Exemplos
 >- Hidroxilamina, HONH$_2$
 >  ![[Pasted image 20250504131519.png|350]]
