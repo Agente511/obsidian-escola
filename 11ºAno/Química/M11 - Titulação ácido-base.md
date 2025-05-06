@@ -5,7 +5,7 @@ $Ácido + Base \longrightarrow Sal + Água$
 
 A água, $H_2O$, é uma espécie **neutra** originada pela reação entre os iões $H_3O^+$ e $OH^-$.
 
-Portanto, é o caráter químico do sal que determina a acidez da **solução resultante**:
+Portanto, é o [[M12 - Acidez e basicidade de soluções aquosas de sais|caráter químico do sal, diferente consoante a força relativa do ácido e da base]], que determina a acidez da **solução resultante**:
 - **sal ácido**: ácido forte + base fraca ($[H_3O^+]_e>[OH^-]$)
 - **sal básico**: ácido fraco + base forte ($[H_3O^+]_e<[OH^-]$)
 - **sal neutro**: ácido forte + base forte ($[H_3O^+]_e=[OH^-]$)
