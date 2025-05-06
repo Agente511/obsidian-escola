@@ -11,4 +11,5 @@ A água, $H_2O$, é uma espécie **neutra** originada pela reação entre os iõ
 >[!Note] Exemplo
 >![[Pasted image 20250506222438.png]]
 
-### Titulação ácido-base
+### Titulação/volumetria ácido-base
+Técnica para determinar a **concentração** (**título**) **do titulado** (solução de um ácido ou base) através da **medição do volume do titulante** (solução de concentração conhecida, básica ou ácida, respetivamente) necessário para "neutralizar" o titulado.
