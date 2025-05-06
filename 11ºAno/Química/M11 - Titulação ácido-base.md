@@ -27,7 +27,7 @@ Técnica para **determinar a concentração** (**título**) **do titulado** atra
 >titular = determinar o título/concentração de uma solução
 
 > [!Summary] Procedimento 
-> Consiste em **adicionar lentamente a solução titulante**, **contida numa bureta**, **ao titulado**, **contido num balão de Erlenmeyer ou gobelé** onde foram previamente adicionadas gotas de **indicador ácido-base** que indicam quando se **deve parar de adicionar titulante**.
+> Consiste em **adicionar lentamente a solução titulante**, **contida numa bureta**, **ao titulado**, **contido num balão de Erlenmeyer ou gobelé** onde foram previamente adicionadas gotas de **[[#Indicadores ácido-base|indicador ácido-base]]** que indicam quando se **deve parar de adicionar titulante**.
 > ![[Pasted image 20250506231738.png]]
 
 #### Ponto de equivalência
@@ -38,7 +38,12 @@ Pode ser identificado a partir da **curva de titulação** (representação grá
 Na **vizinhança do ponto de equivalência**, verifica-se uma **variação brusca de pH**.
 ![[Pasted image 20250506231719.png]]
 
+#### Indicadores ácido-base
+Numa titulação, deve-se escolher um indicador ácido-base cuja **zona de viragem** seja **o mais estreita possível** e que esteja **contida na região da variação brusca de pH**, de modo a **detetar o ponto final** e **saber quando se deve terminar a titulação**.
+
 O **ponto final** de uma titulação verifica-se quando a **cor do indicador se altera**. O ideal é que seja o mais próximo possível do ponto de equivalência, mas geralmente não coincidem.
 
-#### Indicadores ácido-base
-Numa titulação, deve-se escolher um indicador ácido-base
+Os indicadores ácido-base mais frequentemente utilizados são o **alaranjado de metilo**, o **azul de bromotimol** e a **fenolftaleína**.
+![[Pasted image 20250506235326.png|560]]
+A escolha do indicador mais adequado a cada titulação depende da força do ácido e da base usados na titulação:
+![[Pasted image 20250506235420.png]]
