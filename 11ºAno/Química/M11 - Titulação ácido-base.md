@@ -31,9 +31,14 @@ Técnica para **determinar a concentração** (**título**) **do titulado** atra
 > ![[Pasted image 20250506231738.png]]
 
 #### Ponto de equivalência
-A partir da **curva de titulação** (representação gráfica do pH da solução resultante em função do volume de titulante que vai sendo adicionado) identifica-se o **ponto de equivalência** (**p.e.**).
+O **ponto de equivalência** (**p.e.**) de uma titulação corresponde à situação em que **nenhum dos reagentes está em excesso**, o que significa que foram **adicionados em quantidades equivalentes de acordo com a estequiometria** da reação e que **se completou a neutralização**.
 
+Pode ser identificado a partir da **curva de titulação** (representação gráfica do pH da solução resultante em função do volume de titulante que vai sendo adicionado).
+
+Na **vizinhança do ponto de equivalência**, verifica-se uma **variação brusca de pH**.
 ![[Pasted image 20250506231719.png]]
 
-O **ponto de equivalência de uma titulação** corresponde à situação em que **nenhum dos reagentes está em excesso**, o que significa que foram **adicionados em quantidades equivalentes de acordo com a estequiometria** da reação.
+O **ponto final** de uma titulação verifica-se quando a **cor do indicador se altera**. O ideal é que seja o mais próximo possível do ponto de equivalência, mas geralmente não coincidem.
 
+#### Indicadores ácido-base
+Numa titulação, deve-se escolher um indicador ácido-base
