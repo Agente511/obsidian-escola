@@ -45,11 +45,9 @@ Como a [[M8 - Ácidos e bases#Bases fortes e fracas|extensão da ionização/dis
 >[!Note] Exemplo
 >![[Pasted image 20250505235527.png]]
 ### Ácido fraco
-
 >[!Note] Exemplo
 >![[Pasted image 20250505235559.png]]
 
 ### Base fraca
-
 >[!Note] Exemplo
 >![[Pasted image 20250505235619.png]]
