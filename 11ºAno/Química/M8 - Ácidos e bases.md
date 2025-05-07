@@ -39,6 +39,9 @@ Um par conjugado ácido-base é o conjunto de duas espécies químicas (um ácid
 
 Uma equação química apresenta **2 pares conjugados ácido-base**.
 
+>[!Warning] Atenção
+>O ácido escreve-se primeiro que a base no par conjugado.
+
 > [!NOTE] Exemplo
 > ![[Pasted image 20250504125401.png]]
 ### Extensão das reações ácido-base
