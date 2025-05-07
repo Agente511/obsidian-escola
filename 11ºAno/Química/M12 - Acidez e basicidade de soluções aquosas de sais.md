@@ -11,6 +11,7 @@ Ao fazer reagir um ácido forte com uma base forte, em proporções estequiomét
 
 ### Sal proveniente de ácido fraco e base forte
 Como no equilíbrio $[OH^-]_e>[H_3O^+]_e$, o sal resultante da adição de um ácido fraco a uma base forte, em solução aquosa, origina uma **solução básica**.
+O **anião** (base conjugada do ácido fraco) que constitui o sal obtido **sofre hidrólise**.
 
 >[!Note] Exemplos
 >- Acetato de sódio, $NaCH_3COO$
@@ -20,6 +21,7 @@ Como no equilíbrio $[OH^-]_e>[H_3O^+]_e$, o sal resultante da adição de um á
 
 ### Sal proveniente de ácido forte e base fraca
 Como no equilíbrio $[H_3O^+]_e>[OH^-]_e$, o sal resultante da adição de um ácido fraco a uma base forte, em solução aquosa, origina uma **solução ácida**.
+O **catião** (ácido conjugado da base fraca) que constitui o sal obtido **sofre hidrólise**.
 
 >[!Note] Exemplos
 >- Nitrato de amónio, $NH_4NO_3$
@@ -32,6 +34,7 @@ O sal resultante da adição de um ácido fraco a uma base fraca, em solução a
 - **básica**, se $K_a$ (catião) $< K_b$ (anião)
 - **neutra**, se $K_a$ (catião) $=K_b$ (anião)
 
+O **catião** (ácido conjugado da base fraca) e o **anião** (base conjugada do ácido fraco) que constituem o sal obtido **sofrem hidrólise**.
 >[!Note] Exemplos
 >- Cianeto de amónio, $NH_4CN$
 >	![[Pasted image 20250507001722.png]]

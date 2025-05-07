@@ -23,6 +23,6 @@ A **chuva ácida** tem um **pH que pode chegar a 2,0** provocado pelo **dióxido
 #### Formas de minimizar os efeitos
 - Utilizar **fontes de energia alternativas aos combustíveis fósseis**, reduzindo as emissões de **óxidos de carbono, $CO_x$**
 - Utilizar **transportes públicos e veículos elétricos**, reduzindo as emissões de **óxidos de nitrogénio, $NO_x$**
-- Utilizar nos **tubos de escape** **reatores químicos que convertem os hidrocarbonetos e o monóxido de carbono**, reduzindo as emissões de **óxidos de nitrogénio, $NO_x$
+- Utilizar nos **tubos de escape** **reatores químicos que convertem os hidrocarbonetos e o monóxido de carbono**, reduzindo as emissões de **óxidos de nitrogénio, $NO_x$**
 - Utilizar **biocombustíveis**, reduzindo as emissões de **óxidos de enxofre, $SO_x$**
 - Instalar **nas chaminés** **filtros que retêm os óxidos de enxofre, $SO_x$**
