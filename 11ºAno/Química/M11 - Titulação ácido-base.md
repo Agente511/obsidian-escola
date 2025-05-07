@@ -4,6 +4,8 @@ Uma reação de neutralização é uma **reação completa** ($\longrightarrow$)
 $Ácido + Base \longrightarrow Sal + Água$
 
 A água, $H_2O$, é uma espécie **neutra** originada pela reação entre os iões $H_3O^+$ e $OH^-$.
+>[!Warning] Atenção
+>Só se coloca o $H_2O$ quando a base é um hidróxido.
 
 Portanto, é o [[M12 - Acidez e basicidade de soluções aquosas de sais|caráter químico do sal, diferente consoante a força relativa do ácido e da base]], que determina a acidez da **solução resultante**:
 - **sal ácido**: ácido forte + base fraca ($[H_3O^+]_e>[OH^-]_e$)
