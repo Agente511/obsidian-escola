@@ -3,8 +3,8 @@
 A constante de acidez é uma constante de equilíbrio que **mede a força de um ácido**, sendo **maior** quanto **mais extensa é a reação de ionização do ácido**. Por isso, em ácidos fracos, $K_a$ apresenta valores muito baixos.
 
 Como a [[M8 - Ácidos e bases#Ácidos fortes e fracos|extensão da ionização de um ácido forte é superior à de um ácido fraco]]:
-- **$[H_3O^+]_e$** derivada do **ácido forte é superior** à derivada do ácido fraco
-- O **pH** da solução do **ácido forte é menor** (maior acidez) do que do ácido fraco
+- **$[H_3O^+]_e$** derivada do **ácido forte** é **superior** à derivada do ácido fraco
+- O **pH** da solução do **ácido forte** é **menor** (maior acidez) do que do ácido fraco
 
 > [!Summary] Expressão genérica da constante de acidez
 >$HA (aq) + H_2O (l) \leftrightharpoons A^- (aq) + H_3O^+ (aq)$
@@ -19,8 +19,8 @@ Como a [[M8 - Ácidos e bases#Ácidos fortes e fracos|extensão da ionização d
 A constante de basicidade é uma constante de equilíbrio que **mede a força de uma base**, sendo **maior** quanto **mais extensa é a reação de ionização da base**. Por isso, em bases fracas, $K_b$ apresenta valores muito baixos.
 
 Como a [[M8 - Ácidos e bases#Bases fortes e fracas|extensão da ionização/dissociação de uma base forte é superior à de uma base fraca]]:
-- **$[OH^-]_e$** derivada da **base forte é superior** à derivada da base fraco
-- O **pH** da solução da **base forte é maior** (maior basicidade) do que da base fraca
+- **$[OH^-]_e$** derivada da **base forte** é **superior** à derivada da base fraca
+- O **pH** da solução da **base forte** é **maior** (maior basicidade) do que da base fraca
 
 > [!Summary] Expressão genérica da constante de basicidade
 >$B (aq) + H_2O (l) \leftrightharpoons BH^+ (aq) + OH^- (aq)$
