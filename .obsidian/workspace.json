@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "D1 4. Rochas sedimentares, arquivos históricos da Terra"
             }
+          },
+          {
+            "id": "f3ec851e7e17836b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdwbAQZ5L27UkKW8E8-FvPASzJn1u0-04ZfHZYMEmNxP74TQWm9QADahpY6pMgoEy-vBNXkMVt5WjoQwuOhRfYdV3jgWDO1q9YYkPnOoZVSlQbc3a6GhlUeuJrVm1g_ZTe7bq2vGg=s2048?key=GvNGEHUP5REhBU-hVsggiw",
+                "title": "AGV_vUdwbAQZ5L27UkKW8E8-FvPASzJn1u0-04ZfHZYMEmNxP74TQWm9QADahpY6pMgoEy-vBNXkMVt5WjoQwuOhRfYdV3jgWDO1q9YYkPnOoZVSlQbc3a6GhlUeuJrVm1g_ZTe7bq2vGg=s2048 (937×501)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUdwbAQZ5L27UkKW8E8-FvPASzJn1u0-04ZfHZYMEmNxP74TQWm9QADahpY6pMgoEy-vBNXkMVt5WjoQwuOhRfYdV3jgWDO1q9YYkPnOoZVSlQbc3a6GhlUeuJrVm1g_ZTe7bq2vGg=s2048 (937×501)"
+            }
+          },
+          {
+            "id": "0e93b5a8b3778f8d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfxz279yRp5V2RT3C8Hd1XpmkMJ4A1ImCr4_0n1FjK1E0t6agfrWDRMaJCCpot3ILfHfV-NoPhxUh8lrZ_5XNaJwWNexFyZaLg2BISm3STaJgKPVcOVdLcXKZsurbKUsF6UaLKi0A=s2048?key=GvNGEHUP5REhBU-hVsggiw",
+                "title": "AGV_vUfxz279yRp5V2RT3C8Hd1XpmkMJ4A1ImCr4_0n1FjK1E0t6agfrWDRMaJCCpot3ILfHfV-NoPhxUh8lrZ_5XNaJwWNexFyZaLg2BISm3STaJgKPVcOVdLcXKZsurbKUsF6UaLKi0A=s2048 (1069×555)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AGV_vUfxz279yRp5V2RT3C8Hd1XpmkMJ4A1ImCr4_0n1FjK1E0t6agfrWDRMaJCCpot3ILfHfV-NoPhxUh8lrZ_5XNaJwWNexFyZaLg2BISm3STaJgKPVcOVdLcXKZsurbKUsF6UaLKi0A=s2048 (1069×555)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c89038162381a25",
+  "active": "f3ec851e7e17836b",
   "lastOpenFiles": [
-    "Pasted image 20250511155811.png",
     "11ºAno/Geologia/D1 4. Rochas sedimentares, arquivos históricos da Terra.md",
+    "Pasted image 20250511161846.png",
+    "Pasted image 20250511155811.png",
     "Pasted image 20250511155433.png",
     "Pasted image 20250511154647.png",
     "Pasted image 20250511154333.png",
@@ -219,8 +249,6 @@
     "Pasted image 20250511122018.png",
     "Pasted image 20250511122005.png",
     "Pasted image 20250511121928.png",
-    "Pasted image 20250511121719.png",
-    "Pasted image 20250511120657.png",
     "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
