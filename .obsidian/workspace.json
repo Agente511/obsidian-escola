@@ -20,48 +20,6 @@
               "icon": "lucide-file",
               "title": "D1 4. Rochas sedimentares, arquivos históricos da Terra"
             }
-          },
-          {
-            "id": "071fb19776088824",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfmi9o2PPf5ahAg5LWEX2Bcl7DMGuQYv-aOnRc_5O5w3BCqPtlzSGqwheG2RZ-mSOztUU4p4UYqQgg8OeMrt5HcDO2qFvoeLZoJ4btGSJ6XZa1nMfTCGBlkYunQcIrdnRqAkhiDKQ=s2048?key=GvNGEHUP5REhBU-hVsggiw",
-                "title": "AGV_vUfmi9o2PPf5ahAg5LWEX2Bcl7DMGuQYv-aOnRc_5O5w3BCqPtlzSGqwheG2RZ-mSOztUU4p4UYqQgg8OeMrt5HcDO2qFvoeLZoJ4btGSJ6XZa1nMfTCGBlkYunQcIrdnRqAkhiDKQ=s2048 (879×433)",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AGV_vUfmi9o2PPf5ahAg5LWEX2Bcl7DMGuQYv-aOnRc_5O5w3BCqPtlzSGqwheG2RZ-mSOztUU4p4UYqQgg8OeMrt5HcDO2qFvoeLZoJ4btGSJ6XZa1nMfTCGBlkYunQcIrdnRqAkhiDKQ=s2048 (879×433)"
-            }
-          },
-          {
-            "id": "9e100d39bf639f9b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUenhF_9VDftFn8FO2bVmlXwIUJxabJgfHmxhLm4W9sxifp3I_rDKvtal7tDmGnf8QIEk2IJN2bNq1pg5iIryUzqGZ4LODwpvPSrsYnywd0LdVXSIv99RnhU9NFSNQKVAzOJ0knY=s2048?key=GvNGEHUP5REhBU-hVsggiw",
-                "title": "AGV_vUenhF_9VDftFn8FO2bVmlXwIUJxabJgfHmxhLm4W9sxifp3I_rDKvtal7tDmGnf8QIEk2IJN2bNq1pg5iIryUzqGZ4LODwpvPSrsYnywd0LdVXSIv99RnhU9NFSNQKVAzOJ0knY=s2048 (907×437)",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AGV_vUenhF_9VDftFn8FO2bVmlXwIUJxabJgfHmxhLm4W9sxifp3I_rDKvtal7tDmGnf8QIEk2IJN2bNq1pg5iIryUzqGZ4LODwpvPSrsYnywd0LdVXSIv99RnhU9NFSNQKVAzOJ0knY=s2048 (907×437)"
-            }
-          },
-          {
-            "id": "c66cb933c8da2d6e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf6_G-nsI3D3y_iqbPjiLyIQs5FoYYzwo1bsPr7GaeMAFennJc9r_0n5v843SYhTZMhjvSiTI9v2y5HuJB7Sy0D-pvW23V3lGyTVti9nR0yeV6_1XuZyqwNVJqE69R6qBZrOrxH=s2048?key=GvNGEHUP5REhBU-hVsggiw",
-                "title": "AGV_vUf6_G-nsI3D3y_iqbPjiLyIQs5FoYYzwo1bsPr7GaeMAFennJc9r_0n5v843SYhTZMhjvSiTI9v2y5HuJB7Sy0D-pvW23V3lGyTVti9nR0yeV6_1XuZyqwNVJqE69R6qBZrOrxH=s2048 (981×361)",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AGV_vUf6_G-nsI3D3y_iqbPjiLyIQs5FoYYzwo1bsPr7GaeMAFennJc9r_0n5v843SYhTZMhjvSiTI9v2y5HuJB7Sy0D-pvW23V3lGyTVti9nR0yeV6_1XuZyqwNVJqE69R6qBZrOrxH=s2048 (981×361)"
-            }
           }
         ]
       }
@@ -251,8 +209,10 @@
   },
   "active": "3c89038162381a25",
   "lastOpenFiles": [
-    "Pasted image 20250511154647.png",
+    "Pasted image 20250511155811.png",
     "11ºAno/Geologia/D1 4. Rochas sedimentares, arquivos históricos da Terra.md",
+    "Pasted image 20250511155433.png",
+    "Pasted image 20250511154647.png",
     "Pasted image 20250511154333.png",
     "Pasted image 20250511153350.png",
     "Pasted image 20250511153232.png",
@@ -261,8 +221,6 @@
     "Pasted image 20250511121928.png",
     "Pasted image 20250511121719.png",
     "Pasted image 20250511120657.png",
-    "Pasted image 20250511120629.png",
-    "Pasted image 20250511120510.png",
     "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
