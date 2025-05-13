@@ -37,7 +37,7 @@ Substituível pelo pronome pessoal *o*, *a*, *os*, *as*.
 - Ele informou **que o arranjo seria dispendioso**.
 ## Complemento indireto
 Selecionado por um verbo transitivo indireto. Responde à pergunta "A quem?".
-Introduzido geralmente pela proposição *a*. Substituível pelo pronome pessoal *lhe*/*lhes.
+Introduzido geralmente pela proposição *a*. Substituível pelo pronome pessoal *lhe*/*lhes*.
 - A Madalena telefonou **ao primo espanhol**.
 - A funcionária deu-**me** o troco.
 
