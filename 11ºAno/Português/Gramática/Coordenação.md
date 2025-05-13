@@ -1,6 +1,6 @@
 **Oração coordenada**: Não depende de outra oração.
 ## Orações Coordenadas
-**Sindéticas**: Quando as orações são ligadas por um elemento de ligação (conjunção/locução conjuntiva)
+**Sindéticas**: Quando as orações são ligadas por um elemento de ligação (conjunção/locução conjuncional coordenativa)
 **Assindéticas**: Quando as orações são separadas por uma vírgula.
 ### Copulativa
 Adição com a oração com que se combina
