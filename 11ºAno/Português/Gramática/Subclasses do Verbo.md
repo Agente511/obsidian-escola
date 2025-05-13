@@ -22,7 +22,10 @@ Seleciona **complemento direto** e **predicativo do complemento direto**.
 - O diretor de turma **nomeou** a Vera secretária do conselho de alunos.
 
 >[!Tip] Dica
->Predicativo não dá para subtituir por *-o* *-a*.
+>Predicativo não dá para substituir por *-o* *-a*.
+>>[!Note] Exemplo
+>>"O diretor da turma nomeou-a secretária do conselho de alunos."
+>>Logo, "secretária do conselho de alunos" é o predicativo do complemento direto
 ## Copulativo
 Liga o sujeito ao predicativo do sujeito.
 (ser, estar, ficar, parecer, permanecer, tornar-se, revelar-se, continuar, andar...)
