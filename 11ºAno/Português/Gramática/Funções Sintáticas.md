@@ -12,7 +12,7 @@ Substituível por pronome pessoal.
 ### Subentendido
 - Durante o jantar, **[-]** assisti o noticiário.
 ### Indeterminado
-- **[-]** Comentou-se a qualidade do filme durante largos dias. 
+- **[-]** dsComentou-se a qualidade do filme durante largos dias. 
 ## Predicado
 Grupo verbal.
 - Todos os membros do conselho **concordaram com a decisão**.
