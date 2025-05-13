@@ -38,8 +38,6 @@ Completa a frase, sendo introduzida pelas conjunções subordinativas completiva
 - É lamentável **que a poluição dos oceanos continue a verificar-se**. (sujeito)
 - Pergunto **se há forma de minimizar a poluição**. (complemento direto)
 - A equipa de biólogos pediu **para fazer novas análises ao ecossistema**. (complemento oblíquo)
->[!Example] Lista de Orações Subordinadas Substantivas (função dos grupos nominais)
->- **Completiva**: Completa a frase, sendo introduzida por "que", "se" e "para"
 ### Relativa
 Relaciona-se com a subordinante, sendo introduzida por "quem", "o que", "onde" e "quanto"
 - **Quem espera** sempre alcança.
