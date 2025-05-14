@@ -11,7 +11,7 @@ Estabelece que existem 3 condições **simultaneamente necessárias e suficiente
 	Deve ser **inquestionável** para o sujeito e, portanto, caso tenha qualquer dúvida, não se verifica a crença.
 	
 	É uma **condição necessária**, já que seria contraditório dizer que S sabe que P, mas não acredita em P.
-	**Não é uma condição suficiente**, porque p
+	**Não é uma condição suficiente**, porque podemos ter **crenças falsas** (proposições que não correspondam aos factos).
 - ##### Verdade
-	
+	Correspondência da proposição com a realidade.
 - ##### Justificação
