@@ -92,7 +92,7 @@ Modifica o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como 
 
 - ### de inclusão e exclusão
 	>[!Exemplo]
-	>*apenas, senão, só, exceto, salvo, somente, até, inclusivamente, mesmo...
+	>*apenas, senão, só, exceto, salvo, somente, até, inclusivamente, mesmo*...
 
 - ### de Tempo
 	Indica quando a ação ocorre  
