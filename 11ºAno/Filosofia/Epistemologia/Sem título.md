@@ -19,11 +19,25 @@ Estabelece que existem **3 condições necessárias**, que **conjugadas** consti
 	>[!Note] Ciência
 	>A ciência tem o problema de evoluir devido a falhas na correspondência com a realidade, que precisam ser corrigidas.
 	
-	É uma **condição necessária**, porque não basta ter uma crença, é preciso que corresponda à realidade.mas **não é uma condição suficiente**, porque há situações em que apesar de termos uma crença verdadeira, **falta uma [[justificação]]** para essa crença.
+	É uma **condição necessária**, porque não basta ter uma crença, é preciso que corresponda à realidade.
+	**Não é uma condição suficiente**, porque há situações em que apesar de termos uma crença verdadeira, **falta uma [[justificação]]** para essa crença.
 	>[!Note] Exemplo
 	>Não podemos saber que nos saiu o Euromilhões, mesmo que seja verdade, se não tivermos verificado que a chave sorteada corresponde à nossa aposta.
 - ##### Justificação
 	**Razões** para se **[[#^af0105|acreditar]] na proposição**.
 	
-	É uma **condição necessária**, porque não basta ter uma crença que, por  acaso, se revele verdadeira, ela deve ser apoiada em boas razões.
-	
+	É uma **condição necessária**, porque não basta ter uma crença que, por acaso, se revele verdadeira, ela deve ser apoiada em boas razões.
+	**Não é uma condição suficiente**, porque +++
+
+>[!Summary] Concluindo
+>S sabe que P se, e só se,
+>1. S acredita em P
+>2. P é verdadeira
+>3. S tem uma justificação para acreditar em P
+>
+>Portanto, sempre que se tem uma **crença verdadeira justificada**, tem-se conhecimento, e vice-versa.
+
+#### Objeção à definição tripartida
+Alguns autores consideram esta definição **demasiado lata**, porque há situações em que, apesar de termos uma **crença verdadeira justificada**, **não temos conhecimento**:
+>[!Note] Exemplo
+>Se um relógio parar à meia-noite e só voltarmos a consultá-lo ao meio-dia, vamos acreditar que é meio-dia, sendo verdade,
