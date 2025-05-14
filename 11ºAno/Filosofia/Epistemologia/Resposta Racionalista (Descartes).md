@@ -13,6 +13,13 @@ Método que consiste em duvidar de tudo o que se possa imaginar e averiguar o qu
 >- ##### Hiperbólica
 >	Considera falso **tudo de que tenha uma mínima incerteza**, o que pode ser considerado exagerado.
 ### Razões para duvidar
-Em vez de examinar cada crença isoladamente, Descartes debruça-se sobre as **principais fontes das nossas crenças**. Caso encontrasse a **menor dúvida numa dessas fontes**, teria uma **justificação para rejeitar todas crenças que dela proviessem**. Recorre a uma argumentação cética, pondo em causa tudo aquilo que julgamos saber.
+Em vez de examinar cada crença isoladamente, Descartes analisa as **principais fontes das nossas crenças**. Caso encontrasse a **menor dúvida numa dessas fontes**, teria uma **justificação para considerar falsas todas crenças que dela proviessem**.
+Recorre a uma argumentação cética, pondo em causa tudo aquilo que julgamos saber.
 #### Argumento das ilusões dos sentidos
-Os nossos sentidos enganam-nos algumas vezes, logo, como nunca podemos saber se nos estão a enganar ou não, n.
+Os nossos **sentidos** **enganam-nos algumas vezes**, logo, como **nunca podemos saber se nos estão a enganar ou não**, não devemos confiar nas informações adquiridas através deles e, portanto, estes **não podem ser usados como justificação**.
+#### Argumento da indistinção vigília-sonho
+Por vezes, **acreditamos que estamos a ter uma determinada experiência**, quando na realidade **estamos apenas a sonhar**. Como **não temos um processo inequívoco para distinguir o estado de vigília (acordados) do sonho**, e só depois de acordar que habitualmente nos apercebemos que estávamos a sonhar, devemos duvidar da veracidade da nossa experiência sensível e, portanto, as crenças formadas a partir da experiência **não estão devidamente justificadas**.
+>[!Info]
+>Ambos estes 2 argumentos não põem em causa a matemática, geometria, aritmética
+#### Erros de raciocínio
+
