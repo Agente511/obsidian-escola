@@ -40,4 +40,8 @@ Estabelece que existem **3 condições necessárias**, que **conjugadas** consti
 #### Objeção à definição tripartida
 Alguns autores consideram esta definição **demasiado lata**, porque há situações em que, apesar de termos uma **crença verdadeira justificada**, **não temos conhecimento**:
 >[!Note] Exemplo
->Se um relógio parar à meia-noite e só voltarmos a consultá-lo ao meio-dia, vamos acreditar que é meio-dia, sendo verdade,
+>Se um **relógio parar à meia-noite** e só voltarmos a **consultá-lo ao meio-dia**, iríamos **acreditar que é meio-dia**, o que seria **verdade**, e **justificado** com o facto de termos consultado um relógio que julgávamos funcional, constituindo uma **crença verdadeira justificada**, mas **não conhecimento** (não podemos dizer que sabemos que horas são).
+
+## O problema da possibilidade do conhecimento
+### O desafio cético
+Os céticos consideram que, como as pretensões de conhecimento podem revelar-se injustificadas, deve-se suspender o juízo relativamente a todo e qualquer assunto (**o conhecimento não é possível**).
