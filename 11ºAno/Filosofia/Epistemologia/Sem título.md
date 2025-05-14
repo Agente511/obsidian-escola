@@ -5,13 +5,25 @@ O conhecimento é uma relação entre um **sujeito** (que conhece) e um **objeto
 
 Apesar de muitas vezes algo parecer evidente, podemos estar errados quando julgamos que sabemos seja o que for, pode passar de uma ilusão. Por isso, é importante determinar o que seria necessário para podermos afirmar que conhecemos/sabemos seja o que for (para que depois se verifique se essas condições podem alguma vez ser satisfeitas).
 ### Definição tripartida/tradicional de conhecimento
-Estabelece que existem 3 condições **simultaneamente necessárias e suficientes** para o conhecimento:
+Estabelece que existem **3 condições necessárias**, que **conjugadas** constituem uma **condição suficiente**, para o conhecimento:
 - ##### Crença
 	**Atitude proposicional** de que uma dada proposição é **verdadeira** (**convicção**).
 	Deve ser **inquestionável** para o sujeito e, portanto, caso tenha qualquer dúvida, não se verifica a crença.
 	
 	É uma **condição necessária**, já que seria contraditório dizer que S sabe que P, mas não acredita em P.
 	**Não é uma condição suficiente**, porque podemos ter **crenças falsas** (proposições que não correspondam aos factos).
+	>[!Note] Exemplo
+	>Não podemos saber que a Terra é plana, se a Terra, na verdade, não for plana. ^af0105
 - ##### Verdade
-	Correspondência da proposição com a realidade.
+	**Correspondência** da proposição **com a realidade**.
+	>[!Note] Ciência
+	>A ciência tem o problema de evoluir devido a falhas na correspondência com a realidade, que precisam ser corrigidas.
+	
+	É uma **condição necessária**, porque não basta ter uma crença, é preciso que corresponda à realidade.mas **não é uma condição suficiente**, porque há situações em que apesar de termos uma crença verdadeira, **falta uma [[justificação]]** para essa crença.
+	>[!Note] Exemplo
+	>Não podemos saber que nos saiu o Euromilhões, mesmo que seja verdade, se não tivermos verificado que a chave sorteada corresponde à nossa aposta.
 - ##### Justificação
+	**Razões** para se **[[#^af0105|acreditar]] na proposição**.
+	
+	É uma **condição necessária**, porque não basta ter uma crença que, por  acaso, se revele verdadeira, ela deve ser apoiada em boas razões.
+	
