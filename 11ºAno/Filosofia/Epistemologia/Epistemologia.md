@@ -43,5 +43,16 @@ Alguns autores consideram esta definição **demasiado lata**, porque há situa�
 >Se um **relógio parar à meia-noite** e só voltarmos a **consultá-lo ao meio-dia**, iríamos **acreditar que é meio-dia**, o que seria **verdade**, e **justificado** com o facto de termos consultado um relógio que julgávamos funcional, constituindo uma **crença verdadeira justificada**, mas **não conhecimento** (não podemos dizer que sabemos que horas são).
 
 ## O problema da possibilidade do conhecimento
-### O desafio cético
-Os céticos consideram que, como as pretensões de conhecimento podem revelar-se injustificadas, deve-se suspender o juízo relativamente a todo e qualquer assunto (**o conhecimento não é possível**).
+### Ceticismo
+Os céticos consideram que, como as pretensões de conhecimento podem revelar-se injustificadas, deve-se suspender o juízo relativamente a todo e qualquer assunto, ou seja, o **conhecimento não é possível**.
+#### Argumento da regressão infinita
+É **sempre legítimo pedir uma justificação para cada uma das nossas crenças** e **essa justificação consiste noutra crença que também precisa de ser justificada** para que possa ser usada como justificação, instalando-se uma **cadeia de justificações** que **regride infinitamente**, de crença em crença, procurando justificar cada uma com base na seguinte.
+A partir de um certo ponto não conseguimos dar mais justificações, e, portanto, a **verdade da primeira crença não é garantida**, porque **não é justificada**.
+
+>[!Summary] Argumento da regressão infinita
+>1. As nossas crenças justificam-se com base noutras crenças.
+>2. Se as nossas crenças se justificam com base noutras crenças, então sempre que tentamos justificar uma crença caímos numa regressão infinita de justificação.
+>3. Se sempre que tentamos justificar uma crença caímos numa regressão infinita de justificação, então nunca temos crenças justificadas.
+>4. Se nunca temos crenças justificadas, não há conhecimento.
+>5. Logo, não há conhecimento
+
