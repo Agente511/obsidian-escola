@@ -64,24 +64,29 @@ Descartes conclui ainda que é **essencialmente uma substância pensante** (alma
 
 ### A clareza e a distinção das ideias como critério de verdade
 O que torna o ***[[#O cogito|cogito]]*** uma crença tão evidente é o seu **elevado grau de clareza e distinção**. A absoluta **clareza** e **distinção** devem, por isso, ser adotadas como **critério de verdade** (procedimento que permite distinguir o absolutamente verdadeiro do meramente duvidoso ou falso).
-Assim, o ***[[#O cogito|cogito]]*** fornece também um modelo do que devemos perseguir na procura de um conhecimento seguro e indubitável.
+Assim, o ***[[#O cogito|cogito]]*** fornece também um modelo das características das crenças que devemos perseguir na procura de um conhecimento seguro e indubitável.
 #### Tipos de ideias
 Descartes considera que existem 3 tipos de ideias:
 - ##### Inatas
 	Não dependem da exterioridade nem da vontade (imaginação).
 	Dependem do nosso raciocínio.
 	Parecem ter nascido connosco.
+	São **claras** e **distintas**.
 	>[!Note] Exemplos
 	>- O *cogito*
 	>- Matemática
 	>- Metafísica
 	>- [[#Ideia de Deus|Deus]]
+	>
+	>^80a89f
 - ##### Adventícias
 	Dependem da exterioridade (experiência).
 	Não dependem da vontade.
 	>[!Note] Exemplos
 	>- Unicórnios
 	>- Sereias
+	> 
+	>^8bbc97
 - ##### Factícias
 	Dependem da vontade.
 	São produzidas através da imaginação e a partir de outras ideias
@@ -90,4 +95,12 @@ Descartes considera que existem 3 tipos de ideias:
 	>- Mesa
 	>- Lápis
 	>- Calor
-### Ideia de Deus
+	>
+	>^40c00a
+### Ideia de Deus/ser perfeito
+**Provar que Deus existe** e **não é enganador** **afastaria a [[#A hipótese do Génio Maligno (ou do Deus enganador)|hipótese do Génio Maligno]]**, permitindo provar que estamos certos de outras coisas além da nossa existência enquanto pensamento.
+#### Argumento da marca
+A ideia de Deus **não é [[#^8bbc97|adventícia]]**, porque **não pode ser provocada por objetos materiais exteriores à mente**, visto que **Deus é imaterial**. Também **não é [[#^40c00a|factícia]]**, porque é **demasiado perfeita para ser criada por um ser imperfeito** (humano) e, segundo Descartes, **nenhum efeito é maior ou mais perfeito que a sua causa**.
+Portanto, só pode ser uma **ideia [[#^80a89f|inata]]**, **implantada** no momento da criação do nosso espírito, por **um ser pelo menos tão perfeito quanto ela**, ou seja **Deus**, como uma **marca do criador**.
+
+Im
