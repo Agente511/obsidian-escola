@@ -34,7 +34,7 @@ Enquanto esta hipótese não for afastada, **não podemos confiar nas crenças c
 
 ![[Pasted image 20250515004440.png]]
 ### O cogito
-O [[#A hipótese do Génio Maligno (ou do Deus enganador)|Génio Maligno]], por mais que nos possa enganar, **não nos permite duvidar de que existimos**, pois **para que ele possa introduzir ideias enganosas nas nossas mentes**,é **necessário que existamos**. Esta é a **única crença que não se pode questionar**, sendo a [[Epistemologia (Introdução)#^4b48c4|crença básica]] que [[#^7dc007|Descartes procurava]] para **refutar o ceticismo**.
+O [[#A hipótese do Génio Maligno (ou do Deus enganador)|Génio Maligno]], por mais que nos possa enganar, **não nos permite duvidar de que existimos**, pois **para que ele possa introduzir ideias enganosas nas nossas mentes**, é **necessário que existamos**. Esta é a **única crença que não se pode questionar**, sendo a [[Epistemologia (Introdução)#^4b48c4|crença básica]] que [[#^7dc007|Descartes procurava]] para **refutar o ceticismo**.
 O cogito é conhecimento ***a priori*** e garante que **existe pelo menos um ser pensante**.
 Todo o conhecimento a partir do cogito é **dedutivo**.
 >[!Quote] O cogito
@@ -63,20 +63,20 @@ Descartes conclui ainda que é **essencialmente uma substância pensante** (alma
 >6. Logo, ter uma mente/alma, e não um corpo, faz parte da minha essência.
 
 ### A clareza e a distinção das ideias como critério de verdade
-O que torna o ***[[#O cogito|cogito]]*** uma crença tão evidente é o seu **elevado grau de clareza e distinção**. A absoluta **clareza** e **distinção** devem, por isso, ser adotadas como **critério de verdade** (procedimento que permite distinguir o absolutamente verdadeiro do meramente duvidoso ou falso).
-Assim, o ***[[#O cogito|cogito]]*** fornece também um modelo das características das crenças que devemos perseguir na procura de um conhecimento seguro e indubitável.
+O que torna o ***[[#O cogito|cogito]]*** uma crença tão evidente é o seu **elevado grau de clareza e distinção**.
+A absoluta **clareza** e **distinção** devem, por isso, ser adotadas como **critério de verdade** (procedimento que permite distinguir o absolutamente verdadeiro do meramente duvidoso ou falso).
+Assim, o ***[[#O cogito|cogito]]*** fornece também um **modelo das características das crenças** que devemos perseguir na procura de um conhecimento seguro e indubitável.
 #### Tipos de ideias
 Descartes considera que existem 3 tipos de ideias:
 - ##### Inatas
-	Não dependem da exterioridade nem da vontade (imaginação).
 	Dependem do nosso **raciocínio**.
 	Parecem ter **nascido connosco**.
-	São **claras** e **distintas**.
+	Não dependem da exterioridade nem da vontade (imaginação).
 	>[!Note] Exemplos
 	>- O *cogito*
 	>- Matemática
 	>- Metafísica
-	>- [[#Ideia de Deus|Deus]]
+	>- [[#Ideia de Deus/ser perfeito|Deus]]
 	>
 	>^80a89f
 - ##### Adventícias
@@ -89,7 +89,7 @@ Descartes considera que existem 3 tipos de ideias:
 	> 
 	>^8bbc97
 - ##### Factícias
-	Dependem da vontade.
+	Dependem da **vontade**.
 	São produzidas através da **imaginação** e **a partir de outras ideias**.
 	Não decorrem de factos e não são verdadeiras.
 	>[!Note] Exemplos
