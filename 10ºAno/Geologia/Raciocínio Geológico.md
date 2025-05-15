@@ -15,7 +15,7 @@ Volume: 3.0 e 3.1
 >		- Extinções em massa de seres vivos
 >	através de uma intervenção divina e sobrenatural
 >
->#### Uniformatismo e Atualismo (proposto por James Hutton | aplicado por Charles Lyell)
+>#### Uniformitarismo e Atualismo (proposto por James Hutton | aplicado por Charles Lyell)
 >- O **passado pode ser explicado pelo que se observa atualmente**, pois as causas de determinados fenómenos do passado são idênticas às que provocam o mesmo tipo de fenómenos no presente, sem variação de tipo ou intensidade.
 >- As leis naturais são constantes no espaço e no tempo: **"O presente é a chave do passado."**
 >	#### Gradualismo
@@ -33,5 +33,7 @@ Volume: 3.0 e 3.1
 >#### Neocatastrofismo/Catastrofismo Atualista
 >- Aceita os **princípios do Uniformatismo** (processos graduais e contínuos)
 >- Apesar disso, **admite a existência de catástrofes** esporádicas e intensas, como as chuvas de asteroides ou cometas como importantes agentes modeladores da vida e da geodinâmica terrestre 
+
+^59cb66
 
 ![[Pasted image 20231030230413.png]]![[Pasted image 20231030230431.png]]
