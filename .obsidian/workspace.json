@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Resposta Racionalista (Descartes)"
             }
+          },
+          {
+            "id": "b8d1b04e0376d934",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redução ao absurdo",
+                "query": "uniformat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,10 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43bbce78ee2a24d7",
+  "active": "b6ee43fd930bea57",
   "lastOpenFiles": [
-    "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+    "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "Sem título.md",
     "Pasted image 20250515004440.png",

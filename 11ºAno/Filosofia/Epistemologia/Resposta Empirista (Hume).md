@@ -121,6 +121,8 @@ Deste modo, a **experiência da conjunção constante entre 2 acontecimentos** �
 >Depois de ter tido contacto com a água e com o fogo, Adão passou a ter expectativa de ver certos efeitos associados aos mesmos.
 
 ### O problema da indução
+Como a nossa expectativa de que causas semelhantes terão efeitos semelhantes baseia-se apenas no [[#Hábito/costume|hábito]], **não podemos garantir a existência de conexões necessárias**, pois **não há forma de justificar a indução** (inferência baseada na observação da repetição de um determinado número de casos observados para concluir sobre casos que ainda não tivemos experiência), como o princípio do uniformitarismo.
+### O problema do mundo exterior
 
 
 > [!Warning] Comparação com Descartes
