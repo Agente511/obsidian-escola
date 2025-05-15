@@ -109,10 +109,18 @@ Hume **afasta a possibilidade de ser conhecimento *a priori***, já que a **nega
 
 Portanto, tem de ser uma **[[#^2b36fc|questão de facto]]**, ***a posteri***, mas **não parece haver nenhuma impressão sensível que corresponda a uma conexão necessária**, apenas vemos a **sucessão de acontecimentos**.
 #### Adão inexperiente
-Para argumentar a origem empírica das conexões necessárias, Hume argumenta que **Adão**, mesmo que tivesse **faculdades racionais inteiramente perfeitas desde o início**, seria **incapaz de  de inferir qualquer efeito apenas pela ocorrência da sua causa**.
+Para argumentar a origem empírica das conexões necessárias, Hume argumenta que **Adão**, mesmo que tivesse **faculdades racionais inteiramente perfeitas desde o início**, seria **incapaz de  de inferir qualquer efeito apenas pela ocorrência da sua causa**, por faltar-lhe a experiência.
 >[!Note] Exemplo
->
+>Sem experiência, **não poderíamos saber que a água nos sufoca ou que o fogo é quente** através apenas da reflexão, *a priori*, no conceito de água e de fogo.
 
-da fluidez e transparência da água que ela o sufocaria, nem da luminosidade e calor do fogo que este o poderia consumir. Nenhum objeto jamais revela, pelas qualidades que aparecem aos sentidos, nem as suas causas que o produziram nem os efeitos que dele provirão; e tampouco a nossa razão é capaz, sem a ajuda da experiência, de fazer qualquer inferência a respeito de questões de facto e existência real.” .
+### Hábito/costume
+Portanto, a ideia de relação causal é apenas uma **expectativa de que o efeito ocorre sempre que a causa ocorre**, o que **resulta do hábito** que temos de uma **conjunção constante** desses dois acontecimentos, ou seja, de os vermos constantemente conjugados.
+
+Deste modo, a **experiência da conjunção constante entre 2 acontecimentos** é **necessária** e **suficiente** para que tenhamos a **ideia de relação causal entre eles**.
+>[!Note] Exemplo de [[#Adão inexperiente|Adão]]
+>Depois de ter tido contacto com a água e com o fogo, Adão passou a ter expectativa de ver certos efeitos associados aos mesmos.
+
+### O problema da indução
+
 
 > [!Warning] Comparação com Descartes
