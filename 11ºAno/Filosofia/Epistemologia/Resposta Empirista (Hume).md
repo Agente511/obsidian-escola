@@ -61,22 +61,25 @@ Deste modo, Hume conclui que todas as ideias são, direta ou indiretamente, cóp
 
 ### Bifurcação de Hume (Questões de facto e relações de ideias)
 Segundo Hume, existem dois tipos de **conhecimento**:
-- ##### Relações de ideias
-	Obtido através apenas da análise do **significado dos conceitos envolvidos numa proposição** (o predicado está contido na definição do sujeito). Característico da **matemática**, **geometria** e **lógica**.
-	É conhecimento ***a priori***. São **proposições analíticas**.
+- ##### Relação de ideias
+	Obtido através apenas da análise do **significado dos conceitos envolvidos numa proposição** (o predicado está contido na definição do sujeito). Característico da **matemática**, **geometria** e **lógica**. Não fornece informações acerca do mundo, porque refere-se apenas à relação entre o significado das ideias envolvidas, mas não diz nada acerca do que existe (dizer que nenhum solteiro é casado não diz se existem solteiros ou não).
+	É conhecimento ***a priori***. É uma **proposição analítica**.
 	É uma **verdade necessária**, visto que a sua **negação** implica uma **contradição** nos termos.
 	>[!Note] Exemplos
 	>- Todos os quadrados têm 4 lados.
 	>- Nenhum solteiro é casado.
 	>- Nenhum irmão é filho único.
-- ##### Questões de facto
-	**Só** pode ser obtido diretamente através das **impressões** (experiência) e fornece **informação verdadeira acerca do mundo**. Característico das **ciências da natureza**.
-	É conhecimento ***a posteriori***. São **proposições sintéticas**.
-	São **contingentes**, visto que a sua negação pode , conforme a circunstância.
+- ##### Questão de facto
+	**Só** pode ser obtido diretamente através das **impressões** (experiência) e fornece **informação verdadeira acerca do mundo** (o predicado não está contido na definição do sujeito). Característico das **ciências da natureza**.
+	É conhecimento ***a posteriori***. É uma **proposição sintética**.
+	É **contingente**, visto que a sua negação não implica uma contradição. O seu valor de verdade depende da circunstância.
 	>[!Note] Exemplos
 	>- A neve é branca. (é preciso ter a experiência da neve e da sua cor para saber que a a neve é branca)
 	>- A maçã é doce.
 
+Hume **rejeita a regressão infinita do argumento cético**, porque acredita que a regressão pode desembocar em algo autoevidente, presente à nossa memória ou aos nossos sentidos, servindo de justificação para algumas das nossas crenças.
+
+P 58
 
 
 
