@@ -100,7 +100,29 @@ Descartes considera que existem 3 tipos de ideias:
 ### Ideia de Deus/ser perfeito
 **Provar que Deus existe** e **não é enganador** **afastaria a [[#A hipótese do Génio Maligno (ou do Deus enganador)|hipótese do Génio Maligno]]**, permitindo provar que estamos certos de outras coisas além da nossa existência enquanto pensamento.
 #### Argumento da marca
-A ideia de Deus **não é [[#^8bbc97|adventícia]]**, porque **não pode ser provocada por objetos materiais exteriores à mente**, visto que **Deus é imaterial**. Também **não é [[#^40c00a|factícia]]**, porque é **demasiado perfeita para ser criada por um ser imperfeito** (humano) e, segundo Descartes, **nenhum efeito é maior ou mais perfeito que a sua causa**.
-Portanto, só pode ser uma **ideia [[#^80a89f|inata]]**, **implantada** no momento da criação do nosso espírito, por **um ser pelo menos tão perfeito quanto ela**, ou seja **Deus**, como uma **marca do criador**.
+A ideia de Deus **não é [[#^8bbc97|adventícia]]**, porque **não pode ser provocada por objetos materiais exteriores à mente**, visto que **Deus é imaterial**. Também **não é [[#^40c00a|factícia]]**, porque é **demasiado perfeita para ser criada por um ser imperfeito** (humano) e, segundo a **lei da causalidade**, **qualquer causa tem de ser pelo menos tão perfeita e tão completa quanto os seus efeitos** (o efeito é sempre menor que a causa).
 
-Im
+Portanto, só pode ser uma **ideia [[#^80a89f|inata]]**, **implantada** no momento da criação do nosso espírito, por **um ser pelo menos tão perfeito quanto ela**, ou seja **Deus**, como uma **marca do criador** e implicando a sua **existência**.
+
+>[!Summary] Argumento da marca
+>1. Tenho a ideia de "ser perfeito".
+>2. Se eu tenho a ideia de "ser perfeito", é porque existe um ser perfeito que é a origem desta ideia.
+>3. Ou eu mesmo sou o ser perfeito ou há outra coisa (além de mim) que é o ser perfeito que deu origem à minha ideia de perfeição.
+>4. Eu não sou perfeito.
+>5. Logo, existe outra coisa (além de mim) que é o ser perfeito e que deu origem à minha ideia de perfeição.
+
+### Papel da existência de Deus
+Deus existir e não ser enganador **garante a verdade das nossas ideias claras e distintas**, **atuais e passadas**, visto que seria implausível um criador sumamente bom nos criar de forma que nunca pudéssemos conhecer a verdade.
+
+A **existência de Deus** é uma **condição necessária e suficiente** para **podermos confiar naquilo que concebemos clara e distintamente** e nos **nossos raciocínios apoiados em premissas claras e distintas**.
+
+>[!Summary] Papel da existência de Deus
+>1. Posso confiar naquilo que concebo de forma clara e distinta se, e só se, Deus existe e não é enganador.
+>2. Deus existe e não é enganador.
+>3. Logo, posso confiar naquilo que concebo de forma clara e distinta.
+
+
+Assim, Descartes pode construir o edifício do conhecimento e deduzir muitas verdades, apoiando-se naquilo que concebe com clareza e distinção:
+#### As verdades matemáticas
+As verdades da geometria e da aritmética são absolutamente certas, porque Deus não permitiria que um ser maléfico nos induzisse em erro.
+#### A experiência sensível
