@@ -102,7 +102,7 @@ Descartes considera que existem 3 tipos de ideias:
 #### Argumento da marca
 A ideia de Deus **não é [[#^8bbc97|adventícia]]**, porque **não pode ser provocada por objetos materiais exteriores à mente**, visto que **Deus é imaterial**. Também **não é [[#^40c00a|factícia]]**, porque é **demasiado perfeita para ser criada por um ser imperfeito** (humano) e, segundo a **lei da causalidade**, **qualquer causa tem de ser pelo menos tão perfeita e tão completa quanto os seus efeitos** (o efeito é sempre menor que a causa).
 
-Portanto, só pode ser uma **ideia [[#^80a89f|inata]]**, **implantada** no momento da criação do nosso espírito, por **um ser pelo menos tão perfeito quanto ela**, ou seja **Deus**, como uma **marca do criador** e implicando a sua **existência**.
+Portanto, só pode ser uma **ideia [[#^80a89f|inata]]**, **implantada** no momento da criação do nosso espírito, por **um ser pelo menos tão perfeito quanto ela**, ou seja **Deus**, como uma **marca do criador**, o que implicaria a sua **existência**.
 
 >[!Summary] Argumento da marca
 >1. Tenho a ideia de "ser perfeito".
@@ -128,9 +128,9 @@ As **verdades da geometria e da aritmética são absolutamente certas**, porque 
 #### A experiência sensível
 As **sensações que temos de objetos materiais são efetivamente provocadas por esses objetos**, que, por conseguinte, **têm de existir**.
 #### A vigília e o sono
-Não corremos o risco de cometer erros devido à indistinção vigília-sono, porque conseguimos conceber, de modo claro e distinto, coisas como conceitos matemáticos, em ambos os estados. Além disso, nos sonhos acontecem coisas demasiado insólitas para serem reais e os acontecimentos não se articulam de forma clara.
+Não corremos o risco de cometer erros devido à indistinção vigília-sono, porque **conseguimos conceber, de modo claro e distinto, coisas como conceitos matemáticos, em ambos os estados**. Além disso, nos sonhos **acontecem coisas demasiado insólitas para serem reais** e os **acontecimentos não se articulam de forma clara**.
 #### O erro
-Deus criou-nos com livre-arbítrio, permitindo-nos fazer boas ou más escolhas. Por isso, quando os sentidos nos enganam é porque nos precipitamos a aceitar coisas que não concebemos clara e distintamente. Devemos, por isso, recorrer à razão (sobretudo à lógica, geometria e a matemática) para compreender a verdadeira natureza das coisas.
+Deus criou-nos com **livre-arbítrio**, permitindo-nos fazer **boas ou más escolhas**. Por isso, quando os **sentidos nos enganam** é porque **nos precipitamos a aceitar coisas que não concebemos clara e distintamente**. Devemos, por isso, recorrer à razão (sobretudo à lógica, geometria e a matemática) para compreender a verdadeira natureza das coisas.
 ## Objeções à resposta racionalista de Descartes
 ### Objeção à [[#A hipótese do Génio Maligno (ou do Deus enganador)|hipótese do Génio Maligno]] (George Edward Moore)
 Aceitar que o Génio Maligno existe, mas que o mundo exterior não, é exagerado e contraintuitivo. **Termos um corpo é muito mais plausível que a hipótese do Génio Maligno**.
@@ -139,7 +139,10 @@ Devido à hipótese do Génio Maligno, não podemos afirmar que existe um "eu" (
 É **mais evidente a existência de pensamentos do que a existência de um "eu" sobre o qual esses pensamentos repousam**. Isto porque **só temos acesso ao conteúdo da consciência** e não à consciência em si.
 ### Objeções ao [[#Dualismo cartesiano/mente-corpo|dualismo cartesiano]]
 #### Falácia do mascarado
-Descartes comete uma "**falácia do mascarado**" ao justificar o [[#Dualismo cartesiano/mente-corpo|dualismo mente-corpo]] com o facto de ser capaz de conceber que existe sem um corpo, mas não sem uma mente.
+Descartes comete uma "**falácia do mascarado**" ao justificar o [[#Dualismo cartesiano/mente-corpo|dualismo mente-corpo]] (distinção entre mente e corpo) com o facto de ser capaz de **conceber que existe sem um corpo, mas não sem uma mente** e que, portanto, mente e corpo devem ser realidades distintas.
+
+> [!Info] Falácia do mascarado
+> Ocorre quando se **conclui que duas coisas são diferentes** apenas porque **se pode pensar numa sem pensar na outra**.
 #### Interferência entre natureza mental e física sem explicação
 Além disso, Descartes **não consegue explicar como que algo mental interfere em algo físico** e vice-versa, sendo que são de naturezas totalmente distintas.
 >[!Info] Resposta de Descartes
