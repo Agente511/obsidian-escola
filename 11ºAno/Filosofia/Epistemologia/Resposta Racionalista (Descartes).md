@@ -30,7 +30,7 @@ Um **ser superior**, **omnisciente** e **omnipotente** poderia **introduzir idei
 > [!NOTE] Exemplo
 > Deste modo, podemos estar enganados quanto ao quadrado ter 4 lados, podendo na verdade ter 3.
 
-Enquanto esta hipótese não for afastada, **não podemos confiar nas crenças com origem na experiência sensível**, pois podem ser **maquinações do Génio Maligno**, logo **não temos conhecimento**.
+Enquanto esta hipótese não for afastada, **não podemos confiar nas crenças com origem na experiência sensível nem no raciocínio**, pois podem ser **maquinações do Génio Maligno**, logo **não temos conhecimento**.
 
 ![[Pasted image 20250515004440.png]]
 ### O cogito
@@ -47,7 +47,7 @@ Deste modo, Descartes **refuta o [[Epistemologia (Introdução)#Ceticismo|cetici
 >3. Logo, é falso que nada se pode saber.
 
 ### Dualismo cartesiano/mente-corpo
-O cogito **não garante que se tem um corpo** (pois somos capazes de nos imaginar sem corpo sem que isso implique que não existamos), mas **garante que se existe enquanto ser pensante** (*res cogitans*). Por isso, **corpo e mente são independentes** e de **naturezas inteiramente distintas** (a primeira física e a segunda imaterial).
+O cogito **não garante que se tem um corpo** (pois somos **capazes de nos imaginar sem corpo** sem que isso implique que não existamos), mas **garante que se existe enquanto ser pensante** (*res cogitans*). Por isso, **corpo e mente são independentes** e de **naturezas inteiramente distintas** (a primeira física e a segunda imaterial).
 Enquanto não provarmos que o Génio Maligno não existe, não podemos ter certeza que o nosso corpo realmente existe.
 
 >[!Summary] Dualismo cartesiano
