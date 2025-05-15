@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
+                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Resposta Racionalista (Descartes)"
+              "title": "Índice de Resposta Empirista (Hume)"
             }
           },
           {
@@ -236,11 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43bbce78ee2a24d7",
+  "active": "aea0acb0dc2be568",
   "lastOpenFiles": [
-    "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
-    "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
+    "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+    "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "10ºAno/Geologia/Raciocínio Geológico.md",
     "Sem título.md",
     "Pasted image 20250515004440.png",
