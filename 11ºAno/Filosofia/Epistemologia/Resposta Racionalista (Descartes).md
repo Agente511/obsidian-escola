@@ -35,6 +35,8 @@ Enquanto esta hipótese não for afastada, **não podemos confiar nas crenças c
 ![[Pasted image 20250515004440.png]]
 ### O cogito
 O [[#A hipótese do Génio Maligno (ou do Deus enganador)|Génio Maligno]], por mais que nos possa enganar, **não nos permite duvidar de que existimos**, pois **para que ele possa introduzir ideias enganosas nas nossas mentes**,é **necessário que existamos**. Esta é a **única crença que não se pode questionar**, sendo a [[Epistemologia (Introdução)#^4b48c4|crença básica]] que [[#^7dc007|Descartes procurava]] para **refutar o ceticismo**.
+O cogito é conhecimento ***a priori*** e garante que **existe pelo menos um ser pensante**.
+Todo o conhecimento a partir do cogito é **dedutivo**.
 >[!Quote] O cogito
 >"Penso; logo, existo!" = "Cogito; ergo,  sum!"
 
@@ -44,3 +46,13 @@ Deste modo, Descartes **refuta o [[Epistemologia (Introdução)#Ceticismo|cetici
 >2. Mas sabemos que existimos (essa ideia não pode ser seriamente posta em causa).
 >3. Logo, é falso que nada se pode saber.
 
+### Dualismo cartesiano/mente-corpo
+O cogito **não garante que se tem um corpo** (pois somos capazes de nos imaginar sem corpo sem que isso implique que não existamos), mas **garante que se existe enquanto ser pensante** (*res cogitans*). Por isso, **corpo e mente são independentes** e de **naturezas inteiramente distintas** (a primeira física e a segunda imaterial).
+
+>[!Summary] Dualismo cartesiano
+>1. Posso conceber que existo sem ter um corpo.
+>2. Não posso conceber que existo sem ter uma mente/alma.
+>3. Se posso conceber que existo sem ter um corpo, mas não posso conceber que existo sem ter uma mente/alma, então a mente/alma não é igual ao corpo.
+>4. Logo, a mente/alma não é igual ao corpo.
+
+Descartes conclui ainda que é **essencialmente uma substância pensante** (alma) e **acidentalmente um corpo**/matéria (*res extensa*), pois .
