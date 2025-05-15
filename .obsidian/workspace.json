@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -49,7 +49,8 @@
               "title": "Resposta Empirista (Hume)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
+                "file": "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Epistemologia (Introdução)"
+              "title": "Índice de Resposta Racionalista (Descartes)"
             }
           },
           {
@@ -218,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c89038162381a25",
+  "active": "43bbce78ee2a24d7",
   "lastOpenFiles": [
+    "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
-    "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "10ºAno/Geologia/Raciocínio Geológico.md",
     "Sem título.md",
     "Pasted image 20250515004440.png",
