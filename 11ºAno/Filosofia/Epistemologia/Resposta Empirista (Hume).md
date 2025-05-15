@@ -69,13 +69,17 @@ Segundo Hume, existem dois tipos de **conhecimento**:
 	>- Todos os quadrados têm 4 lados.
 	>- Nenhum solteiro é casado.
 	>- Nenhum irmão é filho único.
+	>
+	>^881302
 - ##### Questão de facto
 	**Só** pode ser obtido diretamente através das **impressões** (experiência) e fornece **informação verdadeira acerca do mundo** (o predicado não está contido na definição do sujeito). Característico das **ciências da natureza** (física, biologia, história, sociologia, etc.).
 	É conhecimento ***a posteriori***. É uma **proposição sintética**.
-	A sua **negação não implica uma contradição**. É **contingente**, visto que o seu valor de verdade depende da circunstância.
+	É uma **verdade contingente**, visto que a sua **negação não implica uma contradição** nos termos (o seu valor de verdade depende da circunstância).
 	>[!Note] Exemplos
 	>- A neve é branca. (é preciso ter a experiência da neve e da sua cor para saber que a a neve é branca)
 	>- A maçã é doce.
+	>
+	>^2b36fc
 
 Hume **rejeita a regressão infinita do argumento cético**, porque acredita que a regressão pode desembocar em algo autoevidente, presente à nossa memória ou aos nossos sentidos, servindo de justificação para algumas das nossas crenças.
 
@@ -91,8 +95,21 @@ Segundo Hume, existem 3 princípios de associação/atração de ideias (o apare
 	>- A referência a 2020 faz-nos pensar no Covid-19.
 	>- A referência a um andar no edifício faz-nos pensar nos outros.
 - ##### Causalidade/Relação causa-efeito
-	Duas ideias que representam **acontecimentos ligados por uma relação causa-efeito**
+	Duas ideias que representam **acontecimentos ligados por uma relação causa-efeito** ou conexão necessária.
 	>[!Note] Exemplo
 	>Pensar numa ferida faz-nos pensar na dor associada.
+
+### Problema da causalidade
+A ideia de **causalidade** consiste na existência de uma **conexão necessária entre 2 acontecimentos**, quando a **ocorrência de um deles (causa) torna necessária a ocorrência do outro (efeito)**.
+
+Como a **negação de uma relação causal** **não resulta numa contradição**, esta ideia **não corresponde a uma [[#^881302|relação de ideias]]**.
+>[!Note] Exemplo
+>Não é uma contradição afirmar que "a água não evapora por ação do calor".
+
+Portanto, tem de ser uma **[[#^2b36fc|questão de facto]]**, mas **não parece haver nenhuma impressão sensível que corresponda a uma conexão necessária**, apenas vemos a **sucessão de acontecimentos**.
+
+Deste modo, levanta-se o problema de como
+#### Adão inexperiente
+Hume recorre à experiência mental do Adão inexperiente para responder ao problema
 
 > [!Warning] Comparação com Descartes
