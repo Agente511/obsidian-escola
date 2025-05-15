@@ -59,11 +59,11 @@ Deste modo, não é possível justificar devidamente nenhuma crença e, portanto
 ^e379f3
 
 ### Resposta fundacionalista
-O fundacionalismo **rejeita** a [[#^e379f3|premissa 1 do argumento cético da regressão infinita]] de **que todas as crenças se justificam com base noutras crenças**, através da **distinção entre crenças básicas e não-básicas**:
+O fundacionalismo **rejeita** **que todas as crenças se justifiquem com base noutras crenças** ([[#^e379f3|premissa 1 do argumento cético da regressão infinita]]), através da **distinção entre crenças básicas e não-básicas**:
 - ##### Crenças básicas/fundacionais
 	**Autoevidentes**, ou seja, **justificam-se a si mesmas** e não precisam de ser justificadas por outras crenças, devido a serem tão **claras** e **indubitáveis**.
-	**Justificam as [[#^2eb87d|crenças não-básicas]]**. São base sólida **sobre a qual se podem edificar as restantes [[#^2eb87d|crenças não-básicas]]**, que assim são também verdades indubitáveis.
-	Deste modo, **evita-se a [[#Argumento da regressão infinita|regressão infinita de justificações]]**.^506141 ^4b48c4
+	**Justificam as [[#^2eb87d|crenças não-básicas]]**. São uma base sólida **sobre a qual se podem edificar as restantes [[#^2eb87d|crenças não-básicas]]**, que assim são também verdades indubitáveis.
+	Deste modo, **evita-se a [[#Argumento da regressão infinita|regressão infinita de justificações]]**. ^4b48c4
 - ##### Crenças não-básicas
 	**Não são autoevidentes**, precisando de ser **fundamentadas com base noutras crenças**. ^2eb87d
 #### Racionalismo
