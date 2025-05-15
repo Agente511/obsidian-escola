@@ -17,8 +17,8 @@ Em vez de examinar cada crença isoladamente, Descartes analisa as **principais 
 Recorre a uma argumentação cética, pondo em causa tudo aquilo que julgamos saber.
 #### Argumento das ilusões dos sentidos
 Os nossos **sentidos** **enganam-nos algumas vezes**, logo, como **nunca podemos saber se nos estão a enganar ou não**, não devemos confiar nas informações adquiridas através deles e, portanto, estes **não podem ser usados como justificação**.
-#### Argumento da indistinção vigília-sonho
-Por vezes, **acreditamos que estamos a ter uma determinada experiência**, quando na realidade **estamos apenas a sonhar**. Como **não temos um processo inequívoco para distinguir o estado de vigília (acordados) do sonho**, e só depois de acordar que habitualmente nos apercebemos que estávamos a sonhar, devemos duvidar da veracidade da nossa experiência sensível e, portanto, as crenças formadas a partir da experiência **não estão devidamente justificadas**.
+#### Argumento da indistinção vigília-sono
+Por vezes, **acreditamos que estamos a ter uma determinada experiência**, quando na realidade **estamos apenas a sonhar**. Como **não temos um processo inequívoco para distinguir o estado de vigília (acordados) do sono**, e só depois de acordar que habitualmente nos apercebemos que estávamos a sonhar, devemos duvidar da veracidade da nossa experiência sensível e, portanto, as crenças formadas a partir da experiência **não estão devidamente justificadas**.
 #### Erros de raciocínio
 É possível **cometermos erros** mesmo em **raciocínios relativamente simples**, logo, **não podemos acreditar em crenças que tenham origem no nosso raciocínio**.
 Deste modo, também a geometria e a aritmética são postas em causa.
@@ -124,5 +124,13 @@ A **existência de Deus** é uma **condição necessária e suficiente** para **
 
 Assim, Descartes pode construir o edifício do conhecimento e deduzir muitas verdades, apoiando-se naquilo que concebe com clareza e distinção:
 #### As verdades matemáticas
-As verdades da geometria e da aritmética são absolutamente certas, porque Deus não permitiria que um ser maléfico nos induzisse em erro.
+As **verdades da geometria e da aritmética são absolutamente certas**, porque Deus não permitiria que um ser maléfico nos induzisse em erro quando aceitamos como verdadeiro aquilo que concebemos com enorme grau de evidência.
 #### A experiência sensível
+As **sensações que temos de objetos materiais são efetivamente provocadas por esses objetos**, que, por conseguinte, **têm de existir**.
+#### A vigília e o sono
+Não corremos o risco de cometer erros devido à indistinção vigília-sono, porque conseguimos conceber, de modo claro e distinto, coisas como conceitos matemáticos, em ambos os estados. Além disso, nos sonhos acontecem coisas demasiado insólitas para serem reais e os acontecimentos não se articulam de forma clara.
+#### O erro
+Deus criou-nos com livre-arbítrio, permitindo-nos fazer boas ou más escolhas. Por isso, quando os sentidos nos enganam é porque nos precipitamos a aceitar coisas que não concebemos clara e distintamente. Devemos, por isso, recorrer à razão (sobretudo à lógica, geometria e a matemática) para compreender a verdadeira natureza das coisas.
+## Objeções à resposta racionalista de Descartes
+### Objeção à [[#A hipótese do Génio Maligno (ou do Deus enganador)|hipótese do Génio Maligno]] (George Edward Moore)
+Aceitar que o Génio Maligno existe, mas que o mundo exterior não, é exagerado e contraintuitivo. Termos um corpo é muito mais plausível que a hipótese do Génio Maligno.
