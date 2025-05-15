@@ -10,6 +10,8 @@ Hume chama **percepções** ao **conteúdo das nossas mentes**, dividindo-os em:
 	>- Experiência da cor azul
 	>- Dor de dentes
 	>- Sentir calor
+	>- Alegria
+
 - ##### Ideias
 	**Cópias enfraquecidas das impressões.**
 	Têm um **menor grau de intensidade e vivacidade**.
@@ -54,10 +56,26 @@ Hume responde sugerindo que as **ideias complexas** podem ter 2 origens distinta
 	Correspondem às [[Resposta Racionalista (Descartes)#^40c00a|ideias factícias]] de Descartes.
 	>[!Note] Exemplo
 	>A ideia de sereia resulta da junção das ideias de peixe e de mulher.
-dE
 
+Deste modo, Hume conclui que todas as ideias são, direta ou indiretamente, cópias de impressões e que existe uma impressão por detrás de todas as ideias.
 
-
+### Bifurcação de Hume (Questões de facto e relações de ideias)
+Segundo Hume, existem dois tipos de **conhecimento**:
+- ##### Relações de ideias
+	Obtido através apenas da análise do **significado dos conceitos envolvidos numa proposição** (o predicado está contido na definição do sujeito). Característico da **matemática**, **geometria** e **lógica**.
+	É conhecimento ***a priori***. São **proposições analíticas**.
+	É uma **verdade necessária**, visto que a sua **negação** implica uma **contradição** nos termos.
+	>[!Note] Exemplos
+	>- Todos os quadrados têm 4 lados.
+	>- Nenhum solteiro é casado.
+	>- Nenhum irmão é filho único.
+- ##### Questões de facto
+	**Só** pode ser obtido diretamente através das **impressões** (experiência) e fornece **informação verdadeira acerca do mundo**. Característico das **ciências da natureza**.
+	É conhecimento ***a posteriori***. São **proposições sintéticas**.
+	São **contingentes**, visto que a sua negação pode , conforme a circunstância.
+	>[!Note] Exemplos
+	>- A neve é branca. (é preciso ter a experiência da neve e da sua cor para saber que a a neve é branca)
+	>- A maçã é doce.
 
 
 
