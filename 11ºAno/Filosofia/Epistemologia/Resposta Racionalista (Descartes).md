@@ -69,8 +69,8 @@ Assim, o ***[[#O cogito|cogito]]*** fornece também um modelo das característic
 Descartes considera que existem 3 tipos de ideias:
 - ##### Inatas
 	Não dependem da exterioridade nem da vontade (imaginação).
-	Dependem do nosso raciocínio.
-	Parecem ter nascido connosco.
+	Dependem do nosso **raciocínio**.
+	Parecem ter **nascido connosco**.
 	São **claras** e **distintas**.
 	>[!Note] Exemplos
 	>- O *cogito*
@@ -80,21 +80,21 @@ Descartes considera que existem 3 tipos de ideias:
 	>
 	>^80a89f
 - ##### Adventícias
-	Dependem da exterioridade (experiência).
+	Dependem da **exterioridade** (experiência).
 	Não dependem da vontade.
-	>[!Note] Exemplos
-	>- Unicórnios
-	>- Sereias
-	> 
-	>^8bbc97
-- ##### Factícias
-	Dependem da vontade.
-	São produzidas através da imaginação e a partir de outras ideias
-	Não decorrem de factos e não são verdadeiras.
 	>[!Note] Exemplos
 	>- Mesa
 	>- Lápis
 	>- Calor
+	> 
+	>^8bbc97
+- ##### Factícias
+	Dependem da vontade.
+	São produzidas através da **imaginação** e **a partir de outras ideias**.
+	Não decorrem de factos e não são verdadeiras.
+	>[!Note] Exemplos
+	>- Unicórnios
+	>- Sereias
 	>
 	>^40c00a
 ### Ideia de Deus/ser perfeito

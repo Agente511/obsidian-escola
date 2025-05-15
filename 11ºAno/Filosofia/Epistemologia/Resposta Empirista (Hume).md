@@ -1,6 +1,6 @@
 David Hume recorre a uma abordagem **[[Epistemologia (Introdução)#Empirismo|empirista]]** do fundacionalismo, atribuindo o estatuto de **[[Epistemologia (Introdução)#^4b48c4|crença básica]]** às crenças que **provêm da nossa experiência sensível imediata**.
 
-Para os [[Epistemologia (Introdução)#Empirismo|empiristas]], à **nascença** a nossa mente é uma **tábua rasa** ou folha em branco, sendo **posteriormente preenchida pela experiência**, fornecida pelos 5 sentidos.
+Para os [[Epistemologia (Introdução)#Empirismo|empiristas]], à **nascença** a nossa mente é uma **tábua rasa** ou folha em branco (**não existem as [[Resposta Racionalista (Descartes)#^80a89f|ideias inatas]]** de Descartes), sendo **posteriormente preenchida pela experiência**, fornecida pelos 5 sentidos.
 ### Impressões e ideias (*a posteriori*)
 Hume chama **percepções** ao **conteúdo das nossas mentes**, dividindo-os em:
 - ##### Impressões
@@ -41,11 +41,25 @@ A cada **impressão simples corresponde uma ideia simples**, o que implica que h
 >3. As impressões simples não são cópias de ideias simples.
 >4. Logo, as ideias simples são cópias de impressões simples.
 #### Argumento do cego de nascença
-Sem uma impressão, não é possível formar a ideia correspondente.
+Um **cego de nascença** é **incapaz de formar a ideia de uma cor como o azul**, porque nunca foi exposto à impressão correspondente, portanto, **sem uma impressão simples, não é possível formar a ideia simples correspondente**.
+#### Origem das ideias complexas
+No entanto, estes 2 argumentos **não são suficientes para estabelecer o princípio da cópia**, porque o princípio não se refere apenas às ideias simples, mas sim a todas as ideias simples ou complexas. Ainda se verifica que **existem ideias complexas que não têm impressões correspondentes**, como as sereias ou os centauros.
 
-> [!Note] Exemplo
-> Um cego de nascença é incapaz de formar a ideia de uma cor como o azul, porque nunca foi exposto à impressão correspondente.
+Hume responde sugerindo que as **ideias complexas** podem ter 2 origens distintas:
+- ##### Memória
+	Tem a **mesma configuração que tinha na experiência**.
+	Correspondem às [[Resposta Racionalista (Descartes)#^8bbc97|ideias adventícias]] de Descartes.
+- ##### Imaginação
+	Compostas de **forma livre**, podendo, por exemplo, **juntar ideias que estavam separadas na experiência**.
+	Correspondem às [[Resposta Racionalista (Descartes)#^40c00a|ideias factícias]] de Descartes.
+	>[!Note] Exemplo
+	>A ideia de sereia resulta da junção das ideias de peixe e de mulher.
+dE
 
-p 55
+
+
+
+
+
 
 > [!Warning] Comparação com Descartes
