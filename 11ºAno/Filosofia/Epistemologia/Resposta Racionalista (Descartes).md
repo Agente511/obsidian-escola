@@ -149,5 +149,6 @@ Além disso, Descartes **não consegue explicar como que algo mental interfere e
 #### Ideia vaga de "ser perfeito"
 Dadas as nossas **capacidades limitadas**, temos apenas uma **concepção vaga e difusa de Deus** ou de um "ser perfeito".
 #### Rejeição da lei da causalidade
-Existem casos, como a **seleção natural**, em que **algo menos perfeito origina algo mais perfeito** (neste caso, organismos mais simples deram origem a organismos complexos e variados). Deste modo, perde-se a justificação para considerar que a ideia de Deus não é factícia.
+Existem casos, como a **seleção natural**, em que **algo menos perfeito origina algo mais perfeito** (neste caso, organismos mais simples deram origem a organismos complexos e variados). Deste modo, **perde-se a justificação para considerar que a ideia de Deus não é factícia**, porque a sua causa não tem de ser tão perfeita quanto ela, podendo sermos nós a criá-la.
 ### Objeção do círculo cartesiano
+Descartes cai numa **petição de princípio** ao tentar **estabelecer a existência de Deus a partir de ideias claras e distintas**, ao mesmo tempo que defende que **só podemos estar certos que as ideias claras e distintas atuais e passadas são verdadeiras porque Deus existe**.
