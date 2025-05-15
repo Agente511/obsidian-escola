@@ -29,12 +29,23 @@ Além disso, podem ser:
 	>A ideia de maçã vermelha é uma cópia enfraquecida da impressão que temos quando olhamos para maçãs vermelhas. Esta impressão, e a ideia que lhe corresponde, podem ser descompostas em elementos mais simples (como a cor, o cheiro e o sabor).
 ### Princípio da cópia
 Segundo o princípio da cópia, **todas as ideias são cópias de impressões**. É por isso que **não pode existir nenhuma ideia na nossa mente à nascença**, segundo Hume.
+Para o provar, Hume apresenta 2 argumentos:
 #### Argumento da prioridade
-A cada **impressão simples corresponde uma ideia simples**, o que implica que sejam
+A cada **impressão simples corresponde uma ideia simples**, o que implica que haja uma dependência entre as duas. Como as **impressões simples surgem sempre primeiro**, são estas que **dão origem às ideias simples** e não o contrário, já que **não é possível obter impressões através das ideias correspondentes**.
+>[!Note] Exemplo
+>Para se ter uma ideia do vermelho é necessário ter uma impressão dessa cor (ver objetos vermelhos).
+
 >[!Summary] Argumento da prioridade
 >1. Cada impressão simples tem uma ideia simples que lhe corresponde.
 >2. Se cada impressão simples tem uma ideia simples que lhe corresponde, então ou as impressões simples são cópias de ideias simples, ou as ideias simples são cópias de impressões simples.
 >3. As impressões simples não são cópias de ideias simples.
 >4. Logo, as ideias simples são cópias de impressões simples.
+#### Argumento do cego de nascença
+Sem uma impressão, não é possível formar a ideia correspondente.
+
+> [!Note] Exemplo
+> Um cego de nascença é incapaz de formar a ideia de uma cor como o azul, porque nunca foi exposto à impressão correspondente.
+
+p 55
 
 > [!Warning] Comparação com Descartes
