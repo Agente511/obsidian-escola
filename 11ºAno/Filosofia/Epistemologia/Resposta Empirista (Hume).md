@@ -100,16 +100,19 @@ Segundo Hume, existem 3 princípios de associação/atração de ideias (o apare
 	>Pensar numa ferida faz-nos pensar na dor associada.
 
 ### Problema da causalidade
-A ideia de **causalidade** consiste na existência de uma **conexão necessária entre 2 acontecimentos**, quando a **ocorrência de um deles (causa) torna necessária a ocorrência do outro (efeito)**.
+A ideia de **causalidade** consiste na existência de uma **conexão necessária entre 2 acontecimentos**, em que a **ocorrência de um deles (causa) torna necessária a ocorrência do outro (efeito)**.
+Contudo, coloca-se o problema de **como conhecemos as condições necessárias**, ou seja, **qual a origem da ideia de causalidade**.
 
-Como a **negação de uma relação causal** **não resulta numa contradição**, esta ideia **não corresponde a uma [[#^881302|relação de ideias]]**.
+Hume **afasta a possibilidade de ser conhecimento *a priori***, já que a **negação de uma relação causal** **não resulta numa contradição**, logo, esta ideia **não corresponde a uma [[#^881302|relação de ideias]]**.
 >[!Note] Exemplo
 >Não é uma contradição afirmar que "a água não evapora por ação do calor".
 
-Portanto, tem de ser uma **[[#^2b36fc|questão de facto]]**, mas **não parece haver nenhuma impressão sensível que corresponda a uma conexão necessária**, apenas vemos a **sucessão de acontecimentos**.
-
-Deste modo, levanta-se o problema de como
+Portanto, tem de ser uma **[[#^2b36fc|questão de facto]]**, ***a posteri***, mas **não parece haver nenhuma impressão sensível que corresponda a uma conexão necessária**, apenas vemos a **sucessão de acontecimentos**.
 #### Adão inexperiente
-Hume recorre à experiência mental do Adão inexperiente para responder ao problema
+Para argumentar a origem empírica das conexões necessárias, Hume argumenta que **Adão**, mesmo que tivesse **faculdades racionais inteiramente perfeitas desde o início**, seria **incapaz de  de inferir qualquer efeito apenas pela ocorrência da sua causa**.
+>[!Note] Exemplo
+>
+
+da fluidez e transparência da água que ela o sufocaria, nem da luminosidade e calor do fogo que este o poderia consumir. Nenhum objeto jamais revela, pelas qualidades que aparecem aos sentidos, nem as suas causas que o produziram nem os efeitos que dele provirão; e tampouco a nossa razão é capaz, sem a ajuda da experiência, de fazer qualquer inferência a respeito de questões de facto e existência real.” .
 
 > [!Warning] Comparação com Descartes
