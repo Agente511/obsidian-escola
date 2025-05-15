@@ -134,3 +134,6 @@ Deus criou-nos com livre-arbítrio, permitindo-nos fazer boas ou más escolhas. 
 ## Objeções à resposta racionalista de Descartes
 ### Objeção à [[#A hipótese do Génio Maligno (ou do Deus enganador)|hipótese do Génio Maligno]] (George Edward Moore)
 Aceitar que o Génio Maligno existe, mas que o mundo exterior não, é exagerado e contraintuitivo. Termos um corpo é muito mais plausível que a hipótese do Génio Maligno.
+### Objeção ao *[[#O cogito|cogito]]*
+Devido à hipótese do Génio Maligno, não podemos afirmar que existe um "eu", ou seja, alguém a quem os pensamentos pertençam, podendo ser simplesmente coisas que ocorrem no mundo.
+É mais evidente a existência de pensamentos do que a existência de um "eu" (substância pensante) sobre o qual esses pensamentos repousam. Isto porque só temos acesso ao conteúdo da consciência e n
