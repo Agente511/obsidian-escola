@@ -150,7 +150,7 @@ Além disso, Descartes **não consegue explicar como que algo mental interfere e
 
 ### Objeções ao [[#Argumento da marca|argumento da marca]]
 #### Ideia vaga de "ser perfeito"
-Dadas as nossas **capacidades limitadas**, temos apenas uma **concepção vaga e difusa de Deus** ou de um "ser perfeito".
+Dadas as nossas **capacidades limitadas**, temos apenas uma **concepção vaga e difusa de Deus** ou de um "ser perfeito" e, portanto, não podemos dizer que temos propriamente essa ideia.
 #### Rejeição da lei da causalidade
 Existem casos, como a **seleção natural**, em que **algo menos perfeito origina algo mais perfeito** (neste caso, organismos mais simples deram origem a organismos complexos e variados). Deste modo, **perde-se a justificação para considerar que a ideia de Deus não é factícia**, porque a sua causa não tem de ser tão perfeita quanto ela, podendo sermos nós a criá-la.
 ### Objeção do círculo cartesiano

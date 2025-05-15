@@ -2,7 +2,7 @@ David Hume recorre a uma abordagem **[[Epistemologia (Introdução)#Empirismo|em
 
 Para os [[Epistemologia (Introdução)#Empirismo|empiristas]], à **nascença** a nossa mente é uma **tábua rasa** ou folha em branco (**não existem as [[Resposta Racionalista (Descartes)#^80a89f|ideias inatas]]** de Descartes), sendo **posteriormente preenchida pela experiência**, fornecida pelos 5 sentidos.
 ### Impressões e ideias (*a posteriori*)
-Hume chama **percepções** ao **conteúdo das nossas mentes**, dividindo-os em:
+Hume chama **percepções** ao **conteúdo das nossas mentes**, dividindo-as em:
 - ##### Impressões
 	Dados da nossa **experiência imediata**.
 	Têm um **elevado grau de intensidade e vivacidade**.
@@ -22,7 +22,7 @@ Hume chama **percepções** ao **conteúdo das nossas mentes**, dividindo-os em:
 
 Além disso, podem ser:
 - ##### Simples
-	Impressões ou ideias que não podem ser decompostas noutras impressões ou ideias.
+	Impressões ou ideias que **não podem ser decompostas noutras impressões ou ideias**.
 	>[!Note] Exemplo
 	>A ideia do vermelho é uma cópia enfraquecida da sensação que temos quando olharmos para objetos vermelhos.
 - ##### Complexas
@@ -31,7 +31,7 @@ Além disso, podem ser:
 	>A ideia de maçã vermelha é uma cópia enfraquecida da impressão que temos quando olhamos para maçãs vermelhas. Esta impressão, e a ideia que lhe corresponde, podem ser descompostas em elementos mais simples (como a cor, o cheiro e o sabor).
 ### Princípio da cópia
 Segundo o princípio da cópia, **todas as ideias são cópias de impressões**. É por isso que **não pode existir nenhuma ideia na nossa mente à nascença**, segundo Hume.
-Para o provar, Hume apresenta 2 argumentos:
+Para o provar, apresenta 2 argumentos:
 #### Argumento da prioridade
 A cada **impressão simples corresponde uma ideia simples**, o que implica que haja uma dependência entre as duas. Como as **impressões simples surgem sempre primeiro**, são estas que **dão origem às ideias simples** e não o contrário, já que **não é possível obter impressões através das ideias correspondentes**.
 >[!Note] Exemplo
@@ -43,7 +43,8 @@ A cada **impressão simples corresponde uma ideia simples**, o que implica que h
 >3. As impressões simples não são cópias de ideias simples.
 >4. Logo, as ideias simples são cópias de impressões simples.
 #### Argumento do cego de nascença
-Um **cego de nascença** é **incapaz de formar a ideia de uma cor como o azul**, porque nunca foi exposto à impressão correspondente, portanto, **sem uma impressão simples, não é possível formar a ideia simples correspondente**.
+Um **cego de nascença** é **incapaz de formar a ideia de uma cor como o azul**, porque nunca foi exposto à impressão correspondente.
+Portanto, **sem uma impressão simples, não é possível formar a ideia simples correspondente**.
 #### Origem das ideias complexas
 No entanto, estes 2 argumentos **não são suficientes para estabelecer o princípio da cópia**, porque o princípio não se refere apenas às ideias simples, mas sim a todas as ideias simples ou complexas. Ainda se verifica que **existem ideias complexas que não têm impressões correspondentes**, como as sereias ou os centauros.
 
@@ -62,7 +63,9 @@ Deste modo, Hume conclui que todas as ideias são, direta ou indiretamente, cóp
 ### Bifurcação de Hume (Questões de facto e relações de ideias)
 Segundo Hume, existem dois tipos de **conhecimento**:
 - ##### Relação de ideias
-	Obtido através apenas da análise do **significado dos conceitos envolvidos numa proposição** (o predicado está contido na definição do sujeito). Característico da **matemática**, **geometria** e **lógica**. Não fornece informações acerca do mundo, porque refere-se apenas à relação entre o significado das ideias envolvidas, mas não diz nada acerca do que existe (dizer que nenhum solteiro é casado não diz se existem solteiros ou não).
+	Obtido através apenas da análise do **significado dos conceitos envolvidos numa proposição** (o predicado está contido na definição do sujeito).
+	Característico da **matemática**, **geometria** e **lógica**.
+	**Não fornece informações acerca do mundo**, porque refere-se apenas à relação entre o significado das ideias envolvidas, mas não diz nada acerca do que existe (dizer que nenhum solteiro é casado não diz se existem solteiros ou não).
 	É conhecimento ***a priori***. É uma **proposição analítica**.
 	É uma **verdade necessária**, visto que a sua **negação implica uma contradição** nos termos.
 	>[!Note] Exemplos
