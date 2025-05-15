@@ -48,6 +48,7 @@ Deste modo, Descartes **refuta o [[Epistemologia (Introdução)#Ceticismo|cetici
 
 ### Dualismo cartesiano/mente-corpo
 O cogito **não garante que se tem um corpo** (pois somos capazes de nos imaginar sem corpo sem que isso implique que não existamos), mas **garante que se existe enquanto ser pensante** (*res cogitans*). Por isso, **corpo e mente são independentes** e de **naturezas inteiramente distintas** (a primeira física e a segunda imaterial).
+Enquanto não provarmos que o Génio Maligno não existe, não podemos ter certeza que o nosso corpo realmente existe.
 
 >[!Summary] Dualismo cartesiano
 >1. Posso conceber que existo sem ter um corpo.
@@ -55,4 +56,38 @@ O cogito **não garante que se tem um corpo** (pois somos capazes de nos imagina
 >3. Se posso conceber que existo sem ter um corpo, mas não posso conceber que existo sem ter uma mente/alma, então a mente/alma não é igual ao corpo.
 >4. Logo, a mente/alma não é igual ao corpo.
 
-Descartes conclui ainda que é **essencialmente uma substância pensante** (alma) e **acidentalmente um corpo**/matéria (*res extensa*), pois .
+Descartes conclui ainda que é **essencialmente uma substância pensante** (alma) e **acidentalmente um corpo**/matéria (*res extensa*), pois não consegue conceber que existe sem uma mente/alma.
+
+>[!Summary] Dualismo cartesiano (parte 2)
+>5. Uma determinada propriedade faz parte da essência de x se, e só se, não é possível conceber x sem essa propriedade.
+>6. Logo, ter uma mente/alma, e não um corpo, faz parte da minha essência.
+
+### A clareza e a distinção das ideias como critério de verdade
+O que torna o ***[[#O cogito|cogito]]*** uma crença tão evidente é o seu **elevado grau de clareza e distinção**. A absoluta **clareza** e **distinção** devem, por isso, ser adotadas como **critério de verdade** (procedimento que permite distinguir o absolutamente verdadeiro do meramente duvidoso ou falso).
+Assim, o ***[[#O cogito|cogito]]*** fornece também um modelo do que devemos perseguir na procura de um conhecimento seguro e indubitável.
+#### Tipos de ideias
+Descartes considera que existem 3 tipos de ideias:
+- ##### Inatas
+	Não dependem da exterioridade nem da vontade (imaginação).
+	Dependem do nosso raciocínio.
+	Parecem ter nascido connosco.
+	>[!Note] Exemplos
+	>- O *cogito*
+	>- Matemática
+	>- Metafísica
+	>- [[#Ideia de Deus|Deus]]
+- ##### Adventícias
+	Dependem da exterioridade (experiência).
+	Não dependem da vontade.
+	>[!Note] Exemplos
+	>- Unicórnios
+	>- Sereias
+- ##### Factícias
+	Dependem da vontade.
+	São produzidas através da imaginação e a partir de outras ideias
+	Não decorrem de factos e não são verdadeiras.
+	>[!Note] Exemplos
+	>- Mesa
+	>- Lápis
+	>- Calor
+### Ideia de Deus
