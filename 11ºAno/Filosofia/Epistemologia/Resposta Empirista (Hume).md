@@ -64,23 +64,35 @@ Segundo Hume, existem dois tipos de **conhecimento**:
 - ##### Relação de ideias
 	Obtido através apenas da análise do **significado dos conceitos envolvidos numa proposição** (o predicado está contido na definição do sujeito). Característico da **matemática**, **geometria** e **lógica**. Não fornece informações acerca do mundo, porque refere-se apenas à relação entre o significado das ideias envolvidas, mas não diz nada acerca do que existe (dizer que nenhum solteiro é casado não diz se existem solteiros ou não).
 	É conhecimento ***a priori***. É uma **proposição analítica**.
-	É uma **verdade necessária**, visto que a sua **negação** implica uma **contradição** nos termos.
+	É uma **verdade necessária**, visto que a sua **negação implica uma contradição** nos termos.
 	>[!Note] Exemplos
 	>- Todos os quadrados têm 4 lados.
 	>- Nenhum solteiro é casado.
 	>- Nenhum irmão é filho único.
 - ##### Questão de facto
-	**Só** pode ser obtido diretamente através das **impressões** (experiência) e fornece **informação verdadeira acerca do mundo** (o predicado não está contido na definição do sujeito). Característico das **ciências da natureza**.
+	**Só** pode ser obtido diretamente através das **impressões** (experiência) e fornece **informação verdadeira acerca do mundo** (o predicado não está contido na definição do sujeito). Característico das **ciências da natureza** (física, biologia, história, sociologia, etc.).
 	É conhecimento ***a posteriori***. É uma **proposição sintética**.
-	É **contingente**, visto que a sua negação não implica uma contradição. O seu valor de verdade depende da circunstância.
+	A sua **negação não implica uma contradição**. É **contingente**, visto que o seu valor de verdade depende da circunstância.
 	>[!Note] Exemplos
 	>- A neve é branca. (é preciso ter a experiência da neve e da sua cor para saber que a a neve é branca)
 	>- A maçã é doce.
 
 Hume **rejeita a regressão infinita do argumento cético**, porque acredita que a regressão pode desembocar em algo autoevidente, presente à nossa memória ou aos nossos sentidos, servindo de justificação para algumas das nossas crenças.
 
-P 58
-
-
+### Princípios de associação de ideias
+Segundo Hume, existem 3 princípios de associação/atração de ideias (o aparecimento de uma ideia é acompanhado pela aparecimento de outra):
+- ##### Semelhança
+	Duas ideias que têm algum **aspeto em comum**.
+	>[!Note] Exemplo
+	>Uma fotografia faz-nos pensar na pessoa retratada.
+- ##### Contiguidade
+	Duas ideias que representam **coisas contíguas/próximas espaço ou no tempo**.
+	>[!Note] Exemplos
+	>- A referência a 2020 faz-nos pensar no Covid-19.
+	>- A referência a um andar no edifício faz-nos pensar nos outros.
+- ##### Causalidade/Relação causa-efeito
+	Duas ideias que representam **acontecimentos ligados por uma relação causa-efeito**
+	>[!Note] Exemplo
+	>Pensar numa ferida faz-nos pensar na dor associada.
 
 > [!Warning] Comparação com Descartes
