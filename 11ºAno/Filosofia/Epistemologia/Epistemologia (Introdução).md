@@ -20,14 +20,14 @@ Estabelece que existem **3 condições necessárias**, que **conjugadas** consti
 	>A ciência tem o problema de evoluir devido a falhas na correspondência com a realidade, que precisam ser corrigidas.
 	
 	É uma **condição necessária**, porque não basta ter uma crença, é preciso que corresponda à realidade.
-	**Não é uma condição suficiente**, porque há situações em que apesar de termos uma crença verdadeira, **falta uma [[justificação]]** para essa crença.
+	**Não é uma condição suficiente**, porque há situações em que apesar de termos uma crença verdadeira, **falta uma [[#^4b4d7b|justificação]]** para essa crença.
 	>[!Note] Exemplo de crença verdadeira sem justificação
 	>Não podemos saber que nos saiu o Euromilhões, mesmo que seja verdade, se não tivermos verificado que a chave sorteada corresponde à nossa aposta.
 - ##### Justificação
 	**Razões** para se **[[#^af0105|acreditar]] na proposição**.
 	
 	É uma **condição necessária**, porque não basta ter uma crença que, por acaso, se revele verdadeira, sendo preciso que ela seja apoiada em boas razões.
-	**Não é uma condição suficiente**.
+	**Não é uma condição suficiente**. ^4b4d7b
 
 >[!Summary] Concluindo
 >S sabe que P se, e só se,
