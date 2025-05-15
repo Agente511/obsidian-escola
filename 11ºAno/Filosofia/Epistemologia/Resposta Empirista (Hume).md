@@ -126,10 +126,8 @@ Deste modo, a **experiência da conjunção constante entre 2 acontecimentos** �
 ### O problema da indução
 Como a nossa expectativa de que causas semelhantes terão efeitos semelhantes baseia-se apenas no [[#Hábito/costume|hábito]] (regularidades ou repetições), **não podemos garantir a existência de conexões necessárias**, pois **não há forma de justificar a indução** (inferência baseada na observação da repetição de um determinado número de casos observados para concluir sobre casos que ainda não tivemos experiência), como o [[Raciocínio Geológico#^59cb66|princípio do uniformitarismo]].
 ### O problema do mundo exterior
-Apesar de assumirmos que o mundo exterior é a causa das nossas impressões, não podemos confundir o mundo exterior à nossa mente com as percepções dos mesmos, ou seja, **não temos acesso direto aos objetos do mundo exterior**, **mas sim apenas a representações mentais dos mesmos**. Assim, **não conseguimos confirmar a existência de objetos no mundo exterior (para lá das nossas mentes) que são as causas das nossas impressões**.
+Apesar de assumirmos que o mundo exterior é a causa das nossas impressões, não podemos confundi-lo com as percepções do mesmo, ou seja, **não temos acesso direto aos objetos do mundo exterior**, **mas sim apenas a representações mentais dos mesmos**. Assim, **não conseguimos confirmar a existência de objetos no mundo exterior (para lá das nossas mentes) que são as causas das nossas impressões**.
 
 ### Ceticismo moderado de Hume
 Apesar de defender que a **crença na [[#O problema da indução|indução]] e no [[#O problema do mundo exterior|mundo exterior]] não são racionalmente justificáveis**, Hume considera que **não se deve abandoná-las**, de modo a evitar o caos da sociedade.
 Devemos apenas **adotar o ceticismo moderado**, para nos **protegermos do dogmatismo** (crença que se afirma como verdade absoluta, rejeitando a hipótese de dúvida ou debate), decisões precipitadas e investigações demasiado especulativas, distantes da experiência e do suporte [[Epistemologia (Introdução)#Empirismo|empírico]].
-
-> [!Warning] Comparação com Descartes
