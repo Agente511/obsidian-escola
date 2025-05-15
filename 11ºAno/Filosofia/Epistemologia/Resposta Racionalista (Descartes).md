@@ -133,7 +133,21 @@ Não corremos o risco de cometer erros devido à indistinção vigília-sono, po
 Deus criou-nos com livre-arbítrio, permitindo-nos fazer boas ou más escolhas. Por isso, quando os sentidos nos enganam é porque nos precipitamos a aceitar coisas que não concebemos clara e distintamente. Devemos, por isso, recorrer à razão (sobretudo à lógica, geometria e a matemática) para compreender a verdadeira natureza das coisas.
 ## Objeções à resposta racionalista de Descartes
 ### Objeção à [[#A hipótese do Génio Maligno (ou do Deus enganador)|hipótese do Génio Maligno]] (George Edward Moore)
-Aceitar que o Génio Maligno existe, mas que o mundo exterior não, é exagerado e contraintuitivo. Termos um corpo é muito mais plausível que a hipótese do Génio Maligno.
+Aceitar que o Génio Maligno existe, mas que o mundo exterior não, é exagerado e contraintuitivo. **Termos um corpo é muito mais plausível que a hipótese do Génio Maligno**.
 ### Objeção ao *[[#O cogito|cogito]]*
-Devido à hipótese do Génio Maligno, não podemos afirmar que existe um "eu", ou seja, alguém a quem os pensamentos pertençam, podendo ser simplesmente coisas que ocorrem no mundo.
-É mais evidente a existência de pensamentos do que a existência de um "eu" (substância pensante) sobre o qual esses pensamentos repousam. Isto porque só temos acesso ao conteúdo da consciência e n
+Devido à hipótese do Génio Maligno, não podemos afirmar que existe um "eu" ([[#Dualismo cartesiano/mente-corpo|substância pensante]]), ou seja, alguém a quem os pensamentos pertençam, podendo estes serem simplesmente coisas que ocorrem no mundo.
+É **mais evidente a existência de pensamentos do que a existência de um "eu" sobre o qual esses pensamentos repousam**. Isto porque **só temos acesso ao conteúdo da consciência** e não à consciência em si.
+### Objeções ao [[#Dualismo cartesiano/mente-corpo|dualismo cartesiano]]
+#### Falácia do mascarado
+Descartes comete uma "**falácia do mascarado**" ao justificar o [[#Dualismo cartesiano/mente-corpo|dualismo mente-corpo]] com o facto de ser capaz de conceber que existe sem um corpo, mas não sem uma mente.
+#### Interferência entre natureza mental e física sem explicação
+Além disso, Descartes **não consegue explicar como que algo mental interfere em algo físico** e vice-versa, sendo que são de naturezas totalmente distintas.
+>[!Info] Resposta de Descartes
+>Descartes tenta explicar que esta interação dá-se na glândula pineal no cérebro, mas indicar o local não é suficiente para explicar como que o contacto é possível.
+
+### Objeções ao [[#Argumento da marca|argumento da marca]]
+#### Ideia vaga de "ser perfeito"
+Dadas as nossas **capacidades limitadas**, temos apenas uma **concepção vaga e difusa de Deus** ou de um "ser perfeito".
+#### Rejeição da lei da causalidade
+Existem casos, como a **seleção natural**, em que **algo menos perfeito origina algo mais perfeito** (neste caso, organismos mais simples deram origem a organismos complexos e variados). Deste modo, perde-se a justificação para considerar que a ideia de Deus não é factícia.
+### Objeção do círculo cartesiano
