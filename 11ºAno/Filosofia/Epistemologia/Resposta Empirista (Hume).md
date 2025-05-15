@@ -84,7 +84,7 @@ Segundo Hume, existem dois tipos de **conhecimento**:
 	>
 	>^2b36fc
 
-Hume **rejeita a regressão infinita do argumento cético**, porque acredita que a regressão pode desembocar em algo autoevidente, presente à nossa memória ou aos nossos sentidos, servindo de justificação para algumas das nossas crenças.
+Hume **rejeita a regressão infinita do argumento cético**, porque acredita que a regressão pode terminar em algo autoevidente, presente à nossa memória ou aos nossos sentidos, servindo de justificação para algumas das nossas crenças.
 
 ### Princípios de associação de ideias
 Segundo Hume, existem 3 princípios de associação/atração de ideias (o aparecimento de uma ideia é acompanhado pela aparecimento de outra):
@@ -93,26 +93,26 @@ Segundo Hume, existem 3 princípios de associação/atração de ideias (o apare
 	>[!Note] Exemplo
 	>Uma fotografia faz-nos pensar na pessoa retratada.
 - ##### Contiguidade
-	Duas ideias que representam **coisas contíguas/próximas espaço ou no tempo**.
+	Duas ideias que representam **coisas contíguas/próximas no espaço ou no tempo**.
 	>[!Note] Exemplos
 	>- A referência a 2020 faz-nos pensar no Covid-19.
-	>- A referência a um andar no edifício faz-nos pensar nos outros.
+	>- A referência a um andar num edifício faz-nos pensar nos outros andares.
 - ##### Causalidade/Relação causa-efeito
-	Duas ideias que representam **acontecimentos ligados por uma relação causa-efeito** ou conexão necessária.
+	Duas ideias que representam **acontecimentos ligados por uma relação causa-efeito** ou **conexão necessária**.
 	>[!Note] Exemplo
 	>Pensar numa ferida faz-nos pensar na dor associada.
 
 ### Problema da causalidade
 A ideia de **causalidade** consiste na existência de uma **conexão necessária entre 2 acontecimentos**, em que a **ocorrência de um deles (causa) torna necessária a ocorrência do outro (efeito)**.
-Contudo, coloca-se o problema de **como conhecemos as condições necessárias**, ou seja, **qual a origem da ideia de causalidade**.
+Contudo, coloca-se o problema de **como conhecemos as conexões necessárias**, ou seja, **qual a origem da ideia de causalidade**.
 
 Hume **afasta a possibilidade de ser conhecimento *a priori***, já que a **negação de uma relação causal** **não resulta numa contradição**, logo, esta ideia **não corresponde a uma [[#^881302|relação de ideias]]**.
 >[!Note] Exemplo
 >Não é uma contradição afirmar que "a água não evapora por ação do calor".
 
-Portanto, tem de ser uma **[[#^2b36fc|questão de facto]]**, ***a posteri***, mas **não parece haver nenhuma impressão sensível que corresponda a uma conexão necessária**, apenas vemos a **sucessão de acontecimentos**.
+Portanto, tem de ser uma **[[#^2b36fc|questão de facto]]**, ***a posteri***, mas **não parece haver nenhuma impressão sensível que corresponda a uma conexão necessária**, apenas vemos a **sucessão dos acontecimentos**.
 #### Adão inexperiente
-Para argumentar a origem empírica das conexões necessárias, Hume argumenta que **Adão**, mesmo que tivesse **faculdades racionais inteiramente perfeitas desde o início**, seria **incapaz de  de inferir qualquer efeito apenas pela ocorrência da sua causa**, por faltar-lhe a experiência.
+Para argumentar a origem empírica das conexões necessárias, Hume argumenta que **Adão**, mesmo que tivesse **faculdades racionais inteiramente perfeitas desde o início**, seria **incapaz de inferir qualquer efeito apenas pela ocorrência da sua causa**, por faltar-lhe a experiência.
 >[!Note] Exemplo
 >Sem experiência, **não poderíamos saber que a água nos sufoca ou que o fogo é quente** através apenas da reflexão, *a priori*, no conceito de água e de fogo.
 
