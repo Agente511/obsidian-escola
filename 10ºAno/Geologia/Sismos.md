@@ -2,16 +2,13 @@
 Volume: "2.1"
 ---
 ### Definição
----
 Movimentos vibratórios da litosfera causados pela súbita libertação de energia elástica armazenada nas rochas
 
 Um **terramoto** (sismo provocado por libertação de energia sísmica que faz vibrar todo o planeta) é precedido por **abalos premonitórios** e sucedido por **réplicas**, ambos sismos menores.
 ### Tensão
----
 Força aplicada por unidade de área. Um corpo sólido sofre deformação elásticas quando, submetido a uma ação deformante, recupera a sua forma inicial quando cessa a causa deformadora. A geosfera comporta-se, no seu todo, desta forma.
 
 ### Falha
----
 Superfície de fratura, onde ao longo da qual ocorreu um **movimento relativo entre os dois blocos** que separa.
 >[!Nota]
 >Em Portugal Continental, consideram-se **ativas** as falhas com **evidências de movimentação nos últimos 3 Ma**, sensivelmente.

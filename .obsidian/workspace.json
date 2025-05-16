@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "D3 1. Metamorfismo e Rochas Metamórficas"
             }
+          },
+          {
+            "id": "02c5d8d33f439537",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização de diagrama de grafo"
+            }
           }
         ]
       }
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tensão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,10 +220,11 @@
   },
   "active": "17223514fcee4532",
   "lastOpenFiles": [
+    "10ºAno/Geologia/Sismos.md",
+    "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
     "Pasted image 20250516225723.png",
     "Pasted image 20250516185658.png",
     "Pasted image 20250516185558.png",
-    "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
     "11ºAno/Geologia/D2 1. Magmatismo e Rochas Magmáticas.md",
     "11ºAno/Geologia/D1 4. Rochas sedimentares, arquivos históricos da Terra.md",
     "11ºAno/Geologia/D1 3. Classificação das rochas sedimentares.md",
@@ -246,7 +258,6 @@
     "Imagens/Pasted image 20250511212234.png",
     "Imagens/Pasted image 20250511205138.png",
     "Imagens/Pasted image 20250511204805.png",
-    "Imagens/Pasted image 20250511204752.png",
     "11ºAno/Português/Educação Literária/Os Maias/Resumos meus",
     "10ºAno/Química/D1/SD3",
     "10ºAno/Química/D1/SD2",
