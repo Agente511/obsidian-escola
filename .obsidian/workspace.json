@@ -11,10 +11,14 @@
             "id": "17223514fcee4532",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "D4 1.+2. Sistemas de classificação e regras de nomenclatura"
             }
           }
         ]
@@ -133,12 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice"
+              "title": "Índice de D4 1.+2. Sistemas de classificação e regras de nomenclatura"
             }
           },
           {
@@ -201,14 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "17223514fcee4532",
   "lastOpenFiles": [
+    "Sem título.md",
+    "Imagens/Pasted image 20250515004440.png",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "10ºAno/Geologia/Raciocínio Geológico.md",
-    "Sem título.md",
-    "Pasted image 20250515004440.png",
     "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias não-essencialistas.md",
     "11ºAno/Filosofia/Estética e Filosofia da Arte/Estética e o Problema da definição de arte (Introdução).md",
     "11ºAno/Filosofia/Estética e Filosofia da Arte/Teorias essencialistas.md",
@@ -232,7 +237,6 @@
     "Imagens/Pasted image 20250511212247.png",
     "11ºAno/Química/M11 - Titulação ácido-base.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
-    "11ºAno/Química/Atividades Laboratoriais/AL 2.1 - Titulação ácido-base.md",
     "11ºAno/Inglês/Vocabulary",
     "Imagens/Pasted image 20250511212234.png",
     "Imagens/Pasted image 20250511205138.png",
