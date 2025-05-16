@@ -1,6 +1,6 @@
 Distinguem arte de não-arte de acordo com as **características extrínsecas** à obra de arte, relacionadas com a situação em que o objeto se encontra, isto é, o seu **contexto envolvente (exterior)**.
 ### Arte como conceito aberto (Morris Weitz)
-Segundo **Morris Weitz**, as **teorias essencialistas falham**, porque tentam **impor limites à arte procurando condições necessárias e suficientes**, sendo que a **arte**, para si, **é um conceito em aberto**, **indefinível de forma objetiva e aplicável a todos os casos**. Por isso, define arte de forma **[[Estética e o Problema da definição de arte#Definição implícita|implícita]]**.
+Segundo **Morris Weitz**, as **teorias essencialistas falham**, porque tentam **impor limites à arte procurando condições necessárias e suficientes**, sendo que a **arte**, para si, **é um conceito em aberto**, **indefinível de forma objetiva e aplicável a todos os casos**. Por isso, define arte de forma **[[Estética e o Problema da definição de arte (Introdução)#Definição implícita|implícita]]**.
 
 >[!Note] Exemplo do conceito aberto de jogo
 >A variedade de jogos é tão imensa que não existe uma característica comum a todas eles.
@@ -22,7 +22,7 @@ Para Weitz, identificamos obras de arte tendo em conta as suas **semelhanças co
 Defende que algo é arte se **for um artefacto que é apresentado como candidato a apreciação por alguém com entendimento artístico que pertença ao "mundo da arte"**.
 
 ---
-Condições necessárias e simultaneamente suficientes para algo ser obra de arte ([[Estética e o Problema da definição de arte#Definição explícita|definição explícita]]):
+Condições necessárias e simultaneamente suficientes para algo ser obra de arte ([[Estética e o Problema da definição de arte (Introdução)#Definição explícita|definição explícita]]):
 ### 1º condição: Artefacto
 No sentido lato, o termo artefacto engloba mais do que objetos produzidos ou transformados pelo artista.
 O artefacto é um objeto **material ou imaterial**.

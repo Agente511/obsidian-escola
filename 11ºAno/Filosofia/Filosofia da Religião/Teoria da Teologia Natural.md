@@ -41,7 +41,7 @@ Só são apresentadas **duas opções** para explicar a existência de coisas no
 
 É, no entanto, possível pensar em **mais alternativas**, como a **hipótese de haver várias primeiras causas conjuntas** (como o trabalho de várias divindades menores e não de um Deus teísta), sendo preciso Tomás de Aquino explicar o motivo pelo qual múltiplas primeiras causas não seriam possíveis na origem da cadeia causal.
 #### A primeira causa não tem de ser um Deus teísta
-Apesar de que o argumento conclua que **existe uma primeira causa**, não garante que essa seja o Deus teísta, com todos os seus [[Filosofia da Religião#Deus teísta|atributos tradicionais]].
+Apesar de que o argumento conclua que **existe uma primeira causa**, não garante que essa seja o Deus teísta, com todos os seus [[Filosofia da Religião (Introdução)#Deus teísta|atributos tradicionais]].
 Um **Deus deísta ou panteísta também seria válido** segundo o argumento cosmológico.
 #### Falácia da composição
 **Não conseguimos indicar uma causa** para tudo o que observamos.
@@ -97,7 +97,7 @@ Ainda que **ambos tenham um propósito ou desígnio**, o mundo natural é tão m
 ### Versão contemporânea do argumento teleológico - Argumento da afinação minuciosa (Richard Swinburne e Robin Collins)
 As **constantes físicas** (como a [[M3 - Lei da Gravitação Universal e Terceira Lei de Newton#Força nuclear forte|força nuclear forte]], a [[M3 - Lei da Gravitação Universal e Terceira Lei de Newton#Força gravítica/gravitacional|gravidade]] e a [[M3 - Lei da Gravitação Universal e Terceira Lei de Newton#Força eletromagnética|força eletromagnética]]) estão **minuciosamente afinadas** para a existência de vida, pois qualquer diferença ligeira impossibilitaria a vida.
 
-Como é **improvável que esta afinação tenha ocorrido ao acaso**, deverá ter sido **causada por Deus**, o que seria **mais provável** já que a **vida é algo bom** e **Deus teísta é [[Filosofia da Religião#^5c0bda|sumamente bom]]**.
+Como é **improvável que esta afinação tenha ocorrido ao acaso**, deverá ter sido **causada por Deus**, o que seria **mais provável** já que a **vida é algo bom** e **Deus teísta é [[Filosofia da Religião (Introdução)#^5c0bda|sumamente bom]]**.
 ##### Críticas
 No entanto, esta versão também enfrenta a **dificuldade de explicar a necessidade de um Deus teísta**, ou até mesmo a necessidade de uma qualquer divindade, pois é feito um **falsa dilema**, já que existe a hipótese do multiverso e de universos paralelos, que poderiam **justificar a afinação minuciosa recorrendo ao acaso**, havendo **características favoráveis à vida neste universo**, entre **muitos outros universos de acasos diferentes**, em que isso não acontece.
 ## Argumento ontológico (Santo Anselmo)
@@ -123,4 +123,4 @@ Platinga, para responder a Kant, **admite que a existência não é uma propried
 
 Existindo mundos alternativos, existem características de excelências (não essenciais para continuar a ser a mesma pessoa) e de grandeza (essenciais, que definem a pessoa e são constantes entre os mundos).
 
-É possível imaginar, num mundo possível, a existência de um ser com as **[[Filosofia da Religião#^5c0bda|características do Deus teísta]]** e que, por isso, tem **excelência máxima**. Como Deus tem **grandeza máxima**, sendo totalmente perfeito, tem de **existir em todos os mundos possíveis**.
+É possível imaginar, num mundo possível, a existência de um ser com as **[[Filosofia da Religião (Introdução)#^5c0bda|características do Deus teísta]]** e que, por isso, tem **excelência máxima**. Como Deus tem **grandeza máxima**, sendo totalmente perfeito, tem de **existir em todos os mundos possíveis**.
