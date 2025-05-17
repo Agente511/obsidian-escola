@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17223514fcee4532",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
     "Pasted image 20250516234935.png",
     "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
