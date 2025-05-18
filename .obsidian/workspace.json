@@ -15,28 +15,13 @@
               "state": {
                 "file": "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "D3 1. Metamorfismo e Rochas Metamórficas"
             }
-          },
-          {
-            "id": "bbbc2af2df50c8df",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf8F0mXqNLW2j7q2aRv2BvCyfgCkYf_4bp92PkL3PXkQbornlcGRc5PE0psearZx1F79RG4R9hJ1fkJBV45VYOZCgS_tO8EXkGh2G4y5WDBvPMyjp9smupkk8qh95rRoYSqywJ0=s2048?key=yqvawFZ23BVUiTd2LecH1A",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,12 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice"
+              "title": "Índice de D3 1. Metamorfismo e Rochas Metamórficas"
             }
           },
           {
@@ -221,19 +207,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbbc2af2df50c8df",
+  "active": "17223514fcee4532",
   "lastOpenFiles": [
+    "Pasted image 20250518160335.png",
+    "Pasted image 20250518155931.png",
+    "Pasted image 20250518155925.png",
+    "Pasted image 20250518155723.png",
     "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
+    "Pasted image 20250518155335.png",
+    "Pasted image 20250518154946.png",
     "Pasted image 20250518154548.png",
     "Pasted image 20250518154225.png",
     "Pasted image 20250518153950.png",
     "Pasted image 20250518153926.png",
     "Pasted image 20250518152938.png",
-    "Pasted image 20250518152056.png",
-    "Pasted image 20250518152045.png",
-    "Pasted image 20250518151427.png",
-    "Pasted image 20250518134649.png",
-    "Pasted image 20250518134435.png",
     "10ºAno/Geologia/Mobilismo Geológico (Placas Tectónicas).md",
     "11ºAno/Geologia/D2 1. Magmatismo e Rochas Magmáticas.md",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
