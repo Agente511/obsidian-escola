@@ -7,4 +7,4 @@ Uma sucessão **convergente** ($u_n$) admite um **único limite** que se represe
 - Uma sucessão **decrescente em sentido lato** e **minorada** é **convergente**.
 	- Logo, toda a **sucessão monótona** e **limitada** é **convergente**.
 
-###
+### 
