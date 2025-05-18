@@ -2,7 +2,6 @@
 Volume: "3.2"
 ---
 ### Hipótese da Deriva Continental
----
 Em 1912, Alfred Wegener apresentou a **Hipótese da Deriva Continental**.
 >[!Example] Ideias da Hipótese da Deriva Continental
 >- No passado, existia apenas um **supercontinente** (a Pangeia)
@@ -27,7 +26,6 @@ Em 1912, Alfred Wegener apresentou a **Hipótese da Deriva Continental**.
 >Relacionam-se com a **medição e representação** da forma da Terra  
 
 ### Hipótese da Expansão dos Fundos Oceânicos
----
 Em 1959, Harry Hess apresentou formalmente a **hipótese da expansão dos fundos oceânicos**.
 
 >[!Example] Ideias da Hipótese da Expansão dos Fundos Oceânicos
@@ -79,7 +77,6 @@ Em 1959, Harry Hess apresentou formalmente a **hipótese da expansão dos fundos
 >>- A maioria encontra-se no Oceano Pacífico
 
 ### Teoria da Tectónica de Placas
----
 Na década de 60 com o contributo de vários investigadores, foi formulada a **Teoria da Tectónica de Placas** que integra a **Hipótese da Deriva Continental** de Wegener e o modelo da **Expansão dos Fundos Oceânicos** de Hess.
 
 Esta teoria é considerada **neocatastrofista**, porque aceita os **princípios do uniformitarismo**, mas admite a **existência de catástrofes súbitas** e violentas como **modeladores da vida e da geodinâmica terrestres**
