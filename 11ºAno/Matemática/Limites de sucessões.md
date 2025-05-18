@@ -5,3 +5,6 @@ Uma sucessão **convergente** ($u_n$) admite um **único limite** que se represe
 - Todas as sucessões convergentes são **limitadas**.
 - Uma sucessão **crescente em sentido lato** e **majorada** é **convergente**.
 - Uma sucessão **decrescente em sentido lato** e **minorada** é **convergente**.
+	- Logo, toda a **sucessão monótona** e **limitada** é **convergente**.
+
+###
