@@ -98,7 +98,7 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 - $\frac \infty \infty$
 - $\frac 0 0$
 ### Levantamento da indeterminação
-##### $\infty-\infty$ e $\frac \infty \infty$
+#### Indeterminações envolvendo expressões com polinómios
 $\lim$ polinómio $= \lim$ (termo de maior grau)
 >[!Note] Exemplo
 >1. $u_n=n^2+4n$, $v_n=1-n^3$
@@ -110,7 +110,9 @@ $\lim$ polinómio $= \lim$ (termo de maior grau)
 >
 >$\lim (u_n+v_n) \overset{\infty-\infty} = \lim (n^2+4n+1-n^3)=\lim (-n^3+n^2+4n+1)=\lim (-n^3)=-\infty$
 
-Indeterminações do tipo $\infty \times 0$ devem ser "transformadas" em $\frac \infty \infty$ ou $\frac 0 0$.
+Deve-se transformar as indeterminações para ficarem do tipo $\frac \infty \infty$.
 >[!Note] Exemplo
->$$\begin{flalign}& \lim (3n^2\times \frac {1} {n^2+1}) \overset{\infty\times 0} = \lim {\frac {3n^2} {n^2+1}} \overset{\frac \infty \infty} = \lim {\frac {3n^2} {n^2} = \lim 3=3} &\end{flalign}$$
+>1. $$\begin{flalign}& \lim (3n^2\times \frac {1} {n^2+1}) \overset{\infty\times 0} = \lim {\frac {3n^2} {n^2+1}} \overset{\frac \infty \infty} = \lim {\frac {3n^2} {n^2} = \lim 3=3} &\end{flalign}$$
+>2. $$\begin{flalign}& \lim {\frac {\frac {n^2} {2+n^3}} {\frac {n+1} {n^2}}} \overset{\frac 0 0} = \lim{\frac {n^4} {2n+2+n^4+n^3}} \overset{\frac \infty \infty} = \lim{\frac {n^4} {n^4}} =\lim{1} = 1  &\end{flalign}$$
 
+#### Indeterminações envolvendo expressões com radicais
