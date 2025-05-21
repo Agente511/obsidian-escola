@@ -7,7 +7,7 @@ Apesar de muitas vezes algo parecer evidente, **podemos estar errados quando jul
 ### Definição tripartida/tradicional de conhecimento
 Estabelece que existem **3 condições necessárias**, que **conjugadas** constituem uma **condição suficiente**, para o conhecimento:
 - ##### Crença
-	**Atitude proposicional** de que uma dada proposição é **verdadeira** (**convicção**).
+	**Atitude proposicional** do sujeito de achar que uma dada proposição é **verdadeira** (**convicção**).
 	Deve ser **inquestionável** para o sujeito e, portanto, caso tenha qualquer dúvida, não se verifica a crença.
 	
 	É uma **condição necessária**, já que seria contraditório dizer que S sabe que P, mas não acredita em P.
