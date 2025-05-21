@@ -121,6 +121,8 @@ Deve-se transformar as indeterminações para ficarem do tipo $\frac \infty \inf
 >[!Note] Exemplo
 >1. $u_n=n^3+4n$, $v_n=3n^2$
 >$$\begin{flalign}& \lim{\frac {u_n} {v_n}} \lim{\frac {n^3+4n} {3n^2}} \overset{\frac \infty \infty}= \frac {\lim n^3} {\lim 3n^2} = \lim {\frac n 3} = \frac {+\infty} {3} = +\infty &\end{flalign}$$
+>2. .
+>![[Pasted image 20250521212221.png]]
 ##### $(\frac 0 0)$
 **Transforma**-se numa indeterminação $(\frac \infty \infty)$.
 >[!Note] Exemplo
@@ -132,9 +134,17 @@ Deve-se transformar as indeterminações para ficarem do tipo $\frac \infty \inf
 #### Indeterminações envolvendo expressões com radicais
 Em expressões com radicais, deve-se multiplicar a expressão pelo **conjugado**.
 
+>[!Warning] Atenção
+>$\lim(\sqrt{2n+1}$**$+$**$\sqrt n)$ não é indeterminado.
+
 > [!NOTE] Exemplo
 >$\lim (\sqrt {2n+1} -n) \overset{\infty-\infty}=$
 >$$\begin{flalign}& \overset{\infty-\infty}= \lim{\frac {(\sqrt{2n+1}-n)(\sqrt{2n+1}+n)} {\sqrt{2n+1}+n}} &\end{flalign} =$$
 >$$\begin{flalign}& = \lim{\frac {(\sqrt{2n+1})^2 -n^2} {\sqrt{2n+1}+n}} \overset{\frac \infty \infty}= &\end{flalign} =$$
 >$$\begin{flalign}& \overset{\frac \infty \infty}= \lim{\frac {2n+1 -n^2} {\sqrt{2n+1}+n}} &\end{flalign} =$$
->$$\begin{flalign}& = \lim {\frac {-n^2} {n^2/\frac {2n} {n^2} + \frac 1 {n^2}} +n} &\end{flalign}$$
+>$$\begin{flalign}& = \lim {\frac {-n^2} {n^2(\frac {2n} {n^2} + \frac 1 {n^2})+n}} &\end{flalign} =$$
+>$$\begin{flalign}& = \lim {\frac {-n^2} {n \sqrt{\frac {2} {n} + \frac {1} {n^2}} +n}} = &\end{flalign}$$
+>$$\begin{flalign}& = \lim {\frac {-n^2} {n (\sqrt{\frac {2} {n} + \frac {1} {n^2}} +1)}} = &\end{flalign}$$
+>$$\begin{flalign}& = \lim {\frac {-n} {\sqrt{\frac {2} {n} + \frac {1} {n^2}} +1}} = &\end{flalign}$$
+>$$\begin{flalign}& = \frac {-\infty} {\sqrt{0} +1} = &\end{flalign}$$
+>$=-\infty$
