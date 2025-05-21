@@ -36,7 +36,7 @@ $\lim w_n = \lim(u_n \times v_n)=0$
 >($-1\leq \cos n \leq 1$, logo, é limitada)
 >($\lim \frac 1 n = 0$)
 
-### Operações algébricas
+### Operações algébricas com limites
 Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|convergentes]], sendo, respetivamente, $\lim u_n = a$ e $\lim v_n=b$:
 - ##### Soma
 	$\lim (u_n+v_n)=\lim u_n + \lim v_n = a+b$
@@ -54,14 +54,29 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 >[!Note] Exemplo
 >1. $\lim u_n=2$, $\lim v_n=4$
 >$$\begin{flalign}& \lim {\sqrt {\frac {v_n} {u_n}}} = \sqrt {\frac {\lim v_n} {\lim u_n}} = \sqrt {\frac 4 2} = \sqrt 2 &\end{flalign}$$
->.
->2. $\lim u_n=a$, $\lim v_n=+\infty$
+#### Operações com limites infinitos
+- ##### Soma
+	- $a + (+\infty)=+\infty$
+	- $a+ (-\infty)=-\infty$
+	- $(+\infty)+(+\infty)=+\infty$
+	- $(-\infty)+(-\infty)=-\infty$
+- ##### Multiplicação
+	- Se $a>0$, $a\times (+\infty)=+\infty$
+	- Se $a<0$, $a\times (+\infty)=-\infty$
+	- $(+\infty)\times (+\infty)=+\infty$
+	- $(-\infty) \times (+\infty)=-\infty$
+- ##### Potência
+	- Se $p>0$, $(+\infty)^p=+\infty$
+	- Se $p \in \mathbb N$ e é ímpar, $(-\infty)^p=-\infty$
+	- 
+>[!Note] Exemplo
+>1. $\lim u_n=a$, $\lim v_n=+\infty$
 >$\lim (u_n+v_n)=\lim u_n + \lim v_n= a +(+\infty)=+ \infty$
 >.
->3. $\lim u_n=-3$, $\lim v_n=+\infty$
+>2. $\lim u_n=-3$, $\lim v_n=+\infty$
 >$\lim (u_n \times v_n)= \lim u_n \times \lim v_n = -3 \times (+\infty) = -\infty$
 >.
->4. $\lim u_n = +\infty$, $\lim v_n=-\infty$
+>3. $\lim u_n = +\infty$, $\lim v_n=-\infty$
 >$$\begin{flalign}& \lim (u_n+v_n) = \lim u_n + \lim v_n = +\infty +(+\infty) = \infty-\infty &\end{flalign}$$
 >Indeterminação
 
