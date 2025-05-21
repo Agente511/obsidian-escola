@@ -43,4 +43,25 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 - ##### Multiplicação
 	$\lim (u_n \times v_n)=\lim u_n \times \lim v_n = a \times b$
 - ##### Divisão
-	$\lim \frac u_n v_n = \f
+	$\lim \frac {u_n} {v_n} = \frac {\lim u_n} {\lim v_n} = \frac a b \ \ \ \ (b\neq 0)$
+- ##### Produto de uma constante
+	$\lim (k\ u_n) = k\ \lim u_n =k\ a$     ($k$ constante)
+- ##### Potência
+	$\lim (u_n)^p =(\lim u_n)^p=a^p, \ \ \ p \in \mathbb Q$
+- ##### Raiz
+	$\lim \sqrt {u_n} = \sqrt {\lim u_n}$    se $\lim u_n \geq 0$
+
+>[!Note] Exemplo
+>1. $\lim u_n=2$, $\lim v_n=4$
+>$$\begin{flalign}& \lim {\sqrt {\frac {v_n} {u_n}}} = \sqrt {\frac {\lim v_n} {\lim u_n}} = \sqrt {\frac 4 2} = \sqrt 2 &\end{flalign}$$
+>.
+>2. $\lim u_n=a$, $\lim v_n=+\infty$
+>$\lim (u_n+v_n)=\lim u_n + \lim v_n= a +(+\infty)=+ \infty$
+>.
+>3. $\lim u_n=-3$, $\lim v_n=+\infty$
+>$\lim (u_n \times v_n)= \lim u_n \times \lim v_n = -3 \times (+\infty) = -\infty$
+>.
+>4. $\lim u_n = +\infty$, $\lim v_n=-\infty$
+>$$\begin{flalign}& \lim (u_n+v_n) = \lim u_n + \lim v_n = +\infty +(+\infty) = \infty-\infty &\end{flalign}$$
+>Indeterminação
+
