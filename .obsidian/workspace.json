@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -118,6 +118,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6b653fdec9585883",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice de Resposta Empirista (Hume)"
+            }
+          },
+          {
+            "id": "dfcb7b87ceb5ad00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links externos de Resposta Empirista (Hume)"
+            }
+          },
+          {
             "id": "24b0027791b82a23",
             "type": "leaf",
             "state": {
@@ -137,20 +166,6 @@
             }
           },
           {
-            "id": "dfcb7b87ceb5ad00",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links externos de D3 2. Mecanismos de Evolução"
-            }
-          },
-          {
             "id": "35c289993ac37b16",
             "type": "leaf",
             "state": {
@@ -158,21 +173,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "6b653fdec9585883",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Índice de Resposta Empirista (Hume)"
             }
           },
           {
@@ -214,8 +214,7 @@
               "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",

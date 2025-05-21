@@ -20,7 +20,7 @@ Hume chama **percepções** ao **conteúdo das nossas mentes**, dividindo-as em:
 	>- Recordar uma dor de dentes
 	>- Recordar que se sentiu calor
 
-Além disso, podem ser:
+Além disso, ambas podem ser:
 - ##### Simples
 	Impressões ou ideias que **não podem ser decompostas noutras impressões ou ideias**.
 	>[!Note] Exemplo
