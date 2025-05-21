@@ -112,9 +112,9 @@ Portanto, só pode ser uma **ideia [[#^80a89f|inata]]**, **implantada** no momen
 >5. Logo, existe outra coisa (além de mim) que é o ser perfeito e que deu origem à minha ideia de perfeição.
 
 ### Papel da existência de Deus
-Deus existir e não ser enganador **garante a verdade das nossas ideias claras e distintas**, **atuais e passadas**, visto que seria implausível um criador sumamente bom nos criar de forma que nunca pudéssemos conhecer a verdade.
+Deus existir e não ser enganador **garante a verdade das nossas [[#A clareza e a distinção das ideias como critério de verdade|ideias claras e distintas]]**, **atuais e passadas**, visto que seria implausível um criador sumamente bom nos criar de forma que nunca pudéssemos conhecer a verdade.
 
-A **existência de Deus** é uma **condição necessária e suficiente** para **podermos confiar naquilo que concebemos clara e distintamente** e nos **nossos raciocínios apoiados em premissas claras e distintas**.
+A **existência de Deus** é uma **condição necessária e suficiente** para **podermos confiar naquilo que concebemos [[#A clareza e a distinção das ideias como critério de verdade|clara e distintamente]]** e nos **nossos raciocínios apoiados em premissas claras e distintas**.
 
 >[!Summary] Papel da existência de Deus
 >1. Posso confiar naquilo que concebo de forma clara e distinta se, e só se, Deus existe e não é enganador.
@@ -154,4 +154,4 @@ Dadas as nossas **capacidades limitadas**, temos apenas uma **concepção vaga e
 #### Rejeição da lei da causalidade
 Existem casos, como a **seleção natural**, em que **algo menos perfeito origina algo mais perfeito** (neste caso, organismos mais simples deram origem a organismos complexos e variados). Deste modo, **perde-se a justificação para considerar que a ideia de Deus não é [[#^40c00a|factícia]]**, porque a sua causa não tem de ser tão perfeita quanto ela, podendo sermos nós a criá-la.
 ### Objeção do círculo cartesiano
-Descartes cai numa **petição de princípio** ao tentar **estabelecer a existência de Deus a partir de ideias claras e distintas**, ao mesmo tempo que defende que **só podemos estar certos que as ideias claras e distintas atuais e passadas são verdadeiras porque Deus existe**.
+Descartes cai numa **[[Outras falácias informais#8. Petição de princípio (ou falácia da circularidade)|petição de princípio]]** ao tentar **estabelecer a existência de Deus a partir de ideias claras e distintas**, ao mesmo tempo que defende que **só podemos estar certos que as ideias claras e distintas atuais e passadas são verdadeiras porque Deus existe**.
