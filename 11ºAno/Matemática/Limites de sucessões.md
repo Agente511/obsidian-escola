@@ -37,6 +37,7 @@ $\lim w_n = \lim(u_n \times v_n)=0$
 >($\lim \frac 1 n = 0$)
 
 ### Operações algébricas com limites
+#### Operações com limites finitos
 Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|convergentes]], sendo, respetivamente, $\lim u_n = a$ e $\lim v_n=b$:
 - ##### Soma
 	$\lim (u_n+v_n)=\lim u_n + \lim v_n = a+b$
@@ -68,7 +69,13 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 - ##### Potência
 	- Se $p>0$, $(+\infty)^p=+\infty$
 	- Se $p \in \mathbb N$ e é ímpar, $(-\infty)^p=-\infty$
-	- 
+	- Se $p \in \mathbb N$ e é par, $(-\infty)^p=+\infty$
+- ##### Divisão
+	- $$\begin{flalign}& \frac a {+\infty}=0^+ &\end{flalign}$$
+	- $$\begin{flalign}& \frac a {-\infty}=0^- &\end{flalign}$$
+	- $$\begin{flalign}& \frac a {+\infty}=0^+ &\end{flalign}$$
+
+
 >[!Note] Exemplo
 >1. $\lim u_n=a$, $\lim v_n=+\infty$
 >$\lim (u_n+v_n)=\lim u_n + \lim v_n= a +(+\infty)=+ \infty$
