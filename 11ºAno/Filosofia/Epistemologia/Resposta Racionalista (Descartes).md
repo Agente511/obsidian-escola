@@ -48,7 +48,7 @@ Deste modo, Descartes **refuta o [[Epistemologia (Introdução)#Ceticismo|cetici
 
 ### Dualismo cartesiano/mente-corpo
 O cogito **não garante que se tem um corpo** (pois somos **capazes de nos imaginar sem corpo** sem que isso implique que não existamos), mas **garante que se existe enquanto ser pensante** (*res cogitans*). Por isso, **corpo e mente são independentes** e de **naturezas inteiramente distintas** (a primeira física e a segunda imaterial).
-Enquanto não provarmos que o Génio Maligno não existe, não podemos ter certeza que o nosso corpo realmente existe.
+Enquanto não provarmos que o [[#A hipótese do Génio Maligno (ou do Deus enganador)|Génio Maligno]] não existe, não podemos ter certeza que o nosso corpo realmente existe.
 
 >[!Summary] Dualismo cartesiano
 >1. Posso conceber que existo sem ter um corpo.
