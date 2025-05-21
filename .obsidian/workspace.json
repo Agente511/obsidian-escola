@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -49,8 +49,7 @@
               "title": "Resposta Empirista (Hume)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+                "file": "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Resposta Empirista (Hume)"
+              "title": "Índice de Epistemologia (Introdução)"
             }
           },
           {
@@ -138,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+                "file": "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de Resposta Empirista (Hume)"
+              "title": "Links externos de Epistemologia (Introdução)"
             }
           },
           {
@@ -235,12 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1a8ff92d410676d",
+  "active": "ba8e546cf72361bc",
   "lastOpenFiles": [
+    "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "10ºAno/Filosofia/Outras falácias informais.md",
-    "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Matemática/Funções racionais.md",
     "11ºAno/Matemática/Limites de sucessões.md",
     "11ºAno/Matemática/Sucessões.md",
