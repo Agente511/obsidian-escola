@@ -48,9 +48,13 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 - ##### Produto de uma constante
 	$\lim (k\ u_n) = k\ \lim u_n =k\ a$     ($k$ constante)
 - ##### Potência
-	$\lim (u_n)^p =(\lim u_n)^p=a^p, \ \ \ p \in \mathbb Q$
+	- $\lim (u_n)^p =(\lim u_n)^p=a^p, \ \ \ p \in \mathbb Q$
+	- $\lim a_n$, $a \in \mathbb R^+$ \ $\{1\}$
+		  - Se $a>1$, $\lim a^n=+\infty$
+		  - Se $0<a<1$, $\lim a^n=0$
 - ##### Raiz
-	$\lim \sqrt {u_n} = \sqrt {\lim u_n}$    se $\lim u_n \geq 0$
+	- $\lim \sqrt {u_n} = \sqrt {\lim u_n}$    se $\lim u_n \geq 0$
+	- $\lim \sqrt[n] a =\lim a^{\frac 1 n}=1$
 
 >[!Note] Exemplo
 >1. $\lim u_n=2$, $\lim v_n=4$
@@ -99,6 +103,8 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 - $\frac 0 0$
 ### Levantamento da indeterminação
 #### Indeterminações envolvendo expressões com polinómios
+##### $(\infty- \infty)$
+O **limite de um polinómio** é considerado igual ao **limite do termo de maior grau** desse polinómio:
 $\lim$ polinómio $= \lim$ (termo de maior grau)
 >[!Note] Exemplo
 >1. $u_n=n^2+4n$, $v_n=1-n^3$
@@ -109,10 +115,18 @@ $\lim$ polinómio $= \lim$ (termo de maior grau)
 >$=+\infty-\infty$
 >
 >$\lim (u_n+v_n) \overset{\infty-\infty} = \lim (n^2+4n+1-n^3)=\lim (-n^3+n^2+4n+1)=\lim (-n^3)=-\infty$
-
+##### $(\frac \infty \infty)$
+Considera-se o **termo de maior grau** no **numerador** e **denominador**
 Deve-se transformar as indeterminações para ficarem do tipo $\frac \infty \infty$.
 >[!Note] Exemplo
 >1. $$\begin{flalign}& \lim (3n^2\times \frac {1} {n^2+1}) \overset{\infty\times 0} = \lim {\frac {3n^2} {n^2+1}} \overset{\frac \infty \infty} = \lim {\frac {3n^2} {n^2} = \lim 3=3} &\end{flalign}$$
 >2. $$\begin{flalign}& \lim {\frac {\frac {n^2} {2+n^3}} {\frac {n+1} {n^2}}} \overset{\frac 0 0} = \lim{\frac {n^4} {2n+2+n^4+n^3}} \overset{\frac \infty \infty} = \lim{\frac {n^4} {n^4}} =\lim{1} = 1  &\end{flalign}$$
 
+##### $(\frac 0 0)$
+**Transforma**-se numa indeterminação $(\frac \infty \infty)$.
 #### Indeterminações envolvendo expressões com radicais
+Em expressões com radicais, deve-se multiplicar a expressão pelo **conjugado**.
+
+> [!NOTE] Exemplo
+>$\lim (\sqrt {2n+1} -n) \overset{\infty-\infty}=$
+>$$\begin{flalign}& \overset{\infty-\infty}= \lim &\end{flalign}$$
