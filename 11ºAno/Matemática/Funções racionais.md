@@ -31,10 +31,28 @@ $f(x)=\frac {P(x)} {Q(x)}$, $D_f=\{x \in \mathbb R: Q(x)\neq 0\}$
 ### Operações com funções racionais
 Sejam $f$ e $g$ funções de domínio $D_f=D_g=\mathbb R$
 
-- ##### Soma e subtração
-	$(f+g) (x)=f(x)+g(x)$,    $D_{f+g}=D_f \bigcup D_g$
-	$(f-g)(x)=f(x)-g(x)$
+- ##### Soma
+	$(f+g) (x)=f(x)+g(x)$,    $\ \ \ D_{f+g}=D_f\ \bigcup\ D_g$
+- ##### Subtração
+	$(f-g)(x)=f(x)-g(x)$,   $\ \ \ D_{f-g}=D_f\ \bigcup\ D_g$
 - ##### Multiplicação
-	$(f \times g) (x)= f(x) \times g(x)$
+	$(f \times g) (x)= f(x) \times g(x)$,   $\ \ \ D_{f \times g}=D_f\ \bigcup\ D_g$
 - ##### Divisão
-	$$\begin{flalign}& (\frac f g) (x)=\frac {f(x)} {{g(x)}} &\end{flalign}$$
+	$$\begin{flalign}& (\frac f g) (x)=\frac {f(x)} {{g(x)}} \text{,} \ \ \ D_{\frac f g}=\{x \in \mathbb R, g(x) \neq 0\} &\end{flalign}$$
+
+>[!Note] Exemplos
+>![[Pasted image 20250521215900.png]]
+
+### Equações com funções racionais
+$$\begin{flalign}& \frac {P(x)} {Q(x)} = 0 \iff P(x)=0\ \land\ Q(x) \neq 0 &\end{flalign}$$
+
+>[!Note] Exemplo
+>![[Pasted image 20250521220401.png]]
+
+
+### Inequações com funções racionais
+
+>[!Note] Exemplo
+>$$\begin{flalign}& \frac {2-x} x <0 \iff 2-x <0\ \land\ x>0 &\end{flalign}$$
+>![[Pasted image 20250521220804.png]]
+>OU
