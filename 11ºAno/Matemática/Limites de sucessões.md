@@ -75,6 +75,10 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 	- $$\begin{flalign}& \frac a {-\infty}=0^- &\end{flalign}$$
 	- $$\begin{flalign}& \frac a {0^+}=+\infty &\end{flalign}$$
 	- $$\begin{flalign}& \frac a {0^-}=-\infty &\end{flalign}$$
+- ##### Polinómio
+	Seja $P(x)$ um polinómio de grau superior ou igual a 1, na forma reduzida, tem-se que:
+	- Se o **coeficiente** do **termo de maior grau** é **positivo** $\lim P(n)=+\infty$
+	- Se o **coeficiente** do **termo de maior grau** é **negativo** $\lim P(n)=-\infty$
 
 
 >[!Note] Exemplo
@@ -94,5 +98,13 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 - $\frac \infty \infty$
 - $\frac 0 0$
 ### Levantamento da indeterminação
+$\lim$ polinómio $= \lim$ (termo de maior grau)
 >[!Note] Exemplo
 >1. $u_n=n^2+4n$, $v_n=1-n^3$
+>
+>$\lim (u_n+v_n)=$
+>$=\lim u_n + \lim v_n=$
+>$=(+\infty)^2+4(+\infty)+1-(+\infty)^3$
+>$=+\infty-\infty$
+>
+>$\lim (u_n+v_n) \overset{\infty-\infty} = \lim (n^2+4n+1-n^3)=\lim (-n^3+n^2+4n+1)=\lim (-n^3)=-\infty$
