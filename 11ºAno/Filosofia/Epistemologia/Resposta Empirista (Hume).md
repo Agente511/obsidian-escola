@@ -79,7 +79,7 @@ Segundo Hume, existem dois tipos de **conhecimento**:
 	É conhecimento ***a posteriori***. É uma **proposição sintética**.
 	É uma **verdade contingente**, visto que a sua **negação não implica uma contradição** nos termos (o seu valor de verdade depende da circunstância).
 	>[!Note] Exemplos
-	>- A neve é branca. (é preciso ter a experiência da neve e da sua cor para saber que a a neve é branca)
+	>- A neve é branca. (é preciso ter a experiência da neve e da sua cor para saber que a neve é branca)
 	>- A maçã é doce.
 	>
 	>^2b36fc
