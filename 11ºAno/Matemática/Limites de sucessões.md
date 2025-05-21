@@ -73,7 +73,8 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 - ##### Divisão
 	- $$\begin{flalign}& \frac a {+\infty}=0^+ &\end{flalign}$$
 	- $$\begin{flalign}& \frac a {-\infty}=0^- &\end{flalign}$$
-	- $$\begin{flalign}& \frac a {+\infty}=0^+ &\end{flalign}$$
+	- $$\begin{flalign}& \frac a {0^+}=+\infty &\end{flalign}$$
+	- $$\begin{flalign}& \frac a {0^-}=-\infty &\end{flalign}$$
 
 
 >[!Note] Exemplo
@@ -87,3 +88,11 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 >$$\begin{flalign}& \lim (u_n+v_n) = \lim u_n + \lim v_n = +\infty +(+\infty) = \infty-\infty &\end{flalign}$$
 >Indeterminação
 
+## Indeterminações
+- $\infty-\infty$
+- $\infty \times 0$
+- $\frac \infty \infty$
+- $\frac 0 0$
+### Levantamento da indeterminação
+>[!Note] Exemplo
+>1. $u_n=n^2+4n$, $v_n=1-n^3$
