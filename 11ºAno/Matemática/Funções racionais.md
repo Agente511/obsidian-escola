@@ -10,6 +10,7 @@ Funções reais de variável real definidas por um **quociente de polinómios**:
 >>- $\cos(x)$
 
 ### Domínio
+O **denominador** tem de ser **diferente de 0**:
 $f(x)=\frac {P(x)} {Q(x)}$, $D_f=\{x \in \mathbb R: Q(x)\neq 0\}$
 
 > [!Note] Exemplos
@@ -17,10 +18,23 @@ $f(x)=\frac {P(x)} {Q(x)}$, $D_f=\{x \in \mathbb R: Q(x)\neq 0\}$
 >2. $h(x)=\frac {x+1} {x^2+1}$, $D_h=\mathbb R$
 
 ### Simplificação de frações
+>[!Warning] Atenção
+>O **domínio da função** é o da **fração antes de ser simplificada**.
+
 >[!Note] Exemplo
 >1. $\frac {2x} {x^2+x} = \frac {2x} {x(x+1} = \frac 2 {x+1}$
 >   
->  
+>2. .
+>3. .
+>   ![[Pasted image 20250521215048.png]]
 
->[!Warning] Atenção
->O **domínio da função** é o da **fração antes de ser simplificada**.
+### Operações com funções racionais
+Sejam $f$ e $g$ funções de domínio $D_f=D_g=\mathbb R$
+
+- ##### Soma e subtração
+	$(f+g) (x)=f(x)+g(x)$,    $D_{f+g}=D_f \bigcup D_g$
+	$(f-g)(x)=f(x)-g(x)$
+- ##### Multiplicação
+	$(f \times g) (x)= f(x) \times g(x)$
+- ##### Divisão
+	$$\begin{flalign}& (\frac f g) (x)=\frac {f(x)} {{g(x)}} &\end{flalign}$$
