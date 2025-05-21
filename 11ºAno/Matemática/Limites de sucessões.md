@@ -119,14 +119,22 @@ $\lim$ polinómio $= \lim$ (termo de maior grau)
 Considera-se o **termo de maior grau** no **numerador** e **denominador**
 Deve-se transformar as indeterminações para ficarem do tipo $\frac \infty \infty$.
 >[!Note] Exemplo
->1. $$\begin{flalign}& \lim (3n^2\times \frac {1} {n^2+1}) \overset{\infty\times 0} = \lim {\frac {3n^2} {n^2+1}} \overset{\frac \infty \infty} = \lim {\frac {3n^2} {n^2} = \lim 3=3} &\end{flalign}$$
->2. $$\begin{flalign}& \lim {\frac {\frac {n^2} {2+n^3}} {\frac {n+1} {n^2}}} \overset{\frac 0 0} = \lim{\frac {n^4} {2n+2+n^4+n^3}} \overset{\frac \infty \infty} = \lim{\frac {n^4} {n^4}} =\lim{1} = 1  &\end{flalign}$$
-
+>1. $u_n=n^3+4n$, $v_n=3n^2$
+>$$\begin{flalign}& \lim{\frac {u_n} {v_n}} \lim{\frac {n^3+4n} {3n^2}} \overset{\frac \infty \infty}= \frac {\lim n^3} {\lim 3n^2} = \lim {\frac n 3} = \frac {+\infty} {3} = +\infty &\end{flalign}$$
 ##### $(\frac 0 0)$
 **Transforma**-se numa indeterminação $(\frac \infty \infty)$.
+>[!Note] Exemplo
+>$$\begin{flalign}& \lim {\frac {\frac {n^2} {2+n^3}} {\frac {n+1} {n^2}}} \overset{\frac 0 0} = \lim{\frac {n^4} {2n+2+n^4+n^3}} \overset{\frac \infty \infty} = \lim{\frac {n^4} {n^4}} =\lim{1} = 1  &\end{flalign}$$
+##### $(0 \times \infty)$
+**Transforma**-se numa indeterminação $(\frac \infty \infty)$ ou ($\frac 0 0$).
+>[!Note] Exemplo
+>1. $$\begin{flalign}& \lim (3n^2\times \frac {1} {n^2+1}) \overset{\infty\times 0} = \lim {\frac {3n^2} {n^2+1}} \overset{\frac \infty \infty} = \lim {\frac {3n^2} {n^2} = \lim 3=3} &\end{flalign}$$
 #### Indeterminações envolvendo expressões com radicais
 Em expressões com radicais, deve-se multiplicar a expressão pelo **conjugado**.
 
 > [!NOTE] Exemplo
 >$\lim (\sqrt {2n+1} -n) \overset{\infty-\infty}=$
->$$\begin{flalign}& \overset{\infty-\infty}= \lim &\end{flalign}$$
+>$$\begin{flalign}& \overset{\infty-\infty}= \lim{\frac {(\sqrt{2n+1}-n)(\sqrt{2n+1}+n)} {\sqrt{2n+1}+n}} &\end{flalign} =$$
+>$$\begin{flalign}& = \lim{\frac {(\sqrt{2n+1})^2 -n^2} {\sqrt{2n+1}+n}} \overset{\frac \infty \infty}= &\end{flalign} =$$
+>$$\begin{flalign}& \overset{\frac \infty \infty}= \lim{\frac {2n+1 -n^2} {\sqrt{2n+1}+n}} &\end{flalign} =$$
+>$$\begin{flalign}& = \lim {\frac {-n^2} {n^2/\frac {2n} {n^2} + \frac 1 {n^2}} +n} &\end{flalign}$$
