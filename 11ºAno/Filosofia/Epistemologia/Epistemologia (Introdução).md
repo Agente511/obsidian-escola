@@ -44,7 +44,7 @@ Alguns autores consideram esta definição **demasiado lata** (abrangente), porq
 
 ## O problema da possibilidade do conhecimento
 ### Ceticismo
-Os céticos consideram que, como as pretensões de conhecimento podem revelar-se **injustificadas**, deve-se suspender o juízo relativamente a todo e qualquer assunto, ou seja, o **conhecimento não é possível**.
+Os céticos consideram que, como as pretensões de conhecimento podem revelar-se **[[#Argumento da regressão infinita|injustificadas]]**, deve-se suspender o juízo relativamente a todo e qualquer assunto, ou seja, o **conhecimento não é possível**.
 #### Argumento da regressão infinita
 É **sempre legítimo pedir uma justificação para cada uma das nossas crenças** e **essa justificação consiste noutra crença que também precisa de ser justificada** para que possa ser usada como justificação, instalando-se uma **cadeia de justificações** que **regride infinitamente**, de crença em crença, procurando justificar cada uma com base na seguinte.
 Deste modo, não é possível justificar devidamente nenhuma crença e, portanto, não há conhecimento.
@@ -63,7 +63,7 @@ O fundacionalismo **rejeita** **que todas as crenças se justifiquem com base no
 - ##### Crenças básicas/fundacionais
 	**Autoevidentes**, ou seja, **justificam-se a si mesmas** e não precisam de ser justificadas por outras crenças, devido a serem tão **claras** e **indubitáveis**.
 	**Justificam as [[#^2eb87d|crenças não-básicas]]**. São uma base sólida **sobre a qual se podem edificar as restantes [[#^2eb87d|crenças não-básicas]]**, que assim são também verdades indubitáveis.
-	Deste modo, **evita-se a [[#Argumento da regressão infinita|regressão infinita de justificações]]**. ^4b48c4
+	Deste modo, **evita-se a [[#Argumento da regressão infinita|regressão infinita de justificações]]**. ^506141
 - ##### Crenças não-básicas
 	**Não são autoevidentes**, precisando de ser **fundamentadas com base noutras crenças**. ^2eb87d
 #### Racionalismo
