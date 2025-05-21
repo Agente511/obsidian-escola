@@ -53,6 +53,17 @@ $$\begin{flalign}& \frac {P(x)} {Q(x)} = 0 \iff P(x)=0\ \land\ Q(x) \neq 0 &\end
 ### Inequações com funções racionais
 
 >[!Note] Exemplo
->$$\begin{flalign}& \frac {2-x} x <0 \iff 2-x <0\ \land\ x>0 &\end{flalign}$$
+>1. $$\begin{flalign}& \frac {2-x} x <0 \iff 2-x <0\ \land\ x>0 &\end{flalign}$$
 >![[Pasted image 20250521220804.png]]
 >OU
+>$$\begin{flalign}& \frac {2-x} x <0 \iff 2-x <0\ \land\ x>0 \iff &\end{flalign}$$
+>![[Pasted image 20250521221107.png]]
+>
+>2. $$\begin{flalign}& \frac {3x-2} {3-x} \leq \frac x 2 &\end{flalign}$$
+>   ![[Pasted image 20250521221048.png]]
+
+## Funções racionais definidas por $f(x)=b+\frac k {x-c}$
+![[Pasted image 20250521221337.png]]
+>[!Note] Exemplo
+>![[Pasted image 20250521221351.png]]
+
