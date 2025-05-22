@@ -18,7 +18,9 @@ $f(x)=\frac {P(x)} {Q(x)}$, $D_f=\{x \in \mathbb R: Q(x)\neq 0\}$
 >2. $h(x)=\frac {x+1} {x^2+1}$, $D_h=\mathbb R$
 
 ### Simplificação de frações
-(tem outros coisos)
+(tem outros coisos mas pronto)
+- Com fórmula resolvente: $ax^2+bx+c=a(x-x_1)(x-x_2)$
+- Com Regra de Ruffini: $(x-$zero do polinómio$)($resultado da regra de Ruffini$)$
 >[!Warning] Atenção
 >O **domínio da função** é o da **fração antes de ser simplificada**.
 

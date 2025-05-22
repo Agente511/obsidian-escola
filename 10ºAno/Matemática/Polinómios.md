@@ -20,7 +20,6 @@
 >5. Repete-se os passos anteriores até se obter um polinómio de grau inferior ao grau do polinómio divisor.
 
 ## Regra de Ruffini (Divisão de um polinómio por $x-a$)
----
 > [!Summary] Aplicação da Regra de Ruffini
 > > [!Note] Exemplo
 > > Determinar o quociente e o resto da divisão inteira do polinómio $A(x)=x^3-3x^2-4x+6$ pelo polinómio $B(x)=x-2$.
