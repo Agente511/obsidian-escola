@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
+                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Resposta Racionalista (Descartes)"
+              "title": "Índice de Resposta Empirista (Hume)"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
+                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de Resposta Racionalista (Descartes)"
+              "title": "Links externos de Resposta Empirista (Hume)"
             }
           },
           {
@@ -235,11 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7140a6e8cc2747e3",
+  "active": "c1a8ff92d410676d",
   "lastOpenFiles": [
-    "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
-    "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
+    "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+    "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "10ºAno/Filosofia/Outras falácias informais.md",
     "11ºAno/Matemática/Funções racionais.md",
     "11ºAno/Matemática/Limites de sucessões.md",

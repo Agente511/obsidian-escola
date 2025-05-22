@@ -50,7 +50,7 @@ No entanto, estes 2 argumentos **não são suficientes para estabelecer o princ�
 
 Hume responde sugerindo que as **ideias complexas** podem ter 2 origens distintas:
 - ##### Memória
-	Tem a **mesma configuração que tinha na experiência**.
+	Têm a **mesma configuração que tinham na experiência**.
 	Correspondem às [[Resposta Racionalista (Descartes)#^8bbc97|ideias adventícias]] de Descartes.
 - ##### Imaginação
 	Compostas de **forma livre**, podendo, por exemplo, **juntar ideias que estavam separadas na experiência**.
