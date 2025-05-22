@@ -26,7 +26,7 @@ Deste modo, também a geometria e a aritmética são postas em causa.
 >[!Info]
 >Como a ideia de um Deus Enganador é uma contradição nos termos, visto que Deus é perfeito por definição, Descartes abandona essa hipótese e recorre à do Génio Maligno.
 
-Um **ser superior**, **omnisciente** e **omnipotente** poderia **introduzir ideias enganosas nas nossas mentes**. Desta forma, as **crenças com origem na razão** (como a matemática) **não são indubitáveis**. A própria realidade pode ser colocada em causa.
+Um **ser superior**, **omnisciente** e **omnipotente** poderia **introduzir ideias enganosas nas nossas mentes**. Desta forma, as **crenças com origem na razão** (como a matemática) **não são indubitáveis**. A própria **realidade** pode ser colocada em causa.
 > [!NOTE] Exemplo
 > Deste modo, podemos estar enganados quanto ao quadrado ter 4 lados, podendo na verdade ter 3.
 
