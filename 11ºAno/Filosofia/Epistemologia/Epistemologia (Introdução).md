@@ -13,7 +13,7 @@ Estabelece que existem **3 condições necessárias**, que **conjugadas** consti
 	É uma **condição necessária**, já que seria contraditório dizer que S sabe que P, mas não acredita em P.
 	**Não é uma condição suficiente**, porque podemos ter **crenças falsas** (proposições que não correspondam aos factos).
 	>[!Note] Exemplo de crença falsa
-	>Não podemos saber que a Terra é plana, se a Terra, na verdade, não for plana. ^af0105
+	>Mesmo que acreditemos, não podemos saber que a Terra é plana, se a Terra, na verdade, não for plana. ^af0105
 - ##### Verdade
 	**Correspondência** da proposição **com a realidade**.
 	>[!Note] Ciência

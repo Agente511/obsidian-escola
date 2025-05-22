@@ -13,7 +13,7 @@ Método que consiste em duvidar de tudo o que se possa imaginar e averiguar o qu
 >- ##### Hiperbólica
 >	Considera falso **tudo de que tenha uma mínima incerteza**, o que pode ser considerado exagerado.
 ### Razões para duvidar
-Em vez de examinar cada crença isoladamente, Descartes analisa as **principais fontes das nossas crenças**. Caso encontrasse a **menor dúvida numa dessas fontes**, teria uma **justificação para considerar falsas todas crenças que dela proviessem**.
+Em vez de examinar cada crença isoladamente, Descartes analisa as **principais fontes das nossas crenças**. Caso encontrasse a **menor dúvida numa dessas fontes**, teria uma **justificação para considerar falsas todas as crenças que dela proviessem**.
 Recorre a uma argumentação cética, pondo em causa tudo aquilo que julgamos saber.
 #### Argumento das ilusões dos sentidos
 Os nossos **sentidos** **enganam-nos algumas vezes**, logo, como **nunca podemos saber se nos estão a enganar ou não**, não devemos confiar nas informações adquiridas através deles e, portanto, estes **não podem ser usados como justificação**.
