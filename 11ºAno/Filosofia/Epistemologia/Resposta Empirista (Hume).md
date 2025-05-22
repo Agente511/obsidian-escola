@@ -110,7 +110,7 @@ Hume **afasta a possibilidade de ser conhecimento *a priori***, já que a **nega
 >[!Note] Exemplo
 >Não é uma contradição afirmar que "a água não evapora por ação do calor".
 
-Portanto, tem de ser uma **[[#^2b36fc|questão de facto]]**, ***a posteri***, mas **não parece haver nenhuma impressão sensível que corresponda a uma conexão necessária**, apenas vemos a **sucessão dos acontecimentos**.
+Portanto, tem de ser uma **[[#^2b36fc|questão de facto]]**, ***a posteriori***, mas **não parece haver nenhuma impressão sensível que corresponda a uma conexão necessária**, apenas vemos a **sucessão dos acontecimentos**.
 #### Adão inexperiente
 Para argumentar a origem empírica das conexões necessárias, Hume argumenta que **Adão**, mesmo que tivesse **faculdades racionais inteiramente perfeitas desde o início**, seria **incapaz de inferir qualquer efeito apenas pela ocorrência da sua causa**, por faltar-lhe a experiência.
 >[!Note] Exemplo
