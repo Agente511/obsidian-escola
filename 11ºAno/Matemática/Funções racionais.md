@@ -18,6 +18,7 @@ $f(x)=\frac {P(x)} {Q(x)}$, $D_f=\{x \in \mathbb R: Q(x)\neq 0\}$
 >2. $h(x)=\frac {x+1} {x^2+1}$, $D_h=\mathbb R$
 
 ### Simplificação de frações
+(tem outros coisos)
 >[!Warning] Atenção
 >O **domínio da função** é o da **fração antes de ser simplificada**.
 
