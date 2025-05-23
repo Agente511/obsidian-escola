@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92cc4dec3881a60f",
+  "active": "5652e1cbeb04a2fe",
   "lastOpenFiles": [
-    "11ºAno/Matemática/Sucessões.md",
     "11ºAno/Matemática/Limites de sucessões.md",
+    "11ºAno/Matemática/Sucessões.md",
     "11ºAno/Matemática/Funções racionais.md",
     "10ºAno/Matemática/Polinómios.md",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
