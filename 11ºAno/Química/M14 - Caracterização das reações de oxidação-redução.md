@@ -18,4 +18,6 @@ Os processos de oxidação e redução acontecem **simultaneamente**.
 	Espécie que **sofre redução** (**espécie reduzida**) e que provoca a oxidação da espécie oxidada.
 
 >[!Note] Exemplo
->
+>![[Pasted image 20250524212047.png|430]]
+
+### Número de oxidação
