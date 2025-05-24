@@ -18,7 +18,9 @@
 - [Cap. XVII](https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xvii-dos-maias.html?m=1)
 - [Cap. XVIII](https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xviii-dos-maias.html?m=1)
 ## Visão global da obra e Estruturação
-O romance apresenta um título e subtítulo que funcionam como chaves de leitura
+O romance apresenta um **título** e **subtítulo** que funcionam como chaves de leitura.
+Sendo um **romance**, apresenta uma **pluralidade de ações que se cruzam**, num **tempo alargado** e num **espaço descrito pormenorizadamente**, possibilitando o acompanhamento do percurso
+biográfico das personagens.
 ### Título - *Os Maias*
 Remete para a ideia da **história da família Maia**. O facto de estar no **plural** indica que a história se passa ao longo de **várias gerações**, sendo **as 3 últimas individualmente narradas**:
 - Caetano da Maia
@@ -70,6 +72,8 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Relação descoberta pelo marido de Raquel, provocando um escândalo social
 - Retiro de Ega de Celorico e ida dos Cohen para o estrangeiro
 - Regresso de Ega a Lisboa o que faz reacender a sua humilhação
+## Crónica de costumes
+A crónica de costumes e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem sempre em paralelo.
 ## Complexidade dos protagonistas
 ## Características trágicas dos protagonistas
 ### Afonso
@@ -168,3 +172,5 @@ A prática de **adultério** por **Maria Monforte**, **Raquel Cohen** e a **cond
 - Mudez de soledade e de abandono
 - Maria Eduarda não gostava de um quadro com a cabeça decapitada -> **indício de morte**
 - Quadro de Marte e Vénus -> **indício de incesto entre Carlos e Maria Eduarda**
+
+## Temas dos episódios da vida romântica

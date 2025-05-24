@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Resposta Empirista (Hume)"
+              "title": "Índice de Os Maias"
             }
           },
           {
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "92cc4dec3881a60f",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Antero de Quental",
     "11ºAno/Química/M8 - Ácidos e bases.md",
