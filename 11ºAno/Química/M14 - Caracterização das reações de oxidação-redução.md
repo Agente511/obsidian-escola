@@ -1,0 +1,1 @@
+Uma reação de oxidação-redução dá-se por **transferência de eletrões entre os reagentes**
