@@ -73,15 +73,21 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Retiro de Ega de Celorico e ida dos Cohen para o estrangeiro
 - Regresso de Ega a Lisboa o que faz reacender a sua humilhação
 ## Analepse
-Do capítulo I ao IV passa-se uma analepse com o passado de Afonso da Maia e a infância e educação de Pedro da Maia.
+No capítulo I, após a apresentação e descrição do Ramalhete, agora restaurado por Afonso da Maia, passa-se uma analepse que continua até ao capítulo IV com o passado de Afonso da Maia e a infância e educação de Pedro da Maia.
 ### Afonso da Maia
 ![[Pasted image 20250525011443.png]]
 ### Pedro da Maia
 ![[Pasted image 20250525011500.png]]
 ## Crónica de costumes
 A crónica de costumes e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
+## Complexidade do tempo
+### Tempo da história
+### Tempo do discurso
+### Tempo psicológico
 ## Complexidade do espaço
-## Valor simbólico dos espaços
+### Espaço físico
+### Espaço psicológico
+## Simbolismo dos espaços
 ## Complexidade dos protagonistas
 ## Características trágicas dos protagonistas
 ### Afonso
@@ -191,3 +197,5 @@ Este espaço é o reflexo da desgraça da família Maia e do fatalismo que se ab
 
 ## Temas dos episódios da vida romântica
 ## Linguagem e estilo
+## A Romagem Sagrada (Passeio final)
+## Mensagem
