@@ -17,6 +17,8 @@
 - [Cap. XVI](https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capito-xvi-dos-maias.html?m=1)
 - [Cap. XVII](https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xvii-dos-maias.html?m=1)
 - [Cap. XVIII](https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xviii-dos-maias.html?m=1)
+
+![[Pasted image 20250525110307.png]]
 ## Visão global da obra e Estruturação
 O romance apresenta um **título** e **subtítulo** que funcionam como chaves de leitura.
 Sendo um **romance**, apresenta uma **pluralidade de ações que se cruzam**, num **tempo alargado** e num **espaço descrito pormenorizadamente**, possibilitando o acompanhamento do percurso
@@ -24,9 +26,9 @@ biográfico das personagens.
 ### Título - *Os Maias*
 Remete para a ideia da **história da família Maia**. O facto de estar no **plural** indica que a história se passa ao longo de **várias gerações**, sendo **as 3 últimas individualmente narradas**:
 - Caetano da Maia
-- Afonso da Maia
-- Pedro da Maia
-- Carlos da Maia 
+- Afonso da Maia - A geração das lutas entre absolutistas e liberais
+- Pedro da Maia - A geração ultrarromântica, sobrevivente na figura de Tomás de Alencar
+- Carlos da Maia - A geração do Portugal da Regeneração
 
 Refere-se ainda à
 - ##### Intriga principal
@@ -48,6 +50,8 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 	- Inércia
 	- Falta de cultura
 	- Pobreza intelectual
+
+![[Pasted image 20250525110914.png|450]]
 ## Diversificação da intriga amorosa
 Existe um **paralelismo na construção das duas intrigas**. A **intriga secundária precede a principal**.
 ### Intriga secundária (Pedro e Maria Monforte) - amor romântico e fatal
@@ -82,6 +86,16 @@ No capítulo I, após a apresentação e descrição do Ramalhete, agora restaur
 A crónica de costumes e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
 ## Complexidade do tempo
 ### Tempo da história
+A obra abrange um extenso período cronológico:
+- ##### 1820-1875 (Intriga Secundária)
+	Juventude, exílio e casamento de Afonso.
+	Amores e suicídio de Pedro.
+	Educação e formação de Carlos.
+- ##### Outono de 1875-1877 (Intriga principal)
+	Amores de Carlos e Maria Eduarda (preparação do incesto, consumação do incesto, final trágico).
+	Crónica de costumes.
+- ##### 1887 (Epílogo)
+	Passeio de Carlos e Ega, em Lisboa.
 ### Tempo do discurso
 ### Tempo psicológico
 ## Complexidade do espaço
