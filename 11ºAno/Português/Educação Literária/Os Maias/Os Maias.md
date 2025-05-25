@@ -50,8 +50,6 @@ Aponta para a ideia da **crítica de costumes** (análise social da sociedade po
 	- Inércia
 	- Falta de cultura
 	- Pobreza intelectual
-
-![[Pasted image 20250525110914.png|450]]
 ## Diversificação da intriga amorosa
 Existe um **paralelismo na construção das duas intrigas**. A **intriga secundária precede a principal**.
 ### Intriga secundária (Pedro e Maria Monforte) - amor romântico e fatal
@@ -76,6 +74,8 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Relação descoberta pelo marido de Raquel, provocando um escândalo social
 - Retiro de Ega de Celorico e ida dos Cohen para o estrangeiro
 - Regresso de Ega a Lisboa o que faz reacender a sua humilhação
+
+![[Pasted image 20250525110914.png|450]]
 ## Analepse
 No capítulo I, após a apresentação e descrição do Ramalhete, agora restaurado por Afonso da Maia, passa-se uma analepse que continua até ao capítulo IV com o passado de Afonso da Maia e a infância e educação de Pedro da Maia.
 ### Afonso da Maia
@@ -83,7 +83,7 @@ No capítulo I, após a apresentação e descrição do Ramalhete, agora restaur
 ### Pedro da Maia
 ![[Pasted image 20250525011500.png]]
 ## Crónica de costumes
-A crónica de costumes e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
+A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
 ## Complexidade do tempo
 ### Tempo da história
 A obra abrange um extenso período cronológico:
@@ -97,9 +97,18 @@ A obra abrange um extenso período cronológico:
 - ##### 1887 (Epílogo)
 	Passeio de Carlos e Ega, em Lisboa.
 ### Tempo do discurso
-### Tempo psicológico
+A ação não é contada linearmente, sendo utilizados os processos de **analepse**, **anisocronia** e **isocronia**.
+- Os **cap. I-IV** apresentam uma **longa analepse**
+- Durante a analepse inicial, são percorridos 55 anos em ritmo rápido (em cerca de 85 páginas), havendo uma **anisocronia**, através de **resumos** (seleção de pequenas cenas e episódios significativos)
+- O **cap. IV** retoma-se a ação central e o percurso de Carlos em Lisboa até ao cap. XVII, num **ritmo lento** (2 anos em cerca de 590 páginas), apresentando uma **isocronia**.
+- Aquando da **confissão de Maria Eduarda a Carlos sobre o seu passado** e aquando da **leitura da carta de Maria Monforte** ocorrem duas **breves analepses**.
+- No **cap. XVIII** (final) há novamente **anisocronia**, através de **elipses** (omissão de determinados períodos temporais)
+### Tempo histórico
+![[Pasted image 20250525112024.png]]
+![[Pasted image 20250525112103.png]]
 ## Complexidade do espaço
 ### Espaço físico
+Refere-se à pluralidade de espaços, que, além de decorativos, geram
 ### Espaço psicológico
 ## Simbolismo dos espaços
 ## Complexidade dos protagonistas
