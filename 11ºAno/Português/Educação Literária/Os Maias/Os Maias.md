@@ -72,6 +72,12 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Relação descoberta pelo marido de Raquel, provocando um escândalo social
 - Retiro de Ega de Celorico e ida dos Cohen para o estrangeiro
 - Regresso de Ega a Lisboa o que faz reacender a sua humilhação
+## Analepse
+Do capítulo I ao IV passa-se uma analepse com o passado de Afonso da Maia e a infância e educação de Pedro da Maia.
+### Afonso da Maia
+![[Pasted image 20250525011443.png]]
+### Pedro da Maia
+![[Pasted image 20250525011500.png]]
 ## Crónica de costumes
 A crónica de costumes e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
 ## Complexidade do espaço
@@ -145,7 +151,12 @@ Apesar da **educação de Carlos**, ele falha devido aos **fatores genéticos** 
 
 A prática de **adultério** por **Maria Monforte**, **Raquel Cohen** e a **condessa de Gouvarinho**, também se liga à influência do meio (e à educação).
 ## Descrição do Ramalhete
+![[Pasted image 20250525010853.png]]
 ##### 1º momento
+Fechado e triste.
+A semelhança com uma “residência eclesiástica” aproxima-o de um espaço religioso, o que reenvia
+para a ideia de clausura e opressão que, metaforicamente, anuncia o fim da linhagem dos Maias,
+aliás, a família está “reduzida a dois varões”.
 - Sombrio casarão de paredes severas (elegantes)
 - Aspeto tristonho
 - Residência eclesiástica (semelhante a uma igreja)
@@ -167,6 +178,9 @@ A prática de **adultério** por **Maria Monforte**, **Raquel Cohen** e a **cond
 - Vénus Citereia \[...] no seu tom claro -> **representa positivamente a chegada de Maria Eduarda**
 - Água abundava, a cascatazinha era deliciosa -> **representa a regeneração e purificação da família**
 ##### 3º momento
+O Ramalhete é novamente descrito através de uma linguagem de cariz religioso que confirma a
+ausência e o vazio, assim como a degradação do espaço, o que conduz a um ambiente de escuridão e morte, por isso Ega afirma “Isto está lúgubre!...”.
+Este espaço é o reflexo da desgraça da família Maia e do fatalismo que se abateu sobre ela.
 - Jardim, bem areado, limpo e frio na sua nudez de inverno
 - Ferrugem verde cobria os grossos membros da Vénus Citereia -> **representa o fim da relação entre Carlos e Maria Eduarda devido a revelar-se incestuosa**
 - O cipreste e o cedro envelheciam juntos -> **representam Carlos e Ega que permaneciam amigos**
