@@ -91,7 +91,8 @@
               "title": "M15 - Força relativa de oxidantes e redutores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
+                "file": "11ºAno/Química/M11 - Titulação ácido-base.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de M10 - Constantes de acidez e de basicidade"
+              "title": "Índice de M11 - Titulação ácido-base"
             }
           },
           {
@@ -276,14 +277,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42c44593b4849a57",
+  "active": "260bf68363c96bb4",
   "lastOpenFiles": [
-    "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+    "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
+    "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M11 - Titulação ácido-base.md",
-    "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
     "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
     "11ºAno/Química/M8 - Ácidos e bases.md",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
