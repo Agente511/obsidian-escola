@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+                "file": "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de M12 - Acidez e basicidade de soluções aquosas de sais"
+              "title": "Índice de M14 - Caracterização das reações de oxidação-redução"
             }
           },
           {
@@ -277,10 +277,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad1ef0b9dfbdadc3",
+  "active": "db61a0a36c0bf879",
   "lastOpenFiles": [
-    "11ºAno/Química/M11 - Titulação ácido-base.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+    "11ºAno/Química/M11 - Titulação ácido-base.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
