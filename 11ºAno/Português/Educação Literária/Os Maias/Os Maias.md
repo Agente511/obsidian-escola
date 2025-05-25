@@ -82,8 +82,6 @@ No capítulo I, após a apresentação e descrição do Ramalhete, agora restaur
 ![[Pasted image 20250525011443.png]]
 ### Pedro da Maia
 ![[Pasted image 20250525011500.png]]
-## Crónica de costumes
-A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
 ## Complexidade do tempo
 ### Tempo da história
 A obra abrange um extenso período cronológico:
@@ -108,10 +106,89 @@ A ação não é contada linearmente, sendo utilizados os processos de **analeps
 ![[Pasted image 20250525112103.png]]
 ## Complexidade do espaço
 ### Espaço físico
-Refere-se à pluralidade de espaços, que, além de decorativos, geram
+Refere-se à pluralidade de espaços, que, além de decorativos, geram sentidos culturais, simbólicos e emotivos:
+- ##### Espaços geográficos
+	- **Lisboa**
+		Centralidade da capital em termos de poder e influência.
+	- **Santa Olávia**
+		Origens rurais da família.
+		Natureza regeneradora que potencia a cura e a felicidade, ligando-se principalmente a Afonso.
+	- **Coimbra**
+		Cenário da juventude de Carlos.
+		Boémia estudantil e referência cultural e política.
+	- **Sintra**
+		Enorme beleza que contrasta com as marcas de miséria e de atraso e com as figuras humanas que lá se deslocam (Eusebiozinho, Palma "Cavalão" e as prostitutas espanholas).
+- ##### Espaços físicos interiores
+	- **Ramalhete**
+		Espelho da família nos diferentes momentos de decadência, felicidade e catástrofe.
+	- **Toca**
+		Símbolo do caráter clandestino, sensual e funesto do amor de Carlos e Maria Eduarda.
+	- **Vila Balzac**
+		Representação do caráter de Ega.
 ### Espaço psicológico
-## Simbolismo dos espaços
-## Complexidade dos protagonistas
+Elementos que **traduzem a interioridade das personagens**, expressando os seus estados de alma, através do **sonho**, **imaginação**, **memória** e **emoção**.
+
+Surge, principalmente, em função de **Carlos**:
+- Quando sonha com Maria Eduarda após a ver pela primeira vez
+- Quando imagina o corpo de Maria Eduarda em Sintra
+- Quando, ao ver o cadáver do avô, relembra-o vivo
+- Planos de vida com Maria Eduarda
+- Pensamentos após as revelações de Castro Gomes
+- Intenções de revelar à irmã a sua verdadeira identidade
+- Peso da culpa após o incesto consciente
+
+Mas também através de **Ega**:
+- Quando, após as revelações de Guimarães, reflete sobre o horror e o absurdo da situação, confrontando-se com a obrigação de comunicar a verdade.
+## Descrição do Ramalhete
+![[Pasted image 20250525010853.png]]
+##### 1º momento
+Fechado e triste.
+A semelhança com uma “residência eclesiástica” aproxima-o de um espaço religioso, o que reenvia
+para a ideia de clausura e opressão que, metaforicamente, anuncia o fim da linhagem dos Maias,
+aliás, a família está “reduzida a dois varões”.
+- Sombrio casarão de paredes severas (elegantes)
+- Aspeto tristonho
+- Residência eclesiástica (semelhante a uma igreja)
+- Permaneceu desabitado
+- Com uma sineta e com uma cruz no topo assemelhar-se-ia a um colégio de Jesuítas
+- Teias de aranha pelas grades dos postigos térreos
+- Tons de ruína
+- Gravidade clerical do edifício e paz dormente do bairro
+- Disposição apalaçada
+- Pobre quintal inculto
+- Cascatazinha seca -> **Indício de morte** e **reflexo da decadência da família**
+- Um cipreste, um cedro
+- Estátua de mármore de Vénus Citereia enegrecendo -> **representa negativamente Maria Monforte**
+##### 2º momento
+- \[Carlos] gostava até do seu quintalejo (compara-o com o luxo que viu pela Europa)
+- Ar simpático
+- Girassóis perfilados
+- Cipreste e o cedro envelhecendo juntos como dois amigos tristes -> **representa Carlos e João da Ega**
+- Vénus Citereia \[...] no seu tom claro -> **representa positivamente a chegada de Maria Eduarda**
+- Água abundava, a cascatazinha era deliciosa -> **representa a regeneração e purificação da família**
+##### 3º momento
+O Ramalhete é novamente descrito através de uma linguagem de cariz religioso que confirma a
+ausência e o vazio, assim como a degradação do espaço, o que conduz a um ambiente de escuridão e morte, por isso Ega afirma “Isto está lúgubre!...”.
+Este espaço é o reflexo da desgraça da família Maia e do fatalismo que se abateu sobre ela.
+- Jardim, bem areado, limpo e frio na sua nudez de inverno
+- Ferrugem verde cobria os grossos membros da Vénus Citereia -> **representa o fim da relação entre Carlos e Maria Eduarda devido a revelar-se incestuosa**
+- O cipreste e o cedro envelheciam juntos -> **representam Carlos e Ega que permaneciam amigos**
+- Mais lento corria o prontozinho da cascata, gota a gota -> **parece que está a chorar a morte de Afonso**
+- Mudez de soledade e de abandono
+- Maria Eduarda não gostava de um quadro com a cabeça decapitada -> **indício de morte**
+- Quadro de Marte e Vénus -> **indício de incesto entre Carlos e Maria Eduarda**
+
+## Crónica de costumes
+A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
+
+### Jantar no Hotel Central (Cap. VI)
+![[Pasted image 20250525113739.png]]
+### Jantar dos Gouvarinhos (Cap. XII)
+![[Pasted image 20250525113813.png]]
+### A Corneta do Diabo e a Tarde (Cap.  XV)
+![[Pasted image 20250525113916.png]]
+### Sarau no Teatro da
+
 ## Características trágicas dos protagonistas
 ### Afonso
 - Mudança para o Ramalhete após anos de ausência
@@ -179,44 +256,6 @@ Resulta em **adultos fortes, capazes de ultrapassar as dificuldades, independent
 Apesar da **educação de Carlos**, ele falha devido aos **fatores genéticos** e a **influência do meio lisboeta**, caracterizado pela **ociosidade** e que o conduz ao **diletantismo**.
 
 A prática de **adultério** por **Maria Monforte**, **Raquel Cohen** e a **condessa de Gouvarinho**, também se liga à influência do meio (e à educação).
-## Descrição do Ramalhete
-![[Pasted image 20250525010853.png]]
-##### 1º momento
-Fechado e triste.
-A semelhança com uma “residência eclesiástica” aproxima-o de um espaço religioso, o que reenvia
-para a ideia de clausura e opressão que, metaforicamente, anuncia o fim da linhagem dos Maias,
-aliás, a família está “reduzida a dois varões”.
-- Sombrio casarão de paredes severas (elegantes)
-- Aspeto tristonho
-- Residência eclesiástica (semelhante a uma igreja)
-- Permaneceu desabitado
-- Com uma sineta e com uma cruz no topo assemelhar-se-ia a um colégio de Jesuítas
-- Teias de aranha pelas grades dos postigos térreos
-- Tons de ruína
-- Gravidade clerical do edifício e paz dormente do bairro
-- Disposição apalaçada
-- Pobre quintal inculto
-- Cascatazinha seca -> **Indício de morte** e **reflexo da decadência da família**
-- Um cipreste, um cedro
-- Estátua de mármore de Vénus Citereia enegrecendo -> **representa negativamente Maria Monforte**
-##### 2º momento
-- \[Carlos] gostava até do seu quintalejo (compara-o com o luxo que viu pela Europa)
-- Ar simpático
-- Girassóis perfilados
-- Cipreste e o cedro envelhecendo juntos como dois amigos tristes -> **representa Carlos e João da Ega**
-- Vénus Citereia \[...] no seu tom claro -> **representa positivamente a chegada de Maria Eduarda**
-- Água abundava, a cascatazinha era deliciosa -> **representa a regeneração e purificação da família**
-##### 3º momento
-O Ramalhete é novamente descrito através de uma linguagem de cariz religioso que confirma a
-ausência e o vazio, assim como a degradação do espaço, o que conduz a um ambiente de escuridão e morte, por isso Ega afirma “Isto está lúgubre!...”.
-Este espaço é o reflexo da desgraça da família Maia e do fatalismo que se abateu sobre ela.
-- Jardim, bem areado, limpo e frio na sua nudez de inverno
-- Ferrugem verde cobria os grossos membros da Vénus Citereia -> **representa o fim da relação entre Carlos e Maria Eduarda devido a revelar-se incestuosa**
-- O cipreste e o cedro envelheciam juntos -> **representam Carlos e Ega que permaneciam amigos**
-- Mais lento corria o prontozinho da cascata, gota a gota -> **parece que está a chorar a morte de Afonso**
-- Mudez de soledade e de abandono
-- Maria Eduarda não gostava de um quadro com a cabeça decapitada -> **indício de morte**
-- Quadro de Marte e Vénus -> **indício de incesto entre Carlos e Maria Eduarda**
 
 ## Temas dos episódios da vida romântica
 ## Linguagem e estilo
