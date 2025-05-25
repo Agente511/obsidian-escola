@@ -110,18 +110,22 @@ Refere-se à pluralidade de espaços, que, além de decorativos, geram sentidos 
 - ##### Espaços geográficos
 	- **Lisboa**
 		Centralidade da capital em termos de poder e influência.
+		Referência a símbolos do passado de Portugal glorioso e lutador com o objetivo de reforçar a inação da sociedade presente, através de várias estátuas, monumentos e ruas.
 	- **Santa Olávia**
 		Origens rurais da família.
-		Natureza regeneradora que potencia a cura e a felicidade, ligando-se principalmente a Afonso.
+		Natureza regeneradora que potencia a cura, a harmonia, a liberdade, e a felicidade, ligando-se principalmente a Afonso.
+		Refúgio aos desgostos da familiares (suicídio de Pedro).
+		Infância e educação de Carlos.
 	- **Coimbra**
 		Cenário da juventude de Carlos.
 		Boémia estudantil e referência cultural e política.
+		Início da amizade de Carlos e Ega.
 	- **Sintra**
 		Enorme beleza que contrasta com as marcas de miséria e de atraso e com as figuras humanas que lá se deslocam (Eusebiozinho, Palma "Cavalão" e as prostitutas espanholas).
 - ##### Espaços físicos interiores
 	- **Ramalhete**
 		Espelho da família nos diferentes momentos de decadência, felicidade e catástrofe.
-	- **Toca**
+	- **Toca"**
 		Símbolo do caráter clandestino, sensual e funesto do amor de Carlos e Maria Eduarda.
 	- **Vila Balzac**
 		Representação do caráter de Ega.
@@ -180,14 +184,36 @@ Este espaço é o reflexo da desgraça da família Maia e do fatalismo que se ab
 
 ## Crónica de costumes
 A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
-
 ### Jantar no Hotel Central (Cap. VI)
+![[Pasted image 20250525114056.png]]
+![[Pasted image 20250525114355.png|500]]
+![[Pasted image 20250525114445.png|600]]
+![[Pasted image 20250525114459.png|600]]
+![[Pasted image 20250525114516.png|600]]
+![[Pasted image 20250525114529.png|600]]
+![[Pasted image 20250525114543.png|600]]
+### Corridas de cavalos no hipódromo de Belém (Cap. X)
 ![[Pasted image 20250525113739.png]]
+![[Pasted image 20250525114618.png|600]]
 ### Jantar dos Gouvarinhos (Cap. XII)
 ![[Pasted image 20250525113813.png]]
+![[Pasted image 20250525114303.png]]
+![[Pasted image 20250525114316.png]]
 ### A Corneta do Diabo e a Tarde (Cap.  XV)
 ![[Pasted image 20250525113916.png]]
-### Sarau no Teatro da
+#### Corneta do Diabo
+![[Pasted image 20250525114741.png|400]]
+#### A Tarde
+![[Pasted image 20250525114805.png|600]]
+
+![[Pasted image 20250525114817.png|600]]
+
+### Sarau literário no Teatro da Trindade (Cap. XVI)
+![[Pasted image 20250525113955.png]]
+![[Pasted image 20250525114851.png|600]]
+![[Pasted image 20250525114904.png|600]]
+### Passeio final de Carlos e Ega (Cap. XVIII)
+![[Pasted image 20250525114130.png]]
 
 ## Características trágicas dos protagonistas
 ### Afonso
