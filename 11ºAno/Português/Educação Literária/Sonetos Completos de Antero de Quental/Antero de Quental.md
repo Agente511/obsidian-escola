@@ -50,4 +50,4 @@ Como consequência da sua instabilidade psicológico, Antero apresenta tendênci
 - Conjugação do sentimento e da inteligência
 - Discurso dialogado com personagens alegóricas
 - Recurso à apóstrofe, metáfora e personificação
-- Chave
+- Chave de ouro: desfecho engenhoso
