@@ -311,12 +311,31 @@ O passeio final de Carlos e Ega por Lisboa, representa o completo fracasso de am
 - Ao estar em ruínas é utilizado como uma sinédoque de Lisboa e Portugal
 ## Linguagem e estilo queirosiano
 - ##### Adjetivação (dupla, tripla ou múltipla)
-	- "Dava pelos passos, lentos e murchos"
-	- "A viscondessa da Gafanha, uma carcaça esgalgada, caiada, rebocada, gasta por todos os homens"
+	- "Dava pelos passos, **lentos** e **murchos**"
+	- "A viscondessa da Gafanha, uma carcaça **esgalgada**, **caiada**, **rebocada**, gasta por todos os homens"
 - ##### Adverbiação
+	- "Ambos **insensivelmente**, **irresistivelmente**, **fatalmente**, marchando um para o outro"
+- ##### Diminuitivos
+	- **Carlinhos**
+	- "**Perninhas** flácidas, **mãozinhas** pendentes"
 - ##### Criação de neologismos
-	- politicando
-	- escrevinhador
+	- **politicando**
+	- **escrevinhador**
+- ##### Empréstismos
+	- _**sportsman**_
+	- _**break**_
+	- _**cache-nez**_
+	- _**blasé**_
+	- _**chic**_
+- ##### Verbos com efeito impressionista
+	- "Estátua de mármore **enegrecendo** a um canto"
+- ##### Hipálage
+	Atribuição de uma característica a um objeto que não a tem e que na verdade pertence a outro elemento relacionado.
+	- "Um casarão de paredes **severas**"
+	- "Tinham vestidos **sérios** de missa" (as pessoas que estavam sérias)
+- ##### Sinestesia
+	Associação de sensações percebidas por sentidos diferentes.
+	- "E transparentes novos de um escarlate estridente"
 ## Mensagem
 - ##### Crítica à educação
 	- Casamento desastroso de Pedro que levou ao seu suicídio

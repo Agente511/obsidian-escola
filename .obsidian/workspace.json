@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
+                "file": "11ºAno/Português/Educação Literária/Antero de Quental/Antero de Quental.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Os Maias"
+              "title": "Antero de Quental"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
+                "file": "11ºAno/Português/Educação Literária/Antero de Quental/Antero de Quental.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Os Maias"
+              "title": "Índice de Antero de Quental"
             }
           },
           {
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "61b24d1a0aa1cb3c",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
     "Pasted image 20250525115705.png",
