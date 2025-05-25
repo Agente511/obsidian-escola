@@ -73,7 +73,9 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 - Retiro de Ega de Celorico e ida dos Cohen para o estrangeiro
 - Regresso de Ega a Lisboa o que faz reacender a sua humilhação
 ## Crónica de costumes
-A crónica de costumes e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem sempre em paralelo.
+A crónica de costumes e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
+## Complexidade do espaço
+## Valor simbólico dos espaços
 ## Complexidade dos protagonistas
 ## Características trágicas dos protagonistas
 ### Afonso
@@ -174,3 +176,4 @@ A prática de **adultério** por **Maria Monforte**, **Raquel Cohen** e a **cond
 - Quadro de Marte e Vénus -> **indício de incesto entre Carlos e Maria Eduarda**
 
 ## Temas dos episódios da vida romântica
+## Linguagem e estilo
