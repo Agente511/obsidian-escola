@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Química/M11 - Titulação ácido-base.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -63,7 +63,8 @@
               "title": "M13 - Aspetos ambientais das reações ácido-base"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
+                "file": "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de M10 - Constantes de acidez e de basicidade"
+              "title": "Índice de M12 - Acidez e basicidade de soluções aquosas de sais"
             }
           },
           {
@@ -248,12 +249,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42c44593b4849a57",
+  "active": "ad1ef0b9dfbdadc3",
   "lastOpenFiles": [
-    "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
-    "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "11ºAno/Química/M11 - Titulação ácido-base.md",
     "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
+    "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+    "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
     "11ºAno/Química/M8 - Ácidos e bases.md",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
