@@ -8,7 +8,7 @@
 - Divididos em ciclos, sem títulos e com data
 - [[#Influências dos seus sonetos|Influência romântica e clássica]]
 ## Dualidade - os "dois Anteros"
-Como consequência da sua instabilidade psicológico, Antero apresenta tendências contrastantes nos seus poemas, sendo ele um ativista defensor de ideais de renovação e revolução, mas também de ideias pessimistas e negativas, em diferentes fases da vida.
+Como consequência da sua instabilidade psicológico, Antero apresenta tendências contrastantes nos seus poemas, sendo ele um ativista defensor de ideais de renovação e revolução, mas também de ideias pessimistas e negativas, em diferentes fases da sua vida.
 ### Tendência luminosa, apolínea ou diurna
 - Sonetos otimistas
 - Presença da razão e racionalidade confiante
@@ -34,3 +34,10 @@ Como consequência da sua instabilidade psicológico, Antero apresenta tendênci
 - Preferência pelo polo negativo das dualidades (**noite**/dia, **trevas**/luz, **névoa**/sol, **mal**/bem)
 - Referência a nomes que se convertem em personagens ("o coração", "a alma", "o vento", "o abismo")
 - Adjetivação alusiva à tensão, ao conflito e à negatividade, traduzindo as ideias de ansiedade, mistério cósmico, sensação metafísica e caráter fantástico do real ("escuro", "vago", "mudo", "ermo")
+## Linguagem, estilo e estrutura
+- Poesia como complemento do pensamento filosófico
+- Interrogação retórica
+- Materialização da palavra em conceito (muitas vezes maiúsculada)
+- Complexidade e abstração de conceitos
+- Discurso dialogado com personagens alegóricas
+- Recurso à apóstrofe, metáfora e personificação
