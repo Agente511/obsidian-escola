@@ -20,7 +20,15 @@ Como consequência da sua instabilidade psicológico, Antero apresenta tendênci
 - Interiorização reflexiva
 - Inquietação filosófica e desassossego
 - Refúgio na desistência, no sonho e na transcendência religiosa
-### Configurações do ideal
+## Configurações do ideal e Angústia existencial
+### Configurações do ideal (sonetos otimistas)
+- Perfeição e plenitude das realizações imaginárias ou reais do "eu"
+- Procura de uma finalidade para a existência humana
+### Angústia existencial (sonetos pessimistas)
+- Inquietação espiritual e desassossego
+- Insatisfação perante o real, o amor e a vida
+- Vida terrena sem alegria
+- Consciência da imperfeição humana
 ## Influências dos seus sonetos
 ### Influência clássica (elmanista e arcádica) - Camões e Bocage
 - Grandiloquência do poeta visionário
@@ -39,5 +47,7 @@ Como consequência da sua instabilidade psicológico, Antero apresenta tendênci
 - Interrogação retórica
 - Materialização da palavra em conceito (muitas vezes maiúsculada)
 - Complexidade e abstração de conceitos
+- Conjugação do sentimento e da inteligência
 - Discurso dialogado com personagens alegóricas
 - Recurso à apóstrofe, metáfora e personificação
+- Chave
