@@ -30,9 +30,9 @@ O número de oxidação (n.o.) é o número de **cargas elétricas** que um **á
 A determinação do número de oxidação obedece a um conjunto de regras que se aplicam à maioria dos compostos:
 ![[Pasted image 20250524233754.png|600]]
 >[!Info]
->n.o. (Ag) = +1
->n.o. (Zn) = +2
->n.o. (Al) = +3
+>$Ag^+$ $\rightarrow$ n.o. (Ag) = +1
+>$Zn^{2+} \rightarrow$ n.o. (Zn) = +2
+>$Al^{3+} \rightarrow$ n.o. (Al) = +3
 
 
 >[!Warning] Exceções às regras
