@@ -49,8 +49,7 @@
               "title": "Resposta Empirista (Hume)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+                "file": "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Resposta Empirista (Hume)"
+              "title": "Índice de Epistemologia (Introdução)"
             }
           },
           {
@@ -235,10 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42588ba9f314d819",
+  "active": "3575c96bebc8b5f5",
   "lastOpenFiles": [
-    "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+    "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
