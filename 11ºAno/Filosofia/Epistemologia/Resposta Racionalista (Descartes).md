@@ -47,7 +47,7 @@ Deste modo, Descartes **refuta o [[Epistemologia (Introdução)#Ceticismo|cetici
 >3. Logo, é falso que nada se pode saber.
 
 ### Dualismo cartesiano/mente-corpo
-O cogito **não garante que se tem um corpo** (pois somos **capazes de nos imaginar sem corpo** sem que isso implique que não existamos), mas **garante que se existe enquanto ser pensante** (*res cogitans*). Por isso, **corpo e mente são independentes** e de **naturezas inteiramente distintas** (a primeira física e a segunda imaterial).
+O cogito **não garante que se tem um corpo** (pois somos **capazes de nos imaginar sem corpo** (*res extensa*) sem que isso implique que não existamos), mas **garante que se existe enquanto ser pensante** (*res cogitans*). Por isso, **corpo e mente são independentes** e de **naturezas inteiramente distintas** (a primeira física e a segunda imaterial).
 Enquanto não provarmos que o [[#A hipótese do Génio Maligno (ou do Deus enganador)|Génio Maligno]] não existe, não podemos ter certeza que o nosso corpo realmente existe.
 
 >[!Summary] Dualismo cartesiano
@@ -56,7 +56,7 @@ Enquanto não provarmos que o [[#A hipótese do Génio Maligno (ou do Deus engan
 >3. Se posso conceber que existo sem ter um corpo, mas não posso conceber que existo sem ter uma mente/alma, então a mente/alma não é igual ao corpo.
 >4. Logo, a mente/alma não é igual ao corpo.
 
-Descartes conclui ainda que é **essencialmente uma substância pensante** (alma) e **acidentalmente um corpo**/matéria (*res extensa*), pois não consegue conceber que existe sem uma mente/alma.
+Descartes conclui ainda que é **essencialmente uma substância pensante** (alma) e **acidentalmente um corpo**/matéria, pois não consegue conceber que existe sem uma mente/alma.
 
 >[!Summary] Dualismo cartesiano (parte 2)
 >5. Uma determinada propriedade faz parte da essência de x se, e só se, não é possível conceber x sem essa propriedade.
