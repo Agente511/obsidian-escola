@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,14 +42,15 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Resposta Empirista (Hume)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
+                "file": "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de M14 - Caracterização das reações de oxidação-redução"
+              "title": "Índice de Resposta Racionalista (Descartes)"
             }
           },
           {
@@ -234,11 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3575c96bebc8b5f5",
+  "active": "d23f60fb91ac0277",
   "lastOpenFiles": [
+    "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
-    "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
