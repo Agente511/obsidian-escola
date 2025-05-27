@@ -89,7 +89,7 @@ A obra abrange um extenso período cronológico:
 	Juventude, exílio e casamento de Afonso.
 	Amores e suicídio de Pedro.
 	Educação e formação de Carlos.
-- ##### Outono de 1875-1877 (Intriga principal)
+- ##### Outono de 1875- Janeiro de 1877 (Intriga principal)
 	Amores de Carlos e Maria Eduarda (preparação do incesto, consumação do incesto, final trágico).
 	Crónica de costumes.
 - ##### 1887 (Epílogo)
@@ -97,8 +97,8 @@ A obra abrange um extenso período cronológico:
 ### Tempo do discurso
 A ação não é contada linearmente, sendo utilizados os processos de **analepse**, **anisocronia** e **isocronia**.
 - Os **cap. I-IV** apresentam uma **longa analepse**
-- Durante a analepse inicial, são percorridos 55 anos em ritmo rápido (em cerca de 85 páginas), havendo uma **anisocronia**, através de **resumos** (seleção de pequenas cenas e episódios significativos)
-- O **cap. IV** retoma-se a ação central e o percurso de Carlos em Lisboa até ao cap. XVII, num **ritmo lento** (2 anos em cerca de 590 páginas), apresentando uma **isocronia**.
+- Durante a analepse inicial, são percorridos 55 anos em ritmo rápido (em cerca de 85 páginas), havendo uma **anisocronia**, através de **resumos** (síntese dos factos ocorridos)
+- No **cap. IV** retoma-se a ação central e o percurso de Carlos em Lisboa até ao cap. XVII, num **ritmo lento** (2 anos em cerca de 590 páginas), apresentando uma **isocronia**.
 - Aquando da **confissão de Maria Eduarda a Carlos sobre o seu passado** e aquando da **leitura da carta de Maria Monforte** ocorrem duas **breves analepses**.
 - No **cap. XVIII** (final) há novamente **anisocronia**, através de **elipses** (omissão de determinados períodos temporais)
 ### Tempo histórico
