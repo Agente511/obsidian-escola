@@ -207,8 +207,8 @@ A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#
 ![[Pasted image 20250525114618.png|600]]
 ### Jantar dos Gouvarinhos (Cap. XII)
 ![[Pasted image 20250525113813.png]]
-![[Pasted image 20250525114303.png]]
-![[Pasted image 20250525114316.png]]
+![[Pasted image 20250525114303.png|320]]
+![[Pasted image 20250525114316.png|580]]
 ### A Corneta do Diabo e a Tarde (Cap.  XV)
 ![[Pasted image 20250525113916.png]]
 #### Corneta do Diabo
