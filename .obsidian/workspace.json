@@ -63,8 +63,7 @@
               "title": "Antero de Quental"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
+                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Antero de Quental"
+              "title": "Índice de Os Maias"
             }
           },
           {
@@ -249,13 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4514050c7b74a915",
+  "active": "e52767f14cc9c632",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
+    "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
-    "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
