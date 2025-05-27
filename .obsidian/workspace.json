@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "Os Maias"
             }
+          },
+          {
+            "id": "c7f8e7881d186944",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xiv-dos-maias.html?m=1",
+                "title": "A Turma Do Contra!: Resumo do capítulo XIV d'Os Maias",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "A Turma Do Contra!: Resumo do capítulo XIV d'Os Maias"
+            }
+          },
+          {
+            "id": "5745098211d86861",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xvii-dos-maias.html?m=1",
+                "title": "A Turma Do Contra!: Resumo do capítulo XVII d'Os Maias",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "A Turma Do Contra!: Resumo do capítulo XVII d'Os Maias"
+            }
           }
         ]
       }
@@ -94,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
+                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Resposta Racionalista (Descartes)"
+              "title": "Índice de Os Maias"
             }
           },
           {
@@ -208,11 +236,11 @@
   },
   "active": "e52767f14cc9c632",
   "lastOpenFiles": [
+    "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
-    "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
