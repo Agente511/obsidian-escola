@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "d19064c3239139fc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xv-dos-maias.html?m=1",
+                "title": "A Turma Do Contra!: Resumo do capítulo XV d'Os Maias",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "A Turma Do Contra!: Resumo do capítulo XV d'Os Maias"
+            }
+          },
+          {
+            "id": "24f4d8adc38be3d0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capito-xvi-dos-maias.html?m=1",
+                "title": "A Turma Do Contra!: Resumo do capíto XVI d'Os Maias",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "A Turma Do Contra!: Resumo do capíto XVI d'Os Maias"
+            }
+          },
+          {
             "id": "5745098211d86861",
             "type": "leaf",
             "state": {
@@ -63,7 +91,8 @@
               "title": "Antero de Quental"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Os Maias"
+              "title": "Índice"
             }
           },
           {
@@ -248,7 +276,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e52767f14cc9c632",
+  "active": "5745098211d86861",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
