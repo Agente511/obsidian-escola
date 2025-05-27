@@ -333,11 +333,11 @@ O passeio final de Carlos e Ega por Lisboa, representa o completo fracasso de am
 	- "Tinham vestidos **sérios** de missa" (as pessoas que estavam sérias)
 - ##### Sinestesia
 	Associação de sensações percebidas por sentidos diferentes.
-	- "E transparentes novos de um escarlate estridente"
+	- "E **transparentes** novos de um **escarlate** **estridente**"
 ## Mensagem
 - ##### Crítica à educação
 	- Casamento desastroso de Pedro que levou ao seu suicídio
-	- Ligação incestuosa de Carlos que o afunda numa vida estéril e apaga sem projetos úteis, em Paris
+	- Ligação incestuosa de Carlos que o afunda numa vida estéril e apagada sem projetos úteis, em Paris
 - ##### Retrato das épocas históricas e políticas
 	- Pedro: romantismo
 	- Carlos: Geração dos 70 e das Conferências do Casino. Geração dos Vencidos da Vida apesar de estarem destinados ao sucesso
