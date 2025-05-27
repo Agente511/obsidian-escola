@@ -189,8 +189,6 @@ Este espaço é o reflexo da desgraça da família Maia e do fatalismo que se ab
 - O cipreste e o cedro envelheciam juntos -> **representam Carlos e Ega que permaneciam amigos**
 - Mais lento corria o prontozinho da cascata, gota a gota -> **parece que está a chorar a morte de Afonso**
 - Mudez de soledade e de abandono
-- Maria Eduarda não gostava de um quadro com a cabeça decapitada -> **indício de morte**
-- Quadro de Marte e Vénus -> **indício de incesto entre Carlos e Maria Eduarda**
 
 ## Crónica de costumes
 A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#Intriga principal (Carlos e Maria Eduarda) - amor romântico e trágico|intriga principal]] ocorrem em paralelo.
@@ -248,7 +246,7 @@ A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#
 ### Afonso, Carlos e Maria Eduarda
 - Superioridade física, moral e intelectual, destacando-se no meio pequeno e medíocre em que vivem
 - A força do destino: o "implacável destino" de Afonso, o "irreparável destino" de Carlos e a "implacável rede de fatalidades" de Maria Eduarda
-- A lenda do Ramalhete: "eram sempre fatais aos Maias as paredes" da casa
+- A lenda do Ramalhete: "eram sempre fatais aos Maias as paredes do Ramalhete"
 - Confronto contínuo com presságios/indícios trágicos
 - Contacto com espaços físicos associados à morte e à destruição (o Ramalhete e o seu jardim e a Toca)
 - O envolvimento na intriga trágica, marcada pelos seguintes elementos:
@@ -262,7 +260,7 @@ A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#
 - Ega compara Carlos a D. Juan
 - Origem dos olhos azuis de Rosa
 - Carlos diz que nunca se sabe se o que nos acontece é na verdade bom ou mau
-- Sombrinhas escarlate que cobria Afonso como uma larga mancha de sangue a alastrar-se
+- Sombrinhas escarlate que cobria Pedro como uma larga mancha de sangue a alastrar-se
 - Os três lírios brancos que murchavam em casa de Maria Eduarda
 - Ega pressente um "grave cogido (cogido?)" na vida de Carlos
 - Decoração do quarto d'A Toca
