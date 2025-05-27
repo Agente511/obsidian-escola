@@ -66,7 +66,7 @@ Descartes conclui ainda que é **essencialmente uma substância pensante** (alma
 O que torna o ***[[#O cogito|cogito]]*** uma crença tão evidente é o seu **elevado grau de clareza e distinção**.
 A absoluta **clareza** e **distinção** devem, por isso, ser adotadas como **critério de verdade** (procedimento que permite distinguir o absolutamente verdadeiro do meramente duvidoso ou falso).
 Assim, o ***[[#O cogito|cogito]]*** fornece também um **modelo das características das crenças** que devemos perseguir na procura de um conhecimento seguro e indubitável.
-#### Tipos de ideias
+### Tipos de ideias
 Descartes considera que existem 3 tipos de ideias:
 - ##### Inatas
 	Dependem do nosso **raciocínio**.
