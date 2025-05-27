@@ -114,7 +114,7 @@ Refere-se à pluralidade de espaços, que, além de decorativos, geram sentidos 
 	- **Santa Olávia**
 		Origens rurais da família.
 		Natureza regeneradora que potencia a cura, a harmonia, a liberdade, e a felicidade, ligando-se principalmente a Afonso.
-		Refúgio aos desgostos da familiares (suicídio de Pedro).
+		Refúgio aos desgostos familiares (suicídio de Pedro).
 		Infância e educação de Carlos.
 	- **Coimbra**
 		Cenário da juventude de Carlos.
@@ -125,7 +125,7 @@ Refere-se à pluralidade de espaços, que, além de decorativos, geram sentidos 
 - ##### Espaços físicos interiores
 	- **Ramalhete**
 		Espelho da família nos diferentes momentos de decadência, felicidade e catástrofe.
-	- **Toca"**
+	- **"Toca"**
 		Símbolo do caráter clandestino, sensual e funesto do amor de Carlos e Maria Eduarda.
 	- **Vila Balzac**
 		Representação do caráter de Ega.
@@ -145,11 +145,11 @@ Elementos que **traduzem a interioridade das personagens**, expressando os seus 
 Surge, principalmente, em função de **Carlos**:
 - Quando sonha com Maria Eduarda após a ver pela primeira vez
 - Quando imagina o corpo de Maria Eduarda em Sintra
-- Quando, ao ver o cadáver do avô, relembra-o vivo
 - Planos de vida com Maria Eduarda
 - Pensamentos após as revelações de Castro Gomes
 - Intenções de revelar à irmã a sua verdadeira identidade
 - Peso da culpa após o incesto consciente
+- Quando, ao ver o cadáver do avô, o relembra vivo
 
 Mas também através de **Ega**:
 - Quando, após as revelações de Guimarães, reflete sobre o horror e o absurdo da situação, confrontando-se com a obrigação de comunicar a verdade.
