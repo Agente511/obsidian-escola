@@ -1,0 +1,3 @@
+Seja $f$ uma função real de variável real e $a \in \mathbb R$, o número real $b$ designa-se por limite de $f(x)$ quando tende para $a$ quando $a$ for um ponto aderente de $D_f$, e para toda a sucessão $(x_n)$ de elementos de $D_f$ convergente para $a$, $\lim f (x_n)=b$
+## Pontos aderentes a um conjunto de números reais
+Um ponto $a$ é um **ponto aderente** de um conjunto de números reais $A$ se existe uma **sucessão ($x_n$) cujo limite seja $a$**.
