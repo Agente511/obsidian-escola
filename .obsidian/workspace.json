@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Limite segundo Heine"
             }
+          },
+          {
+            "id": "b3b2c056d900c69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Matemática/Equações trigonométricas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equações trigonométricas"
+            }
+          },
+          {
+            "id": "f6f89564a8dae7e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Matemática/Funções trigonométricas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funções trigonométricas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +235,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b209548ddf5ce497",
+  "active": "b3b2c056d900c69b",
   "lastOpenFiles": [
+    "11ºAno/Matemática/Funções trigonométricas.md",
+    "11ºAno/Matemática/Equações trigonométricas.md",
+    "11ºAno/Matemática/Limite segundo Heine.md",
+    "Pasted image 20250528184316.png",
+    "Pasted image 20250528184254.png",
     "Pasted image 20250528182843.png",
     "Pasted image 20250528181525.png",
     "Pasted image 20250528175739.png",
     "11ºAno/Matemática/Funções racionais.md",
-    "11ºAno/Matemática/Limite segundo Heine.md",
     "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
@@ -231,9 +264,6 @@
     "Pasted image 20250525114904.png",
     "Pasted image 20250525114851.png",
     "Pasted image 20250525114817.png",
-    "Pasted image 20250525114805.png",
-    "Pasted image 20250525114741.png",
-    "Pasted image 20250525114618.png",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental",
     "Imagens ou fotos mais claras.md",
     "11ºAno/Matemática/Limites de sucessões.md",
@@ -244,7 +274,6 @@
     "11ºAno/Geologia/D3 2. Deformação das Rochas.md",
     "11ºAno/Geologia/D2 1. Magmatismo e Rochas Magmáticas.md",
     "10ºAno/Física/_TOC_.md",
-    "11ºAno/Inglês/Grammar.md",
     "11ºAno/Filosofia/Epistemologia",
     "11ºAno/Inglês/Vocabulary",
     "11ºAno/Português/Educação Literária/Os Maias/Resumos meus",

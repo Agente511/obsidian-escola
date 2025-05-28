@@ -29,9 +29,16 @@ Quando $x$ tende para $a$ por valores superiores a $a$ (à direita de $a$), escr
 >[!Note] Exemplo
 >![[Pasted image 20250528182843.png|550]]
 
+#### Existência de $\underset{x\rightarrow a} \lim f(x)$
 $\underset{x\rightarrow a} \lim f(x)$ existe, se $a$ é um ponto aderente de $D_f$ e
 - **$a$ pertence a  $D_f$** ($a \in D_f$) e **$f(a)=\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$**.
   Neste caso, $\underset{x\rightarrow a} \lim f(x)=f(a)=\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$.
 - **$a$ não pertence a $D_f$** ($a \notin D_f$) e **$\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$**.
   Neste caso, $\underset{x\rightarrow a} \lim f(x)=\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$
->[!Note] EX
+
+>[!Note] Exemplos
+>![[Pasted image 20250528184254.png|500]]
+>![[Pasted image 20250528184316.png|500]]
+
+### Limites no infinito
+*(não sai?)*
