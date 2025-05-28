@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Matemática/Funções trigonométricas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3b2c056d900c69b",
+  "active": "f6f89564a8dae7e2",
   "lastOpenFiles": [
-    "11ºAno/Matemática/Funções trigonométricas.md",
     "11ºAno/Matemática/Equações trigonométricas.md",
+    "11ºAno/Matemática/Funções trigonométricas.md",
     "11ºAno/Matemática/Limite segundo Heine.md",
     "Pasted image 20250528184316.png",
     "Pasted image 20250528184254.png",

@@ -2,7 +2,7 @@
 Dado um número $p>0$ e uma função $f$, dizemos que $f$ é **periódica de período de p** ou periódica se
 $\forall x\in D_f$ ,   $(x+p)\in D_f$    e    $f(x+p)=f(x)$
 
-Se $f$ é **periódica de período p** ($p>0$) então também é **periódica de período kp**, $k\in \mathbb Z$.
+Se $f$ é **periódica de período p** ($p>0$) então também é **periódica de período $kp$**, $k\in \mathbb Z$.
 ### Período positivo mínimo (ou período fundamental)
 p é o **período positivo mínimo** ou **período fundamental** se **p for o menor nº positivo que é período de $f$**.
 
@@ -18,7 +18,7 @@ $f(x)=\sin(x)$
 - $D_f=\mathbb R$
 - $D'f=[-1,1]$
 
-Interação com os eixos:
+Intersecção com os eixos:
 - int. $Oy \rightarrow f(0)=0$
 - int. $Ox$: zeros:
         $\ \ \ \ \ \ \ \ \ \ \sin(x)=0$
@@ -56,7 +56,7 @@ $g(x)=\cos(x)$
 - $D_g=\mathbb R$
 - $D'g=[-1,1]$
 
-Interação com os eixos:
+Intersecção com os eixos:
 - int. $Oy \rightarrow g(0)=1$
 - int. $Ox$: zeros:
         $\ \ \ \ \ \ \ \ \ \ \cos(x)=0$
@@ -89,7 +89,7 @@ $h(x)=\tan(x)$
 - $D_h=\mathbb R$ \ $\{\frac \pi 2 +k\pi, k\in \mathbb Z \}$
 - $D'h=\mathbb R$
 
-Interação com os eixos:
+Intersecção com os eixos:
 - int. $Oy \rightarrow h(0)=0$
 - int. $Ox$: zeros:
         $\ \ \ \ \ \ \ \ \ \ \tan(x)=0$
