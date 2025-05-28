@@ -72,7 +72,7 @@ Existe um **paralelismo na construção das duas intrigas**. A **intriga secund�
 #### João da Ega e Raquel Cohen - adultério
 - Paixão escondida à sociedade
 - Relação descoberta pelo marido de Raquel, provocando um escândalo social
-- Retiro de Ega de Celorico e ida dos Cohen para o estrangeiro
+- Retiro de Ega para Celorico e ida dos Cohen para o estrangeiro
 - Regresso de Ega a Lisboa o que faz reacender a sua humilhação
 
 ![[Pasted image 20250525110914.png|450]]
