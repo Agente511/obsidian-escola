@@ -8,87 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e52767f14cc9c632",
+            "id": "b209548ddf5ce497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
-                "mode": "preview",
+                "file": "11ºAno/Matemática/Limites segundo Heine.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Os Maias"
-            }
-          },
-          {
-            "id": "c7f8e7881d186944",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xiv-dos-maias.html?m=1",
-                "title": "A Turma Do Contra!: Resumo do capítulo XIV d'Os Maias",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "A Turma Do Contra!: Resumo do capítulo XIV d'Os Maias"
-            }
-          },
-          {
-            "id": "d19064c3239139fc",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xv-dos-maias.html?m=1",
-                "title": "A Turma Do Contra!: Resumo do capítulo XV d'Os Maias",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "A Turma Do Contra!: Resumo do capítulo XV d'Os Maias"
-            }
-          },
-          {
-            "id": "24f4d8adc38be3d0",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capito-xvi-dos-maias.html?m=1",
-                "title": "A Turma Do Contra!: Resumo do capíto XVI d'Os Maias",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "A Turma Do Contra!: Resumo do capíto XVI d'Os Maias"
-            }
-          },
-          {
-            "id": "5745098211d86861",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://aturmadocontra11l3.blogspot.com/2012/04/resumo-do-capitulo-xvii-dos-maias.html?m=1",
-                "title": "A Turma Do Contra!: Resumo do capítulo XVII d'Os Maias",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "A Turma Do Contra!: Resumo do capítulo XVII d'Os Maias"
-            }
-          },
-          {
-            "id": "4514050c7b74a915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antero de Quental"
+              "title": "Limites segundo Heine"
             }
           }
         ]
@@ -276,10 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e52767f14cc9c632",
+  "active": "b209548ddf5ce497",
   "lastOpenFiles": [
-    "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
+    "11ºAno/Matemática/Funções racionais.md",
+    "11ºAno/Matemática/Limites segundo Heine.md",
     "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
+    "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
     "11ºAno/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "11ºAno/Filosofia/Epistemologia/Resposta Racionalista (Descartes).md",
     "11ºAno/Filosofia/Epistemologia/Epistemologia (Introdução).md",
@@ -305,7 +237,6 @@
     "Imagens ou fotos mais claras.md",
     "11ºAno/Matemática/Limites de sucessões.md",
     "11ºAno/Matemática/Sucessões.md",
-    "11ºAno/Matemática/Funções racionais.md",
     "10ºAno/Matemática/Polinómios.md",
     "10ºAno/Filosofia/Outras falácias informais.md",
     "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
@@ -314,7 +245,6 @@
     "10ºAno/Física/_TOC_.md",
     "11ºAno/Inglês/Grammar.md",
     "10ºAno/Geologia/Mobilismo Geológico (Placas Tectónicas).md",
-    "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
     "11ºAno/Filosofia/Epistemologia",
     "11ºAno/Inglês/Vocabulary",
     "11ºAno/Português/Educação Literária/Os Maias/Resumos meus",
