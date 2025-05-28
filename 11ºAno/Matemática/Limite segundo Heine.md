@@ -22,11 +22,16 @@ Seja $f$ uma função real de variável real e $a \in \mathbb R$, o número real
 
 ## Limites laterais
 ### Limite à esquerda
-Quando $x$ tende para $a$ por valores inferiores a $a$ (à esquerda de $a$)
-
-O número $b \in \mathbb{R}$ é o **limite de $f(x)$ quando $x$ se aproxima de $a$ por valores menores que $a$**, se os valores de $f(x)$ se aproximarem de $b$ quando $x$ se aproxima de $a$, mas sempre com x<ax < ax<a.
-
-Neste caso, escreve-se:
-
-lim⁡x→a−f(x)=b\lim_{x \to a^-} f(x) = bx→a−lim​f(x)=b
+Quando $x$ tende para $a$ por valores inferiores a $a$ (à esquerda de $a$), escreve-se $\underset{x\rightarrow a^-} \lim f(x)=b$.
 ### Limite à direita
+Quando $x$ tende para $a$ por valores superiores a $a$ (à direita de $a$), escreve-se $\underset{x\rightarrow a^+} \lim f(x)=b$.
+
+>[!Note] Exemplo
+>![[Pasted image 20250528182843.png|550]]
+
+$\underset{x\rightarrow a} \lim f(x)$ existe, se $a$ é um ponto aderente de $D_f$ e
+- **$a$ pertence a  $D_f$** ($a \in D_f$) e **$f(a)=\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$**.
+  Neste caso, $\underset{x\rightarrow a} \lim f(x)=f(a)=\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$.
+- **$a$ não pertence a $D_f$** ($a \notin D_f$) e **$\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$**.
+  Neste caso, $\underset{x\rightarrow a} \lim f(x)=\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$
+>[!Note] EX
