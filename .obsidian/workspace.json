@@ -91,7 +91,8 @@
               "title": "Antero de Quental"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
+                "file": "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Os Maias"
+              "title": "Índice de Antero de Quental"
             }
           },
           {
@@ -276,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e52767f14cc9c632",
+  "active": "4514050c7b74a915",
   "lastOpenFiles": [
     "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",

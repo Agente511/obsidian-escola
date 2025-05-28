@@ -260,7 +260,7 @@ A [[#Subtítulo - *Episódios da Vida Romântica*|crónica de costumes]] e a [[#
 - Ega compara Carlos a D. Juan
 - Origem dos olhos azuis de Rosa
 - Carlos diz que nunca se sabe se o que nos acontece é na verdade bom ou mau
-- Sombrinhas escarlate que cobria Pedro como uma larga mancha de sangue a alastrar-se
+- Sombrinha escarlate que cobria Pedro como uma larga mancha de sangue a alastrar-se
 - Os três lírios brancos que murchavam em casa de Maria Eduarda
 - Ega pressente um "grave cogido (cogido?)" na vida de Carlos
 - Decoração do quarto d'A Toca
