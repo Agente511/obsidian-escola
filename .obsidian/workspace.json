@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Matemática/Redução ao primeiro quadrante.md",
+                "file": "11ºAno/Matemática/Trigonometria com ângulos agudos.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redução ao primeiro quadrante"
+              "title": "Trigonometria com ângulos agudos"
             }
           },
           {
@@ -248,12 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b209548ddf5ce497",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
-    "11ºAno/Matemática/O radiano como unidade de amplitude.md",
+    "11ºAno/Matemática/Ângulos orientados, generalizados e rotações.md",
     "11ºAno/Matemática/Redução ao primeiro quadrante.md",
-    "11ºAno/Matemática/Trigonometria com ângulos agudos.md",
     "11ºAno/Matemática/Equações trigonométricas.md",
+    "11ºAno/Matemática/O radiano como unidade de amplitude.md",
+    "11ºAno/Matemática/Trigonometria com ângulos agudos.md",
     "11ºAno/Matemática/Limite segundo Heine.md",
     "11ºAno/Matemática/Limites de sucessões.md",
     "11ºAno/Matemática/Funções trigonométricas.md",
@@ -286,7 +287,6 @@
     "11ºAno/Matemática/Sucessões.md",
     "10ºAno/Matemática/Polinómios.md",
     "10ºAno/Filosofia/Outras falácias informais.md",
-    "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
     "11ºAno/Filosofia/Epistemologia",
     "11ºAno/Inglês/Vocabulary",
     "11ºAno/Português/Educação Literária/Os Maias/Resumos meus",
