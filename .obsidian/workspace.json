@@ -63,7 +63,8 @@
               "title": "O radiano como unidade de amplitude"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,13 +249,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "b3b2c056d900c69b",
   "lastOpenFiles": [
+    "11ºAno/Matemática/Trigonometria com ângulos agudos.md",
     "11ºAno/Matemática/Ângulos orientados, generalizados e rotações.md",
     "11ºAno/Matemática/Redução ao primeiro quadrante.md",
     "11ºAno/Matemática/Equações trigonométricas.md",
     "11ºAno/Matemática/O radiano como unidade de amplitude.md",
-    "11ºAno/Matemática/Trigonometria com ângulos agudos.md",
     "11ºAno/Matemática/Limite segundo Heine.md",
     "11ºAno/Matemática/Limites de sucessões.md",
     "11ºAno/Matemática/Funções trigonométricas.md",
