@@ -48,9 +48,22 @@
               "icon": "lucide-file",
               "title": "Funções trigonométricas"
             }
+          },
+          {
+            "id": "5540968d2aa24611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Matemática/O radiano como unidade de amplitude.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O radiano como unidade de amplitude"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,10 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f89564a8dae7e2",
+  "active": "b209548ddf5ce497",
   "lastOpenFiles": [
-    "11ºAno/Matemática/Equações trigonométricas.md",
+    "11ºAno/Matemática/O radiano como unidade de amplitude.md",
+    "11ºAno/Matemática/Limites de sucessões.md",
     "11ºAno/Matemática/Funções trigonométricas.md",
+    "11ºAno/Matemática/Equações trigonométricas.md",
     "11ºAno/Matemática/Limite segundo Heine.md",
     "Pasted image 20250528184316.png",
     "Pasted image 20250528184254.png",
@@ -266,14 +281,12 @@
     "Pasted image 20250525114817.png",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental",
     "Imagens ou fotos mais claras.md",
-    "11ºAno/Matemática/Limites de sucessões.md",
     "11ºAno/Matemática/Sucessões.md",
     "10ºAno/Matemática/Polinómios.md",
     "10ºAno/Filosofia/Outras falácias informais.md",
     "11ºAno/Geologia/D3 1. Metamorfismo e Rochas Metamórficas.md",
     "11ºAno/Geologia/D3 2. Deformação das Rochas.md",
     "11ºAno/Geologia/D2 1. Magmatismo e Rochas Magmáticas.md",
-    "10ºAno/Física/_TOC_.md",
     "11ºAno/Filosofia/Epistemologia",
     "11ºAno/Inglês/Vocabulary",
     "11ºAno/Português/Educação Literária/Os Maias/Resumos meus",
