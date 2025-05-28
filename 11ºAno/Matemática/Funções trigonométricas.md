@@ -38,11 +38,12 @@ $\sin(2\pi+x)=\sin(x)$
 >[!Note] Exemplos
 >$f(x)=1+\sin(x)$
 >  $D_f=\mathbb R$
->  $D'_f=[0,2]$
 >  
 >  $$\begin{flalign}& \ \ \ \ \ \ \ \ \ \ -1\leq \sin(x) \leq 1 &\end{flalign}$$
 >  $$\begin{flalign}& \iff -1+1 \leq \sin(x)+1 \leq 1+1 &\end{flalign}$$
 >  $$\begin{flalign}& \iff 0 \leq \sin(x)+1 \leq 2 &\end{flalign}$$
+>  
+>  Logo, $D'_f=[0,2]$
 >  
 >  Zeros
 >  $$\begin{flalign}&\ \ \ \ \ \ \ \ \ \ f(x)=0  &\end{flalign}$$
