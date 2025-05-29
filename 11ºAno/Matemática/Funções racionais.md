@@ -14,21 +14,20 @@ O **denominador** tem de ser **diferente de 0**:
 $f(x)=\frac {P(x)} {Q(x)}$, $D_f=\{x \in \mathbb R: Q(x)\neq 0\}$
 
 > [!Note] Exemplos
->1. $g(x)=\frac {3x} {x-2}$, $D_g=\{x\in \mathbb R: x-2\neq 0\}=\mathbb R$ \ $\{0\}$
+>1. $g(x)=\frac {3x} {x-2}$, $D_g=\{x\in \mathbb R: x-2\neq 0\}=\mathbb R$ \ $\{2\}$
 >2. $h(x)=\frac {x+1} {x^2+1}$, $D_h=\mathbb R$
 
 ### Simplificação de frações
 (tem outros coisos mas pronto)
-- Com fórmula resolvente: $ax^2+bx+c=a(x-x_1)(x-x_2)$
+- Com fórmula resolvente: $ax^2+bx+c=a(x-x_1)(x-x_2)$, em que $x_1$ e $x_2$ são raízes do polinómio
 - Com Regra de Ruffini: $(x-$zero do polinómio$)($resultado da regra de Ruffini$)$
 >[!Warning] Atenção
 >O **domínio da função** é o da **fração antes de ser simplificada**.
 
 >[!Note] Exemplo
->1. $\frac {2x} {x^2+x} = \frac {2x} {x(x+1} = \frac 2 {x+1}$
->   
+>1. $\frac {2x} {x^2+x} = \frac {2x} {x(x+1)} = \frac 2 {x+1}$
+>
 >2. .
->3. .
 >   ![[Pasted image 20250521215048.png]]
 
 ### Operações com funções racionais
