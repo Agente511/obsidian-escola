@@ -1,6 +1,6 @@
 ## Limites de sucessões
 ### Limite de uma sucessão convergente
-Uma sucessão **convergente** ($u_n$) admite um **único limite real** que se representa por $\lim_{x \to 2} u_n$, por $\lim_n u_n$ ou por $\lim u_n$.
+Uma sucessão **convergente** ($u_n$) admite um **único limite real** que se representa por $\lim_{x \to +\infty} u_n$, por $\underset n \lim u_n$ ou por $\lim u_n$.
 
 - Todas as sucessões convergentes são **limitadas**.
 - Todas as **sucessões monótonas** e **limitadas** são convergentes:
@@ -49,7 +49,7 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 	$\lim (k\ u_n) = k\ \lim u_n =k\ a$     ($k$ constante)
 - ##### Potência
 	- $\lim (u_n)^p =(\lim u_n)^p=a^p, \ \ \ p \in \mathbb Q$
-	- $\lim a_n$, $a \in \mathbb R^+$ \ $\{1\}$
+	- $\lim a^n$, $a \in \mathbb R^+$ \ $\{1\}$
 		  - Se $a>1$, $\lim a^n=+\infty$
 		  - Se $0<a<1$, $\lim a^n=0$
 - ##### Raiz
@@ -98,9 +98,9 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 
 ## Indeterminações
 - $\infty-\infty$
-- $\infty \times 0$
 - $\frac \infty \infty$
 - $\frac 0 0$
+- $\infty \times 0$
 ### Levantamento da indeterminação
 #### Indeterminações envolvendo expressões com polinómios
 ##### $(\infty- \infty)$
