@@ -41,4 +41,4 @@ $\underset{x\rightarrow a} \lim f(x)$ existe, se $a$ é um ponto aderente de $D_
 >![[Pasted image 20250528184316.png|500]]
 
 ### Limites no infinito
-*(não sai?)*
+*(não sai)*
