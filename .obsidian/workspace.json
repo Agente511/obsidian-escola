@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
+                "file": "11ºAno/Geologia/D4 4. Recursos Hidrogeológicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para D3 2. Mecanismos de Evolução"
+              "title": "Backlinks para D4 4. Recursos Hidrogeológicos"
             }
           },
           {
@@ -185,7 +185,8 @@
               "title": "Nova aba"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
