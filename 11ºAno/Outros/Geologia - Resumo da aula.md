@@ -1,6 +1,6 @@
 ### Tipos de aquíferos
 Depois vimos que os aquíferos podem ser de 2 tipos:
-- Os **aquíferos livres** têm como **limite superior** uma **camada permeável**, que permite a passagem da água vinda da superfície e que assim recarrega o aquífero rapidamente, e tem como **muro** uma **camada impermeável** que permite o armazenamento da água.
+- Os **aquíferos livres** têm como **limite superior** uma **camada permeável**, que permite a passagem da água vinda da superfície que recarrega o aquífero rapidamente, e tem como **muro** uma **camada impermeável** que permite o armazenamento da água.
   Nestes aquíferos, como a **zona acima do nível freático é não saturada**, a **pressão da água** no **nível freático** é igual à **pressão atmosférica** e, por isso, se fizéssemos um furo até ao nível freático, a água permaneceria no mesmo nível.
 - Já os **aquíferos cativos ou confinados** são limitados por **camadas impermeáveis**, tanto acima como abaixo, o que obriga a que as suas **recargas** sejam feitas **lateralmente** e de forma **mais demorada**, já que a água não consegue atravessar as camadas que estão diretamente por cima do aquífero. Deste modo, o **nível da água varia pouco ao longo do ano**, ao contrário do que acontece nos aquíferos livres. Verifica-se ainda que a pressão da água na superfície dos aquíferos confinados é superior à pressão atmosférica e que, por isso, se fosse feito um furo até essa profundidade, a água tenderia a subir ao longo do furo.
 ### Tipos de poluição
