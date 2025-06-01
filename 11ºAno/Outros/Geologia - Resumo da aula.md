@@ -15,3 +15,11 @@ A água pode ser poluída como resultado de diferentes atividades antrópicas, c
 - também a atividade **industrial**, principalmente a **petroquímica**, a **metalúrgica** e a **alimentar**, causa poluição, ao lançar resíduos líquidos não tratados nos solos ou nas linhas de água.
 - Já o **lixo urbano**, mesmo que depositado em **aterros sanitários** pode transformar-se em materiais que contaminam os aquíferos, de forma **irremediável**, caso **não sejam tratados** ou ocorra uma **fuga**, como é o caso das **águas lixiviantes**.
 
+### Sobre-exploração de um aquífero
+A própria sobre-exploração de um aquífero, ou seja, o **consumo de mais água do que a produzida pelos aquíferos**, pode tornar a água imprópria para consumo. Por exemplo, numa zona costeira, ao bombear uma grande quantidade de água doce do aquífero, a água salgada subterrânea irá avançar e atingir a captação, por ser **mais densa**, ocorrendo uma **intrusão** da mesma.
+
+### Medidas para preservar os aquíferos 
+Percebemos então que devemos tomar diversas medidas para preservar as águas subterrâneas, como, por exemplo,
+- a **fiscalização** de quem **polua ilegalmente os recursos hidrogeológicos**
+- a **análise periódica da qualidade da água** captada para consumo
+- e, principalmente, a **sensibilização das populações para o uso correto da água**
