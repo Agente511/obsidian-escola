@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Outros/Geologia - Resumo da aula.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "4f5e08690fe3545a",
