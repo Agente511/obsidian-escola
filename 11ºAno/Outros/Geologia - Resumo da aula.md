@@ -1,0 +1,3 @@
+Depois vimos que os aquíferos podem ser de 2 tipos:
+- Os **aquíferos livres** têm como **limite superior** uma **camada permeável**, que permite a passagem da água vinda da superfície e que assim recarrega o aquífero rapidamente, e tem como **muro** uma **camada impermeável** que permite o armazenamento da água.
+  Nestes aquíferos, como a **zona acima do nível freático é não saturada**, a **pressão da água** no nível freático é igual à pressão atmosférica.
