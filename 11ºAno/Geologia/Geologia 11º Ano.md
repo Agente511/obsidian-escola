@@ -1,6 +1,6 @@
 ---
 toc: true
-title: Geologia
+title: Geologia 11º Ano
 ---
 ###### ÍNDICE
 - [[11ºAno/Geologia/D1 1. Minerais.md|D1 1. Minerais]]
