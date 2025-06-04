@@ -59,8 +59,7 @@ A **hidrólise** do ATP origina **ADP + Pi**, libertando energia para os process
 A **oxidação** de moléculas orgânicas **liberta eletrões (juntamente com um H$^+$) que se podem ligar ao NADP$^+$**, **originando NADPH**, que fica **reduzido**.
 A **oxidação** do NADPH permite **libertar os eletrões** (2e$^-$) e o **H$^+$**.
 ![[Pasted image 20240505122443.png]]
-#### Fase fotoquímica (dependente diretamente da luz)
- 
+### Fase fotoquímica (dependente diretamente da luz)
 Durante esta fase, a energia luminosa é utilizada para **produzir moléculas de ATP** (energia química) e **NADPH** (molécula com poder redutor). A **captação da luz** é feita pelos **pigmentos fotossintéticos**, organizados em **2 fotossistemas** (fotossistema II e fotossistema I), presentes na **membrana dos tilacoides**.
 1. Os pigmentos fotossintéticos absorvem luz solar.
 2. Os seus eletrões sobem de nível de energia e, seguidamente, podem regressar ao nível energético inicial, libertando energia.

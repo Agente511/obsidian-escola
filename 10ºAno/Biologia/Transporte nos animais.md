@@ -1,7 +1,6 @@
 Os animais necessitam de realizar trocas de substâncias com o meio envolvente, de modo a assegurar o correto funcionamentos das suas células, que necessitam de oxigénio e nutrientes, bem como de eliminar dióxido de carbono e outros produtos resultantes do metabolismo.
 As **células encontram-se num meio líquido**, que garante uma **difusão mais eficaz** destas substâncias.
 ## Animais sem sistema de transporte
----
 Animais de **constituição mais simples** efetuam **trocas de substâncias diretamente com o meio**, por terem poucas camadas de células, dispensando a existência de um sistema de transporte.
 
 Alguns animais mais complexos também não têm um sistema de transporte.
@@ -16,12 +15,11 @@ Alguns animais mais complexos também não têm um sistema de transporte.
 >- ...
 
 ## Sistemas de transporte
----
 Os animais mais complexos têm cavidades gastrovasculares que não são suficientemente eficientes para assegurar o transporte de substâncias para todas as células do corpo, sendo necessário um sistema de transporte, denominado **sistema circulatório**, com 3 componentes essenciais:
 - fluido/líquido circulante
 - vasos de transporte
 - sistema muscular de bombeamento (geralmente, o coração)
-#### Sistema circulatório aberto/lacunar
+### Sistema circulatório aberto/lacunar
 Neste tipo de sistema circulatório, um ou mais corações bombeiam o líquido circulante através de um conjunto de vasos transportadores, **levando-o uma série de cavidades denominadas lacunas**. 
 
 Nos animais com sistema circulatório aberto, o fluido circulante é apenas a **hemolinfa** (porque não há distinção entre o líquido que circula nos vasos sanguíneos e o que banha as células), que abandona os vasos sanguíneos, estando presente no **hemocélio** (conjunto de lacunas) e **banhando diretamente as células** dos diversos tecidos, fornecendo-lhes nutrientes e recebendo produtos de excreção. A **hemolinfa entra nos corações através dos ostíolos**.
@@ -59,9 +57,8 @@ Os animais com este sistema circulatório têm ainda um 2º fluido circulante, d
 
 ![[Pasted image 20240530004313.png]]
 ## Sistemas circulatórios nos vertebrados
----
 Os vertebrados possuem **sistemas circulatórios fechados**, mas estão organizados de maneira distinta e os seus corações possuem diferentes números de cavidades.
-#### Peixes
+### Peixes
 - **Circulação simples** (sangue passa só uma vez pelo coração em cada circuito corporal)
 - Possui **2 câmaras cardíacas/cavidades**:
 	- 1 aurícula
@@ -73,11 +70,11 @@ Os vertebrados possuem **sistemas circulatórios fechados**, mas estão organiza
 3. Saído do ventrículo, o sangue é conduzido pela **aorta ventral** para **irrigar as brânquias**
 4. Nas brânquias ocorre **hematose branquial** (trocas gasosas), convertendo o sangue **venoso em arterial**
 5. O sangue circula para a **aorta dorsal** que se ramifica, conduzindo o sangue a todo o corpo.
->[!Tip] Nota
+>[!Info] Nota
 >A **passagem do sangue pela rede de capilares branquiais** leva a uma **diminuição da pressão sanguínea**, **diminuindo a eficácia de oxigenação** nos restantes tecidos
 
 ![[Pasted image 20240530152619.png]]
-#### Anfíbios
+### Anfíbios
 - **Circulação dupla** (sangue passa 2 vezes pelo coração em cada circuito corporal) e **incompleta** (ocorre mistura parcial entre o sangue arterial e venoso)
 - Possui **3 câmara cardíacas/cavidades**:
 	- 2 aurículas
@@ -91,13 +88,13 @@ Os vertebrados possuem **sistemas circulatórios fechados**, mas estão organiza
 4. 
    - Nos **pulmões** o sangue é oxigenado, passando de **venoso a arterial**
    - Na **rede de capilares** que existe em todos os orgãos, o sangue passa de **arterial a venoso**
->[!Tip] Nota - Mistura de sangue nos anfíbios
+>[!Info] Nota - Mistura de sangue nos anfíbios
 >Apesar da mistura parcial de sangue venoso com sangue arterial no ventrículo, esta circulação dupla permite que o sangue circule com uma pressão mais elevada do que nos peixes, o que permite um **fluxo mais rigoroso de sangue para os diversos tecidos**.
 >
 >Além disso, a **não simultaneidade das contrações** (estrutura anatómica) e a **prega espiral no cone arterial** são aspetos que **atenuam a mistura de sangue** no coração dos anfíbios.
 
 ![[Pasted image 20240530164515.png]]
-#### Mamíferos e Aves
+### Mamíferos e Aves
 - **Circulação dupla** (sangue passa 2 vezes pelo coração em cada circuito corporal) e **completa**. (Há separação total entre o sangue venoso e o sangue arterial, graças ao **septo**)
 - Possui **4 câmaras cardíacas/cavidades**:
 	- 2 aurículas
@@ -112,16 +109,16 @@ Os vertebrados possuem **sistemas circulatórios fechados**, mas estão organiza
 3. A **sístole ventricular** (contração dos ventrículos) ocorre simultaneamente nos ventrículos:
    - O **ventrículo direito** bombeia o **sangue venoso** para os **pulmões** (circulação pulmonar/pequena circulação) através da **artéria pulmonar**
    - O **ventrículo esquerdo** bombeia o **sangue arterial** para os **restantes orgãos** (circulação sistémica/grande circulação) através da **artéria aorta**
->[!Tip] Nota - Curvatura da aorta
+>[!Infi] Nota - Curvatura da aorta
 >- Nos **mamíferos** a aorta apresenta uma **curvatura para o lado esquerdo**
 >- Nas **aves** a aorta apresenta uma **curvatura para o lado direito**
 
->[!Tip] Nota - Espessura do ventrículo esquerdo
+>[!Info] Nota - Espessura do ventrículo esquerdo
 >O ventrículo esquerdo é **mais espesso** do que o ventrículo direito, devido à maior pressão do sangue arterial.
 4. 
    - Nos **pulmões** o sangue é oxigenado, passando de **venoso a arterial**
    - Na **rede de capilares**, que existe em todos os orgãos, o sangue passa de **arterial a venoso**
->[!Tip] Nota - Circulação completa
+>[!Info] Nota - Circulação completa
 >A **circulação completa** permite uma **elevada eficácia de oxigenação de tecidos** e, por isso, uma **maior capacidade energética**.
 >Esta energia é utilizada para a **manutenção de uma temperatura corporal constante** (animais **homeotérmicos**), tornando-os mais independentes das variações ambientais de temperatura e adaptáveis a locais diversos em termos de condições térmicas. 
 
@@ -135,17 +132,15 @@ Os vertebrados possuem **sistemas circulatórios fechados**, mas estão organiza
 >![[Pasted image 20240530180547.png]]
 
 ## Fluidos circulantes nos sistemas circulatórios fechados
----
-#### Sangue
+### Sangue
 O sangue é formado por **plasma** (parte líquida) e por **elementos figurados**.
 ![[Pasted image 20240530180850.png]]
-#### Linfa
+### Linfa
 A linfa difere do sangue por **não possuir hemácias nem plaquetas**.
 ![[Pasted image 20240530181206.png]]
 
 Parte da linfa circula nos **canais linfáticos** (**linfa circulante**) e outra parte **banha as células** (linfa intersticial), tornando **mais eficaz as trocas de substâncias**. 
 ## Sistema linfático
----
 Os animais com sistema circulatório fechado, para além de um sistema sanguíneo, também possuem um sistema linfático.
 
 Estes sistemas estão intimamente relacionados:

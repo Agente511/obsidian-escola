@@ -3,7 +3,6 @@ Na respiração celular, as células obtém energia à custa de compostos de car
 Nos seres multicelulares mais complexos não é possível ocorrem trocas gasosas diretamente com o meio, sendo estas feitas através de estruturas especializadas.
 
 ## Trocas gasosas nas plantas
----
 - Durante a **fotossíntese**, a planta **capta dióxido de carbono** e **liberta oxigénio**.
 - Durante a **respiração**, a planta **capta oxigénio** e **liberta dióxido de carbono**.
 - Durante a **transpiração**, a planta **liberta vapor de água**.
@@ -35,12 +34,8 @@ As células estomáticas apresentam uma estrutura diferente das células vizinha
 3. Quando o **transporte ativo cessa**, os **iões K$^+$ saem das células por difusão**, o que conduz a uma **diminuição da pressão osmótica** e, consequentemente, ocorre **saída de água**.
    Devido à **diminuição de turgescência** das células, estas **aproximam-se** e o **estoma fecha**.
 #### Concentração de CO$_2$
->*(Não sei se demos isto)*
-
 A **diminuição de CO$_2$**, relacionada com a fotossíntese, nos espaços intercelulares das células das folhas causa a **abertura dos estomas**. Durante este processo, formam-se certos solutos no interior das células estomáticas, o que provoca a entrada de águas nas mesmas.
 #### Luz
->(*Não sei se demos isto, mas é um pouco óbvio*)
-
 Na **presença de luz**, ocorre a fotossíntese e o **estoma abre**.
 Na **obscuridade**, a fotossíntese não se realiza e o **estoma fecha**.
 
@@ -53,7 +48,6 @@ Na **obscuridade**, a fotossíntese não se realiza e o **estoma fecha**.
 >- Aumento de temperatura (se for excessivo os estomas fecham-se)
 >- Elevada humidade atmosférica
 ## Trocas gasosas nos animais
----
 - **Hematose**: consiste na **entrada de oxigénio** e **saída de dióxido de carbono** por **difusão**.
 ### Superfícies respiratórias
 As trocas gasosas ocorrem em **superfícies respiratórias** que podem ser de vários tipos. No entanto, têm uma série de características comuns que permitem **aumentar a eficácia das trocas gasosas**:
@@ -62,20 +56,18 @@ As trocas gasosas ocorrem em **superfícies respiratórias** que podem ser de v�
 - são **muito vascularizadas**, para **facilitar o contacto com o fluido circulante**;
 - a sua **morfologia** permite uma **grande superfície de contacto entre o meio interno e o meio externo**.
 
->[!Example] **Tipos de hematose**
+>[!Example] Tipos de hematose
 >- Hematose pulmonar
 >- Hematose branquial
 >- Hematose traqueal
 >- Hematose cutânea
 
 Nas superfícies respiratórias as trocas gasosas podem ocorrer por:
-- #### Difusão direta
+- ##### Difusão direta
 As trocas gasosas ocorrem **diretamente entre as células e o meio exterior**
-
-- #### Difusão indireta
+- ##### Difusão indireta
 Os gases respiratórios são **transportados por um fluido circulante até às células** e das células para o exterior, apresentando um **sistema respiratório**.
 ## Hematose cutânea
----
 Em **animais simples e de dimensões reduzidas**, os gases respiratórios **difundem-se diretamente** através da superfície corporal.
 >[!Note] **Exemplo - Difusão direta**
 >A **hidra** possui **2 camadas de células**:
@@ -96,24 +88,23 @@ Em **animais simples e de dimensões reduzidas**, os gases respiratórios **difu
 >- Os anfíbios e alguns peixes, realizam hematose cutânea em complemento à hematose pulmonar ou braquial.
 
 ## Hematose branquial
----
 A maioria dos animais aquáticos efetua a hematose em **brânquias**/guelras (**hematose branquial**). As brânquias são **evaginações da superfície do corpo** e **encontram-se em contacto direto com a água**.
 
 As brânquias podem localizar-se no exterior do corpo (brânquias externas) ou estarem protegidas por estruturas especializadas, no interior do corpo (brânquias internas/protegidas).
 
->[!Tip] **Nota**
+>[!Info] Nota
 >Certos anfíbios, como rãs e triões, possuem brânquias **apenas durante a fase larvar**, **perdendo-as durante as metamorfoses que sofrem até chegar à fase adulta**.
 >Na fase adulta, apresentam hematose cutânea e pulmonar.
 
 Nos **peixes ósseos**, as brânquias encontram-se numa cavidade chamada **câmara branquial**, protegidas por uma estrutura óssea móvel chamada **opérculo**.
 As brânquias são **banhadas por água** que **entra pela boca e sai pela fenda opercular**. Esta circulação de água é ajudada pelos movimentos coordenados de abertura e fecho da boca e dos opérculos.
 
->[!Example] **Constituição das brânquias**
+>[!Info] Constituição das brânquias
 >As brânquias são constituídas por séries de filamentos duplos, inseridos obliquamente em estruturas ósseas chamadas **arcos branquiais**.
 >Cada **filamento branquial** possui um **vaso sanguíneo aferente** (por onde o sangue entra) e um **vaso sanguíneo eferente** (por onde o sangue sai). Entre estes 2 vasos existe uma **densa rede de capilares**, que está contida em dilatações do filamento branquial chamadas **lamelas**.
 
 A eficiência da hematose branquial é aumentada pelo mecanismo de contracorrente, no qual a água flui no sentido contrário da corrente sanguínea.
-#### Mecanismo de contracorrente
+### Mecanismo de contracorrente
 A água que entra pela boca do peixe passa por entre as **lamelas branquiais**, cruzando-se em sentido contrário com o fluxo sanguíneo nos capilares.
 
 O sangue, ao circular nos capilares, vai **ficando cada vez mais rico em oxigénio** e, dado que circula em sentido contrário ao da água, vai contactando com a água que é sucessivamente mais rica em oxigénio. Mantém-se, assim, um **coeficiente de difusão elevado**, o qual permite que **cerca de 80% do oxigénio se difunda para o sangue**.
@@ -122,7 +113,6 @@ Simultaneamente, e pelo mesmo mecanismo, o **dióxido de carbono difunde-se em s
 ![[Pasted image 20240612194709.png]]
 
 ## Hematose traqueal
----
 Os **insetos e outros artrópodes terrestres** possuem um sistema respiratório constituído por uma **rede de tubos de ar** existente por todo corpo.
 
 As **traqueias** (tubos de maior calibre) possuem **aberturas para o exterior do corpo**, chamadas **espiráculos**. As traqueias vão-se ramificando em **traquíolas** (tubos mais finos), cuja **parte terminal é revestida por um epitélio húmido**, que chega a quase todas as células e **onde ocorre a difusão direta dos gases respiratórios**.
@@ -132,7 +122,6 @@ As traqueias possuem na sua parede uma estrutura quitinosa enrolada em forma de 
 ![[Pasted image 20240614171938.png]]
 
 ## Hematose pulmonar
----
 Os **vertebrados terrestres** realizam trocas gasosas ao nível dos **pulmões**. Estas **superfícies respiratórias invaginadas** no interior do corpo variam em complexidade.
 
 > [!Info]
@@ -140,14 +129,14 @@ Os **vertebrados terrestres** realizam trocas gasosas ao nível dos **pulmões**
 
 ![[Pasted image 20240615120649.png]]
 
-#### Anfíbios
+### Anfíbios
 Possuem os **pulmões mais simples**. Como a hematose pulmonar é **complementada por uma hematose cutânea** neste grupo de animais, os anfíbios encontram-se **bastante dependentes da próxima de água**, de forma a **manter a sua pele sempre húmida**.
-#### Répteis
+### Répteis
 Possuem **pulmões um pouco mais desenvolvidos**, estando **mais adaptados à vida terrestre** que os anfíbios.
-#### Aves
+### Aves
 Possuem **pulmões mais complexos**, sendo **animais homeotérmicos** e com **metabolismo elevado**.
 
->[!Example] **Ventilação nas aves**
+>[!Example] Ventilação nas aves
 >Nas aves, a ventilação é **unidirecional** e mais complexa que a dos mamíferos.
 >
 >Para além dos **pulmões** possuem **8 ou 9 sacos aéreos**, **localizados por quase todo o corpo**.
@@ -163,7 +152,7 @@ Possuem **pulmões mais complexos**, sendo **animais homeotérmicos** e com **me
 >
 >São precisos **2 ciclos de inspiração e expiração** para o **ar passar ao longo de todo o aparelho respiratório**.
 >![[Pasted image 20240615124043.png]]
-#### Mamíferos
+### Mamíferos
 Tal como as aves, possuem **pulmões mais complexos**, sendo **animais homeotérmicos** e com **metabolismo elevado**.
 
 >[!Example] Ventilação nos mamíferos

@@ -1,7 +1,7 @@
 O transporte de substâncias nas plantas compreende vários fenómenos.
 
 ## Síntese do transporte nas plantas
----
+  
 ![[Pasted image 20240529181428.png]]
 1. **Absorção radicular de água e de sais minerais** dissolvidos do solo.
 2. A água e os minerais, que constituem a **seiva bruta**, são **transportados para o resto do organismo** através dos **vasos xilémicos**.
@@ -10,9 +10,9 @@ O transporte de substâncias nas plantas compreende vários fenómenos.
 5. É **produzido açúcar nas folhas, através da fotossíntese**.
 6. O **açúcar é transportado na seiva elaborada**, pelo **floema**, até às restantes partes da planta, incluindo as raízes.
 ## Xilema e floema
----
+  
 O xilema e o floema encontram-se nos diversos orgãos da planta, como, por exemplo, nas **nervuras das folhas**, nos **caules** e nas **raízes**, ocorrendo associados e formando feixes com diferentes arranjos.
-#### Xilema/Tecido traqueano/Lenho 
+### Xilema/Tecido traqueano/Lenho 
 Assegura o **transporte de água e sais minerais desde a raiz até às folhas**.
 >[!Example] Constituintes do xilema
 >- ##### Elementos condutores
@@ -30,7 +30,7 @@ Assegura o **transporte de água e sais minerais desde a raiz até às folhas**.
 > 	 Tecido formado por **células vivas**, pouco diferenciadas, que desempenha importantes **atividades metabólicas**, como a fotossíntese e o armazenamento ou secreção de substâncias.
 > 
 >![[Pasted image 20240529185646.png]]
-#### Floema/Tecido crivoso/Líber
+### Floema/Tecido crivoso/Líber
 Responsável pelo **transporte de solutos orgânicos resultantes da fotossíntese e água para os outros orgãos da planta**.
 >[!Tip] Nota
 >O **transporte de solutos orgânicos** no interior da planta denomina-se **translocação**.
@@ -53,12 +53,12 @@ Responsável pelo **transporte de solutos orgânicos resultantes da fotossíntes
 >![[Pasted image 20240529190559.png]]
 
 ## Absorção radicular
----
+  
 O **sistema radicular absorve a maior parte da água e de sais minerais** necessários para o funcionamento da planta. A **epiderme radicular é permeável à água** e **possui pelos radiculares** que **aumentam a superfície de absorção**, funcionando como extensões.
 
 Tendencialmente, os **sais minerais** presentes no solo **entram para as células da raiz por transporte ativo**, criando um **gradiente osmótico** que leva à **entrada de água por osmose** desde o solo até aos vasos xilémicos existentes no interior da raiz.
 ## Transporte no xilema
----
+  
 O xilema transporta a **seiva bruta**/xilémica (constituída por água e sais minerais absorvidos pelo sistema radicular) num **fluxo ascendente rápido e intenso em direção às folhas**. 
 >[!Tip] Nota
 >O fluxo ascendente de água e sais minerais pode alcançar alturas de mais de 100 metros, nas árvores mais altas, sem a ajuda de qualquer mecanismo de bombeamento mecânico.
@@ -69,7 +69,7 @@ Na **epiderme das folhas e de alguns caules**, existem **estomas responsáveis**
 - Durante o **dia**, quando a **temperatura é mais elevada**, a **transpiração é mais intensa**
 - Durante a **noite**, quando a **temperatura ambiente diminui**, os **estomas fecham** e a **transpiração diminui de intensidade**.
 Portanto, a **energia solar influencia a ascensão xilémica**, pois esta depende, essencialmente, da **transpiração** e das **propriedades físicas da água** e pode ser explicada por **forças de pressão e de tensão**.
-#### Hipótese da pressão radicular
+### Hipótese da pressão radicular
 O **transporte ativo de sais minerais para a raiz provoca a entrada de água**. A **acumulação desta água** nos tecidos radiculares gera uma **pressão positiva na raiz** que **força a seiva bruta a subir no floema**.
 
 A pressão radicular provoca fenómenos como a **gutação**, em que o **excesso de água nas folhas é libertado pela margem da folha**. Isto ocorre devido a, durante a noite, manter-se o transporte ativo de sais minerais para o xilema, causando ascensão da seiva xilémica e acumulação de água nas folhas, já que à noite a transpiração é mínima.
@@ -77,7 +77,7 @@ A pressão radicular provoca fenómenos como a **gutação**, em que o **excesso
 A pressão radicular também causa a **exsudação**, que ocorre quando se efetuam podas tardias em certas plantas, saindo água pela zona dos cortes efetuados. 
 ![[Pasted image 20240529201938.png]]
 
->[!Tip] Nota
+>[!Info] Nota
 >A pressão radicular só ocorre em algumas plantas e com pressão radicular elevada.
 >Além disso, não é o principal mecanismo responsável pela ascensão xilémica, pois só é capaz de forçar a ascensão de seiva por alguns metros.
 >
@@ -87,7 +87,7 @@ A pressão radicular também causa a **exsudação**, que ocorre quando se efetu
 >>- Líquenes
 >>- Algas
 >>- ...
-#### Hipótese da tensão-coesão-adesão
+### Hipótese da tensão-coesão-adesão
 A saída de água por transpiração causa uma tensão **capaz de provocar a ascensão de água até ao topo das árvores mais altas**.
 >[!Tip] Nota
 >Este mecanismo é considerado o processo dominante de transporte no xilema e **só é possível devido às propriedades físicas de tensão superficial, coesão e de adesão da água**.
@@ -100,7 +100,7 @@ Para que o mecanismo de tensão-coesão-adesão funcione, é necessário haver u
 
 ![[Pasted image 20240529202610.png]]
 ## Transporte no floema
----
+  
 O floema transporta a **seiva elaborada**/floémica (constituída por produtos orgânicos resultantes da fotossíntese e água) desde as folhas **até a outras partes não fotossintéticas das plantas** onde é necessária (locais de crescimento, de armazenamento, caules, raízes, flores, frutos ou sementes).
 >[!Example] Produtos orgânicos presentes na seiva elaborada
 >- **Sacarose** (maioritário; confere **viscosidade** à seiva elaborada)
@@ -109,7 +109,7 @@ O floema transporta a **seiva elaborada**/floémica (constituída por produtos o
 >- Nucleótidos
 >- Hormonas
 >- Sais minerais
-#### Hipótese do fluxo de pressão/massa
+### Hipótese do fluxo de pressão/massa
 Um fluxo de massa ocorre quando **todas as moléculas se movimentam na mesma direção**.
 
 1. **A sacarose das células das folhas passa para as células de companhia** do floema, geralmente, por transporte ativo.

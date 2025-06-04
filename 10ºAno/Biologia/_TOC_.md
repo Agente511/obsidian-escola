@@ -1,6 +1,6 @@
 ---
 toc: true
-title: Biologia
+title: Biologia 10º Ano
 ---
 ###### ÍNDICE
 - [[10ºAno/Biologia/Diversidade biológica.md|Diversidade biológica]]

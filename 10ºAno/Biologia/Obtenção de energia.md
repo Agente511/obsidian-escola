@@ -1,5 +1,5 @@
 Para que a energia contida na matéria orgânica possa ser utilizada, são necessário processos bioquímicos que ocorrem ao nível celular.
-#### Metabolismo
+### Metabolismo
 **Conjunto de reações químicas** que envolvem a **mobilização de energia**.
 
 > [!Example] **Anabolismo e Catabolismo**
@@ -12,8 +12,7 @@ Para que a energia contida na matéria orgânica possa ser utilizada, são neces
 > ![[Pasted image 20240530190816.png]]
 
 ## ATP e NAD
----
-#### ATP
+### ATP
 A molécula de ATP é utilizada para **captar e transferir energia necessária para os processos celulares**. Esta molécula é o **composto energético intermédio mais comum** nas células, sendo considerado o **transportador universal de energia** a nível celular.
 
 Para **formar ATP** (a partir de ADP+Pi) é **captada a energia libertada por reações exoenergéticas**.
@@ -22,7 +21,7 @@ Essa energia **pode ser depois libertada**, quando ocorre **hidrólise de ATP**
 
 Para **transferir** a energia contida nos compostos orgânicos para moléculas de ATP, são realizadas reações catabólicas, em que ocorre **oxidação dos compostos orgânicos** ao longo de etapas.
 Nas diversas vias catabólicas para transferir a energia para o ATP, intervêm compostos que são **transportadores de eletrões e H$^+$**, desde o **substrato oxidado até a um acetor/aceitador final**.
-#### NAD 
+### NAD 
 O NAD (dinucleótido de adenina nicotinamida), tal como o NADP, é um **transportador de eletrões** que está **envolvido em reações de oxidação-redução** que ocorrem nas células.
 1. A **oxidação** de moléculas orgânicas **liberta eletrões** (2 e$^-$) que, juntamente com um **H$^+$**, podem **ligar-se ao NAD$^+$.**
 3. **Origina-se NADH**.
@@ -31,7 +30,6 @@ O NAD (dinucleótido de adenina nicotinamida), tal como o NADP, é um **transpo
 >A oxidação do NADH permite libertar os eletrões (2 e$^-$) e o H$^+$.
 
 ## Reações catabólicas que permitem obter energia
----
 As reações catabólicas que permitem obter energia a partir de compostos orgânicos são classificadas tendo em conta o **acetor final de eletrões**, resultante da oxidação desses compostos.
 
 Se o acetor final for uma **molécula de origem externa**, geralmente **inorgânica** (como o O$_2$), o conjunto dessas reações designa-se **respiração**.
