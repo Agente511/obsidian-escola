@@ -4,7 +4,7 @@ Nas células eucarióticas existe um conjunto de estruturas de natureza membra
 O sistema endomembranar é formado pela **membrana celular**, o **invólucro nuclear**, o **retículo endoplasmático**, o **complexo de Golgi** e as **vesículas** que dele derivam.
 ![[Pasted image 20240501154627.png]]
 ## Retículo endoplasmático
----
+ 
 Constituído por uma **extensa rede de membranas** que formam **túbulos e cisternas achatadas**, que **podem dar origem a vesículas**.
 >[!Example] Tipos de retículo endoplasmático (RE)
 >#### Retículo endoplasmático rugoso (RER)
@@ -24,7 +24,7 @@ Constituído por uma **extensa rede de membranas** que formam **túbulos e cis
 >![[Pasted image 20240501155750.png]]
 
 ## Complexo de Golgi
----
+ 
 Conjunto dos dictiossomas de uma célula. Cada dictiossoma é composto por **conjunto de sáculos ou cisternas achatadas e empilhadas de forma regular**, na periferia das quais existem vesículas.
 
 Está envolvido em processos de **secreção**, **síntese** e **alteração** de diversas substâncias,
@@ -39,7 +39,7 @@ tais como glicoproteínas e polissacarídeos.
 ![[Pasted image 20240501162258.png]]
 As substâncias que passam pelo complexo de Golgi são maioritariamente exportadas em vesículas, algumas das quais são lisossomas.
 ## Lisossomas
----
+ 
 **Pequenas vesículas**, relativamente esféricas, delimitadas por uma membrana e que **contêm vários tipos de enzimas**, principalmente hidrolases.
 **Formam-se na face de maturação**/face _trans_ do complexo de Golgi.
 ![[Pasted image 20240501162737.png]]

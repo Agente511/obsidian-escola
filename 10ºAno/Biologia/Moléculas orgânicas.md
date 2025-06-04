@@ -4,7 +4,6 @@ Moléculas orgânicas:
 - [[#Lípidos]]
 - [[#Ácidos nucleicos]]
 ## Glícidos/Hidratos de carbono
----
 >[!Note] Composição
 >- **Monómeros**: Monossacarídeos
 >- **Elementos fundamentais**: C, H, O
@@ -49,7 +48,7 @@ Uma grande parte destes compostos possui uma **fórmula geral** $C_x(H_2O)_y$ ou
 >	- **Ácido murâmico**: constituinte do peptidoglicano presente na parede celular das bactérias
 
 ## Prótidos
----
+ 
 >[!Note] Constituição
 >- **Monómeros**: aminoácidos
 >- **Elementos fundamentais**: C, H, O, N
@@ -149,7 +148,7 @@ As enzimas **interferem com a estabilidade das ligações dos reagentes**, **ace
 
 A atividade enzimática pode ser influenciada pelo pH, temperatura, concentração do substrato e concentração da enzima.
 ## Lípidos
----
+ 
 >[!Note] Constituição
 >- **Monómeros**: glicerol e ácidos gordos
 >- **Elementos fundamentais**: C, H, O
@@ -206,7 +205,7 @@ Têm uma estrutura molecular diferente dos restantes grupos de lípidos, apresen
 >![[Pasted image 20240428112522.png]]
 
 ## Ácidos nucleicos
----
+ 
 >[!Note] Constituição
 >- **Monómeros**: nucleótidos
 >  >[!Summary] Constituição dos nucleótidos
@@ -246,6 +245,6 @@ São as moléculas responsáveis pelo **armazenamento de informação genética*
 >![[Pasted image 20240428121055.png]]
 
 #### Replicação do troço de DNA 
->[!Warning] VER LIÇÕES 164 E 165
+>[!Warning] *(VER LIÇÕES 164 E 165)*
 #### Ligações fosfodiéster
 O **grupo fosfato** de um nucleótido e a **pentose do nucleótido seguinte** ligam-se através de ligações fosfodiéster

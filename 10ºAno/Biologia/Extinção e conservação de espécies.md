@@ -1,8 +1,5 @@
----
-Volume: "1.3"
----
 ## Extinção de espécies
----
+ 
 Qualquer **alteração significativa dos fatores bióticos ou abióticos** de um ecossistema pode **provocar um desequilíbrio** que ponha em risco o equilíbrio desse ecossistema.
 Alguma **ações e atividades do ser humano** podem ser responsáveis por esse desequilíbrio.
 
@@ -21,7 +18,7 @@ Assim, desde o surgimento das primeiras formas de vida até aos nossos dias, in�
 A extinção de espécies tem **repercussões noutras espécies** (incluindo a espécie humana).
 
 ## Serviços dos ecossistemas
----
+ 
 A biodiversidade é a base dos serviços dos ecossistemas, isto é, dos benefícios para o ser humano. Esses serviços podem ser agrupados em 4 categorias.
 >[!Example] Serviços dos ecossistemas
 >#### Suporte
@@ -37,7 +34,7 @@ A biodiversidade é a base dos serviços dos ecossistemas, isto é, dos benefíc
 >As **atividades recreativas** e a **satisfação estética** são benefícios não materiais que os ecossistemas oferecem. 
 
 ## Conservação da biodiversidade
----
+ 
 O **risco de extinção de espécies**, com consequente **perda da diversidade biológica**, **devido às atividades humanas**, conduziu à necessidade de conservação da biodiversidade
 
 >[!Example] Medidas para a conservação de espécies ameaçadas, segundo o ICNF

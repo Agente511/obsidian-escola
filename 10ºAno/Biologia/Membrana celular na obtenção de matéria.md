@@ -64,7 +64,7 @@ A **temperatura a que uma membrana solidifica depende do tipo de lípidos** que 
   Assim, o colesterol **aumenta a amplitude de temperaturas** a que **membrana é capaz de manter uma fluidez funcional**.
   ![[Pasted image 20240501001040.png]]
 ## Movimentos transmembranares
----
+ 
 A composição e a estrutura da membrana plasmática determinam que esta apresenta uma **permeabilidade seletiva**, ou seja, é mais permeável a umas substâncias do que a outras, ou mesmo impermeável a alguns compostos. Esta propriedade é responsável pela **diferente composição de fluidos intra e extracelulares** e pode variar conforme as circunstâncias.
 
 A passagem de substâncias através da membrana está dependente, entre outros fatores, da **configuração molecular dessas substâncias**. Esta pode ocorrer através de vários mecanismos:

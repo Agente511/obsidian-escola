@@ -1,6 +1,3 @@
----
-Volume: 2.0 e 2.1
----
 ## Teoria celular
 - A célula é a **unidade básica estrutural e funcional** de todos os seres vivos (isto é, todos os seres vivos são constituídos por células, onde ocorrem os processos vitais)
 - Todas as células **provêm de células preexistentes**

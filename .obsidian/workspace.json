@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Outros/Geologia - Resumo da aula.md",
+                "file": "10ºAno/Biologia/Fotossíntese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geologia - Resumo da aula"
+              "title": "Fotossíntese"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,9 +236,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d225b2064f4c39d",
+  "active": "747e01bb461da1c2",
   "lastOpenFiles": [
+    "10ºAno/Biologia/Ingestão, digestão e absorção.md",
+    "10ºAno/Biologia/Sistema endomembranar e digestão intracelular.md",
+    "10ºAno/Biologia/Transporte membranar na transmissão do impulso nervoso.md",
+    "10ºAno/Biologia/Membrana celular na obtenção de matéria.md",
+    "10ºAno/Biologia/Moléculas orgânicas.md",
+    "10ºAno/Biologia/Constituintes básicos da célula.md",
+    "10ºAno/Biologia/A Célula - Unidade estrutural e funcional.md",
     "10ºAno/Biologia/Diversidade biológica.md",
+    "10ºAno/Biologia/Níveis de organização biológica.md",
+    "10ºAno/Biologia/Extinção e conservação de espécies.md",
+    "10ºAno/Outros/Geologia - Resumo da aula.md",
     "10ºAno/Biologia/_TOC_.md",
     "10ºAno/Geologia/_TOC_.md",
     "10ºAno/Geologia/Modelo e Dinâmica da estrutura interna da geosfera.md",
@@ -254,16 +264,6 @@
     "10ºAno/Geologia/Vulcões e Placas Tectónicas.md",
     "10ºAno/Geologia/Vulcanismo Secundário.md",
     "10ºAno/Geologia/Materiais Expelidos numa erupção.md",
-    "10ºAno/Geologia/Vulcanismo Primário.md",
-    "10ºAno/Geologia/Memória dos Tempos Geológicos.md",
-    "10ºAno/Geologia/Datação Absoluta ou Radiométrica.md",
-    "10ºAno/Geologia/Datação Relativa.md",
-    "10ºAno/Geologia/Mobilismo Geológico (Placas Tectónicas).md",
-    "10ºAno/Geologia/Raciocínio Geológico.md",
-    "10ºAno/Geologia/Ciclo das rochas.md",
-    "10ºAno/Geologia/Rochas.md",
-    "10ºAno/Geologia/Interações de subsistemas.md",
-    "10ºAno/Geologia/Sistema Terra.md",
     "11ºAno/Outros",
     "10ºAno/Outros",
     "Pasted image 20250601125215.png",

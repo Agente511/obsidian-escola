@@ -1,6 +1,3 @@
----
-Volume: "1.2"
----
 A unidade fundamental da vida é a célula.
 #### Seres unicelulares
 Constituídos por uma só célula, que realiza todas as funções que garantem a vida
@@ -8,7 +5,7 @@ Constituídos por uma só célula, que realiza todas as funções que garantem a
 Formados por várias células, ocorrendo uma distribuição de funções que, no seu conjunto, garantem a sobrevivência do organismo
 
 ## Organização hierárquica dos sistemas biológicos
----
+ 
 1. Partículas subatómicas
 2. Átomo
 3. Molécula
@@ -29,7 +26,7 @@ Formados por várias células, ocorrendo uma distribuição de funções que, no
 18. Universo
 
 ## Dinâmica dos ecossistemas
----
+ 
 Um ecossistema possui
 - **componentes bióticos** (seres vivos)
 - **componentes abióticos** (fatores físicos e químicos do meio, como a luz, a temperatura, a humidade, etc)
@@ -68,7 +65,7 @@ A estrutura e o funcionamento dos ecossistemas dependem das interações que se 
 >Indivíduos da mesma espécie **disputam o mesmo recurso** do ecossistema.
 
 ## Relações tróficas
----
+ 
 Relativamente à fonte de compostos orgânicos, os seres vivos podem ser classificados como:
 #### Autotróficos
 Têm a capacidade de **produzir compostos orgânicos a partir de compostos inorgânicos**, utilizando uma **fonte externa de energia**, como a luz solar.

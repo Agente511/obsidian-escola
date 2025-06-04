@@ -1,23 +1,19 @@
 A fotossíntese é um **processo de autotrofia** que utiliza a energia da luz solar como fonte de energia, para **converter carbono inorgânico (dióxido de carbono) em carbono orgânico (hidratos de carbono / glícidos)**. As plantas, as algas e algumas bactérias, ao realizarem este processo **convertem energia luminosa em energia química**.
 
-A fotossíntese pode ser equacionada da seguinte forma:
-#### 6CO$_2 +$ 12H$_2$O $\longrightarrow$ C$_6$H$_{12}$O$_6 + 6$O$_2 +$ 6H$_2$O
-\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (glicose)
-
 > [!Info] Proveniência do oxigénio
 > A hipótese de Van Niel defende que o oxigénio libertado pelas plantas é **proveniente da molécula de água**.
 > Os resultados mostram que quando a molécula de água é marcada por um $^{18}O$, as moléculas de $O_2$ libertadas apresentam marcação (isótopo $^{18}O$). Por outro lado, quando se marca a molécula de dióxido de carbono com  $^{18}O$, as moléculas de oxigénio não apresentam marcação.
 > Assim, pode concluir-se que o **oxigénio libertado pela fotossíntese provém da molécula de água**, validando a hipótese de Van Niel.
 
 ## Captação da energia luminosa
----
+ 
 Os cloroplastos são organelos presentes nas células das plantas e de outros organismos fotoautotróficos. É constituído por um sistema de membranas onde se encontram organizados os tilacoides, agrupados em grana (plural de *granum*).
 ![[Pasted image 20240505104707.png]]
 
 Nas membranas dos tilacoides é possível encontrar **clorofilas e outros pigmentos fotossintéticos** (por exemplo, carotenoides) fundamentais para a captação da energia luminosa, organizados em unidades designadas fotossistemas.
 
 ![[Pasted image 20240505113412.png]]
-#### Efeito do comprimento de onda da luz na fotossíntese
+### Efeito do comprimento de onda da luz na fotossíntese
 Engelman pôde verificar que as bactérias aeróbias (que necessitam de oxigénio) se concentravam mais nas zonas onde incidia o **azul-violeta** e o **vermelho-alaranjado**, indicando que existe uma maior produção de oxigénio nessas zonas. Concluiu-se que essas zonas do espetro são mais eficazes para o processo fotossintético.
 ![[Pasted image 20240505112232.png]]
 
@@ -26,7 +22,7 @@ Outros trabalhos de investigação permitiram verificar que existe uma **correla
 A existência de **diferentes pigmentos** permite a **absorção de luz com diferentes comprimentos de onda**.
 Os pigmentos fotossintéticos absorvem luz sobretudo na zona **azul-violeta** e na região **vermelho-laranja**, permitindo uma **maior taxa fotossintética** nessas zonas do espetro.
 A taxa fotossintética é **muito baixa** na região do **verde**, uma vez que os pigmentos fotossintéticos não absorvem esses comprimentos de onda.
-#### Reação de oxidação-redução
+### Reação de oxidação-redução
 Quando os pigmentos fotossintéticos absorvem luz, os seus **eletrões passam para níveis de energia superiores**. Os eletrões excitados podem, seguidamente, **regressar ao nível energético inicial**, **libertando energia** que é **transmitida de molécula em molécula até atingir a clorofila *a***.
 A molécula de clorofila *a* no estado excitado, **cede eletrões a outras moléculas vizinhas**, designadas **acetores**/**aceitadores**, conduzindo a uma reação fotoquímica em que a molécula que **perde os eletrões fica oxidada**, enquanto que a **molécula acetora fica reduzida**.
 Desta forma, inicia-se a conversão de energia luminosa em energia química.
@@ -40,32 +36,31 @@ Desta forma, inicia-se a conversão de energia luminosa em energia química.
 >- **Ganho de hidrogénio** por uma substância
 >- **Ganho de eletrões** por uma substância
 ## Etapas da fotossíntese
----
-Como visto no início, a fotossíntese pode ser equacionada da seguinte forma:
-#### 6CO$_2 +$ 12H$_2$O $\longrightarrow$ C$_6$H$_{12}$O$_6 + 6$O$_2 +$ 6H$_2$O
-\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (glicose)
+ 
+A fotossíntese pode ser equacionada da seguinte forma:
+$$\begin{flalign}& 6CO_2 + 12H_2O \longrightarrow \underset{\text{(glicose)}} {C_6H_{12}O_6} + 6O_2 + 6H_2O &\end{flalign}$$
 
 A fotossíntese compreende 2 etapas
-- ##### Fase fotoquímica
+- ### Fase fotoquímica
   Etapa em que ocorrem **reações que dependem diretamente da luz** nas membranas dos tilacoides.
   A energia luminosa, captada pelos pigmentos fotossintéticos, permite produzir moléculas de ATP e NADPH, consumindo-se H$_2$O e libertando-se O$_2$.
-- #### Fase química/Ciclo de Calvin
+- ### Fase química/Ciclo de Calvin
   Etapa que **ocorre no estroma do cloroplasto**. 
   As moléculas produzidas na fase fotoquímica (ATP e NADPH), juntamente com o CO$_2$, captado, permitem a produção de compostos orgânicos.
 ![[Pasted image 20240505120138.png]]
 
-#### ATP
+### ATP
 Molécula que **armazena energia química**, utilizável pela célula.
 A **síntese** do ATP resulta da **ligação do ADP + Pi** (fosfato inorgânico) consumindo energia (**reação endergónica**/endoenergética).
 A **hidrólise** do ATP origina **ADP + Pi**, libertando energia para os processos celulares (**reação exergónica**/exoenergética).
 ![[Pasted image 20240505121725.png]]
-#### NADP
+### NADP
 **Transportador de eletrões** que está **envolvido em reações de oxidação-redução** que ocorrem nas células.
 A **oxidação** de moléculas orgânicas **liberta eletrões (juntamente com um H$^+$) que se podem ligar ao NADP$^+$**, **originando NADPH**, que fica **reduzido**.
 A **oxidação** do NADPH permite **libertar os eletrões** (2e$^-$) e o **H$^+$**.
 ![[Pasted image 20240505122443.png]]
 #### Fase fotoquímica (dependente diretamente da luz)
----
+ 
 Durante esta fase, a energia luminosa é utilizada para **produzir moléculas de ATP** (energia química) e **NADPH** (molécula com poder redutor). A **captação da luz** é feita pelos **pigmentos fotossintéticos**, organizados em **2 fotossistemas** (fotossistema II e fotossistema I), presentes na **membrana dos tilacoides**.
 1. Os pigmentos fotossintéticos absorvem luz solar.
 2. Os seus eletrões sobem de nível de energia e, seguidamente, podem regressar ao nível energético inicial, libertando energia.
