@@ -1,6 +1,6 @@
 ---
 toc: true
-title: Geologia
+title: Geologia 10º Ano
 ---
 ###### ÍNDICE
 *(na altura não organizei exatamente por domínios)*
