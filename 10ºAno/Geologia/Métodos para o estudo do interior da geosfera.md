@@ -1,10 +1,6 @@
----
-Volume: 3.0 e 3.1
----
 O conhecimento da composição e estrutura do interior da Terra é obtido através de **métodos diretos** e **indiretos**
 
 ## Métodos diretos
----
 Os métodos diretos são aqueles que permitem **estudar diretamente os materiais que nos fornecem informações do interior da Terra**. Estes processos de estudo possuem uma eficácia um pouco limitada, uma vez que, por meio destes, só é possível obter informações de uma pequena camada superficial da Terra (cerca de 12 km) quando comparada com o seu raio.
 
 #### Métodos invasivos
@@ -46,7 +42,7 @@ Obtêm-se informações sobre as propriedades dos materiais que compõem o inter
 >Os movimentos tectónicos, genericamente muito lentos, quando colocam materiais geológicos formados em profundidade à superfície, seja por meio de processos orogénicos (processos que levam à formação de montanhas), seja pela erosão, que vai "limpando" o que está à superfície, também permitem obter informações e amostras de materiais que, quando se formara, estavam no interior da Terra.
 
 ## Métodos indiretos
----
+ 
 Permitem recolher informações sobre as zonas da Terra às quais os investigadores não têm acesso e então têm de os analisar através de outros dados que os permitam fazer deduções.
 
 >[!Note] Exemplo

@@ -1,6 +1,3 @@
----
-Volume: "1.6"
----
 >[!Example] Exemplos de benefícios de episódios vulcânicos
 >- Os **solos derivados de materiais vulcânicos** são **excecionalmente férteis** por causa dos inúmeros minerais que contêm
 >- Os materiais de origem vulcânica constituem, nalgumas regiões, a principal **matéria-prima para edificação** de construções e monumentos

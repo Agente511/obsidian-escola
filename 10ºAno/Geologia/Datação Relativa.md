@@ -1,11 +1,8 @@
----
-Volume: 4.0 4.1
----
 ### Definição
----
+ 
 Processo que permite **comparar a idade** das formações geológicas. Não é possível dizer quando se formou uma rocha ou um estrato, mas sim qual o estrato que se formou antes ou depois.
 ### Fósseis
----
+ 
 **Restos de organismos** (somatofósseis) ou **vestígios da atividade** (icnofósseis) de organismos que ficaram preservados nas rochas ou outros materiais naturais
 
 >[!Example] Processos de Fossilização
@@ -22,7 +19,7 @@ Processo que permite **comparar a idade** das formações geológicas. Não é p
 >	- Fornecem dados que permitem determinar a **idade das rochas**
 >	- Correspondem a organismos que viveram durante **períodos de tempo geológico muito curtos** e ocuparam **grandes áreas dispersas pela Terra**
 ### Princípios da Estratigrafia
----
+ 
 >[!Example] Lista de princípios da estratigrafia
 >- #### Princípio da Horizontalidade Inicial
 >	- As rochas sedimentares depositam-se em **estratos** ou camadas horizontais e **qualquer evento que alteressa essa condição de horizontalidade** é **posterior à sua formação**

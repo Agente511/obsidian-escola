@@ -1,6 +1,3 @@
----
-Volume: "1.4"
----
 Os fenómenos vulcânicos ocorrem quer nas **zonas de fronteira entre placas tectónicas (zonas tectonicamente ativas)** quer no **interior das placas (zonas tectonicamente estáveis)**.
 
 >[!Example] Lista de tipos de vulcanismo

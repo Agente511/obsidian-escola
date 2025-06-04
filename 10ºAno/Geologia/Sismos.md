@@ -1,6 +1,3 @@
----
-Volume: "2.1"
----
 ### Definição
 Movimentos vibratórios da litosfera causados pela súbita libertação de energia elástica armazenada nas rochas
 
@@ -13,7 +10,7 @@ Superfície de fratura, onde ao longo da qual ocorreu um **movimento relativo en
 >[!Nota]
 >Em Portugal Continental, consideram-se **ativas** as falhas com **evidências de movimentação nos últimos 3 Ma**, sensivelmente.
 ### Comportamento das rochas sujeitas a estados de tensão
----
+ 
 >[!Example] Comportamento das rochas sujeitas a estados de tensão
 >#### Comportamento Elástico
 >Dentro do seu limite de elasticidade, a rocha recupera a sua forma inicial após a cessação do estado de tensão.
@@ -27,7 +24,7 @@ Superfície de fratura, onde ao longo da qual ocorreu um **movimento relativo en
 O comportamento frágil ou dúctil de uma rocha depende de vários fatores como o estado de tensão, composição da rocha e das condições termodinâmicas a que está sujeita.
 Os sismos formam-se quando as rochas têm comportamento frágil e atingem o seu limite de elasticidade.
 ### Teoria do Ressalto Elástico
----
+ 
 No limite da elasticidade, as rochas fraturam libertando instantaneamente grande parte da energia elástica acumulada. Devido às propriedades elásticas da geosfera, os **lados da fratura sofrem um deslocamento** que se designa **ressalto elástico** e que se caracteriza por um **movimento brusco**
 
 1. Nos **limites tectónicos**, sujeitos à **atuação de forças** compressivas, distensivas ou de cisalhamento, ocorre a **acumulação de energia elástica**
@@ -37,7 +34,7 @@ No limite da elasticidade, as rochas fraturam libertando instantaneamente grande
 ![[Pasted image 20240117200339.png]]
 
 ### Caracterização sísmica
----
+ 
 **Epicentro**: local à superfície da terra, na vertical do foco
 **Hipocentro/Foco**: local da geosfera onde ocorre a libertação de energia sísmica
 >[!Example] De acordo com a profundidade
@@ -67,7 +64,7 @@ No limite da elasticidade, as rochas fraturam libertando instantaneamente grande
 >Têm origem na ação humana, como, por exemplo, o sismo causado pela explosão no porto de Beirute em agosto de 2020
 
 #### Ondas sísmicas
----
+ 
 A **energia sísmica** propaga-se, a partir do foco, **em todas as direções**, obrigando as **partículas que constituem os materiais rochosos a vibrarem**. Estas vibrações propagam-se sucessivamente às partículas adjacentes, originando **ondas sísmicas** que fazem tremer a geosfera, atingindo a superfície terrestre com máxima energia no epicentro.
 
 Se a **composição do interior da geosfera fosse homogénea**, a energia sísmica propagar-se-ia com a **mesma velocidade em todas as direções**. Como esse não é o caso, a velocidade de propagação das ondas P e S depende das propriedades físicas dos materiais que atravessam (rigidez, densidade e incompressibilidade)
@@ -116,7 +113,7 @@ Se a **composição do interior da geosfera fosse homogénea**, a energia sísmi
 >- r: rigidez (propriedade que confere à matéria uma forma definida (rigidez dos líquidos=0))
 >- d: densidade (concentração de matéria num dado volume)
 ### Efeitos secundários da atividade sísmica
----
+ 
 Na sequência de um sismo podem ocorrer outros fenómenos naturais igualmente impactantes, como os **tsunamis** e a **liquefação de solos**.
 
 >[!Example] Tsunamis
@@ -135,7 +132,7 @@ Na sequência de um sismo podem ocorrer outros fenómenos naturais igualmente im
 >>5. **Próximo da costa**, e à medida que a profundidade diminui, as ondas **diminuem a sua velocidade** mas **aumentam de amplitude**
 >>
 | Profundidade do oceano (m) | Velocidade da onda oceânica (km/h) | Comprimento de onda (km) |
-| ---- | ---- | ---- |
+|  - |  - |  - |
 | 4000 | 713 | 213 |
 | 50 | 79 | 23 |
 | 10 | 36 | 11 |

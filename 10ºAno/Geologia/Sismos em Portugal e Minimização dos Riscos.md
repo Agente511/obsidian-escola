@@ -1,21 +1,18 @@
----
-Volume: "2.6"
----
 ### Portugal Continental
----
+ 
 Portugal Continental, no contexto da tectónica de placas, situa-se na **Placa Euroasiática**, limitada a sul pela **Falha Açores-Gibraltar** (fronteira entre as placas Euroasiática e Africana)
 
 ### Arquipélago da Madeira
----
+ 
 Situado na **Placa Africana**, a **sismicidade é reduzida**
 
 ### Açores
----
+ 
 Devido ao seu enquadramento tectónico (o arquipélago está localizado numa junção tripla entre as placas Norte-Americana, Euroasiática e Africana), nomeadamente à **Falha da Glória**, ao **Rifte da Terceira** e à **Dorsal Médio-Atlântica**
 
 
 ### Minimização do risco sísmico
----
+ 
 ![[Pasted image 20240118202805.png]]
 Medidas de proteção de tsunamis em zona de orla costeira:
 - Barreiras oceânicas

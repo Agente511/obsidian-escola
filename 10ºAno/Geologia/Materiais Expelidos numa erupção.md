@@ -1,8 +1,5 @@
----
-Volume: "1.2"
----
 ### Definição
----
+ 
 Durante as erupções vulcânicas são libertados diversos tipos de produtos:
 - Piroclastos/tefra
 - Lava
@@ -11,7 +8,7 @@ Durante as erupções vulcânicas são libertados diversos tipos de produtos:
 Os piroclastos podem arrefecer e solidificar no trajeto ou ao atingir o solo, podendo deformar-se aquando do impacto com o solo
 
 ### Tipos de Piroclastos
----
+ 
 Os piroclastos são classificados pelo seu tamanho
 >[!Example] Piroclastos de Queda (atingem o solo por queda livre)
 >- **Poeiras vulcânicas**: 
@@ -43,7 +40,7 @@ Os piroclastos são classificados pelo seu tamanho
 >	- Emissão de materiais vulcânicos muito finos que se movimentam saturados em água
 
 ### Composição Lava
----
+ 
 A quantidade de sílica (SiO$_2$) é um importante parâmetro de classificação das lavas:
 - **Lava básica**: <52% sílica
 - **Lava intermédia**: 52-65% sílica
@@ -64,7 +61,7 @@ A quantidade de sílica (SiO$_2$) é um importante parâmetro de classificação
 > Uma rocha com uma grande quantidade de vesículas (espaços vazios) e com origem em lavas viscosas é denominada **pedra-pomes**. Esta rocha é resultante de um arrefecimento súbito da lava ácida (rica em sílica).
 
 ### Tipos de solidificações de lava
----
+ 
 >[!Example] Tipos de solidificações de lavas fluídas (pouco viscosas)
 >- **Lavas encordoadas/Pahoehoe**:
 >	- Lavas muito pouco viscosas
@@ -94,7 +91,7 @@ A quantidade de sílica (SiO$_2$) é um importante parâmetro de classificação
 >	- Por vezes, os gases expelidos combinam-se entre si, formando gases tóxicos
 
 ### Tipos de erupção e formas de relevo
----
+ 
 A viscosidade da lava determina as características da erupção vulcânica:
 - **Lavas pouco viscosas:** erupções calmas ou efusivas (deve-se a estas lavas permitirem que os gases se escapem suavemente)
 - **Lavas muito viscosas:** erupções violentas do tipo explosivo, podendo causar a destruição parcial ou total do aparelho vulcânico (deve-se a estas lavas reterem os gases)

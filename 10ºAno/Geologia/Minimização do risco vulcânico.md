@@ -1,8 +1,4 @@
----
-Volume: "1.5"
----
 ### Perigosidade
----
 As manifestações primárias do vulcanismo constituem um risco natural para o Homem. A **definição das zonas de maior perigosidade vulcânica** pode ser feito através de uma **carta de risco vulcânico**
 
 O risco vulcânico depende essencialmente da **densidade populacional**, bem como das **atividades humanas aí desenvolvidas**
@@ -19,16 +15,16 @@ A perigosidade pode ainda ser agravada pela:
 - eficácia do sistema de alarme
 
 ### Medidas de minimização de riscos
----
+ 
 ![[Pasted image 20231129201146.png]]
 ### Medidas de autoproteção
----
+ 
 Uma população informada dos perigos associados à proximidade de uma zona vulcânica ativa está mais bem preparada para encarar e ultrapassar situações de emergência
 
 ![[Pasted image 20231129201611.png]]
 
 ### Previsão
----
+ 
 Este é o meio mais eficaz para minimizar os efeitos da erupção.
 Uma forma de **estimar o comportamento futuro de um vulcão** é conhecer a sua **atividade no passado**
 #### Aspetos da reconstituição da história eruptiva de um vulcão ativo

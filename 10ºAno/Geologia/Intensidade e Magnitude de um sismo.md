@@ -1,9 +1,6 @@
----
-Volume: "2.3"
----
 Para um sismo existe apenas **uma magnitude**, mas **várias intensidades**.
 ### Intensidade
----
+ 
 Avalia um sismo em função do grau de percepção que a população teve dele e do seu **grau de destruição**, sendo **determinada pelo preenchimento de um questionário** padrão distribuído pelas entidades oficiais.
 
 Para definir a intensidade de um sismo numa determinada área utiliza-se a Escala Internacional ou  **Escala de Mercalli Modificada**, com **12 graus**
@@ -30,7 +27,7 @@ A **capacidade vibratória** das ondas sísmicas **diminui à medida que elas se
 >![[Pasted image 20240118191206.png]] Mapa de isossistas do terramoto de Lisboa de 1755.
 
 ### Magnitude
----
+ 
 Avalia um sismo em função da **quantidade de energia libertada no hipocentro**, sendo **determinada pela máxima amplitude das ondas sísmicas registadas nos sismogramas** para distâncias conhecidas entre o hipocentro e a estação sísmica.
 
 Para definir a magnitude de um sismo utiliza-se a **Escala de Richter**, que é uma escala aberta, ou ao seja, **não tem limite máximo**, uma vez que aumenta à medida que aumenta a quantidade de energia libertada no hipocentro, e **logarítmica**, ou seja, a subida de uma unidade representa um aumento de **energia libertada** cerca de **30 vezes maior**. No entanto, é reduzido o registo de sismos com magnitude superior a 9. É também **quantitativa** e **objetiva**, calculada a partir de dados fornecidos pelos sismogramas, ao contrário da escala de intensidades, que é **qualitativa** e **subjetiva**.

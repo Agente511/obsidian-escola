@@ -1,8 +1,5 @@
----
-Volume: "2.4"
----
 ### Descontinuidades
----
+ 
 Durante a expansão das ondas sísmicas, a partir do foco, uma frente de onda sísmica encontra zonas de separação entre meios com propriedades elásticas distintas (**rigidez**, **incompressibilidade** e **densidade**), denominadas **descontinuidades**.
 
 >[!Example] Descontinuidades da geosfera
@@ -23,7 +20,7 @@ Durante a expansão das ondas sísmicas, a partir do foco, uma frente de onda s�
 >![[Pasted image 20240118194513.png]]
 
 ### Zona de Sombra
----
+ 
 Gutenberg observou que para cada sismo, existe um **setor da superfície terrestre** onde é **impossível registar ondas sísmicas diretas**, designando-o **zona de sombra sísmica**.
 
 >[!Info] Motivo do fenómeno

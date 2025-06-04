@@ -1,14 +1,11 @@
----
-Volume: "4.3"
----
-Para melhor compreender e sistematizar os acontecimentos na Terra, os geólogos dividiram a história da Terra, construindo a **Escala do Tempo Geológico**/Escala Cronostratigráfica.
+Para melhor compreender e sistematizar os acontecimentos na Terra, os geólogos dividiram a história da Terra, construindo a Escala do Tempo Geológico/Escala Cronostratigráfica.
 
 >[!Info] +Info
 >- Admite-se que o único mineral que resistiu à reciclagem da crusta primitiva foi o **zircão**
 >- Alguns vulcões têm quase a idade do planeta
 
 ### Escala do Tempo Geológico
----
+ 
 Divide os 4600 Ma da História da Terra em
 - Éones
 - Eras
