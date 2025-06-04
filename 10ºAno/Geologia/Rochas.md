@@ -1,14 +1,8 @@
----
-Volume: "2"
-"":
----
 ### Escalas de estudo
----
 - **Mesoscópica**: em afloramento, na superfície da geosfera
 - **Macroscópica**: em amostra de mão
 - **Microscópica**: em lâmina delgada (microscópio)
 ### Rochas Sedimentares
----
 **Agregados naturais** de partículas (**sedimentos**)
 orgânicas (restos de seres vivos (conchas, esqueletos, etc)
 ou inorgânicas (fragmentos de rochas meteorizadas e erodidas + substâncias químicas/precipitados químicos). 
@@ -50,7 +44,7 @@ ou inorgânicas (fragmentos de rochas meteorizadas e erodidas + substâncias qu�
 >	- **Negativa**: Sedimentos de menor dimensão na base e maiores no topo. Indicia uma diminuição do nível médio do oceano, com **regressão marinha** (que ocorre em períodos de glaciação)
 
 ### Rochas Magmáticas
----
+  
 >[!Summary] Formação
 >Arrefecimento e solidificação do magma
 
@@ -74,7 +68,7 @@ ou inorgânicas (fragmentos de rochas meteorizadas e erodidas + substâncias qu�
 >	- ***Stocks***: Dimensão inferior a 100 km$^2$
 
 ### Rochas Metamórficas
----
+  
 >[!Summary] Formação
 >**Metamorfismo**: Alterações na textura e/ou composição mineralógica das rochas, por ação da temperatura, pressão, tempo e fluídos.
 >>[!Example] Tipos de Metamorfismo

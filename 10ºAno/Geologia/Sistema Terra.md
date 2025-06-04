@@ -1,8 +1,4 @@
----
-Volume: "1.1"
----
 ### Tipo
----
 O planeta Terra é considerado um
 **Sistema Fechado**:
 - Faz trocas de energia
@@ -26,10 +22,10 @@ e um **Sistema Composto**:
 - Constituído por vários subsistemas (atmosfera, hidrosfera, biosfera, geosfera...)
 
 ### Subsistemas
----
+ 
 >[!Example] 4 Subsistemas abertos, que interagem entre si:
 >### Atmosfera
->---
+> 
 >Invólucro gasoso da Terra
 >##### Funções:
 >- Regular o clima
@@ -54,7 +50,7 @@ e um **Sistema Composto**:
 >- Outros gases
 >
 >### Hidrosfera
->---
+> 
 >Toda a água no estado líquido e sólido na superfície da Terra (inclui subsolo)
 >
 >##### Funções:
@@ -65,14 +61,14 @@ e um **Sistema Composto**:
 >- Atividade biológica
 >
 >### Biosfera
->---
+> 
 >Todos os seres vivos e matéria orgânica (vacas, húmus, madeira dos móveis, papel, etc)
 >
 >##### Limites
 >Muito difusos mas pode-se dizer que as formas de vida ocupam as zonas mais elevadas da troposfera e as zonas mais profundas dos oceanos.
 >
 >### Geosfera
->---
+> 
 >Parte sólida do planeta Terra
 >
 >##### Funções

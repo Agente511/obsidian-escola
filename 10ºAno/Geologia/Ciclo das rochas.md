@@ -1,6 +1,3 @@
----
-Volume: "2.4"
----
 A formação das rochas resulta da ação conjugada da geodinâmica interna e externa.
 
 ![[Imagem WhatsApp 2023-10-18 às 19.42.50_5f7bd50e.jpg]]
