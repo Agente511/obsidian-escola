@@ -23,5 +23,21 @@ Ao adicionar gradualmente um composto a um determinado solvente, a temperatura e
 	A **concentração da solução é igual ao valor da solubilidade** ($c=s$), sendo **impossível dissolver mais sal**.
 - ##### Solução sobressaturada
 	A **concentração da solução é superior ao valor da solubilidade** ($c>s$).
-	Ocorre **cristalização** (formação de precipitado).
+	Ocorre **cristalização** (formação de precipitado). ^f1593f
 
+>[!Note] Exemplo
+>![[Sem título 1.jpg|500]]
+
+## Produto de solubilidade
+Numa **[[#^f1593f|solução sobressaturada]]**, apesar de não ser possível dissolver todo o sal, a **dissolução não acabou**, verifica-se uma **troca de iões** na **superfície de separação entre a solução e os cristais do sal**.
+
+>[!Note] Exemplo
+>No exemplo da dissolução de $NaCl$ em 100 g de água:
+>- Iões do cristal de cloreto de sódio passam para a solução: $NaCl\ (s) \overset{H_2O} \longrightarrow Na^+\ (aq) + Cl^-\ (aq)$
+>- E outros iões regressam à superfície do cristal de cloreto de sódio: $Na^+\ (aq) + Cl^-\ (aq) \longrightarrow NaCl\ (s)$
+>
+>Estes dois processos ocorrem simultaneamente e com a mesma velocidade: $NaCl\ (s) \overset{H_2O} \rightleftharpoons Na^+\ (aq) + Cl^-\ (aq)$
+>
+>![[Sem título 2.jpg|250]]
+
+Assim, estabelece-se um **equilíbrio químico dinâmico e heterogéneo** entre um sal precipitado e os iões desse sólido iónico (sal) em solução saturada designado por **equilíbrio de solubilidade**, $K_s$.
