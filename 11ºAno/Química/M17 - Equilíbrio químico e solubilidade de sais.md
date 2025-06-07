@@ -4,6 +4,9 @@ A **água** tem um **grande poder de dissolução**.
 Os **sais**, por seu lado, têm **diferentes solubilidades**, existindo para cada um um **limite máximo para a sua dissolução**.
 
 A solubilidade, $s$, é a **quantidade máxima de soluto** (usualmente em massa (g)) que se **pode dissolver numa quantidade específica de solvente** (usualmente 100 g), em determinadas condições de pressão e temperatura. Pode também estar em mol/dm$^3$.
+>[!Info] Nota
+>A solubilidade, em mol/dm$^3$ é calculada como a concentração ($)
+
 
 Ao adicionar gradualmente um composto a um determinado solvente, a temperatura e a pressão constantes e sob agitação contínua, verifica-se que **a partir de um dado momento não é possível dissolver mais soluto**.
 >[!Note] Exemplo
@@ -40,4 +43,18 @@ Numa **[[#^f1593f|solução sobressaturada]]**, apesar de não ser possível dis
 >
 >![[Sem título 2.jpg|250]]
 
-Assim, estabelece-se um **equilíbrio químico dinâmico e heterogéneo** entre um sal precipitado e os iões desse sólido iónico (sal) em solução saturada designado por **equilíbrio de solubilidade**, $K_s$.
+Assim, estabelece-se um **equilíbrio químico dinâmico e heterogéneo** entre um sal precipitado e os iões desse sólido iónico (sal) com concentração constante em solução saturada designado por **equilíbrio de solubilidade**.
+
+>[!Summary] Produto de solubilidade, $K_s$
+>A [[M5 - Equilíbrio químico e constante de equilíbrio#Constante de equilíbrio, $K_c$|constante de equilíbrio]] desta reação é denominada **constante de produto de solubilidade** ou apenas **produto de solubilidade**.
+> É uma grandeza adimensional.
+> 
+> Para um equilíbrio $A_nB_m\ (s) \overset{H_2O} \leftrightharpoons n\ A^{m+}\ (aq) + m\ B^{n-}\ (aq$) a expressão de $K_s$ é dada por:
+>$$\begin{flalign}& K_s=[A^{m+}]_e^n \times [B^{n-}]_e^m &\end{flalign}$$
+>
+>>[!Info]
+>>É retirada a concentração do sólido puro da fórmula, porque a sua **concentração é constante**.
+>>>[!Note] Exemplo
+>>>$$\begin{flalign}& K_c=\frac {[Na^{+}\ (aq)]_e^n \times [Cl^{-}\ (aq)]_e^m} {[NaCl\ (s)]_e} &\end{flalign}$$
+>>$[NaCl\ (s)]_e=$ constante
+
