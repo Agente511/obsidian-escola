@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
+                "file": "11ºAno/Química/M18 - Alteração da solubilidade de sais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M17 - Equilíbrio químico e solubilidade de sais"
+              "title": "M18 - Alteração da solubilidade de sais"
             }
           },
           {
@@ -33,6 +33,34 @@
               },
               "icon": "lucide-file",
               "title": "M9 - Acidez e basicidade de soluções"
+            }
+          },
+          {
+            "id": "cc32198b7e8bd501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Biologia/Membrana celular na obtenção de matéria.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Membrana celular na obtenção de matéria"
+            }
+          },
+          {
+            "id": "623104299bcf6310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Biologia/Transporte membranar na transmissão do impulso nervoso.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transporte membranar na transmissão do impulso nervoso"
             }
           }
         ]
@@ -223,10 +251,13 @@
   },
   "active": "ca956e339e56b525",
   "lastOpenFiles": [
+    "11ºAno/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
+    "11ºAno/Química/M18 - Alteração da solubilidade de sais.md",
+    "10ºAno/Biologia/Transporte membranar na transmissão do impulso nervoso.md",
+    "10ºAno/Biologia/Membrana celular na obtenção de matéria.md",
     "Sem título 4.jpg",
     "Sem título 3.jpg",
     "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
-    "11ºAno/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
     "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
     "11ºAno/Química/M11 - Titulação ácido-base.md",
     "Sem título 2.jpg",
@@ -251,8 +282,6 @@
     "10ºAno/Geologia/Métodos para o estudo do interior da geosfera.md",
     "10ºAno/Geologia/Sismos em Portugal e Minimização dos Riscos.md",
     "10ºAno/Geologia/Sismos e Placas Tectónicas.md",
-    "10ºAno/Geologia/Dados de Propagação de ondas sísmicas e Descontinuidades da Geosfera.md",
-    "10ºAno/Geologia/Intensidade e Magnitude de um sismo.md",
     "11ºAno/Outros",
     "10ºAno/Outros",
     "Pasted image 20250601125215.png",
@@ -260,7 +289,6 @@
     "Pasted image 20250601114442.png",
     "Pasted image 20250601111001.png",
     "Pasted image 20250601110941.png",
-    "Pasted image 20250601110340.png",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental",
     "11ºAno/Filosofia/Epistemologia",
     "11ºAno/Inglês/Vocabulary",
