@@ -57,6 +57,8 @@ Assim, estabelece-se um **equilíbrio químico dinâmico e heterogéneo** entre 
 >>>$$\begin{flalign}& K_c=\frac {[Na^{+}\ (aq)]_e^n \times [Cl^{-}\ (aq)]_e^m} {[NaCl\ (s)]_e} &\end{flalign}$$
 >>$[NaCl\ (s)]_e=$ constante
 
+>[!Info] Info
+>$K_s$ **depende exclusivamente da temperatura** e, tal como todas as constantes de equilíbrio, **não depende da presença de outras substâncias** em solução.
 ### Relação entre solubilidade e produto de solubilidade
 A expressão que relaciona a solubilidade de um sal com o seu produto de solubilidade depende da fórmula molecular do sal e, consequentemente, da **proporção estequiométrica** com que os iões se encontram na solução saturada.
 
