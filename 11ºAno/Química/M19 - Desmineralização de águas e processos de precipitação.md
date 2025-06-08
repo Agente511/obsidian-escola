@@ -18,5 +18,10 @@ Quanto **maior for a concentração total desses catiões na água**, **mais dur
 >[!Info]
 >Por convenção, considera-se que a dureza é apenas devida ao $CaCO_3$ e que corresponde à concentração total de sais, apesar de se considerar apenas a concentração dos catiões cálcio e magnésio.
 
+## Processos de diminuição da dureza da água
 As água mais duras **não são adequadas para algumas utilizações domésticas e industriais**, por
-PÁG 197
+causa dos catiões $Ca^{2+}$ e $Mg^{2+}$ formarem **sais insolúveis por ação do calor** e por **diminuírem a capacidade da água de dissolver o sabão**.
+
+De modo a diminuir a dureza da água, podem ser usados alguns processos:
+- ##### Precipitação
+## Processos de remoção de poluentes da água
