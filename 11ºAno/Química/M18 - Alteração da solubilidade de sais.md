@@ -12,6 +12,5 @@ A presença de um ião comum **diminui a solubilidade de um sal em água**.
 >Numa situação concreta, ao compararmos a solubilidade do $AgCl$ em **água pura** e numa **solução aquosa de cloreto de sódio** (sal muito mais solúvel em água) **de concentração $1,0 \times 10^-3$** mol/dm$^3$, com as duas soluções a 25 ºC, verificamos que a **solubilidade do $AgCl$ em água pura é superior à numa solução aquosa de cloreto de sódio** ($s'<s$).
 >![[Sem título 5.jpg]]
 
-
 >[!Info]
 >$K_s$ não é alterado por efeito do ião comum.
