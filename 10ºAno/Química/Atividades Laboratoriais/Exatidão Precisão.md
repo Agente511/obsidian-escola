@@ -1,5 +1,4 @@
 ### Incerteza Absoluta
----
 >[!Summary] Cálculo da Incerteza Absoluta
 >1. Determinar o **valor mais provável** da grandeza a medir (através da **média das medições**)
 >>[!Exemplo]
@@ -37,7 +36,6 @@
 >>m = **2,38 $\pm$ 0,03g**
 >
 ### Incerteza Relativa
----
 >[!Summary] Cálculo da Incerteza Relativa
 >1. Determinar a **incerteza relativa** em relação à **média**
 >>[!Exemplo]
@@ -51,7 +49,6 @@
 >>m = **2,38g $\pm$ 1%**
 
 ### Diferença entre Exatidão e Precisão
----
 - **Exatidão**: Proximidade entre o **valor medido** e o **valor verdadeiro**/real/exato
 - **Precisão**: Proximidade entre os **valores medidos** obtidos por **repetições de medições** no mesmo objeto 
 ![[Pasted image 20231029213647.png]]
