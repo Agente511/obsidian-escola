@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md",
+                "file": "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volume Molar, Massa Volúmica, Fração Molar"
+              "title": "Exatidão Precisão"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "ca956e339e56b525",
   "lastOpenFiles": [
+    "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md",
     "10ºAno/Química/Densidade relativa de metais.md",
     "10ºAno/Química/Propriedades periódicas dos elementos.md",
     "10ºAno/Química/Sistema Internacional de Unidades (SI).md",
@@ -244,7 +246,6 @@
     "11ºAno/Biologia/Biologia 11º Ano.md",
     "11ºAno/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
     "11ºAno/Biologia/D3 2. Mecanismos de Evolução.md",
-    "11ºAno/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "11ºAno/Outros",
     "10ºAno/Outros",
     "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental",
