@@ -38,10 +38,18 @@ De modo a diminuir a dureza da água, podem ser usados alguns processos:
 ## Processos de remoção de poluentes da água
 A remoção de **poluentes**, como **metais pesados**, no tratamento das **águas residuais urbanas** (ARU) e das **águas residuais industriais** (ARI) é possível por reações de precipitação que envolvem o uso de **hidróxidos**, **carbonatos** e **sulfuretos** solúveis (**agentes precipitantes**).
 - ##### Remoção de chumbo e mercúrio
-	Os **catiões $Pb^{2+}$ e $Hg^{2+}$ precipitam com o anião sulfureto, $S^{2-}$**:
-	![[Sem título 6.jpg|300]]
+	Os **catiões $Pb^{2+}$ e $Hg^{2+}$** (representados por $M$ na equação) precipitam com o **anião sulfureto, $S^{2-}$**:
+	![[Sem título 7.jpg|300]]
+	
 	O **chumbo** é o poluente de **maior ameaça** à escala global. Por isso, **pilhas** e **baterias** devem ser recolhidas em contentores específicos.
 - ##### Remoção de alumínio(III), como(III) e ferro(III)
-	Os **catiões $Al^{3+}$, $Cr^{3+}$ e Fe^{3+}$ preci**
+	Os **catiões $Al^{3+}$, $Cr^{3+}$ e $Fe^{3+}$** (representados por $M$ na equação) precipitam com o **anião hidróxido, $OH^-$**:
+	![[Sem título-1.jpg|300]]
+	
+	As principais fontes poluidoras da água em ferro são as **sucatas** e as **indústrias metalúrgicas**.
 - ##### Remoção de cálcio, estrôncio e bário
+	Os **catiões $Ca^{2+}$, $Sr^{2+}$ e $Ba^{2+}$** (representados por $M$ na equação) precipitam com o **anião carbonato, $Co^{2-}_3$**:
+	![[Sem título 8.jpg|300]]
+	
+	As emissões de bário na água decorrem do **descarte dos [efluentes](https://pt.wikipedia.org/wiki/Efluente)** da atividade nas **tinturarias** e na **indústria do vidro**.
 
