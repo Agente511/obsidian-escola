@@ -25,7 +25,11 @@ causa dos **catiões $Ca^{2+}$ e $Mg^{2+}$** formarem **sais insolúveis por aç
 De modo a diminuir a dureza da água, podem ser usados alguns processos:
 - ##### Precipitação química
 	Os catiões $Ca^{2+}$ e $Mg^{2+}$ precipitam com os iões hidróxido, $OH^-$, e carbonato, $CO^{2-}_3$.
+	![[Pasted image 20250609135211.png]]
 	Esta precipitação pode ser provocada pela adição de **agentes amaciadores** e **anticalcários**.
-- ##### Permuta iónica
-	Os catiões $Ca^{2+}$ e $Mg^{2+}$ são eliminados por permuta com os iões $Na^+$ presentes na resina.
+- ##### Permuta/troca iónica
+	Através do uso de **resina**, os catiões $Ca^{2+}$ e $Mg^{2+}$ são eliminados por permuta com os catiões $Na^+$ presentes na resina:
+	1. A resina contém **partículas de carga negativa**. Os **catiões $Na^+$ de carga positiva** aderem às partículas da resina
+	![[Pasted image 20250609135410.png|600]]
+	Os **ferros de engomar a vapor** possuem **filtros de troca iónica** para evitar incrustações calcárias.
 ## Processos de remoção de poluentes da água
