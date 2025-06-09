@@ -20,8 +20,12 @@ Quanto **maior for a concentração total desses catiões na água**, **mais dur
 
 ## Processos de diminuição da dureza da água
 As água mais duras **não são adequadas para algumas utilizações domésticas e industriais**, por
-causa dos catiões $Ca^{2+}$ e $Mg^{2+}$ formarem **sais insolúveis por ação do calor** e por **diminuírem a capacidade da água de dissolver o sabão**.
+causa dos **catiões $Ca^{2+}$ e $Mg^{2+}$** formarem **sais insolúveis por ação do calor** (**incrustações calcárias**) e por **diminuírem a capacidade da água de dissolver o sabão**.
 
 De modo a diminuir a dureza da água, podem ser usados alguns processos:
-- ##### Precipitação
+- ##### Precipitação química
+	Os catiões $Ca^{2+}$ e $Mg^{2+}$ precipitam com os iões hidróxido, $OH^-$, e carbonato, $CO^{2-}_3$.
+	Esta precipitação pode ser provocada pela adição de **agentes amaciadores** e **anticalcários**.
+- ##### Permuta iónica
+	Os catiões $Ca^{2+}$ e $Mg^{2+}$ são eliminados por permuta com os iões $Na^+$ presentes na resina.
 ## Processos de remoção de poluentes da água
