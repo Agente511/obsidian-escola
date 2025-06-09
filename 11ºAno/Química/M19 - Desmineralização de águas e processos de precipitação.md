@@ -29,7 +29,19 @@ De modo a diminuir a dureza da água, podem ser usados alguns processos:
 	Esta precipitação pode ser provocada pela adição de **agentes amaciadores** e **anticalcários**.
 - ##### Permuta/troca iónica
 	Através do uso de **resina**, os catiões $Ca^{2+}$ e $Mg^{2+}$ são eliminados por permuta com os catiões $Na^+$ presentes na resina:
-	1. A resina contém **partículas de carga negativa**. Os **catiões $Na^+$ de carga positiva** aderem às partículas da resina
+	1. A resina contém **partículas de carga negativa**. Os **catiões $Na^+$ de carga positiva** aderem às partículas de carga negativa da resina.
+	2. Como os **catiões  $Ca^{2+}$ e $Mg^{2+}$ possuem maior carga**, a **resina atrai-os mais eficazmente** que os outros, **libertando os catiões $Na^+$**.
+	3. Os catiões **$Na^+$ ficam dissolvidos na água** e os **catiões  $Ca^{2+}$ e $Mg^{2+}$ ligados à resina**.
+	   A **água** torna-se **macia**, pois  **$Ca^{2+}$ e $Mg^{2+}$** foram removidos da água.
 	![[Pasted image 20250609135410.png|600]]
 	Os **ferros de engomar a vapor** possuem **filtros de troca iónica** para evitar incrustações calcárias.
 ## Processos de remoção de poluentes da água
+A remoção de **poluentes**, como **metais pesados**, no tratamento das **águas residuais urbanas** (ARU) e das **águas residuais industriais** (ARI) é possível por reações de precipitação que envolvem o uso de **hidróxidos**, **carbonatos** e **sulfuretos** solúveis (**agentes precipitantes**).
+- ##### Remoção de chumbo e mercúrio
+	Os **catiões $Pb^{2+}$ e $Hg^{2+}$ precipitam com o anião sulfureto, $S^{2-}$**:
+	![[Sem título 6.jpg|300]]
+	O **chumbo** é o poluente de **maior ameaça** à escala global. Por isso, **pilhas** e **baterias** devem ser recolhidas em contentores específicos.
+- ##### Remoção de alumínio(III), como(III) e ferro(III)
+	Os **catiões $Al^{3+}$, $Cr^{3+}$ e Fe^{3+}$ preci**
+- ##### Remoção de cálcio, estrôncio e bário
+
