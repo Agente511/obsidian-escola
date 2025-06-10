@@ -11,7 +11,7 @@ Isto acontece devido a nos átomos polieletrónicos existir **repulsão entre os
 >Nos átomos polieletrónicos existe **atração entre os eletrões e o núcleo** (com cargas elétricas de **sinais opostos)**
 >
 >#### Forças Repulsivas
->**Repulsão entre os eletrões** (com casrgas elétricas de **sinal igual**)
+>**Repulsão entre os eletrões** (com cargas elétrónicas de **sinal igual**)
 
 >[!Cálculo]
 >A **energia dos** diferentes **eletrões** de um átomo pode ser determinada a partir da energia de remoção (necessária para remover esses eletrões) recorrendo à técnica da **espetroscopia fotoeletrónica (PES)**
