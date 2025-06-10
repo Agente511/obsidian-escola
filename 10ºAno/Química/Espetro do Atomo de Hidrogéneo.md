@@ -22,7 +22,7 @@ Volume: M6
 > - $h$: Constante de Planck (Js) = $6,63 \times 10^{-34}$
 > - $f$: Frequência (Hz)
 
-![[Pasted image 20231108202735.png]]
+![[Pasted image 20231108202735.png|300]]
 
 - a) A **absorção** de radiação com **frequência bem definida** provoca a **excitação** do eletrão (do estado fundamental para o estado excitado)
 - b) A **emissão** de radiação com a **mesma frequência** provoca a **desexcitação** do eletrão
