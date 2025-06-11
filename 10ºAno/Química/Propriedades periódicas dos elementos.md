@@ -35,7 +35,7 @@ Genericamente o raio atómico:
 ### Energia de ionização (E$_i$)
 ---
 **Energia mínima necessária** para **remover um eletrão** (por isso, é a energia de ionização do último eletrão/mais afastado do núcleo) de um átomo na fase gasosa e no estado fundamental.
-![[Pasted image 20231202121810.png]]
+![[Pasted image 20231202121810.png|400]]
 Genericamente, a energia de ionização:
 - **diminui ao longo do grupo** (de cima para baixo)
 - **aumenta ao longo do período** (da esquerda para a direita)
@@ -69,14 +69,14 @@ Os elementos **representativos** **metálicos** dos **grupos 1, 2 e 13** com bai
 >- **catião** com **menos um nível de energia** que o átomo
 >- **catião** com **menos eletrões**
 >
->Portanto, os eletrões mais externos do **catião** estão sujeitos a uma **maior força atrativa** núcleo-eletrões do que no eletrão e, por isso, um **menor raio iónico**
+>Portanto, os eletrões mais externos do **catião** estão sujeitos a uma **maior força atrativa** núcleo-eletrões do que no átomo e, por isso, o catião tem um **menor raio iónico**
 
 >[!Example] Anião vs Átomo
 >- **igual carga nuclear**
 >- **igual** número de **níveis de energia**
 >- **anião** com **mais eletrões**
 >
->Portanto, os eletrões mais externos do **anião** estão sujeitos a uma **menor força atrativa** núcleo-eletrões do que no eletrão e, por isso, um **maior raio iónico**
+>Portanto, os eletrões mais externos do **anião** estão sujeitos a uma **menor força atrativa** núcleo-eletrões do que no átomo e, por isso, o anião tem um **maior raio iónico**
 
 ![[Pasted image 20231202123626.png]]
 #### Configurações eletrónicas de espécies isoeletrónicas
