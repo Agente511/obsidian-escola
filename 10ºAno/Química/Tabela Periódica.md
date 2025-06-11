@@ -28,3 +28,5 @@ Do lado esquerdo da linha quebrada, localizam-se os metais, enquanto do lado dir
 - Definido pelo nível de energia mais elevado da configuração eletrónica.
 **Bloco**: 
 - Definido pelo tipo da última orbital de valência
+
+1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^1 
