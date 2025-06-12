@@ -53,12 +53,12 @@ As repulsões entre pares de eletrões podem ser:
 O nome do alcano deve conter um **prefixo que indique o número de átomos de carbono** da cadeia e o **sufixo -ano**.
 ![[Pasted image 20240121140137.png]]
 
-| Nº de átomos<br>de carbono | Nome | Fórmula<br>Molecular |
-| ---- | ---- | ---- |
-| 7 | Ept**ano** | C$_7$H$_{16}$ |
-| 8 | Oct**ano** | C$_8$H$_{18}$ |
-| 9 | Non**ano** | C$_9$H$_{20}$ |
-| 10 | Dec**ano** \| C$_{10}$H$_{22}$ \|<br> | C$_{10}$H$_{22}$ |
+| Nº de átomos<br>de carbono | Nome           | Fórmula<br>Molecular |
+| -------------------------- | -------------- | -------------------- |
+| 7                          | Ept**ano**     | C$_7$H$_{16}$        |
+| 8                          | Oct**ano**     | C$_8$H$_{18}$        |
+| 9                          | Non**ano**     | C$_9$H$_{20}$        |
+| 10                         | Dec**ano**<br> | C$_{10}$H$_{22}$     |
 >[!Note] Fórmula geral dos alcanos
 >#### C$_n$H$_{2n+2}$
 
