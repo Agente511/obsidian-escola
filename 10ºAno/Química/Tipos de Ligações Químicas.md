@@ -26,9 +26,7 @@ Como há libertação de energia na formação de ligações químicas, a **ener
 >
 >#### Ligação iónica
 >---
->**Forças atrativas entre iões** de carga contrária, formados por 
->
->Surge por transferência de eletrões de um átomo de um **elemento metálico** (formando um ião positivo) para um átomo de um **elemento não metálico** (formando um ião negativo), dando **origem a redes de iões**
+>**Forças atrativas entre iões** de carga contrária, formados por transferência de eletrões de um átomo de um **elemento metálico** (formando um ião positivo) para um átomo de um **elemento não metálico** (formando um ião negativo), dando **origem a redes de iões**
 >![[Pasted image 20231210003029.png]]
 >>[!Nota]
 >>**Símbolo:**

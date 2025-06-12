@@ -22,7 +22,7 @@ O número de eletrões que participam na ligação, em torno de cada átomo, é 
 >
 >Quanto **maior** for o número de **eletrões partilhados** entre os átomos que participam na ligação, **mais energética e forte será a ligação**, e, portanto:
 >- **maior** será a **energia de ligação**
->- **menor** será o **comprimento de ligação
+>- **menor** será o **comprimento de ligação**
 
 >[!Moléculas com nº iguais de pares de eletrões ligantes]
 >![[Pasted image 20231211193157.png]]

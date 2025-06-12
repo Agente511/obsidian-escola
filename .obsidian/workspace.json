@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Química/Espetroscopia Atómica.md",
+                "file": "10ºAno/Química/Tipos de Ligações Químicas.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Espetroscopia Atómica"
+              "title": "Tipos de Ligações Químicas"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Química/Tipos de Ligações Químicas.md",
+                "file": "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de Ligações Químicas"
+              "title": "Moléculas poliatómicas (Hidrocarbonetos)"
             }
           }
         ],
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -222,8 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "d062e0160891c0c9",
   "lastOpenFiles": [
+    "10ºAno/Química/Ligação covalente.md",
+    "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
+    "10ºAno/Química/Tipos de Ligações Químicas.md",
+    "10ºAno/Química/Espetroscopia Atómica.md",
+    "10ºAno/Química/Ligações intermoleculares.md",
     "10ºAno/Química/Propriedades periódicas dos elementos.md",
     "10ºAno/Química/Densidade relativa de metais.md",
     "10ºAno/Química/Tabela Periódica.md",
@@ -232,14 +238,9 @@
     "10ºAno/Química/Composição quantitativa de soluções.md",
     "10ºAno/Química/Composição da troposfera terrestre.md",
     "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md",
-    "10ºAno/Química/Ligação covalente.md",
-    "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
-    "10ºAno/Química/Ligações intermoleculares.md",
-    "10ºAno/Química/Tipos de Ligações Químicas.md",
     "10ºAno/Química/Modelo da Nuvem Eletrónica.md",
     "10ºAno/Química/Espetro Atómico.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
-    "10ºAno/Química/Espetroscopia Atómica.md",
     "10ºAno/Química/Energias de Remoção Eletrónica.md",
     "10ºAno/Química/Espetro do Atomo de Hidrogéneo.md",
     "10ºAno/Química/Espetro Eletromagnético.md",
