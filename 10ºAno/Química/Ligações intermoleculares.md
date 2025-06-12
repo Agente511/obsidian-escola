@@ -41,5 +41,5 @@ Líquidos não miscíveis **distinguem-se**
 >[!Quote] Regra geral da miscibilidade
 >**"Semelhante dissolve semelhante"** ou **"polar dissolve polar e apolar dissolve apolar"**
 
-- Líquidos formados por **moléculas polares** (nos quais prevalecem ligações do **tipo dipolo-dipolo** ou ligações de hidrogénio) são **miscíveis em moléculas polares
+- Líquidos formados por **moléculas polares** (nos quais prevalecem ligações do **tipo dipolo-dipolo** ou ligações de hidrogénio) são **miscíveis em moléculas polares**
 - Líquidos formados por **moléculas apolares** (nas quais prevalecem ligações do tipo **dipolo instantâneo-dipolo induzido**) são **miscíveis em moléculas apolares**
