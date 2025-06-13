@@ -2,7 +2,6 @@
 Volume: M17
 ---
 ## Processos endoenergéticos e exoenergéticos
----
 Os processos que envolvem **absorção de energia** designam-se por processos **endoenergéticos** e os que envolvem a **libertação de energia** são designados por processos **exoenergéticos**
 #### Reações endotérmicas
 Reações que **absorvem energia** sob a forma de **calor**
@@ -10,7 +9,6 @@ Reações que **absorvem energia** sob a forma de **calor**
 Reações que **libertam energia** sob a forma de **calor**
 
 ## Balanço Energético
----
 A ocorrência de uma reação química envolve a **rutura de ligações nos reagentes** e a formação de **novas ligações nos produtos de reação**.
 
 Se a energia absorvida na rutura das ligações for diferente da energia libertada na formação de novas ligações, haverá calor envolvido na reação.

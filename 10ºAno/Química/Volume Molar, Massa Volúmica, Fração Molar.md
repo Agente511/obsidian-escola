@@ -55,7 +55,7 @@ O declive do gráfico representa o volume molar do gás, nas condições de pres
 
 ### Fração Molar
 ---
-Numa mistura de substâncias, a fração molar (x) de uma substância A é o **quociente entra a quantidade de matéria dessa substâncias** e a **quantidade de matéria total** de todas as substâncias constituintes da mistura.
+Numa mistura de substâncias, a fração molar (x) de uma substância A é o **quociente entre a quantidade de matéria dessa substância** e a **quantidade de matéria total** de todas as substâncias constituintes da mistura.
 
 >[!Note] Cálculo da fração molar
 >### x$_A$ = $\frac {n_A} {n(total)}$
