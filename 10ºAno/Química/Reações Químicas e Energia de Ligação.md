@@ -18,7 +18,6 @@ O **balanço energético**, positivo ou negativo, é a energia envolvida numa re
 É estabelecido entre entre as energias associadas à **rutura** (processo **endoenergético**) e à **formação** (processo **exoenergético**) de ligações entre átomos.
 
 ## Variação de Entalpia
----
 As reações **endotérmicas** têm valores de **$\Delta H$ positivos** (aumento de entalpia)
 >[!Tip] Nota
 >- Se a reação endotérmica ocorrer em **sistema isolado**, verifica-se uma **diminuição de temperatura** do sistema.
@@ -26,8 +25,8 @@ As reações **endotérmicas** têm valores de **$\Delta H$ positivos** (aumento
 
 As reações **exotérmicas** têm valores de **$\Delta H$ negativos** (diminuição de entalpia)
 >[!Tip] Nota
->- Se a reação endotérmica ocorrer em **sistema isolado**, verifica-se um **aumento de temperatura** do sistema.
->- Se a reação endotérmica ocorrer em **sistema não isolado**, verifica-se uma **transferência de energia do sistema para a vizinhança**, aumentando, assim, a temperatura da vizinhança.
+>- Se a reação exotérmica ocorrer em **sistema isolado**, verifica-se um **aumento de temperatura** do sistema.
+>- Se a reação exotérmica ocorrer em **sistema não isolado**, verifica-se uma **transferência de energia do sistema para a vizinhança**, aumentando, assim, a temperatura da vizinhança.
 
 Quebra da ligação -> Energia Absorvida -> Processo endoenergético $\longrightarrow$ $\Delta H > 0$
 Formação da ligação -> Energia Libertada -> Processo exoenergético $\longrightarrow$ $\Delta H < 0$
