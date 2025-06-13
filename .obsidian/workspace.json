@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -223,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d689bdc5b45114e9",
+  "active": "01f8fa8ab5db4a7a",
   "lastOpenFiles": [
     "11ºAno/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
     "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
