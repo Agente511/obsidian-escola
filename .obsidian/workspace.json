@@ -35,7 +35,8 @@
               "title": "Reações fotoquímicas na atmosfera"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,11 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61dfdb16df272d08",
+  "active": "d689bdc5b45114e9",
   "lastOpenFiles": [
+    "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
     "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
     "11ºAno/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
-    "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
     "10ºAno/Física/M1 - Energia cinética e Energia potencial.md",
     "10ºAno/Física/M5 - Variação da energia mecânica, Potência e Rendimento.md",
     "10ºAno/Física/M4 - Conservação de energia mecânica.md",
