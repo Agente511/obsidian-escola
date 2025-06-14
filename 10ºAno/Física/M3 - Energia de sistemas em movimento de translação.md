@@ -33,11 +33,11 @@ O trabalho realizado pelo peso (força conservativa) é **simétrica** da **vari
 >- nesse trajeto, a **variação de energia da energia potencial gravítica** é **positiva** $\Delta E_p = mgh$
 >
 >Consideremos, agora, uma bola a ser deixada **cair verticalmente** de uma altura $h$
->-Se desprezarmos a resistência do ar, a **única força que atua na bola é o seu peso**
->- o **trabalho realizado pelo peso** da bola **na queda é negativo** $\longrightarrow W_{\vec P} = mgh$
+>- Se desprezarmos a resistência do ar, a **única força que atua na bola é o seu peso**
+>- o **trabalho realizado pelo peso** da bola **na queda é positivo** $\longrightarrow W_{\vec P} = mgh$
+>- nesse trajeto, a **variação de energia da energia potencial gravítica** é **negativa** $\Delta E_p = -mgh$
 >
 >Se considerarmos o **percurso** de subida e de queda da bola **até à mesma posição de onde partiu**, o **trabalho realizado pelo peso da bola é nulo**
->nesse trajeto, a **variação de energia da energia potencial gravítica** é **negativa** $\Delta E_p = -mgh$
 
 
 

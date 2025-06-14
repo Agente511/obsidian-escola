@@ -19,11 +19,11 @@ Pelo [[M3 - Energia de sistemas em movimento de translação#Teorema da Energia 
 >#### ${W_\vec F}_R = \Delta E_c$
 
 ## Lei da conservação da energia mecânica
-Quando sobre um sistema **só atuam [[M3 - Energia de sistemas em movimento de translação#Forças conservativas e não conservativas|forças conservativas]]** e/ou **forças que n6 b6y b b b y8j uikão são conservativas e que não realizam trabalho** (frequentemente, a normal (N)), a **energia mecânica mantém-se constante**.
+Quando sobre um sistema **só atuam [[M3 - Energia de sistemas em movimento de translação#Forças conservativas e não conservativas|forças conservativas]]** e/ou **forças que não são conservativas e que não realizam trabalho** (frequentemente, a normal (N)), a **energia mecânica mantém-se constante**.
 >[!Summary] Lei da conservação da energia mecânica
 >##### $E_m = constante \iff \Delta E_m = 0\iff \Delta E_p = - \Delta E_c$
 >$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ({E_m}_f = {E_m}_i) \ \ \ \ \ \ \ \ \ \ (\Delta E_p + \Delta E_c = 0)$
 
 Dizer que a energia mecânica se **mantém constante** significa que:
 - se a **energia cinética diminuir**, a **energia potencial aumenta**
-- se a **energia cinética aumenta**, a **energia potencial diminui** de forma que a **soma das duas se mantenha constante**, isto é o valor da diminuição de uma tem de ser igual ao valor do aumento da outra; as **variações são simétricas**kii9o0l
+- se a **energia cinética aumenta**, a **energia potencial diminui** de forma que a **soma das duas se mantenha constante**, isto é o valor da diminuição de uma tem de ser igual ao valor do aumento da outra; as **variações são simétricas**

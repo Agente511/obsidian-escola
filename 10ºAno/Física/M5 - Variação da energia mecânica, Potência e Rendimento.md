@@ -46,7 +46,7 @@ Grandeza física que mede a **energia transferida por unidade de tempo** (rapide
 >- $P$: potência do aparelho (W)
 >- $\Delta t$: intervalo de tempo de funcionamento do aparelho (s)
 ## Rendimento em sistemas físicos
-Sempre que em transferências de energia ocorre **dissipação de energia**, **nem toda a energia que se transfere é utilizada de forma útil**; parte **dissipa-se por calor**, fazendo aumentar a energia interna do sistema e da sua vizinhança.
+Sempre que em transferências de energia ocorre **dissipação de energia**, **nem toda a energia que se transfere é utilizada de forma útil**: parte **dissipa-se por calor**, fazendo aumentar a energia interna do sistema e da sua vizinhança.
 
 Atendendo à [[M4 - Conservação de energia mecânica#Lei da conservação da energia mecânica|Lei da Conservação de Energia]]: 
 ##### $E_{total} = E_{útil} + E_{dissipada}$
