@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
+                "file": "10ºAno/Física/M7 - Potência elétrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para M9 - Circuitos com gerador de tensão e condutores puramente resistivos"
+              "title": "Backlinks para M7 - Potência elétrica"
             }
           },
           {
@@ -237,11 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ae63d8702658a1d",
+  "active": "5a081d25c66bb5d5",
   "lastOpenFiles": [
     "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
-    "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
     "10ºAno/Física/M7 - Potência elétrica.md",
+    "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
     "10ºAno/Física/M8 - Associação de componentes elétricos.md",
     "10ºAno/Física/M14 - Capacidade térmica mássica e variação de entalpia.md",
     "10ºAno/Física/M1 - Energia cinética e Energia potencial.md",
