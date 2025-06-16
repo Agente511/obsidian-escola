@@ -61,4 +61,4 @@ A energia transferida para um recetor **depende da diferença de potencial elét
 >- Os fusíveis, constituem **componentes de segurança** que interrompem os circuitos elétricos quando aquecem, devido a um aumento exagerado da corrente elétrica
 >
 >#### Desvantagens
->- As lâmpadas de incandescências, dissipam cerca de 90% da energia que recebem, **desperdiçando energia**.
+>- As lâmpadas de incandescência, dissipam cerca de 90% da energia que recebem, **desperdiçando energia**.

@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6f6d179c0886f08f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M6 - Circuitos elétricos e grandezas elétricas"
+            }
+          },
+          {
             "id": "5a081d25c66bb5d5",
             "type": "leaf",
             "state": {
@@ -22,20 +36,21 @@
             }
           },
           {
-            "id": "6f6d179c0886f08f",
+            "id": "5ae63d8702658a1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
-                "mode": "source",
+                "file": "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M6 - Circuitos elétricos e grandezas elétricas"
+              "title": "M9 - Circuitos com gerador de tensão e condutores puramente resistivos"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11ºAno/Outros/Geologia - Resumo da aula.md",
+                "file": "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Geologia - Resumo da aula"
+              "title": "Backlinks para M9 - Circuitos com gerador de tensão e condutores puramente resistivos"
             }
           },
           {
@@ -222,10 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a081d25c66bb5d5",
+  "active": "5ae63d8702658a1d",
   "lastOpenFiles": [
     "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
+    "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
     "10ºAno/Física/M7 - Potência elétrica.md",
+    "10ºAno/Física/M8 - Associação de componentes elétricos.md",
     "10ºAno/Física/M14 - Capacidade térmica mássica e variação de entalpia.md",
     "10ºAno/Física/M1 - Energia cinética e Energia potencial.md",
     "10ºAno/Física/M4 - Conservação de energia mecânica.md",
@@ -234,8 +251,6 @@
     "10ºAno/Física/M3 - Energia de sistemas em movimento de translação.md",
     "10ºAno/Física/M15 - Primeira e Segunda Leis da Termodinâmica.md",
     "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
-    "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
-    "10ºAno/Física/M8 - Associação de componentes elétricos.md",
     "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
     "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
     "11ºAno/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
