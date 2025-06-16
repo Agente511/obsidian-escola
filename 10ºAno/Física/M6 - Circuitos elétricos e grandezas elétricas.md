@@ -84,7 +84,7 @@ Verifica-se que, em muitos materiais, a resistência elétrica **permanece const
 
 Os **condutores óhmicos** são conhecidos por **condutores lineares**, pois o gráfico da corrente elétrica em função da diferença de potencial elétrico é uma **reta que passa pela origem do referencial**.
 
-A **função $I = I(U)$** designa-se por **característica do condutor** e o **gráfico** por **curva característica do condutor**
+A **função $I = f(U)$** designa-se por **característica do condutor** e o **gráfico** por **curva característica do condutor**
 
 >[!Quote] Lei de Ohm
 >A temperatura constante, existe uma **razão constante** entre a **diferença de potencial elétrico** aplicada a um condutor e a **corrente elétrica** que o percorre.
