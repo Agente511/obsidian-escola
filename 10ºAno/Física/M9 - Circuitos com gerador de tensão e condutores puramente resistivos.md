@@ -50,9 +50,9 @@ Pela [[M4 - Conservação de energia mecânica#Lei da conservação da energia m
 >[!Summary] Cálculo da potência do gerador
 >$$\begin{flalign}& P_g = P_u + P_d &\end{flalign}$$
 >Sendo:
->- $E_g$: potência do gerador (W)
->- $E_u$: potência útil (W)
->- $E_d$: potência dissipada (W)
+>- $P_g$: potência do gerador (W)
+>- $P_u$: potência útil (W)
+>- $P_d$: potência dissipada (W)
 ### Energia do gerador
 Energia que o gerador transforma em energia elétrica.
 >[!Summary] Cálculo da energia do gerador
