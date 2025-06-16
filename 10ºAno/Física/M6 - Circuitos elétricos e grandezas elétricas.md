@@ -43,7 +43,7 @@ Quando num determinado condutor, a **corrente elétrica aumenta**, isso **não s
 >#### Corrente alternada
 >Uma corrente elétrica diz-se alternada quando os **portadores de carga elétrica se deslocam ora num sentido ora no outro**, de **forma periódica**.
 >
->Um **gerador de corrente alternada (AC)** origina uma corrente elétrica que varia periodicamente ao longo do tempo, **tomando valores positivos ou negativos, consoante o sentido do movimento dos eletrões**, alternado periodicamente o sentido.
+>Um **gerador de corrente alternada (AC)** origina uma corrente elétrica que varia periodicamente ao longo do tempo, **tomando valores positivos ou negativos, consoante o sentido do movimento dos eletrões**, alternando periodicamente o sentido.
 >![[Pasted image 20240414153908.png]]
 
 ## Sentido da corrente elétrica
