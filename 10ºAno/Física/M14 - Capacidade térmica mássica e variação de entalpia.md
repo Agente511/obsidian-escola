@@ -104,5 +104,5 @@ A variação de entalpia mássica de vaporização é a **energia que é necess�
 
 >[!Tip] Nota
 >- Caso se trate de uma **vaporização**, a variação de entalpia mássica de vaporização é positiva ($\Delta H_\text{vaporização}>0$)
->- Caso se trate de uma **vaporização**, a variação de entalpia mássica de vaporização é negativa ($\Delta H_\text{vaporização}<0$)
+>- Caso se trate de uma **condensação**, a variação de entalpia mássica de vaporização é negativa ($\Delta H_\text{vaporização}<0$)
 
