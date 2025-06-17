@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f6d179c0886f08f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "M6 - Circuitos elétricos e grandezas elétricas"
-            }
-          },
-          {
-            "id": "5a081d25c66bb5d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10ºAno/Física/M7 - Potência elétrica.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "M7 - Potência elétrica"
-            }
-          },
-          {
-            "id": "5ae63d8702658a1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10ºAno/Física/M8 - Associação de componentes elétricos.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "M8 - Associação de componentes elétricos"
-            }
-          },
-          {
             "id": "b9add8b6880ca078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
-                "mode": "source",
+                "file": "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M9 - Circuitos com gerador de tensão e condutores puramente resistivos"
+              "title": "M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10ºAno/Física/M7 - Potência elétrica.md",
+                "file": "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para M7 - Potência elétrica"
+              "title": "Backlinks para M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico"
             }
           },
           {
@@ -251,12 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a081d25c66bb5d5",
+  "active": "b9add8b6880ca078",
   "lastOpenFiles": [
-    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
-    "10ºAno/Física/M8 - Associação de componentes elétricos.md",
     "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
+    "10ºAno/Física/M8 - Associação de componentes elétricos.md",
     "10ºAno/Física/M7 - Potência elétrica.md",
+    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "10ºAno/Física/M14 - Capacidade térmica mássica e variação de entalpia.md",
     "10ºAno/Física/M1 - Energia cinética e Energia potencial.md",
     "10ºAno/Física/M4 - Conservação de energia mecânica.md",
