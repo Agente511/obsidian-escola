@@ -298,7 +298,122 @@
     {
       "type": "group",
       "ctime": 1744988631962,
-      "items": [],
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1750277233856,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1750277036606,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750277022500,
+                  "path": "11ºAno/Física/M1 - Diferentes descrições do movimento.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750277022500,
+                  "path": "11ºAno/Física/M2 - Interpretação de gráficos velocidade-tempo e posição-tempo.md"
+                }
+              ],
+              "title": "SD1"
+            },
+            {
+              "type": "group",
+              "ctime": 1750277090046,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750277081135,
+                  "path": "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750277081135,
+                  "path": "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750277081135,
+                  "path": "11ºAno/Física/M4 - Efeitos de uma força sobre a velocidade.md"
+                }
+              ],
+              "title": "SD2"
+            },
+            {
+              "type": "group",
+              "ctime": 1750277160321,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750277152828,
+                  "path": "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750277152828,
+                  "path": "11ºAno/Física/M8 - Movimento circular uniforme.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750277152828,
+                  "path": "11ºAno/Física/M7 - Movimentos retilíneos em planos horizontais e inclinados.md"
+                }
+              ],
+              "title": "SD3"
+            }
+          ],
+          "title": "D1"
+        },
+        {
+          "type": "group",
+          "ctime": 1750277244666,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1750277203994,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750277196826,
+                  "path": "11ºAno/Física/M9 - Fenómenos ondulatórios.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750277196826,
+                  "path": "11ºAno/Física/M10 - O som como onda de pressão.md"
+                }
+              ],
+              "title": "SD4"
+            },
+            {
+              "type": "group",
+              "ctime": 1750277213842,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750277207713,
+                  "path": "11ºAno/Física/M11 - Campo elétrico.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750277207713,
+                  "path": "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750277207713,
+                  "path": "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md"
+                }
+              ],
+              "title": "SD5"
+            }
+          ],
+          "title": "D2"
+        }
+      ],
       "title": "Física 11º Ano"
     },
     {

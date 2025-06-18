@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "17c848b1ca2ba7ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Física/M1 - Diferentes descrições do movimento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M1 - Diferentes descrições do movimento"
+            }
+          },
+          {
             "id": "b9add8b6880ca078",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "M7 - Potência elétrica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -221,8 +237,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f6221f8420aa0e3",
+  "active": "17c848b1ca2ba7ec",
   "lastOpenFiles": [
+    "11ºAno/Física/M11 - Campo elétrico.md",
+    "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
+    "11ºAno/Física/M10 - O som como onda de pressão.md",
+    "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md",
+    "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
+    "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md",
+    "11ºAno/Física/M2 - Interpretação de gráficos velocidade-tempo e posição-tempo.md",
+    "11ºAno/Física/M1 - Diferentes descrições do movimento.md",
     "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
     "11ºAno/Física/M4 - Efeitos de uma força sobre a velocidade.md",
     "10ºAno/Física/M11 - Transferências de energia por calor e trabalho.md",
@@ -241,14 +265,6 @@
     "10ºAno/Física/M2 - Trabalho realizado por forças constantes.md",
     "10ºAno/Física/M3 - Energia de sistemas em movimento de translação.md",
     "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
-    "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
-    "11ºAno/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
-    "10ºAno/Química/Composição quantitativa de soluções.md",
-    "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md",
-    "10ºAno/Química/Composição da troposfera terrestre.md",
-    "10ºAno/Química/Ligações intermoleculares.md",
-    "10ºAno/Química/Tipos de Ligações Químicas.md",
-    "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
