@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quilow",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f6221f8420aa0e3",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
     "10ºAno/Física/M13 - Condutividade térmica.md",
     "10ºAno/Física/M12 - Interação radiação-matéria.md",
