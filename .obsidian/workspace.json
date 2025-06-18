@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
+                "file": "10ºAno/Física/M12 - Interação radiação-matéria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico"
+              "title": "M12 - Interação radiação-matéria"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Física/M12 - Interação radiação-matéria.md",
+                "file": "10ºAno/Física/M7 - Potência elétrica.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M12 - Interação radiação-matéria"
+              "title": "M7 - Potência elétrica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codão",
+                "query": "quilow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,17 +222,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9add8b6880ca078",
+  "active": "3f6221f8420aa0e3",
   "lastOpenFiles": [
+    "10ºAno/Física/M11 - Transferências de energia por calor e trabalho.md",
+    "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
+    "10ºAno/Física/M7 - Potência elétrica.md",
+    "10ºAno/Física/M12 - Interação radiação-matéria.md",
     "10ºAno/Física/M13 - Condutividade térmica.md",
     "10ºAno/Física/M15 - Primeira e Segunda Leis da Termodinâmica.md",
     "10ºAno/Física/M14 - Capacidade térmica mássica e variação de entalpia.md",
-    "10ºAno/Física/M11 - Transferências de energia por calor e trabalho.md",
-    "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
-    "10ºAno/Física/M12 - Interação radiação-matéria.md",
     "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
     "10ºAno/Física/M8 - Associação de componentes elétricos.md",
-    "10ºAno/Física/M7 - Potência elétrica.md",
     "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "10ºAno/Física/M1 - Energia cinética e Energia potencial.md",
     "10ºAno/Física/M4 - Conservação de energia mecânica.md",
