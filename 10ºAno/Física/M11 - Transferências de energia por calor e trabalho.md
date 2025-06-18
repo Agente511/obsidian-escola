@@ -32,7 +32,7 @@ Interações entre as partículas em que as de **maior energia cinética cedem e
 >1. A água na parte inferior da panela adquire uma maior temperatura devido ao contacto com o fundo da panela, tornando-se menos densa.
 >   >[!Warning] Atenção
 >   >A água que está em contacto com o fundo da panela aquece por condução. (*A professora não concorda com isto não sei porquê.*)
->2. A água do fundo sobe e é substituída por água menos quente, que desce por ser menos densa.
+>2. A água do fundo sobe e é substituída por água menos quente, que desce por ser mais densa.
 >   
 >Estes movimentos de água implicam trocas constantes de energia:
 >- A água mais quente (que sobe) vai arrefecendo
