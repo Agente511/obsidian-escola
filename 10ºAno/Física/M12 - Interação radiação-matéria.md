@@ -59,7 +59,7 @@ Designa-se por irradiância a **energia de radiação emitida por um corpo, por 
 
 ### Relação entre a energia e a superfície de um corpo
 A **energia de radiação emitida** por um corpo também **depende da natureza da superfície**.
-Por exemplo, as **superfícies pretas emitem e absorvem todas as radiações**, o que não acontece com outras superfícies. Por isso, fala-se em **emissividade**:
+Por exemplo, as **superfícies pretas emitem e absorvem todas as radiações visíveis**, o que não acontece com outras superfícies. Por isso, fala-se em **emissividade**:
 - Se a **emissividade** de um corpo for **pequena** (próxima de 0), o corpo é **mau absorsor** e, consequentemente, **mau emissor** de radiação.
 - Se a **emissividade** de um corpo for **grande** (próxima de 1), o corpo é **bom absorsor** e, consequentemente, **bom emissor** de radiação. 
 >[!Note] Exemplo
