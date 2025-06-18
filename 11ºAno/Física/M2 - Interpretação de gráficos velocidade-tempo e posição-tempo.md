@@ -7,14 +7,14 @@ A velocidade tem **direção constante**, embora o seu módulo possa variar.
 ### Num movimento curvilíneo
 A velocidade **não é constante**, pois a sua **direção muda de instante para instante**. 
 >[!Tip] Nota
->A velocidade trata-se de um vetor, caracterizado por direção, sentido e módulo (e ponto de aplicação), não sendo constante caso qualquer uma destas características varie.
->O seu módulo que pode ser constante.
+>A velocidade trata-se de um vetor, caracterizado por **direção**, **sentido** e **módulo** (e ponto de aplicação), **não sendo constante caso qualquer uma destas características varie**.
+>O seu módulo é que pode ser constante.
 ## Gráfico posição-tempo e componente escalar da velocidade num dado instante
 A **componente escalar da velocidade**, num dado instante, é igual ao **declive da reta tangente à curva** no gráfico posição-tempo, **nesse instante**.
 ![[Pasted image 20240928195752.png|500]]
 **Quanto maior for o módulo do declive da reta tangente à curva** no gráfico posição-tempo, num determinado instante, **maior é o módulo da componente escalar da velocidade** nesse instante.
 >[!Tip] Dica para diminuir o erro do declive da reta tangente
->Calcular o declive da reta tangente a partir de um ponto antes e outro depois de $P$.
+>Calcular o declive da reta tangente a partir de um ponto antes de $P$ e outro depois de $P$.
 ## Gráfico velocidade-tempo de um movimento retilíneo
 Um movimento retilíneo, num determinado intervalo de tempo, pode ser:
 - ##### Acelerado
