@@ -24,25 +24,23 @@ Um movimento retilíneo, num determinado intervalo de tempo, pode ser:
 - ##### Retardado
   Se o **módulo da velocidade diminui** nesse intervalo de tempo.
 
-![[Pasted image 20241102235434.png|500]]
 >[!Note] Exemplo
+>![[Pasted image 20241102235434.png|500]]
 >- Nos intervalos de tempo [0; 2,0] s e [5,0; 6,0] s, o movimento é **acelerado**.
 >- No intervalo de tempo [6,0; 7,0] s, o movimento é **uniforme**.
 >- Nos intervalos de tempo [2,0; 5,0] s e [7,0; 10,0] s, o movimento é **retardado**.
-
->[!Note] Exemplo
+>.
 >- No intervalo de tempo [0; 5,0] s, a partícula desloca-se no **sentido positivo** ($v>0$).
 >- No intervalo de tempo [5,0; 10,0] s, a partícula desloca-se no **sentido negativo** ($v<0$).
-
-![[Pasted image 20240929002122.png|500]]
 ### Deslocamento
 A **componente escalar do deslocamento** é dada pela **área delimitada pela curva do gráfico** e o **eixo dos tempos**.
 
 Atribui-se sinal **positivo ou negativo** conforme o **sentido do movimento** nesse intervalo de tempo.
 >[!Note] Exemplo
+>![[Pasted image 20240929002122.png|360]]
 >- Os deslocamentos $A_1$, $A_2$, $A_3$ e $A_5$ são positivos.
 >- O deslocamento $A_3$ é negativo.
 ### Distância percorrida
 A **distância percorrida sobre a trajetória**, $s$, é igual à **soma dos módulos dos deslocamentos parciais da partícula** no seu **movimento retilíneo**.
 >[!Summary] Cálculo da distância percorrida
-># $s = |\Delta x_1|+|\Delta x_2|+...$ 
+>$s = |\Delta x_1|+|\Delta x_2|+...$ 
