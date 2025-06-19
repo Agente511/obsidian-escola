@@ -36,7 +36,7 @@ O movimento é **retilíneo uniformemente acelerado**, visto que a velocidade e 
 >
 >- No intervalo de tempo [0; 1,5] s, a **bola sobe**, com **movimento retilíneo uniformemente retardado**, uma vez que $a=\text{constante}$, $a<0$ e $v>0$.
 >- No instante $t=1,5$ s, a **velocidade** da bola **anula-se** ($\vec v=\vec 0$) e o **sentido do movimento inverte-se**. A bola atinge, nesse instante, a **altura máxima**.
->- No intervalo de tempo [1,5; 3,0]s, a **bola cai** com **movimento retilíneo uniformemente acelerado**, uma vez que $a=\text{constante}$, $a<0$ e $v<0$.
+>- No intervalo de tempo [1,5; 3,0] s, a **bola cai** com **movimento retilíneo uniformemente acelerado**, uma vez que $a=\text{constante}$, $a<0$ e $v<0$.
 
 ### Equação das posições e gráfico posição-tempo de um movimento de queda livre
 >[!Note] Exemplo
