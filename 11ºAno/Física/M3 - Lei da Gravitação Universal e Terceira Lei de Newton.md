@@ -23,7 +23,7 @@ Forças que **não requerem contacto direto** para serem aplicadas.
 ### Força gravítica/gravitacional
 Exerce-se entre **todos os corpos que possuem massa**. É **sempre atrativa**.
 - **Alcance infinito**
-- Força de **menor intensidade relativa** das quatro forças fundamentais ($10^{40}$ menor que a nuclear forte)
+- Força de **menor intensidade relativa** das quatro forças fundamentais ($10^{40}$ vezes menor que a nuclear forte)
 >[!Note] Exemplos
 >- Movimento dos astros;
 >- Movimento das marés;
