@@ -23,9 +23,7 @@ A [[Sistema Internacional de Unidades (SI)|unidade SI]] é o metro por segundo a
 >- $\Delta \vec v$: variação de velocidade (m/s)
 >- $\Delta t$: intervalo de tempo
 
-A **aceleração média** e a **variação da velocidade** têm sempre a **mesma direção e sentido**.
->[!Tip] Nota
->Isto acontece, porque $\Delta t>0$.
+A **aceleração média** e a **variação da velocidade** têm sempre a **mesma direção e sentido** (porque $\Delta t>0$.).
 
 ### Num movimento retilíneo
 No caso de um movimento retilíneo, a **componente escalar da aceleração média** pode ser positiva, negativa ou nula.
@@ -66,7 +64,7 @@ Quando um corpo está **sujeito apenas à força gravítica exercida pela Terra*
 
 A **ação da força gravítica** vai provocar uma **variação de velocidade**.
 
-Um corpo em queda livre na vertical, na proximidade da superfície da Terra, descreve uma **trajetória retilínea e vertical**, com uma **aceleração gravítica**, $\vec g$, de módulo aproximadamente constante e igual a: $g=9,8$m/s$^2$ (geralmente arredondado para $10$).
+Um corpo em queda livre na vertical, na proximidade da superfície da Terra, descreve uma **trajetória retilínea e vertical**, com uma **aceleração gravítica**, $\vec g$, de módulo aproximadamente constante e igual a: $g=9,80$m/s$^2$ (geralmente arredondado para $10$).
 >[!Note] Exemplo
 >![[Pasted image 20241013150714.png|500]]
 
