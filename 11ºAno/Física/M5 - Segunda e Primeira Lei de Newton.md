@@ -31,7 +31,7 @@ A **inércia**, resistência do corpo à alteração do seu estado de repouso ou
 >#### Aristóteles (385-322 a. C.)
 >Acreditava que um corpo só se manteria em movimento se atuasse uma força sobre ele; se a força deixasse de atuar, o corpo parava. Mais tarde, Galileu provou que Aristóteles estava errado, visto que não considerou a força do atrito.
 >#### Galileu Galilei (1564-1642)
->Concluiu, com base nos seus estudos, que na ausência de atrito, o movimento de um corpo num plano horizontal, sujeito apenas ao seu peso, $\vec P$, e â reação normal, $\vec N$, (em que $\vec F_R=\vec 0$) é retilíneo e uniforme, pois a velocidade é constante. Surgiu a Lei da Inércia.
+>Concluiu, com base nos seus estudos, que na ausência de atrito, o movimento de um corpo num plano horizontal, sujeito apenas ao seu peso, $\vec P$, e à reação normal, $\vec N$, (em que $\vec F_R=\vec 0$) é retilíneo e uniforme, pois a velocidade é constante. Surgiu a Lei da Inércia.
 >#### Isaac Newton
 >Formulou as 3 leis, sendo a Primeira Lei de Newton a Lei da Inércia já formulada por Galileu.
 

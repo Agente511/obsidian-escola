@@ -91,7 +91,7 @@ Estas forças constituem um par ação-reação: $\vec P$ = $-\vec F_{bola/Terra
 ### Corpo apoiado numa superfície horizontal
 >[!Note] Exemplo
 >![[Pasted image 20241012235845.png|300]]
->As forças **peso** e **reação normal**, que atuam num corpo apoiado numa mesa **não constituem um par ação-reação**, pois são **ambas aplicadas no corpo**.
+>As forças **peso** e **reação normal**, que atuam num corpo apoiado numa mesa **não constituem um par ação-reação**, pois são **ambas aplicadas no mesmo corpo**.
 >- $\vec P$: exercida pela Terra e aplicada no corpo
 >- $\vec N$: exercida pela mesa e aplicada no corpo
 >
