@@ -2,9 +2,8 @@
 As expressões $x=f(t)$ e $v=f(t)$, para um **movimento uniforme**, podem ser deduzidas a partir das expressões do movimento uniformemente variado, considerando a componente escalar da **aceleração nula** ($a$=0).
 - equação das posições $$\begin{flalign}& x=x_0+v\ t &\end{flalign}$$
 - equação das velocidades $$\begin{flalign}& v=v_0=\text{constante} &\end{flalign}$$
-
-![[Pasted image 20241102173113.png|400]]
 ### Gráficos posição-tempo e velocidade-tempo de movimentos retilíneos uniformes
+![[Pasted image 20241102173113.png|400]]
 O **gráfico velocidade-tempo** é uma **reta horizontal**.
 Conhecida a **posição inicial do corpo**, $x_0$, e o **valor da velocidade**, a partir do gráfico velocidade-tempo, pode-se traçar o **gráfico posição-tempo**, sendo o **declive da reta** igual à **componente escalar da velocidade**.
 ## Movimentos retilíneos em planos inclinados
