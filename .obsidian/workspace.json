@@ -63,7 +63,8 @@
               "title": "M10 - O som como onda de pressão"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,13 +251,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cf79f482e34c0ff",
+  "active": "5da374b966887388",
   "lastOpenFiles": [
+    "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md",
     "11ºAno/Física/M10 - O som como onda de pressão.md",
     "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
     "11ºAno/Física/M2 - Interpretação de gráficos velocidade-tempo e posição-tempo.md",
     "11ºAno/Física/M7 - Movimentos retilíneos em planos horizontais e inclinados.md",
-    "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md",
     "11ºAno/Física/M8 - Movimento circular uniforme.md",
     "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md",
     "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
