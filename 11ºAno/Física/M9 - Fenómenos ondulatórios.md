@@ -62,7 +62,7 @@ Verifica-se que em intervalos de tempo iguais, a onda tem características que s
 A **periodicidade da onda no tempo** é caracterizada pelo **período**, $T$.
 #### Período, $T$
 O período é o **tempo de uma oscilação completa** e tem como unidade SI o segundo, s.
-Logo, é o **menor intervalo de tempo entre dois instante em que o movimento da partícula oscilante tem as mesmas características**.
+Logo, é o **menor intervalo de tempo entre dois instantes em que o movimento da partícula oscilante tem as mesmas características**.
 ![[Pasted image 20241207115407.png|300]]
 
 >[!Tip] Nota
@@ -83,7 +83,7 @@ O comprimento de onda é a **menor distância que separa duas partículas oscila
 >- **Crista** é a posição do ponto máximo de uma onda.
 >- **Vale** é a posição do ponto mínimo de uma onda.
 
-**Num período, a onda avança um comprimento de onda**.
+**Num período**, a onda avança **um comprimento de onda**.
 
 >[!Summary] Cálculo do módulo da velocidade de propagação
 >$$\begin{flalign}& v=\frac \lambda T &\end{flalign}$$
