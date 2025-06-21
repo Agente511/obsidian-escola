@@ -95,7 +95,7 @@ O comprimento de onda é a **menor distância que separa duas partículas oscila
 >- $T$: período (s)
 >- $f$: frequência (Hz)
 
-Se a **velocidade de propagação de uma onda for constante**, a **frequência e o comprimento de onda são inversamente proporcionais**.
+Se a **velocidade de propagação** de uma onda for **constante**, a **frequência e o comprimento de onda** são **inversamente proporcionais**.
 ### Onda harmónica (ou sinusoidal)
 > [!Summary] Função de um sinal harmónico
 > Um **sinal harmónico** é um sinal descrito por uma função do tipo
@@ -107,10 +107,10 @@ Se a **velocidade de propagação de uma onda for constante**, a **frequência e
 > - $t$: tempo (s)
 >
 >>[!Info]
->>A **elongação** é o **afastamento em relação à posição de equilíbrio no instante $t$**.
+>>A **elongação**, $y$, é o **afastamento em relação à posição de equilíbrio no instante $t$**.
 >>O seu **valor máximo** é $A$ e o seu valor mínimo é $-A$.
 >>
->>A **amplitude de oscilação** é o **máximo afastamento relativamente à posição de equilíbrio**.
+>>A **amplitude de oscilação**, $A$, é o **máximo afastamento relativamente à posição de equilíbrio**.
 >>
 
 Uma **onda harmónica** é a **propagação de um sinal harmónico** no espaço.
