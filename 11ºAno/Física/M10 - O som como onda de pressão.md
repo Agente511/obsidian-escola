@@ -66,4 +66,4 @@ O **ouvido humano só deteta ondas sonoras numa determinada gama de frequências
 
 O **conjunto de todas as ondas sonoras de diferentes frequências** é designado **espetro sonoro**.
 
-![[Pasted image 20241207123045.png]]
+![[Pasted image 20241207123045.png|500]]
