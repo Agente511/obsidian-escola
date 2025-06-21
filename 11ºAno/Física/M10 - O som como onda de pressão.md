@@ -60,7 +60,7 @@ A **maioria dos sons não são sons puros**, **são sons complexos**.
 
 Um **som complexo** está associado a uma onda sonora que é o resultado da **soma ou sobreposição de vários sons puros**.
 
-O **timbre** permite **distinguir múltiplos sons complexos**, com a **mesma altura e intensidade**, produzidos por **fontes sonoras diferentes**.
+O **timbre** permite **distinguir múltiplos sons complexos**, com a **mesma altura e intensidade**, produzidos por **fontes sonoras diferentes**, devido às **ondas terem diferentes formas**.
 ## Espetro sonoro e sons audíveis pelo ser humano
 O **ouvido humano só deteta ondas sonoras numa determinada gama de frequências** e, para cada frequência, **a partir de determinados níveis de intensidade sonora**.
 

@@ -2,7 +2,7 @@
 toc: true
 title: Química
 ---
-*só até M7*
+*só até M7* e FALTA-ME PÔR ALs aqui
 **_Índice**:_
 [[11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md|M1 - Equações químicas e relações estequiométricas]]
 [[11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md|M2 - Reagente limitante e reagente em excesso]]

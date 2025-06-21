@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "a65528735ec4fdbb",
+            "id": "533319f2f3de46b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +35,8 @@
               "title": "M10 - O som como onda de pressão"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,10 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da374b966887388",
+  "active": "533319f2f3de46b3",
   "lastOpenFiles": [
-    "11ºAno/Física/M10 - O som como onda de pressão.md",
     "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
+    "11ºAno/Física/M10 - O som como onda de pressão.md",
+    "11ºAno/Química/_TOC_.md",
+    "11ºAno/Física/_TOC_.md",
+    "11ºAno/Física/Atividades Laboratoriais/AE 5.md",
+    "11ºAno/Física/Atividades Laboratoriais/AE 4.md",
     "11ºAno/Física/M8 - Movimento circular uniforme.md",
     "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md",
     "11ºAno/Física/M2 - Interpretação de gráficos velocidade-tempo e posição-tempo.md",
@@ -246,10 +251,6 @@
     "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
     "10ºAno/Física/M8 - Associação de componentes elétricos.md",
     "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
-    "10ºAno/Física/M1 - Energia cinética e Energia potencial.md",
-    "10ºAno/Física/M4 - Conservação de energia mecânica.md",
-    "10ºAno/Física/M5 - Variação da energia mecânica, Potência e Rendimento.md",
-    "10ºAno/Física/M2 - Trabalho realizado por forças constantes.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
