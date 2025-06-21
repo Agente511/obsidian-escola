@@ -97,6 +97,11 @@ O comprimento de onda é a **menor distância que separa duas partículas oscila
 
 Se a **velocidade de propagação** de uma onda for **constante**, a **frequência e o comprimento de onda** são **inversamente proporcionais**.
 ### Onda harmónica (ou sinusoidal)
+Uma **onda harmónica** é a **propagação de um sinal harmónico** no espaço.
+
+A **frequência** de uma onda harmónica **não se altera** e **depende da frequência da fonte**.
+
+A **energia** de uma onda harmónica **depende da sua amplitude e frequência**.
 > [!Summary] Função de um sinal harmónico
 > Um **sinal harmónico** é um sinal descrito por uma função do tipo
 > $$\begin{flalign}& y=A\sin(\omega t) &\end{flalign}$$
@@ -112,11 +117,5 @@ Se a **velocidade de propagação** de uma onda for **constante**, a **frequênc
 >>
 >>A **amplitude de oscilação**, $A$, é o **máximo afastamento relativamente à posição de equilíbrio**.
 >>
-
-Uma **onda harmónica** é a **propagação de um sinal harmónico** no espaço.
-
-A **frequência** de uma onda harmónica **não se altera** e **depende da frequência da fonte**.
-
-A **energia** de uma onda harmónica **depende da sua amplitude e frequência**.
 ### Onda complexa
 Uma onda complexa **resulta da sobreposição de 2 ou mais ondas harmónicas**.
