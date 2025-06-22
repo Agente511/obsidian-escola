@@ -175,7 +175,12 @@ Se existirem $N$ fendas, separadas por uma distância $d$:
 - Para um ângulo $\theta=0$, os **raios** que passam por todas as fendas estão **em fase** e a **amplitude total da onda é $N\ A_0$**, em que $A_0$ é a amplitude da onda que passa por uma das fendas.
 - Para um ângulo $\theta$, tal que $d \sin \theta=\lambda$, a **diferença de percurso entre os raios** que passam por fendas adjacentes é **$\lambda$** e, portanto, os **raios** que passam por todas as fendas estão **em fase**.
 
-Os **máximos do padrão de interferência** (**zeros de intensidade luminosa**) ocorrem, portanto, para ângulos $\theta$, tais que:$$\begin{flalign}& d \sin \theta = n \lambda &\end{flalign}$$ ($n$ é um número inteiro qualquer)
+> [!Summary] Máximos de intensidade luminosa
+> Os **máximos de intensidade luminosa** ocorrem, portanto, para ângulos $\theta$, tais que:$$\begin{flalign}& \sin \theta = n \frac \lambda d &\end{flalign}$$Sendo:
+> - $\theta$: ângulo de desvio
+> - $n$: número inteiro (0, 1, 2...) correspondente à ordem de cada máximo
+> - $\lambda$: comprimento de onda da onda luminosa
+> - $d$: distância entre as fendas da rede de difração
 
 Logo, a **posição dos máximos de intensidade da luz** não depende do número de fendas, mas, **quanto maior o número de fendas**, **mais intensos e estreitos** serão os **máximos**.
 >[!Info] +Info/Nota/
