@@ -170,28 +170,37 @@ As redes de difração possuem um **número muito elevado de fendas** ou ranhura
 >**Incidindo um feixe de luz perpendicularmente a uma rede de difração**, onde as fendas estão igualmente espaçadas e a largura das fendas é muito pequena, o feixe de luz é **difratado**, observando-se um **padrão de pontos luminosos no alvo** onde se projeta a luz difratada.
 
 ![[Pasted image 20250124162957.png|300]]
-#### Máximos do padrão de interferência  (Zeros de intensidade luminosa) e Máximos de intensidade da luz
+#### Máximos do padrão de interferência (máximos de intensidade da luz)
 Se existirem $N$ fendas, separadas por uma distância $d$:
 - Para um ângulo $\theta=0$, os **raios** que passam por todas as fendas estão **em fase** e a **amplitude total da onda é $N\ A_0$**, em que $A_0$ é a amplitude da onda que passa por uma das fendas.
 - Para um ângulo $\theta$, tal que $d \sin \theta=\lambda$, a **diferença de percurso entre os raios** que passam por fendas adjacentes é **$\lambda$** e, portanto, os **raios** que passam por todas as fendas estão **em fase**.
 
-> [!Summary] Máximos de intensidade luminosa
+> [!Summary] Cálculo da posição dos máximos de intensidade luminosa
 > Os **máximos de intensidade luminosa** ocorrem, portanto, para ângulos $\theta$, tais que:$$\begin{flalign}& \sin \theta = n \frac \lambda d &\end{flalign}$$Sendo:
-> - $\theta$: ângulo de desvio
+> - $\theta$: ângulo de desvio (ângulo entre a direção perpendicular à rede e a direção correspondente a um máximo)
 > - $n$: número inteiro (0, 1, 2...) correspondente à ordem de cada máximo (sendo o máximo central $n=0$)
 > - $\lambda$: comprimento de onda da onda luminosa
 > - $d$: distância entre as fendas da rede de difração
->>[!Tip] Nota
->>A partir da mesma fórmula, é possível obter o seguinte:
->>>$$\begin{flalign}& \frac {\Delta x} D = n\frac \lambda d &\end{flalign}$$
->>Sendo:
->>- $\Delta x$: distância entre máximos de intensidade da luz
->>- $D$: distância até ao alvo
->>- $\lambda$: comprimento de onda da onda luminosa
->>- $d$: distância entre as fendas
+>
 
-Logo, a **posição dos máximos de intensidade da luz** não depende do número de fendas, mas, **quanto maior o número de fendas**, **mais intensos e estreitos** serão os **máximos**.
+Logo, a **posição dos máximos de intensidade da luz** **não depende do número de fendas**, mas sim da distância entre elas.
+**Quanto maior o número de fendas**, **mais intensos e estreitos** serão os **máximos**.
 
+>[!Summary] Cálculo da distância entre dois máximos
+>Para $\theta_n$ suficientemente pequeno, $\sin {\theta_n} = \tan {\theta_n}$, logo, a partir da fórmula das posições dos máximos, tem-se que:
+>$$\begin{flalign}& \Delta x = \frac \lambda d D &\end{flalign}$$
+>Sendo:
+>- $\Delta x$: distância entre máximos de intensidade da luz
+>- $D$: distância até ao alvo
+>- $\lambda$: comprimento de onda da onda luminosa
+>- $d$: distância entre as fendas
+>
+>Para máximos de ordem 2 ou superior, em que $\theta$ já não é tão pequeno, deve-se usar a fórmula seguinte (ou usa-se só a seguinte para ambos os casos):
+>$$\begin{flalign}& \Delta y = D \tan \theta &\end{flalign}$$
+>Sendo:
+>- $\Delta y$: distância entre o máximo de ordem $n$ e o máximo central ($n=0$) de intensidade luminosa
+>- $D$: distância até ao alvo
+>- $d$: distância entre as fendas
 
 #### Aplicações da espetroscopia com redes de difração
 >[!Info] Aplicações da espetroscopia com redes de difração
