@@ -185,7 +185,7 @@ Se existirem $N$ fendas, separadas por uma distância $d$:
 Logo, a **posição dos máximos de intensidade da luz** não depende do número de fendas, mas, **quanto maior o número de fendas**, **mais intensos e estreitos** serão os **máximos**.
 >[!Info] +Info/Nota/
 >Num exercício do livro é usada, nas soluções, a seguinte fórmula:
->$$\begin{flalign}& \frac {\Delta x} D = \frac \lambda d &\end{flalign}$$
+>$$\begin{flalign}& \frac {\Delta x} D = n\frac \lambda d &\end{flalign}$$
 >Sendo:
 >- $\Delta x$: distância entre máximos de intensidade da luz
 >- $D$: distância até ao alvo
@@ -196,9 +196,9 @@ Logo, a **posição dos máximos de intensidade da luz** não depende do número
 
 #### Aplicações da espetroscopia com redes de difração
 >[!Info] Aplicações da espetroscopia com redes de difração
->Este método é utilizado na **indústria** e em **laboratórios de análise** para **identificar elementos químicos** (com base na dispersão da luz policromático que eles originam) e determinar a **composição química de substâncias**.
+>A espetroscopia é utilizada na **indústria** e em **laboratórios de análise** para **identificar elementos químicos** (com base na dispersão da luz policromático que eles originam) e determinar a **composição química de substâncias**.
 >
->Na **astrofísica**, é utilizado para determinar a **composição química de objetos celestes**, como as estrelas (com base no espetro produzido pela luz da estrela após passar por um prisma ou rede de difração).
+>Na **astrofísica**, é utilizada para determinar a **composição química de objetos celestes**, como as estrelas (com base no espetro produzido pela luz da estrela após passar por um prisma ou rede de difração).
 
 ### Utilizações de ondas eletromagnéticas nas comunicações
 Certas **ondas magnéticas**, como as **ondas de rádio**, devido ao seu **grande comprimento de onda**, **contornam grandes obstáculos facilmente**, como edifícios e montanhas, por **difração**, e, por isso, são muito usadas em comunicações.

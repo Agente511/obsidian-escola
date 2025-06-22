@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sentido convencional",
+                "query": "ordem de grandeza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,10 +254,11 @@
   },
   "active": "533319f2f3de46b3",
   "lastOpenFiles": [
+    "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
+    "10ºAno/Química/Medições.md",
+    "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
     "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md",
     "11ºAno/Física/M11 - Campo elétrico.md",
-    "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
-    "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
     "11ºAno/Física/M10 - O som como onda de pressão.md",
@@ -280,7 +280,6 @@
     "10ºAno/Física/M7 - Potência elétrica.md",
     "10ºAno/Física/M11 - Transferências de energia por calor e trabalho.md",
     "10ºAno/Física/M13 - Condutividade térmica.md",
-    "10ºAno/Física/M12 - Interação radiação-matéria.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
