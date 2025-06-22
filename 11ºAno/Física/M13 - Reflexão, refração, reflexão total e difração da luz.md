@@ -178,7 +178,7 @@ Se existirem $N$ fendas, separadas por uma distância $d$:
 > [!Summary] Máximos de intensidade luminosa
 > Os **máximos de intensidade luminosa** ocorrem, portanto, para ângulos $\theta$, tais que:$$\begin{flalign}& \sin \theta = n \frac \lambda d &\end{flalign}$$Sendo:
 > - $\theta$: ângulo de desvio
-> - $n$: número inteiro (0, 1, 2...) correspondente à ordem de cada máximo
+> - $n$: número inteiro (0, 1, 2...) correspondente à ordem de cada máximo (sendo o máximo central $n=0$)
 > - $\lambda$: comprimento de onda da onda luminosa
 > - $d$: distância entre as fendas da rede de difração
 
@@ -201,7 +201,7 @@ Logo, a **posição dos máximos de intensidade da luz** não depende do número
 >Na **astrofísica**, é utilizado para determinar a **composição química de objetos celestes**, como as estrelas (com base no espetro produzido pela luz da estrela após passar por um prisma ou rede de difração).
 
 ### Utilizações de ondas eletromagnéticas nas comunicações
-Certas **ondas magnéticas**, como as **ondas de rádio**, devido ao seu **grande comprimento de onda**, **contornam grandes obstáculos facilmente**, como edifícios e montanhas, devido à **difração**, são muito usadas em comunicações.
+Certas **ondas magnéticas**, como as **ondas de rádio**, devido ao seu **grande comprimento de onda**, **contornam grandes obstáculos facilmente**, como edifícios e montanhas, por **difração**, e, por isso, são muito usadas em comunicações.
 
 As **radiofrequências** de **menor frequência** são as que **melhor se difratam**.
 As de **maior frequência**, **quase não se difratam**, propagando-se em **linha reta**, mas têm a vantagem de transportar **maior quantidade de informação**.
@@ -242,11 +242,11 @@ Na **direção e sentido de propagação da fonte sonora**, as **frentes de onda
 
 - ##### Fonte sonora e recetor aproximam-se
   $f_{recebida}>f_{emitida}$
-  $\lambda_{recebida}<\lambda_{emitida}$
+  $\lambda_{recebido}<\lambda_{emitido}$
   Um som torna-se **mais alto** à medida que se aproximam.
 - ##### Fonte sonora e recetor afastam-se
   $f_{recebida}<f_{emitida}$
-  $\lambda_{recebida}>\lambda_{emitida}$
+  $\lambda_{recebido}>\lambda_{emitido}$
   Um som torna-se **mais baixo** à medida que se afastam.
 ### Efeito Doppler na luz
 Observa-se quando o emissor e recetor se afastam ou se aproximam com **grande velocidade relativa**.
