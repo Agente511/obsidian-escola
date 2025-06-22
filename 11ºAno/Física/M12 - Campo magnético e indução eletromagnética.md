@@ -100,7 +100,7 @@ A **intensidade do campo magnético**, $\vec B$, num ponto, **depende da corrent
 >[!Info] Solenoide
 >Bobina de fio condutor, enrolado em hélice circular, com **espiras idênticas uniformemente distribuídas ao longo do seu eixo**.
 #### Linhas de campo
->[!Example] Características das linhas de campo do campo magnético criado por uma corrente elétrica num fio condutor longo e retilíneo
+>[!Example] Características das linhas de campo do campo magnético criado por uma corrente elétrica num solenoide
 >- são **paralelas ao eixo do solenoide**;
 >- são sempre **tangentes**, em cada ponto, ao campo magnético, $\vec B$, e **indicam a direção e o sentido do campo**;
 >- apresentam **maior densidade nas zonas onde o campo é mais intenso**;
