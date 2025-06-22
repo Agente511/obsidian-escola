@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fio",
+                "query": "sentido convencional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,12 +253,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3c3910f30310655",
+  "active": "01f8fa8ab5db4a7a",
   "lastOpenFiles": [
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
+    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md",
     "11ºAno/Física/M11 - Campo elétrico.md",
-    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
     "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
     "11ºAno/Física/M10 - O som como onda de pressão.md",

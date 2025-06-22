@@ -133,9 +133,9 @@ Como as linhas de campo do campo magnético, no **interior do solenoide**, são 
 >  
 
 Conclui-se que o fluxo magnético é tanto maior quanto:
-- maior for a **intensidade do campo magnético**, $\vec B$
-- maior for a **área**, $A$
-- maior o **$\cos \alpha$**, ou seja, se o **ângulo $\alpha$ diminuir** (considerando ângulos agudos)
+- **maior for a intensidade do campo magnético**, $\vec B$
+- **maior for a área**, $A$
+- **maior o $\cos \alpha$**, ou seja, **menor for o ângulo $\alpha$** (considerando ângulos agudos)
 
 O fluxo magnético que atravessa uma espira é:
 ![[Pasted image 20250114204113.png|600]]
@@ -178,7 +178,7 @@ O **ponteiro** do galvanómetro indica a **passagem da corrente elétrica**, mov
 
 É assim possível produzir correntes elétricas induzidas em fios condutores em circuito fechado, variando o fluxo do campo magnético criado por ímanes.
 
-Se o fluxo do campo magnético criado por um fio condutor percorrido por uma corrente elétrica variar, também é possível produzir uma corrente elétrica induzida num circuito fechado que se encontre próximo do primeiro. Portanto, o **primeiro circuito percorrido por uma corrente elétrica induz uma corrente elétrica num segundo circuito, onde a corrente elétrica era nula**.
+Se o **fluxo do campo magnético** criado por um fio condutor percorrido por uma corrente elétrica **variar**, também é possível **produzir uma corrente elétrica induzida num circuito fechado que se encontre próximo do primeiro**. Portanto, o **primeiro circuito percorrido por uma corrente elétrica induz uma corrente elétrica num segundo circuito, onde a corrente elétrica era nula**.
 
 > [!NOTE] Exemplo
 > Se através do reóstato, variarmos a corrente elétrica no circuito ligado à espira E$_1$ vamos fazer variar o campo magnético criado pela espira E$_1$. Então o fluxo do campo magnético através da espira E$_2$ também varia, **criando uma corrente induzida na espira E$_2$**.
