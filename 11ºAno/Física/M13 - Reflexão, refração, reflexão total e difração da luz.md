@@ -181,18 +181,17 @@ Se existirem $N$ fendas, separadas por uma distância $d$:
 > - $n$: número inteiro (0, 1, 2...) correspondente à ordem de cada máximo (sendo o máximo central $n=0$)
 > - $\lambda$: comprimento de onda da onda luminosa
 > - $d$: distância entre as fendas da rede de difração
+>>[!Tip] Nota
+>>A partir da mesma fórmula, é possível obter o seguinte:
+>>>$$\begin{flalign}& \frac {\Delta x} D = n\frac \lambda d &\end{flalign}$$
+>>Sendo:
+>>- $\Delta x$: distância entre máximos de intensidade da luz
+>>- $D$: distância até ao alvo
+>>- $\lambda$: comprimento de onda da onda luminosa
+>>- $d$: distância entre as fendas
 
 Logo, a **posição dos máximos de intensidade da luz** não depende do número de fendas, mas, **quanto maior o número de fendas**, **mais intensos e estreitos** serão os **máximos**.
->[!Info] +Info/Nota/
->Num exercício do livro é usada, nas soluções, a seguinte fórmula:
->$$\begin{flalign}& \frac {\Delta x} D = n\frac \lambda d &\end{flalign}$$
->Sendo:
->- $\Delta x$: distância entre máximos de intensidade da luz
->- $D$: distância até ao alvo
->- $\lambda$: comprimento de onda da onda luminosa
->- $d$: distância entre as fendas
->
->>*(Não deve ser precisa, já que não está em nenhuma página da matéria, mas é estranho aparecer nas soluções assim sem qualquer explicação)*.
+
 
 #### Aplicações da espetroscopia com redes de difração
 >[!Info] Aplicações da espetroscopia com redes de difração
