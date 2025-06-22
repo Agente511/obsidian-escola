@@ -220,8 +220,8 @@ As **bandas de radiofrequência** compreendidas entre 3kHz e 300 GHz são **orga
 
 ## Teoria das ondas eletromagnéticas de Maxwell e experiências de Hertz
 Segundo **Maxwell**,
-1. Se num determinado ponto for produzida uma **perturbação elétrica** (como a **oscilação de uma carga elétrica**), essa perturbação **produz um campo elétrico**, variável no tempo e no espaço, à medida que a perturbação se propaga.
-2. Esse **campo elétrico induz um campo magnético**, que também varia no tempo e no espaço, e que é **perpendicular ao campo elétrico**.
+1. Se num determinado ponto for produzida uma **perturbação elétrica** (como a **oscilação de uma carga elétrica**), essa perturbação **produz um campo elétrico**, **variável** no tempo e no espaço, à medida que a perturbação se propaga.
+2. Esse **campo elétrico induz um campo magnético**, que também **varia** no tempo e no espaço, e que é **perpendicular ao campo elétrico**.
 3. O **campo magnético induz um campo elétrico**, **perpendicular a este**.
 
 As **ondas eletromagnéticas**, que são transversais, resultam desta **indução recíproca** de campos elétricos e de campos magnéticos, variáveis no tempo e no espaço e perpendiculares entre si.
