@@ -187,7 +187,7 @@ Logo, a **posição dos máximos de intensidade da luz** **não depende do núme
 **Quanto maior o número de fendas**, **mais intensos e estreitos** serão os **máximos**.
 
 >[!Summary] Cálculo da distância entre dois máximos
->Para $\theta_n$ suficientemente pequeno, $\sin {\theta_n} = \tan {\theta_n}$, logo, a partir da fórmula das posições dos máximos, tem-se que:
+>Para **$\theta_n$ suficientemente pequeno**, $\sin {\theta_n} = \tan {\theta_n}$, logo, a partir da fórmula das posições dos máximos, tem-se que:
 >$$\begin{flalign}& \Delta x = \frac \lambda d D &\end{flalign}$$
 >Sendo:
 >- $\Delta x$: distância entre máximos de intensidade da luz
@@ -195,12 +195,13 @@ Logo, a **posição dos máximos de intensidade da luz** **não depende do núme
 >- $\lambda$: comprimento de onda da onda luminosa
 >- $d$: distância entre as fendas
 >
->Para máximos de ordem 2 ou superior, em que $\theta$ já não é tão pequeno, deve-se usar a fórmula seguinte (ou usa-se só a seguinte para ambos os casos):
->$$\begin{flalign}& \Delta y = D \tan \theta &\end{flalign}$$
+> Para **$\theta$ já não tão pequeno** (normalmente para máximos de ordem 2 ou superior), deve-se usar a fórmula seguinte (ou usa-se só a seguinte para ambos os casos):
+>$$\begin{flalign}& \tan \theta = \frac {\Delta y} D&\end{flalign}$$
 >Sendo:
 >- $\Delta y$: distância entre o máximo de ordem $n$ e o máximo central ($n=0$) de intensidade luminosa
 >- $D$: distância até ao alvo
->- $d$: distância entre as fendas
+
+
 
 #### Aplicações da espetroscopia com redes de difração
 >[!Info] Aplicações da espetroscopia com redes de difração
