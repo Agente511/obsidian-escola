@@ -132,8 +132,7 @@ Só se observa quando o **tamanho do obstáculo**, orifício ou fenda é da **[[
 
 Quando ocorre o fenómeno da difração:
 - A **frequência da onda mantém-se**
-- Se o **meio for o mesmo**, a **velocidade de propagação da onda difratada é a mesma** antes e depois da difração
-- Se a **velocidade de propagação se mantiver** (o meio for o mesmo), o **comprimento de onda da onda difratada também se mantém**.
+- Se o **meio for o mesmo**, a **velocidade de propagação da onda difratada é a mesma** antes e depois da difração. Neste caso, o **comprimento de onda da onda difratada também se mantém**.
 
 >[!Tip] Nota
 >A difração ocorre em **todo o tipo de ondas**.
