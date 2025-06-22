@@ -34,6 +34,22 @@
               "icon": "lucide-file",
               "title": "M10 - O som como onda de pressão"
             }
+          },
+          {
+            "id": "6775e50c38cf2e66",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Exatidão Precisão"
+            }
           }
         ],
         "currentTab": 1
@@ -68,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "densidade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +105,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,8 +240,11 @@
   },
   "active": "533319f2f3de46b3",
   "lastOpenFiles": [
-    "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
+    "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
+    "10ºAno/Química/Densidade relativa de metais.md",
+    "10ºAno/Química/Ligações intermoleculares.md",
     "11ºAno/Física/M10 - O som como onda de pressão.md",
+    "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
     "11ºAno/Química/_TOC_.md",
     "11ºAno/Física/_TOC_.md",
     "11ºAno/Física/Atividades Laboratoriais/AE 5.md",
@@ -248,9 +266,6 @@
     "10ºAno/Física/M12 - Interação radiação-matéria.md",
     "10ºAno/Física/M14 - Capacidade térmica mássica e variação de entalpia.md",
     "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
-    "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
-    "10ºAno/Física/M8 - Associação de componentes elétricos.md",
-    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
