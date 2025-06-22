@@ -187,7 +187,7 @@ Logo, a **posição dos máximos de intensidade da luz** **não depende do núme
 **Quanto maior o número de fendas**, **mais intensos e estreitos** serão os **máximos**.
 
 >[!Summary] Cálculo da distância entre dois máximos
->Para **$\theta_n$ suficientemente pequeno**, $\sin {\theta_n} = \tan {\theta_n}$, logo, a partir da fórmula das posições dos máximos, tem-se que:
+>Para **$\theta$ suficientemente pequeno**, $\sin {\theta} = \tan {\theta}$, logo, a partir da fórmula das posições dos máximos, tem-se que:
 >$$\begin{flalign}& \Delta x = \frac \lambda d D &\end{flalign}$$
 >Sendo:
 >- $\Delta x$: distância entre máximos de intensidade da luz
