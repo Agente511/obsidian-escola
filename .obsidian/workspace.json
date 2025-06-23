@@ -79,7 +79,8 @@
               "title": "Exatidão Precisão"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,13 +267,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da374b966887388",
+  "active": "e3c3910f30310655",
   "lastOpenFiles": [
+    "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
+    "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Química/M4 - Química verde.md",
     "11ºAno/Química/M3 - Rendimento das reações químicas.md",
     "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
     "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
-    "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
     "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md",
     "11ºAno/Química/M16 - Mineralização e acidificação das águas.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
@@ -280,7 +282,6 @@
     "11ºAno/Química/M8 - Ácidos e bases.md",
     "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "11ºAno/Física/M11 - Campo elétrico.md",
-    "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "10ºAno/Química/Medições.md",
     "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
