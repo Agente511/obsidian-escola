@@ -419,7 +419,152 @@
     {
       "type": "group",
       "ctime": 1744988639075,
-      "items": [],
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1750638160385,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1750638059920,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750638050473,
+                  "path": "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638050473,
+                  "path": "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638050473,
+                  "path": "11ºAno/Química/M3 - Rendimento das reações químicas.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638050473,
+                  "path": "11ºAno/Química/M4 - Química verde.md"
+                }
+              ],
+              "title": "SD1"
+            },
+            {
+              "type": "group",
+              "ctime": 1750638072935,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750638065646,
+                  "path": "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638065646,
+                  "path": "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638065646,
+                  "path": "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md"
+                }
+              ],
+              "title": "SD2"
+            },
+            {
+              "type": "group",
+              "ctime": 1750638091456,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750638084111,
+                  "path": "11ºAno/Química/M8 - Ácidos e bases.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638084111,
+                  "path": "11ºAno/Química/M9 - Acidez e basicidade de soluções.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638084111,
+                  "path": "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638084111,
+                  "path": "11ºAno/Química/M11 - Titulação ácido-base.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638084111,
+                  "path": "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638084111,
+                  "path": "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md"
+                }
+              ],
+              "title": "SD3"
+            }
+          ],
+          "title": "D1"
+        },
+        {
+          "type": "group",
+          "ctime": 1750638166446,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1750638128130,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750638120543,
+                  "path": "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638120543,
+                  "path": "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md"
+                }
+              ],
+              "title": "SD4"
+            },
+            {
+              "type": "group",
+              "ctime": 1750638139527,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1750638133178,
+                  "path": "11ºAno/Química/M16 - Mineralização e acidificação das águas.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638133178,
+                  "path": "11ºAno/Química/M17 - Equilíbrio químico e solubilidade de sais.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638133178,
+                  "path": "11ºAno/Química/M18 - Alteração da solubilidade de sais.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750638133178,
+                  "path": "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md"
+                }
+              ],
+              "title": "SD5"
+            }
+          ],
+          "title": "D2"
+        }
+      ],
       "title": "Química 11º Ano"
     }
   ]
