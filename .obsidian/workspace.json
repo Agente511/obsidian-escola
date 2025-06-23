@@ -78,9 +78,23 @@
               "icon": "lucide-file",
               "title": "Exatidão Precisão"
             }
+          },
+          {
+            "id": "0f0a7598185a27dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11ºAno/Química/Atividades Laboratoriais/AL 1.1 - Síntese do ácido acetilsalicílico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AL 1.1 - Síntese do ácido acetilsalicílico"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,8 +147,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,13 +280,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43854ece290d1997",
+  "active": "0f0a7598185a27dd",
   "lastOpenFiles": [
-    "11ºAno/Química/M3 - Rendimento das reações químicas.md",
+    "11ºAno/Química/Atividades Laboratoriais/AL 2.1 - Titulação ácido-base.md",
+    "11ºAno/Química/Atividades Laboratoriais/AL 1.1 - Síntese do ácido acetilsalicílico.md",
+    "11ºAno/Química/Atividades Laboratoriais/AL 1.2 - Efeito da concentração no equilíbrio químico.md",
+    "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Química/M4 - Química verde.md",
+    "11ºAno/Química/M3 - Rendimento das reações químicas.md",
     "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
     "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
-    "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
     "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md",
     "11ºAno/Química/M16 - Mineralização e acidificação das águas.md",
@@ -292,9 +308,6 @@
     "11ºAno/Física/_TOC_.md",
     "11ºAno/Física/Atividades Laboratoriais/AE 5.md",
     "11ºAno/Física/Atividades Laboratoriais/AE 4.md",
-    "11ºAno/Física/M8 - Movimento circular uniforme.md",
-    "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md",
-    "11ºAno/Física/M2 - Interpretação de gráficos velocidade-tempo e posição-tempo.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
