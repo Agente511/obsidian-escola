@@ -42,7 +42,7 @@ A remoção de **poluentes**, como **metais pesados**, no tratamento das **água
 	![[Sem título 7.jpg|300]]
 	
 	O **chumbo** é o poluente de **maior ameaça** à escala global. Por isso, **pilhas** e **baterias** devem ser recolhidas em contentores específicos.
-- ##### Remoção de alumínio(III), como(III) e ferro(III)
+- ##### Remoção de alumínio(III), cromo(III) e ferro(III)
 	Os **catiões $Al^{3+}$, $Cr^{3+}$ e $Fe^{3+}$** (representados por $M$ na equação) precipitam com o **anião hidróxido, $OH^-$**:
 	![[Sem título-1.jpg|300]]
 	
