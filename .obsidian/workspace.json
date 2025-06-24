@@ -106,9 +106,23 @@
               "icon": "lucide-file",
               "title": "M13 - Aspetos ambientais das reações ácido-base"
             }
+          },
+          {
+            "id": "1387c557ab40b0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reações Químicas e Energia de Ligação"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -140,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ordem de grandeza",
+                "query": "\"variação de entalpia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -295,13 +309,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0572e8ae4d76c1f0",
+  "active": "01f8fa8ab5db4a7a",
   "lastOpenFiles": [
+    "10ºAno/Química/Ligação covalente.md",
+    "10ºAno/Química/_TOC_.md",
+    "10ºAno/Química/Tipos de Ligações Químicas.md",
+    "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
     "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "11ºAno/Química/M11 - Titulação ácido-base.md",
-    "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
     "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
@@ -320,9 +337,6 @@
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
     "11ºAno/Física/M11 - Campo elétrico.md",
-    "10ºAno/Química/Medições.md",
-    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
-    "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
