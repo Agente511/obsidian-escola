@@ -35,7 +35,7 @@ Técnica para **determinar a concentração** (**título**) **do titulado** atra
 #### Ponto de equivalência
 O **ponto de equivalência** (**p.e.**) de uma titulação corresponde à situação em que **nenhum dos reagentes está em excesso**, o que significa que foram **adicionados em quantidades equivalentes de acordo com a estequiometria** da reação e que **se completou a neutralização**. 
 
-No ponto de equivalência, $c.e.\times n_{ácido}=c.e.\times n_{base}$.
+No ponto de equivalência, $n_{ácido}= n_{base}$.
 
 Pode ser identificado a partir da **curva de titulação** (representação gráfica do pH da solução resultante em função do volume de titulante que vai sendo adicionado).
 
