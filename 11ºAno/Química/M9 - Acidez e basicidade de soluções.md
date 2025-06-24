@@ -9,7 +9,7 @@ As moléculas de água ligam-se entre si por ligações de hidrogénio, estabele
 >$$\begin{flalign}& K_w=[H_3O^+]_e \times [OH^-]_e &\end{flalign}$$
 >
 >>[!Info] Nota
->>É retirada a concentração de H$_2$O da fórmula, porque e reação é **muito pouco extensa**, e, por isso, a **concentração da água é praticamente constante**.
+>>É retirada a concentração de H$_2$O da fórmula, porque a reação é **muito pouco extensa**, e, por isso, a **concentração da água é praticamente constante**.
 >>$$\begin{flalign}& K_c=\frac {[H_3O^+]_e \times [OH^-]_e} {[H_2O]^2_e} &\end{flalign}$$
 >>$K_c \times [H_2O]^2_e=$ constante
 
