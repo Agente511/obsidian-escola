@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,8 +294,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a3459072f46058",
+  "active": "0572e8ae4d76c1f0",
   "lastOpenFiles": [
+    "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
     "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
@@ -317,7 +318,6 @@
     "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "11ºAno/Química/M11 - Titulação ácido-base.md",
-    "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
     "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
     "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
     "11ºAno/Química/M8 - Ácidos e bases.md",
