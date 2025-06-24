@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"par ação",
+                "query": "\"agitação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,12 +267,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "556dbaaa8f53b949",
+  "active": "d190abf743d582d9",
   "lastOpenFiles": [
+    "11ºAno/Química/M18 - Alteração da solubilidade de sais.md",
     "11ºAno/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
+    "11ºAno/Química/Atividades Laboratoriais/AL 1.2 - Efeito da concentração no equilíbrio químico.md",
+    "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
+    "10ºAno/Biologia/Moléculas orgânicas.md",
     "11ºAno/Química/M16 - Mineralização e acidificação das águas.md",
     "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md",
-    "11ºAno/Química/M18 - Alteração da solubilidade de sais.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
@@ -288,13 +291,10 @@
     "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
     "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
-    "11ºAno/Química/Atividades Laboratoriais/AL 1.2 - Efeito da concentração no equilíbrio químico.md",
     "11ºAno/Química/Atividades Laboratoriais/AL 1.1 - Síntese do ácido acetilsalicílico.md",
     "11ºAno/Química/Atividades Laboratoriais/AL 2.1 - Titulação ácido-base.md",
     "11ºAno/Física/Atividades Laboratoriais/AE 1.md",
     "11ºAno/Física/Atividades Laboratoriais/AE 2.md",
-    "11ºAno/Física/Atividades Laboratoriais/AE 3.md",
-    "11ºAno/Física/Atividades Laboratoriais/AE 4.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
