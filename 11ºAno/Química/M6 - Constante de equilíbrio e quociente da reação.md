@@ -24,13 +24,13 @@ Pode ser determinado em qualquer instante, **sem que o sistema esteja em equilí
 
 >[!Summary] Cálculo do quociente da reação
 >Para uma reação química $a\ A+b\ B \rightleftharpoons c\ C+ d\ D$, o quociente da reação é dado por:
->$$\begin{flalign}& K_c=\frac {[C]^c\times[D]^d} {[A]^a\times[B]^b} &\end{flalign}$$
+>$$\begin{flalign}& Q_c=\frac {[C]^c\times[D]^d} {[A]^a\times[B]^b} &\end{flalign}$$
 >
 >>[!Info] Representação abreviada da concentração molar
 >[A] representa a concentração da substância A
 
 ### Comparação de $Q_c$ com $K_c$
-Sempre que um sistema **não está em equilíbrio**, **uma das reações** (direta ou inversa) **ocorrerá a maior velocidade até que o equilíbrio químico seja atingido**. Através da comparação de $Q_c$ com $K_c$ à mesma temperatura, prevê-se o sentido em que a reação evolui:
+Sempre que um sistema **não está em equilíbrio**, **uma das reações** (direta ou inversa) **ocorrerá a maior velocidade até que o equilíbrio químico seja atingido**. Através da comparação do $Q_c$ com a $K_c$ à mesma temperatura, prevê-se o sentido em que a reação evolui:
 >[!Info] Significado de "evoluir/progredir/deslocar-se no sentido..."
 >A reação ocorre com maior velocidade nesse sentido do que no sentido contrário.
 
