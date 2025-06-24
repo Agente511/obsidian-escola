@@ -20,7 +20,7 @@ O **anião** (base conjugada do ácido fraco) que constitui o sal obtido **sofre
 >- Cianeto de potássio, $KCN$
 
 ### Sal proveniente de ácido forte e base fraca
-Como no equilíbrio $[H_3O^+]_e>[OH^-]_e$, o sal resultante da adição de um ácido fraco a uma base forte, em solução aquosa, origina uma **solução ácida**.
+Como no equilíbrio $[H_3O^+]_e>[OH^-]_e$, o sal resultante da adição de um ácido forte a uma base fraca, em solução aquosa, origina uma **solução ácida**.
 O **catião** (ácido conjugado da base fraca) que constitui o sal obtido **sofre hidrólise**.
 
 >[!Note] Exemplos
