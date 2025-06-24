@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -72,7 +72,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Química/M11 - Titulação ácido-base.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ligações de hidrogénio",
+                "query": "\"par ação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -295,15 +295,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60a0d7bc15e7d993",
+  "active": "39511209fea16c11",
   "lastOpenFiles": [
-    "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
-    "10ºAno/Química/Ligações intermoleculares.md",
-    "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
-    "11ºAno/Química/M8 - Ácidos e bases.md",
-    "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
-    "11ºAno/Química/M11 - Titulação ácido-base.md",
     "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
+    "11ºAno/Química/M8 - Ácidos e bases.md",
+    "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
+    "11ºAno/Química/M11 - Titulação ácido-base.md",
+    "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
+    "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
+    "10ºAno/Química/Ligações intermoleculares.md",
+    "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
     "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
@@ -322,7 +323,6 @@
     "10ºAno/Física/_TOC_.md",
     "10ºAno/Química/_TOC_.md",
     "10ºAno/Química/Ligação covalente.md",
-    "10ºAno/Química/Tipos de Ligações Químicas.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
