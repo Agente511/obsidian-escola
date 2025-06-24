@@ -3,9 +3,9 @@ A **água** tem um **grande poder de dissolução**.
 
 Os **sais**, por seu lado, têm **diferentes solubilidades**, existindo para cada um um **limite máximo para a sua dissolução**.
 
-A solubilidade, $s$, é a **quantidade máxima de soluto** (usualmente em massa (g)) que se **pode dissolver numa quantidade específica de solvente** (usualmente 100 g), em determinadas condições de pressão e temperatura. Pode também estar em mol/dm$^3$.
+A solubilidade, $s$, é a **quantidade máxima de soluto** (usualmente em massa (g)) que se **pode dissolver numa quantidade específica de solvente** (usualmente 100 g), em determinadas condições de pressão e temperatura.
 >[!Info] Nota
->A solubilidade, em **mol/dm$^3$** é calculada como a **concentração** ($\frac n v$).
+>A solubilidade pode também estar em **mol/dm$^3$**, sendo calculada como a **concentração** ($\frac n V$).
 
 Ao adicionar gradualmente um composto a um determinado solvente, a temperatura e a pressão constantes e sob agitação contínua, verifica-se que **a partir de um dado momento não é possível dissolver mais soluto**.
 >[!Note] Exemplo
