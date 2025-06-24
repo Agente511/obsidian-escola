@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"agitação",
+                "query": "\"fator de",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,15 +266,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d190abf743d582d9",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
+    "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md",
     "11ºAno/Química/M18 - Alteração da solubilidade de sais.md",
     "11ºAno/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
     "11ºAno/Química/Atividades Laboratoriais/AL 1.2 - Efeito da concentração no equilíbrio químico.md",
     "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
     "10ºAno/Biologia/Moléculas orgânicas.md",
     "11ºAno/Química/M16 - Mineralização e acidificação das águas.md",
-    "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
