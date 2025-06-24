@@ -75,5 +75,5 @@ A expressão que relaciona a solubilidade de um sal com o seu produto de solubil
 - ##### Solução saturada
 	$Q_s=K_s$ ^5335f0
 - ##### Solução sobressaturada
-	$Q_>K_s$
+	$Q_s>K_s$
 

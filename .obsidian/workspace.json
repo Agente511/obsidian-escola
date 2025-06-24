@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Química/M18 - Alteração da solubilidade de sais.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -72,7 +72,7 @@
               "type": "markdown",
               "state": {
                 "file": "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -267,12 +267,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5652c45699e703c1",
+  "active": "d190abf743d582d9",
   "lastOpenFiles": [
-    "11ºAno/Química/M16 - Mineralização e acidificação das águas.md",
-    "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md",
     "11ºAno/Química/M18 - Alteração da solubilidade de sais.md",
     "11ºAno/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
+    "11ºAno/Química/M16 - Mineralização e acidificação das águas.md",
+    "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
