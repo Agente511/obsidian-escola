@@ -107,7 +107,8 @@
               "title": "M13 - Aspetos ambientais das reações ácido-base"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,14 +295,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da374b966887388",
+  "active": "0572e8ae4d76c1f0",
   "lastOpenFiles": [
+    "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "11ºAno/Química/M11 - Titulação ácido-base.md",
     "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
     "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
-    "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
     "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
