@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,10 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "137c1f402b991c34",
+  "active": "16b6cfde05240025",
   "lastOpenFiles": [
-    "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
+    "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+    "11ºAno/Química/M11 - Titulação ácido-base.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
+    "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "10ºAno/Química/Composição quantitativa de soluções.md",
     "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md",
@@ -252,12 +254,10 @@
     "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md",
     "10ºAno/Biologia/Moléculas orgânicas.md",
     "11ºAno/Química/M16 - Mineralização e acidificação das águas.md",
-    "11ºAno/Química/M11 - Titulação ácido-base.md",
     "11ºAno/Química/M8 - Ácidos e bases.md",
     "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
     "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
-    "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
     "10ºAno/Química/Ligações intermoleculares.md",
     "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
