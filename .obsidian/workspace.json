@@ -72,15 +72,17 @@
           {
             "id": "1d95c546f1745c5a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
+                "file": "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Reações Químicas e Energia de Ligação"
+              "title": "Reações fotoquímicas na atmosfera"
             }
           }
         ],
@@ -273,6 +275,7 @@
   },
   "active": "1d95c546f1745c5a",
   "lastOpenFiles": [
+    "10ºAno/Química/Reações Químicas e Energia de Ligação.md",
     "10ºAno/Química/Composição quantitativa de soluções.md",
     "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md",
     "10ºAno/Química/Composição da troposfera terrestre.md",
@@ -298,7 +301,6 @@
     "10ºAno/Química/Medições.md",
     "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
-    "11ºAno/Química/M11 - Titulação ácido-base.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
