@@ -91,22 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md",
+                "file": "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M12 - Campo magnético e indução eletromagnética"
-            }
-          },
-          {
-            "id": "7f6b06a1dc0ef1e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "M13 - Reflexão, refração, reflexão total e difração da luz"
             }
           }
         ],
@@ -142,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"fator de",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -299,8 +289,8 @@
   },
   "active": "8b5885bc2f572ed7",
   "lastOpenFiles": [
-    "11ºAno/Física/M11 - Campo elétrico.md",
     "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md",
+    "11ºAno/Física/M11 - Campo elétrico.md",
     "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "11ºAno/Física/M10 - O som como onda de pressão.md",
     "11ºAno/Física/M9 - Fenómenos ondulatórios.md",

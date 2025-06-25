@@ -172,7 +172,7 @@ O **ponteiro** do galvanómetro indica a **passagem da corrente elétrica**, mov
 > De acordo com a Lei de Faraday, o **módulo da força eletromotriz induzida é igual ao módulo da variação do fluxo magnético, por unidade de tempo**.
 > # $|\epsilon_i|=|\frac {\Delta \phi} {\Delta t} |$
 > Sendo:
-> - $\epsilon$: força eletromotriz induzida (V)
+> - $\epsilon_i$: força eletromotriz induzida (V)
 > - $\Delta \phi$: variação do fluxo magnético (Wb)
 > - $\Delta t$: intervalo de tempo (s)
 
