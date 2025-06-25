@@ -26,7 +26,7 @@ A **temperatura** é uma propriedade que determina **se um sistema está ou não
 Quando **2 sistemas a temperaturas diferentes** são **postos em contacto**, há **transferência de energia por calor** do sistema com a **temperatura superior** para o sistema com a **temperatura inferior**.
 
 > [!Tip] Nota
-> Esta **transferência de energia por calor cessa** quando os sistemas **atingem a mesma temperatura**, isto é, até atingem o **equilíbrio térmico**.
+> Esta **transferência de energia por calor cessa** quando os sistemas **atingem a mesma temperatura**, isto é, atingem o **equilíbrio térmico**.
 
 A **taxa temporal de transferência de energia por calor diminui** à medida que **diminui a diferença entre a temperatura dos sistemas**.
 ## Interpretação microscópica da temperatura

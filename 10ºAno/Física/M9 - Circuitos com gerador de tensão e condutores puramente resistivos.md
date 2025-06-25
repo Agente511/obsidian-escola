@@ -70,7 +70,7 @@ Energia fornecida pelo gerador ao circuito exterior.
 >- $I$: corrente elétrica (A)
 >- $\Delta t$: intervalo de tempo (s)
 ### Energia dissipada no gerador
-Parte da energia que o gerador transforma e que é dissipada pela resistência interna do próprio gerador.
+Parte da energia que o gerador transforma é dissipada pela resistência interna do próprio gerador.
 >[!Summary] Cálculo da energia dissipada no gerador
 >$$\begin{flalign}& E_d = rI^2 \Delta t &\end{flalign}$$
 >Sendo:
