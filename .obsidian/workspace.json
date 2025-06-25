@@ -91,12 +91,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11ºAno/Física/M8 - Movimento circular uniforme.md",
+                "file": "11ºAno/Física/M11 - Campo elétrico.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M8 - Movimento circular uniforme"
+              "title": "M11 - Campo elétrico"
+            }
+          },
+          {
+            "id": "7f6b06a1dc0ef1e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ],
@@ -132,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"fator de",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,8 +297,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b5885bc2f572ed7",
+  "active": "01f8fa8ab5db4a7a",
   "lastOpenFiles": [
+    "11ºAno/Física/M11 - Campo elétrico.md",
+    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
+    "11ºAno/Física/M10 - O som como onda de pressão.md",
+    "11ºAno/Física/M9 - Fenómenos ondulatórios.md",
+    "10ºAno/Química/Espetro do Atomo de Hidrogéneo.md",
+    "10ºAno/Química/Espetro Eletromagnético.md",
+    "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
+    "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md",
+    "11ºAno/Física/M8 - Movimento circular uniforme.md",
     "11ºAno/Física/M7 - Movimentos retilíneos em planos horizontais e inclinados.md",
     "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md",
     "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md",
@@ -305,16 +324,7 @@
     "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
     "10ºAno/Física/M8 - Associação de componentes elétricos.md",
     "10ºAno/Física/M7 - Potência elétrica.md",
-    "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "10ºAno/Física/M5 - Variação da energia mecânica, Potência e Rendimento.md",
-    "10ºAno/Física/M4 - Conservação de energia mecânica.md",
-    "10ºAno/Física/M3 - Energia de sistemas em movimento de translação.md",
-    "10ºAno/Física/M2 - Trabalho realizado por forças constantes.md",
-    "10ºAno/Física/M1 - Energia cinética e Energia potencial.md",
-    "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
-    "11ºAno/Física/Atividades Laboratoriais/AE 7.md",
-    "11ºAno/Física/Atividades Laboratoriais/AE 6.md",
-    "11ºAno/Física/Atividades Laboratoriais/AE 5.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
