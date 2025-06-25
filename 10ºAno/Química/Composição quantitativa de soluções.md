@@ -69,7 +69,7 @@ A fração molar (x) de um soluto A é o **quociente entre a quantidade de maté
 
 
 >[!Note] Cálculo da fração molar de um soluto
->#### x$_{soluto A}$ = $\frac {n_{soluto A}} {n_{total-da-solução}}$
+>#### x$_{soluto A}$ = $\frac {n_{\text{soluto A}}} {n_{\text{total da solução}}}$
 >
 >Sendo:
 >x$_{soluto A}$: fração molar do soluto A (adimensional)
