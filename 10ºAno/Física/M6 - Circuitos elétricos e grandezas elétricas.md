@@ -66,7 +66,7 @@ A grandeza diferença de potencial elétrico ou tensão elétrica, nos terminais
 >- $q$: carga elétrica (C)
 
 >[!Tip] Nota
->A difereça de potencial elétrico **mede-se com voltímetros**. A sua unidade SI é o volt, V.
+>A diferença de potencial elétrico **mede-se com voltímetros**. A sua unidade SI é o volt, V.
 
 ## Resistência elétrica de um condutor ($R$)
 A resistência, $R$, de um condutor, é igual ao **quociente entre a diferença de potencial elétrico aplicada aos terminais do condutor e a corrente elétrica que o percorre**.
