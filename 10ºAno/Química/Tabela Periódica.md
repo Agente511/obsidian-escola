@@ -23,8 +23,10 @@ Do lado esquerdo da linha quebrada, localizam-se os metais, enquanto do lado dir
 **Grupo**: 
 - Conjunto de elementos da mesma coluna da TP. Numerados de 1 a 18.
 - Definido pelo número de eletrões de valência.
+
 **Período**: 
 - Conjunto de elementos da mesma linha da TP. Numerados de 1 a 7.
 - Definido pelo nível de energia mais elevado da configuração eletrónica.
+
 **Bloco**: 
 - Definido pelo tipo da última orbital de valência

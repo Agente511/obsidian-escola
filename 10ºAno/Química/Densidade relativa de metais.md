@@ -14,6 +14,6 @@ Sendo:
 - M': massa do picnómetro com água e pedaços de de metal dentro
 
 ### Densidade e massa volúmica
-A **densidade relativa** de sólidos e líquidos é **numericamente igual** à **massa volúmica** (a 4ºC).
+A **densidade relativa** de sólidos e líquidos é **numericamente igual** à **massa volúmica** (a **4ºC**).
 A **densidade relativa** é **adimensional**.
 A unidade SI da **massa volúmica** é a kg/m$^3$, mas neste caso utiliza-se **g/cm$^3$**.
