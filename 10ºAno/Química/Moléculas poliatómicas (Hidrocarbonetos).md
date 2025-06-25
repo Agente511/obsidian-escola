@@ -82,8 +82,8 @@ Todos os compostos que possuem o **mesmo grupo funcional** pertencem a uma mesma
 ![[Pasted image 20240121165814.png]]
 >[!Tip] Notas
 >- **Álcoois**: 1 H é substituído por OH
->- **Aldeídos**: 1 H no meio substituído por ligação dupla O
->- **Cetonas**: 1 H na extremidade substituído por ligação dupla O
+>- **Aldeídos**: 1 H na extremidade substituído por ligação dupla O
+>- **Cetonas**: 1 H no meio substituído por ligação dupla O
 >- **Ácidos carboxílicos**: 1 H substituído por ligação dupla O + 1 H substituído por OH
 >- **Aminas**: 1 C substituído por 1 N
 
