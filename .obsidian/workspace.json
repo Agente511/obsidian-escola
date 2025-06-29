@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6775e50c38cf2e66",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Exatidão Precisão"
-            }
-          },
-          {
-            "id": "137c1f402b991c34",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10ºAno/Química/Densidade relativa de metais.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Densidade relativa de metais"
-            }
-          },
-          {
             "id": "16b6cfde05240025",
             "type": "leaf",
             "pinned": true,
@@ -56,23 +24,20 @@
             }
           },
           {
-            "id": "1d95c546f1745c5a",
+            "id": "3e52841d9d54f373",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
-                "mode": "preview",
+                "file": "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
+                "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Reações fotoquímicas na atmosfera"
+              "title": "M3 - Lei da Gravitação Universal e Terceira Lei de Newton"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"massa volúmica",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,14 +224,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "137c1f402b991c34",
+  "active": "01f8fa8ab5db4a7a",
   "lastOpenFiles": [
-    "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
     "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
-    "10ºAno/Química/Propriedades periódicas dos elementos.md",
-    "10ºAno/Química/Densidade relativa de metais.md",
-    "10ºAno/Química/Tabela Periódica.md",
+    "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
+    "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
+    "10ºAno/Química/Ligações intermoleculares.md",
+    "10ºAno/Química/Tipos de Ligações Químicas.md",
     "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
+    "10ºAno/Química/Densidade relativa de metais.md",
+    "10ºAno/Química/Propriedades periódicas dos elementos.md",
+    "10ºAno/Química/Tabela Periódica.md",
     "10ºAno/Química/Composição quantitativa de soluções.md",
     "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "11ºAno/Química/M11 - Titulação ácido-base.md",
@@ -284,9 +252,6 @@
     "11ºAno/Física/M7 - Movimentos retilíneos em planos horizontais e inclinados.md",
     "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md",
     "11ºAno/Física/M4 - Efeitos de uma força sobre a velocidade.md",
-    "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
-    "11ºAno/Física/M2 - Interpretação de gráficos velocidade-tempo e posição-tempo.md",
-    "11ºAno/Física/M1 - Diferentes descrições do movimento.md",
     "Sem título 8.jpg",
     "Sem título 7.jpg",
     "Sem título-1.jpg",
