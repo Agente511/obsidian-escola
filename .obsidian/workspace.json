@@ -212,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Abrir Quick Switcher": false,
       "graph:Abrir Visualização de diagrama de grafo": false,
       "canvas:Create new canvas": false,
