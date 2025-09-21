@@ -2,570 +2,577 @@
   "items": [
     {
       "type": "group",
-      "ctime": 1744987329939,
+      "ctime": 1757965298892,
       "items": [
         {
           "type": "group",
-          "ctime": 1744987257914,
+          "ctime": 1744987329939,
           "items": [
             {
               "type": "group",
-              "ctime": 1744987250348,
+              "ctime": 1744987257914,
               "items": [
                 {
-                  "type": "file",
-                  "ctime": 1744987241565,
-                  "path": "10ºAno/Química/Sistema Internacional de Unidades (SI).md"
+                  "type": "group",
+                  "ctime": 1744987250348,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744987241565,
+                      "path": "10º Ano/Química/Sistema Internacional de Unidades (SI).md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744987241565,
+                      "path": "10º Ano/Química/Medições.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744987241565,
+                      "path": "10º Ano/Química/Átomos (...).md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1745078502535,
+                      "path": "10º Ano/Química/Atividades Laboratoriais/Exatidão Precisão.md",
+                      "title": "Exatidão e Precisão"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744987241565,
+                      "path": "10º Ano/Química/Quantidade de Matéria.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744987241565,
+                      "path": "10º Ano/Química/Massa Molar.md"
+                    }
+                  ],
+                  "title": "SD1"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1744987241565,
-                  "path": "10ºAno/Química/Medições.md"
+                  "type": "group",
+                  "ctime": 1744988400017,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744988396131,
+                      "path": "10º Ano/Química/Espetro Eletromagnético.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988396131,
+                      "path": "10º Ano/Química/Espetro Atómico.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988396131,
+                      "path": "10º Ano/Química/Espetro do Atomo de Hidrogéneo.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988396131,
+                      "path": "10º Ano/Química/Energias de Remoção Eletrónica.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988396131,
+                      "path": "10º Ano/Química/Modelo da Nuvem Eletrónica.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988396131,
+                      "path": "10º Ano/Química/Espetroscopia Atómica.md"
+                    }
+                  ],
+                  "title": "SD2"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1744987241565,
-                  "path": "10ºAno/Química/Átomos (...).md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1745078502535,
-                  "path": "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
-                  "title": "Exatidão e Precisão"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744987241565,
-                  "path": "10ºAno/Química/Quantidade de Matéria.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744987241565,
-                  "path": "10ºAno/Química/Massa Molar.md"
+                  "type": "group",
+                  "ctime": 1744988365675,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744988359087,
+                      "path": "10º Ano/Química/Tabela Periódica.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988359087,
+                      "path": "10º Ano/Química/Densidade relativa de metais.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988359087,
+                      "path": "10º Ano/Química/Propriedades periódicas dos elementos.md"
+                    }
+                  ],
+                  "title": "SD3"
                 }
               ],
-              "title": "SD1"
+              "title": "D1"
             },
             {
               "type": "group",
-              "ctime": 1744988400017,
+              "ctime": 1744987313667,
               "items": [
                 {
-                  "type": "file",
-                  "ctime": 1744988396131,
-                  "path": "10ºAno/Química/Espetro Eletromagnético.md"
+                  "type": "group",
+                  "ctime": 1744988440090,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744988434519,
+                      "path": "10º Ano/Química/Tipos de Ligações Químicas.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988434519,
+                      "path": "10º Ano/Química/Ligação covalente.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988434519,
+                      "path": "10º Ano/Química/Moléculas poliatómicas (Hidrocarbonetos).md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988434519,
+                      "path": "10º Ano/Química/Ligações intermoleculares.md"
+                    }
+                  ],
+                  "title": "SD4"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1744988396131,
-                  "path": "10ºAno/Química/Espetro Atómico.md"
+                  "type": "group",
+                  "ctime": 1744988458054,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744988449569,
+                      "path": "10º Ano/Química/Volume Molar, Massa Volúmica, Fração Molar.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988449569,
+                      "path": "10º Ano/Química/Composição da troposfera terrestre.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988449569,
+                      "path": "10º Ano/Química/Composição quantitativa de soluções.md"
+                    }
+                  ],
+                  "title": "SD5"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1744988396131,
-                  "path": "10ºAno/Química/Espetro do Atomo de Hidrogéneo.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988396131,
-                  "path": "10ºAno/Química/Energias de Remoção Eletrónica.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988396131,
-                  "path": "10ºAno/Química/Modelo da Nuvem Eletrónica.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988396131,
-                  "path": "10ºAno/Química/Espetroscopia Atómica.md"
+                  "type": "group",
+                  "ctime": 1744988482649,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744988476208,
+                      "path": "10º Ano/Química/Reações Químicas e Energia de Ligação.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988476208,
+                      "path": "10º Ano/Química/Reações fotoquímicas na atmosfera.md",
+                      "title": "Reações fotoquímicas na atmosfera"
+                    }
+                  ],
+                  "title": "SD6"
                 }
               ],
-              "title": "SD2"
-            },
-            {
-              "type": "group",
-              "ctime": 1744988365675,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1744988359087,
-                  "path": "10ºAno/Química/Tabela Periódica.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988359087,
-                  "path": "10ºAno/Química/Densidade relativa de metais.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988359087,
-                  "path": "10ºAno/Química/Propriedades periódicas dos elementos.md"
-                }
-              ],
-              "title": "SD3"
+              "title": "D2"
             }
           ],
-          "title": "D1"
+          "title": "Química 10º Ano"
         },
         {
           "type": "group",
-          "ctime": 1744987313667,
+          "ctime": 1744988503042,
           "items": [
             {
               "type": "group",
-              "ctime": 1744988440090,
+              "ctime": 1744988560314,
               "items": [
                 {
-                  "type": "file",
-                  "ctime": 1744988434519,
-                  "path": "10ºAno/Química/Tipos de Ligações Químicas.md"
+                  "type": "group",
+                  "ctime": 1744988554675,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744988543243,
+                      "path": "10º Ano/Física/M1 - Energia cinética e Energia potencial.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988543243,
+                      "path": "10º Ano/Física/M2 - Trabalho realizado por forças constantes.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988543243,
+                      "path": "10º Ano/Física/M3 - Energia de sistemas em movimento de translação.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988543243,
+                      "path": "10º Ano/Física/M4 - Conservação de energia mecânica.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988543243,
+                      "path": "10º Ano/Física/M5 - Variação da energia mecânica, Potência e Rendimento.md"
+                    }
+                  ],
+                  "title": "SD1"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1744988434519,
-                  "path": "10ºAno/Química/Ligação covalente.md"
+                  "type": "group",
+                  "ctime": 1744988605297,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744988576215,
+                      "path": "10º Ano/Física/M6 - Circuitos elétricos e grandezas elétricas.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988576215,
+                      "path": "10º Ano/Física/M7 - Potência elétrica.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988576215,
+                      "path": "10º Ano/Física/M8 - Associação de componentes elétricos.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988576215,
+                      "path": "10º Ano/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md"
+                    }
+                  ],
+                  "title": "SD2"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1744988434519,
-                  "path": "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988434519,
-                  "path": "10ºAno/Química/Ligações intermoleculares.md"
+                  "type": "group",
+                  "ctime": 1744988618227,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1744988612585,
+                      "path": "10º Ano/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988612585,
+                      "path": "10º Ano/Física/M11 - Transferências de energia por calor e trabalho.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988612585,
+                      "path": "10º Ano/Física/M12 - Interação radiação-matéria.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988612585,
+                      "path": "10º Ano/Física/M13 - Condutividade térmica.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988612585,
+                      "path": "10º Ano/Física/M14 - Capacidade térmica mássica e variação de entalpia.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1744988612585,
+                      "path": "10º Ano/Física/M15 - Primeira e Segunda Leis da Termodinâmica.md"
+                    }
+                  ],
+                  "title": "SD3"
                 }
               ],
-              "title": "SD4"
-            },
-            {
-              "type": "group",
-              "ctime": 1744988458054,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1744988449569,
-                  "path": "10ºAno/Química/Volume Molar, Massa Volúmica, Fração Molar.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988449569,
-                  "path": "10ºAno/Química/Composição da troposfera terrestre.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988449569,
-                  "path": "10ºAno/Química/Composição quantitativa de soluções.md"
-                }
-              ],
-              "title": "SD5"
-            },
-            {
-              "type": "group",
-              "ctime": 1744988482649,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1744988476208,
-                  "path": "10ºAno/Química/Reações Químicas e Energia de Ligação.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988476208,
-                  "path": "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
-                  "title": "Reações fotoquímicas na atmosfera"
-                }
-              ],
-              "title": "SD6"
+              "title": "D1"
             }
           ],
-          "title": "D2"
-        }
-      ],
-      "title": "Química 10º Ano"
-    },
-    {
-      "type": "group",
-      "ctime": 1744988503042,
-      "items": [
-        {
-          "type": "group",
-          "ctime": 1744988560314,
-          "items": [
-            {
-              "type": "group",
-              "ctime": 1744988554675,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1744988543243,
-                  "path": "10ºAno/Física/M1 - Energia cinética e Energia potencial.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988543243,
-                  "path": "10ºAno/Física/M2 - Trabalho realizado por forças constantes.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988543243,
-                  "path": "10ºAno/Física/M3 - Energia de sistemas em movimento de translação.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988543243,
-                  "path": "10ºAno/Física/M4 - Conservação de energia mecânica.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988543243,
-                  "path": "10ºAno/Física/M5 - Variação da energia mecânica, Potência e Rendimento.md"
-                }
-              ],
-              "title": "SD1"
-            },
-            {
-              "type": "group",
-              "ctime": 1744988605297,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1744988576215,
-                  "path": "10ºAno/Física/M6 - Circuitos elétricos e grandezas elétricas.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988576215,
-                  "path": "10ºAno/Física/M7 - Potência elétrica.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988576215,
-                  "path": "10ºAno/Física/M8 - Associação de componentes elétricos.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988576215,
-                  "path": "10ºAno/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md"
-                }
-              ],
-              "title": "SD2"
-            },
-            {
-              "type": "group",
-              "ctime": 1744988618227,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1744988612585,
-                  "path": "10ºAno/Física/M10 - Sistema termodinâmico. Temperatura e equilíbrio térmico.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988612585,
-                  "path": "10ºAno/Física/M11 - Transferências de energia por calor e trabalho.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988612585,
-                  "path": "10ºAno/Física/M12 - Interação radiação-matéria.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988612585,
-                  "path": "10ºAno/Física/M13 - Condutividade térmica.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988612585,
-                  "path": "10ºAno/Física/M14 - Capacidade térmica mássica e variação de entalpia.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1744988612585,
-                  "path": "10ºAno/Física/M15 - Primeira e Segunda Leis da Termodinâmica.md"
-                }
-              ],
-              "title": "SD3"
-            }
-          ],
-          "title": "D1"
-        }
-      ],
-      "title": "Física 10º Ano"
-    },
-    {
-      "type": "group",
-      "ctime": 1744988631962,
-      "items": [
-        {
-          "type": "group",
-          "ctime": 1750277233856,
-          "items": [
-            {
-              "type": "group",
-              "ctime": 1750277036606,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1750277022500,
-                  "path": "11ºAno/Física/M1 - Diferentes descrições do movimento.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750277022500,
-                  "path": "11ºAno/Física/M2 - Interpretação de gráficos velocidade-tempo e posição-tempo.md"
-                }
-              ],
-              "title": "SD1"
-            },
-            {
-              "type": "group",
-              "ctime": 1750277090046,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1750277081135,
-                  "path": "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750277081135,
-                  "path": "11ºAno/Física/M4 - Efeitos de uma força sobre a velocidade.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750277081135,
-                  "path": "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md"
-                }
-              ],
-              "title": "SD2"
-            },
-            {
-              "type": "group",
-              "ctime": 1750277160321,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1750277152828,
-                  "path": "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750277152828,
-                  "path": "11ºAno/Física/M7 - Movimentos retilíneos em planos horizontais e inclinados.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750277152828,
-                  "path": "11ºAno/Física/M8 - Movimento circular uniforme.md"
-                }
-              ],
-              "title": "SD3"
-            }
-          ],
-          "title": "D1"
+          "title": "Física 10º Ano"
         },
         {
           "type": "group",
-          "ctime": 1750277244666,
+          "ctime": 1744988631962,
           "items": [
             {
               "type": "group",
-              "ctime": 1750277203994,
+              "ctime": 1750277233856,
               "items": [
                 {
-                  "type": "file",
-                  "ctime": 1750277196826,
-                  "path": "11ºAno/Física/M9 - Fenómenos ondulatórios.md"
+                  "type": "group",
+                  "ctime": 1750277036606,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750277022500,
+                      "path": "11º Ano/Física/M1 - Diferentes descrições do movimento.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750277022500,
+                      "path": "11º Ano/Física/M2 - Interpretação de gráficos velocidade-tempo e posição-tempo.md"
+                    }
+                  ],
+                  "title": "SD1"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1750277196826,
-                  "path": "11ºAno/Física/M10 - O som como onda de pressão.md"
+                  "type": "group",
+                  "ctime": 1750277090046,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750277081135,
+                      "path": "11º Ano/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750277081135,
+                      "path": "11º Ano/Física/M4 - Efeitos de uma força sobre a velocidade.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750277081135,
+                      "path": "11º Ano/Física/M5 - Segunda e Primeira Lei de Newton.md"
+                    }
+                  ],
+                  "title": "SD2"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1750277160321,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750277152828,
+                      "path": "11º Ano/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750277152828,
+                      "path": "11º Ano/Física/M7 - Movimentos retilíneos em planos horizontais e inclinados.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750277152828,
+                      "path": "11º Ano/Física/M8 - Movimento circular uniforme.md"
+                    }
+                  ],
+                  "title": "SD3"
                 }
               ],
-              "title": "SD4"
+              "title": "D1"
             },
             {
               "type": "group",
-              "ctime": 1750277213842,
+              "ctime": 1750277244666,
               "items": [
                 {
-                  "type": "file",
-                  "ctime": 1750277207713,
-                  "path": "11ºAno/Física/M11 - Campo elétrico.md"
+                  "type": "group",
+                  "ctime": 1750277203994,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750277196826,
+                      "path": "11º Ano/Física/M9 - Fenómenos ondulatórios.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750277196826,
+                      "path": "11º Ano/Física/M10 - O som como onda de pressão.md"
+                    }
+                  ],
+                  "title": "SD4"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1750277207713,
-                  "path": "11ºAno/Física/M12 - Campo magnético e indução eletromagnética.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750277207713,
-                  "path": "11ºAno/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md"
+                  "type": "group",
+                  "ctime": 1750277213842,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750277207713,
+                      "path": "11º Ano/Física/M11 - Campo elétrico.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750277207713,
+                      "path": "11º Ano/Física/M12 - Campo magnético e indução eletromagnética.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750277207713,
+                      "path": "11º Ano/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md"
+                    }
+                  ],
+                  "title": "SD5"
                 }
               ],
-              "title": "SD5"
+              "title": "D2"
             }
           ],
-          "title": "D2"
-        }
-      ],
-      "title": "Física 11º Ano"
-    },
-    {
-      "type": "group",
-      "ctime": 1744988639075,
-      "items": [
-        {
-          "type": "group",
-          "ctime": 1750638160385,
-          "items": [
-            {
-              "type": "group",
-              "ctime": 1750638059920,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1750638050473,
-                  "path": "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638050473,
-                  "path": "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638050473,
-                  "path": "11ºAno/Química/M3 - Rendimento das reações químicas.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638050473,
-                  "path": "11ºAno/Química/M4 - Química verde.md"
-                }
-              ],
-              "title": "SD1"
-            },
-            {
-              "type": "group",
-              "ctime": 1750638072935,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1750638065646,
-                  "path": "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638065646,
-                  "path": "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638065646,
-                  "path": "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md"
-                }
-              ],
-              "title": "SD2"
-            }
-          ],
-          "title": "D1"
+          "title": "Física 11º Ano"
         },
         {
           "type": "group",
-          "ctime": 1750638166446,
+          "ctime": 1744988639075,
           "items": [
             {
               "type": "group",
-              "ctime": 1750638091456,
+              "ctime": 1750638160385,
               "items": [
                 {
-                  "type": "file",
-                  "ctime": 1750638084111,
-                  "path": "11ºAno/Química/M8 - Ácidos e bases.md"
+                  "type": "group",
+                  "ctime": 1750638059920,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750638050473,
+                      "path": "11º Ano/Química/M1 - Equações químicas e relações estequiométricas.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638050473,
+                      "path": "11º Ano/Química/M2 - Reagente limitante e reagente em excesso.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638050473,
+                      "path": "11º Ano/Química/M3 - Rendimento das reações químicas.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638050473,
+                      "path": "11º Ano/Química/M4 - Química verde.md"
+                    }
+                  ],
+                  "title": "SD1"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1750638084111,
-                  "path": "11ºAno/Química/M9 - Acidez e basicidade de soluções.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638084111,
-                  "path": "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638084111,
-                  "path": "11ºAno/Química/M11 - Titulação ácido-base.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638084111,
-                  "path": "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638084111,
-                  "path": "11ºAno/Química/M13 - Aspetos ambientais das reações ácido-base.md"
+                  "type": "group",
+                  "ctime": 1750638072935,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750638065646,
+                      "path": "11º Ano/Química/M5 - Equilíbrio químico e constante de equilíbrio.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638065646,
+                      "path": "11º Ano/Química/M6 - Constante de equilíbrio e quociente da reação.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638065646,
+                      "path": "11º Ano/Química/M7 - Alteração do estado de equilíbrio.md"
+                    }
+                  ],
+                  "title": "SD2"
                 }
               ],
-              "title": "SD3"
+              "title": "D1"
             },
             {
               "type": "group",
-              "ctime": 1750638128130,
+              "ctime": 1750638166446,
               "items": [
                 {
-                  "type": "file",
-                  "ctime": 1750638120543,
-                  "path": "11ºAno/Química/M14 - Caracterização das reações de oxidação-redução.md"
+                  "type": "group",
+                  "ctime": 1750638091456,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750638084111,
+                      "path": "11º Ano/Química/M8 - Ácidos e bases.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638084111,
+                      "path": "11º Ano/Química/M9 - Acidez e basicidade de soluções.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638084111,
+                      "path": "11º Ano/Química/M10 - Constantes de acidez e de basicidade.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638084111,
+                      "path": "11º Ano/Química/M11 - Titulação ácido-base.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638084111,
+                      "path": "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638084111,
+                      "path": "11º Ano/Química/M13 - Aspetos ambientais das reações ácido-base.md"
+                    }
+                  ],
+                  "title": "SD3"
                 },
                 {
-                  "type": "file",
-                  "ctime": 1750638120543,
-                  "path": "11ºAno/Química/M15 - Força relativa de oxidantes e redutores.md"
+                  "type": "group",
+                  "ctime": 1750638128130,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750638120543,
+                      "path": "11º Ano/Química/M14 - Caracterização das reações de oxidação-redução.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638120543,
+                      "path": "11º Ano/Química/M15 - Força relativa de oxidantes e redutores.md"
+                    }
+                  ],
+                  "title": "SD4"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1750638139527,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1750638133178,
+                      "path": "11º Ano/Química/M16 - Mineralização e acidificação das águas.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638133178,
+                      "path": "11º Ano/Química/M17 - Equilíbrio químico e solubilidade de sais.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638133178,
+                      "path": "11º Ano/Química/M18 - Alteração da solubilidade de sais.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1750638133178,
+                      "path": "11º Ano/Química/M19 - Desmineralização de águas e processos de precipitação.md"
+                    }
+                  ],
+                  "title": "SD5"
                 }
               ],
-              "title": "SD4"
-            },
-            {
-              "type": "group",
-              "ctime": 1750638139527,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1750638133178,
-                  "path": "11ºAno/Química/M16 - Mineralização e acidificação das águas.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638133178,
-                  "path": "11ºAno/Química/M17 - Equilíbrio químico e solubilidade de sais.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638133178,
-                  "path": "11ºAno/Química/M18 - Alteração da solubilidade de sais.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1750638133178,
-                  "path": "11ºAno/Química/M19 - Desmineralização de águas e processos de precipitação.md"
-                }
-              ],
-              "title": "SD5"
+              "title": "D2"
             }
           ],
-          "title": "D2"
+          "title": "Química 11º Ano"
         }
       ],
-      "title": "Química 11º Ano"
+      "title": "Exame FQ 11º Ano"
     }
   ]
 }

@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40de7565de52d4c1",
+        "id": "d69360b340f8f9e5",
         "type": "tabs",
         "children": [
           {
-            "id": "16b6cfde05240025",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Moléculas poliatómicas (Hidrocarbonetos)"
-            }
-          },
-          {
-            "id": "3e52841d9d54f373",
+            "id": "a71032d8c5098a77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "M3 - Lei da Gravitação Universal e Terceira Lei de Newton"
+              "title": "Nova aba"
             }
           }
         ]
@@ -90,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,54 +204,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01f8fa8ab5db4a7a",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
-    "10ºAno/Química/Reações fotoquímicas na atmosfera.md",
-    "11ºAno/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
-    "10ºAno/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
-    "10ºAno/Química/Ligações intermoleculares.md",
-    "10ºAno/Química/Tipos de Ligações Químicas.md",
-    "10ºAno/Química/Atividades Laboratoriais/Exatidão Precisão.md",
-    "10ºAno/Química/Densidade relativa de metais.md",
-    "10ºAno/Química/Propriedades periódicas dos elementos.md",
-    "10ºAno/Química/Tabela Periódica.md",
-    "10ºAno/Química/Composição quantitativa de soluções.md",
-    "11ºAno/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
-    "11ºAno/Química/M11 - Titulação ácido-base.md",
-    "11ºAno/Química/M10 - Constantes de acidez e de basicidade.md",
-    "11ºAno/Química/M9 - Acidez e basicidade de soluções.md",
-    "11ºAno/Química/M8 - Ácidos e bases.md",
-    "11ºAno/Química/M4 - Química verde.md",
-    "11ºAno/Química/M3 - Rendimento das reações químicas.md",
-    "11ºAno/Química/M2 - Reagente limitante e reagente em excesso.md",
-    "11ºAno/Química/M1 - Equações químicas e relações estequiométricas.md",
-    "11ºAno/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
-    "11ºAno/Química/M7 - Alteração do estado de equilíbrio.md",
-    "11ºAno/Química/M6 - Constante de equilíbrio e quociente da reação.md",
-    "11ºAno/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md",
-    "11ºAno/Física/M7 - Movimentos retilíneos em planos horizontais e inclinados.md",
-    "11ºAno/Física/M5 - Segunda e Primeira Lei de Newton.md",
-    "11ºAno/Física/M4 - Efeitos de uma força sobre a velocidade.md",
-    "Sem título 8.jpg",
-    "Sem título 7.jpg",
-    "Sem título-1.jpg",
+    "12º Ano/Educação Física",
+    "12º Ano/Aplicações Informáticas",
+    "12º Ano/Biologia",
+    "12º Ano/Química",
+    "12º Ano/Matemática",
+    "12º Ano/Português",
+    "12º Ano",
+    "Sem título.md",
+    "Imagens/Sem título 8.jpg",
+    "10º Ano/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
+    "10º Ano/Química/Reações fotoquímicas na atmosfera.md",
+    "11º Ano/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
+    "10º Ano/Química/Ligações intermoleculares.md",
+    "10º Ano/Química/Tipos de Ligações Químicas.md",
+    "10º Ano/Química/Atividades Laboratoriais/Exatidão Precisão.md",
+    "10º Ano/Química/Densidade relativa de metais.md",
+    "10º Ano/Química/Propriedades periódicas dos elementos.md",
+    "10º Ano/Química/Tabela Periódica.md",
+    "10º Ano/Química/Composição quantitativa de soluções.md",
+    "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+    "11º Ano/Química/M11 - Titulação ácido-base.md",
+    "11º Ano/Química/M10 - Constantes de acidez e de basicidade.md",
+    "11º Ano/Química/M9 - Acidez e basicidade de soluções.md",
+    "11º Ano/Química/M8 - Ácidos e bases.md",
+    "11º Ano/Química/M4 - Química verde.md",
+    "11º Ano/Química/M3 - Rendimento das reações químicas.md",
+    "11º Ano/Química/M2 - Reagente limitante e reagente em excesso.md",
+    "11º Ano/Química/M1 - Equações químicas e relações estequiométricas.md",
+    "11º Ano/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
+    "11º Ano/Química/M7 - Alteração do estado de equilíbrio.md",
+    "11º Ano/Química/M6 - Constante de equilíbrio e quociente da reação.md",
+    "11º Ano/Física/M6 - Movimento retilíneo de queda à superfície da Terra.md",
+    "11º Ano/Física/M7 - Movimentos retilíneos em planos horizontais e inclinados.md",
+    "Imagens/Sem título 7.jpg",
+    "Imagens/Sem título-1.jpg",
     "Sem título 6.jpg",
-    "Pasted image 20250609135410.png",
-    "Pasted image 20250609135211.png",
-    "Sem título 5.jpg",
-    "Sem título 4.jpg",
-    "Sem título 3.jpg",
-    "Sem título 2.jpg",
-    "11ºAno/Outros",
-    "10ºAno/Outros",
-    "11ºAno/Português/Educação Literária/Sonetos Completos de Antero de Quental",
-    "11ºAno/Filosofia/Epistemologia",
-    "11ºAno/Inglês/Vocabulary",
-    "11ºAno/Português/Educação Literária/Os Maias/Resumos meus",
-    "10ºAno/Química/D1/SD3",
-    "10ºAno/Química/D1/SD2",
-    "10ºAno/Química/D1/SD1",
-    "10ºAno/Química/D2",
+    "Imagens/Pasted image 20250609135410.png",
+    "Imagens/Pasted image 20250609135211.png",
+    "Imagens/Sem título 5.jpg",
+    "Imagens/Sem título 4.jpg",
+    "Imagens/Sem título 3.jpg",
+    "Imagens/Sem título 2.jpg",
+    "11º Ano/Outros",
+    "10º Ano/Outros",
+    "11º Ano/Português/Educação Literária/Sonetos Completos de Antero de Quental",
+    "11º Ano/Filosofia/Epistemologia",
     "Sem título.canvas"
   ]
 }
