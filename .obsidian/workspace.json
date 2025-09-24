@@ -11,17 +11,14 @@
             "id": "a71032d8c5098a77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
-                "viewState": {
-                  "x": 846.6453508608564,
-                  "y": 451.22627802613664,
-                  "zoom": -0.7440214146307382
-                }
+                "file": "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "O Sentimento dum Ocidental"
+              "icon": "lucide-file",
+              "title": "Cesário Verde"
             }
           }
         ]
@@ -213,6 +210,7 @@
   },
   "active": "a71032d8c5098a77",
   "lastOpenFiles": [
+    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",
@@ -224,7 +222,6 @@
     "11º Ano/Português/Educação Literária/Amor de Perdição/Relação com Frei Luís de Sousa.md",
     "11º Ano/Português/Educação Literária/Amor de Perdição/Sem título.md",
     "11º Ano/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
-    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Educação Física/Atletismo.md",
     "12º Ano/Português/11º Ano/Cesário Verde",
@@ -249,7 +246,6 @@
     "10º Ano/Química/Tabela Periódica.md",
     "10º Ano/Química/Composição quantitativa de soluções.md",
     "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
-    "11º Ano/Química/M11 - Titulação ácido-base.md",
     "Imagens/Sem título 7.jpg",
     "Imagens/Sem título-1.jpg",
     "Sem título 6.jpg",
