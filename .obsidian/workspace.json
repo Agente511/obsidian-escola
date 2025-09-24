@@ -11,14 +11,17 @@
             "id": "a71032d8c5098a77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
-                "mode": "source",
-                "source": false
+                "file": "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
+                "viewState": {
+                  "x": -160,
+                  "y": -157,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Cesário Verde"
+              "icon": "lucide-layout-dashboard",
+              "title": "O Sentimento dum Ocidental"
             }
           }
         ]
@@ -210,8 +213,8 @@
   },
   "active": "a71032d8c5098a77",
   "lastOpenFiles": [
-    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
+    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "11º Ano/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
     "12º Ano/Educação Física/Atletismo.md",
     "12º Ano/Português/11º Ano/Cesário Verde",

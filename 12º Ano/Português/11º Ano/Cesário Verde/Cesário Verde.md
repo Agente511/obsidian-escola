@@ -3,6 +3,16 @@
 - **1856** - A sua **irmã** **nasce**
 - **1857** - Mudou-se **de Lisboa para Linda-a-Pastora** para fugir às **epidemias que assolavam a cidade**
 - **1886** - **Morre**, vítima de **tuberculose**
+## Características de Cesário Verde
+### Poeta realista
+Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
+### Poeta parnasiano
+Preocupação com a perfeição formal do poema
+### Poeta impressionista
+Os seus poemas dão impressões (movimentos, cores, luz, etc)
+### Precursor do modernismo
+
+## aaaaaaaaaaaaaaa
 ## Contrastes na Lisboa de Cesário Verde
 - ##### No plano urbanístico
   - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
@@ -14,5 +24,8 @@
 	- **Presente decadente**: Lisboa oitocentista
 	- **Passado glorioso**: crónicas navais dos Descobrimentos
 - ##### No plano dos ciclos do dia
-	- **Cidade noturna**: 
-	- **Cidade diurna**: solar e cheia de movimento
+	- **Cidade noturna**: («O Sentimento dum Ocidental»)
+	- **Cidade diurna**: solar e cheia de movimento («Num Bairro Moderno»)
+- ##### No plano das estações do ano
+	- **Verão** («Num Bairro Moderno»)
+	- **Inverno** («Cristalizações»)
