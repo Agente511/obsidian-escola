@@ -1,9 +1,10 @@
 ## Biografia
-- **Nasceu** a **25/02/1855** em **Lisboa**
+- **25/02/1855** - **Nasceu** em **Lisboa**
 - **1856** - A sua **irmã** **nasce**
 - **1857** - Mudou-se **de Lisboa para Linda-a-Pastora** para fugir às **epidemias que assolavam a cidade**
-- **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**.
-- **1886** - **Morre**, vítima de **tuberculose**
+- **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**. Estes eram recebidos ora com **indignação**, ora com **indiferença** pelo público e até por aqueles que Cesário admirava, como Ramalho Ortigão e Teófilo Braga.
+- **1884** - **Publicou** o seu **último poema**, após **4 anos de interregno**.
+- **19/07/1886** - **Morreu**, com **31 anos**, vítima de **tuberculose**, tal como a sua irmã e um irmão já tinham.
 ## Características de Cesário Verde
 ### Poeta realista
 Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
@@ -13,7 +14,14 @@ Preocupação com a perfeição formal do poema
 Os seus poemas dão impressões (movimentos, cores, luz, etc)
 ### Precursor do modernismo
 
-## aaaaaaaaaaaaaaa
+## *Cânticos do Realismo* (torna-se *O Livro de Cesário Verde*)
+Cesário desejava ter a sua **poesia reunida num livro** intitulado *Cânticos do Realismo* e que fosse caracterizado por uma "definitiva unidade de composição, formal e de conteúdo".
+O projeto **não foi concretizado** e a publicação em volume dos seus poemas amenas se deu **postumamente** (após a sua morte).
+
+Em **1887**, o seu amigo íntimo desde o Curso Superior de Letras, **Silva Pinto**, editou *O Livro de Cesário Verde*, uma **recolha incompleta**, **organizada segundo os critérios do autor**.
+Destinou-se apenas a amigos, **não entrando no circuito editorial**.
+
+Em **1901**, foi publicada uma **2ª edição** para o **público em geral**.
 ## Contrastes na Lisboa de Cesário Verde
 - ##### No plano urbanístico
   - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
@@ -30,3 +38,7 @@ Os seus poemas dão impressões (movimentos, cores, luz, etc)
 - ##### No plano das estações do ano
 	- **Verão** («Num Bairro Moderno»)
 	- **Inverno** («Cristalizações»)
+## Deambulação
+## Transfiguração poética do real
+## Imaginário épico
+## Linguagem, estilo e estrutura
