@@ -83,7 +83,7 @@ Estes dois polos interpenetram-se: existem **elementos do campo presentes nos po
 ## Deambulação e imaginação: o observador acidental
 Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, errando pelos becos e ruas de Lisboa, o "eu" poético aplica capta a realidade com um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
 
-A **cidade** serve de **inspiração**
+A **cidade** serve de **inspiração** para o poeta, mas, simultaneamente **confina-o em horizontes que o sufocam**.
 ## Transfiguração poética do real e percepção sensorial
 Inovação da arte poética
 Objetividade e subjetividade
