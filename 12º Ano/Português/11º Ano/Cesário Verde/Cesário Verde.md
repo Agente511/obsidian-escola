@@ -1,7 +1,8 @@
 ## Biografia
-- **Nasceu** a **25/02/1855**
+- **Nasceu** a **25/02/1855** em **Lisboa**
 - **1856** - A sua **irmã** **nasce**
 - **1857** - Mudou-se **de Lisboa para Linda-a-Pastora** para fugir às **epidemias que assolavam a cidade**
+- **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**.
 - **1886** - **Morre**, vítima de **tuberculose**
 ## Características de Cesário Verde
 ### Poeta realista
