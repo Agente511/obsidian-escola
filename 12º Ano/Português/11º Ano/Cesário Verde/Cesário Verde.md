@@ -81,7 +81,7 @@ Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua *
 
 Estes dois polos interpenetram-se: existem **elementos do campo presentes nos poemas relativos à cidade**, através de **figuras humanas** ou de **vestígios materiais de um espaço que fora rural**.
 ## Deambulação e imaginação: o observador acidental
-Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, errando pelos becos e ruas de Lisboa, o "eu" poético aplica capta a realidade com um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
+Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, errando pelos becos e ruas de Lisboa, o "eu" poético **capta a realidade** que lhe **surge no caminho** com um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
 
 A **cidade** serve de **inspiração** para o poeta, mas, simultaneamente **confina-o em horizontes que o sufocam**.
 ## Transfiguração poética do real e percepção sensorial
