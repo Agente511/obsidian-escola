@@ -5,7 +5,7 @@
 - **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**. Estes eram recebidos ora com **indignação**, ora com **indiferença** pelo público e até por aqueles que Cesário admirava, como Ramalho Ortigão e Teófilo Braga, com quem partilhava o **ideário cultural e político da geração de 70**.
 - **1884** - **Publicou** o seu **último poema**, após **4 anos de interregno**.
 - **19/07/1886** - **Morreu**, com **31 anos**, vítima de **tuberculose**, tal como a sua irmã e um irmão já tinham.
-## Características de Cesário Verde
+## Características de Cesário Verde (juntar com [[#Linguagem, estilo e estrutura]]')
 - ##### Poeta realista
 	Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
 - ##### Poeta parnasiano
@@ -13,6 +13,7 @@
 - ##### Poeta impressionista
 	Os seus poemas dão impressões (movimentos, cores, luz, etc)
 - ##### Precursor do Modernismo
+	A...
 ### Temáticas dos seus poemas
 - ##### Humilhação social
 	**Povo oprimido** e **dominado pelos poderosos**.
@@ -58,11 +59,12 @@ Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçado
 ## "O Sentimento dum Ocidental"
 Publicado a 10/06/1880, como **festejo do tricentenário da morte de Luís de Camões**, o título de **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
 O "**desejo absurdo de sofrer**", despertado pela **ambiência citadina ao crepúsculo** vai sendo **justificado e amplificado ao longo do poema**, culminando na imagem de uma cidade mergulhada num "sinistro mar".
+O sentimento de **aprisionamento e opressão** origina um **desejo de fuga**, canalizado para a **evasão para outros espaços**.
 
 Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, o "eu" poético aplica um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
 ### Viagem no espaço e no tempo
-Representa-se uma **viagem no espaço** (na cidade e para dentro dela) e **no tempo** (do anoitecer à madrugada e do presente para o passado) feita pelo "eu".
-O percurso temporal é identificado pelos **subtítulos**:
+Representa-se uma **viagem no espaço** (na cidade e para dentro dela) e **no tempo** (do anoitecer à madrugada e do presente ao passado) feita pelo "eu".
+O **percurso temporal** é identificado pelos **subtítulos**:
 - ##### "Ave-Marias"
 	O "cair das badaladas", que chama para a missa das seis horas, anuncia o **fim da tarde** e o **termo do dia de trabalho para os operários**.
 - ##### "Noite Fechada"
@@ -72,16 +74,22 @@ O percurso temporal é identificado pelos **subtítulos**:
 - ##### "Horas Mortas"
 	O "silêncio", o perigo das "folhas das navalhas" e a noite habitada por "gritos de socorro", pelas vozes dos "tristes bebedores", pelas "imorais" e pela profunda dor do "eu", intensificam a ideia de **noite absoluta**.
 
-O sentimento de **aprisionamento e opressão** origina um **desejo de fuga**, canalizado para a **evasão para outros espaços**.
+Verifica-se uma **dicotomia espacial e temporal** entre as "**nossas ruas**" e o "**mundo**" e entre o **presente angustiante e melancólico** e o **passado grandioso e heroico**.
 ### Binómio ou dicotomia cidade/campo
+Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua **experiência de vida** em que passou a sua **infância** no **campo** (**Linda-a-Pastora**) o que determina a visão que ele nos dá.
 - ##### Cidade
 	Local de **doença**, **morte**, **injustiça**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **aprisionamento** e **opressão**
 - ##### Campo
-	Associado às ideias de **saúde**, **vitalidade** e **liberdade**.
+	Associado às ideias de **saúde**, **vitalidade**, **autenticidade**,**espaço** e **liberdade**.
 
 Estes dois polos interpenetram-se: existem **elementos do campo presentes nos poemas relativos à cidade**, através de **figuras humanas** ou de **vestígios materiais de um espaço que fora rural**.
 ## Deambulação e imaginação: o observador acidental
+Poética realista
+Erra pelos becos e ruas de Lisboa.
 
 ## Transfiguração poética do real e percepção sensorial
+Inovação da arte poética
+Objetividade e subjetividade
+## Imagética feminina
 ## Imaginário épico
 ## Linguagem, estilo e estrutura
