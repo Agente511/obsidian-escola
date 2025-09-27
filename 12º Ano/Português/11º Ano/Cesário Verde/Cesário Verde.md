@@ -80,7 +80,7 @@ A **cidade** serve de **inspiração** para o poeta, ao mesmo tempo que o **conf
 Ao longo de todo "O Sentimento dum Ocidental", a **descrição objetiva é suplantada pelo olhar subjetivo** (como o olhar doente e melancólico sobre a cidade noturna, sinédoque do país decadente).
 
 Através da **imaginação**, dá-se a **transfiguração poética do real** sendo descritas **novas realidades imaginárias e poéticas que estão além da realidade observável**, possibilitando a **evasão do real** para outros espaços e tempos face a uma realidade que desperta "um desejo absurdo de sofrer" ao sujeito poético.
-O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pela **imaginação**.
+O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pela **imaginação** e a **visão de artista** de Cesário Verde.
 
 O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.
 ## Imaginário épico em "O Sentimento dum Ocidental"
@@ -99,12 +99,12 @@ Verifica-se **subversão** (inversão) **da matéria épica** na descrição do 
 A viagem que o poeta faz pode ser lida como uma **atualização da viagem marítima**, agora **impossível**.
 
 A **memória coletiva** surge como **fuga possível à decadência do presente**, sendo convocada na **errância pensativa** por espaços confinados.
-## Linguagem, estilo e estrutura
+## Linguagem, estilo e estrutura da poesia cesárica
 ### Estilos literários
 - ##### Poeta realista
 	Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**. ^ec0b0f
 - ##### Poeta parnasiano
-	Preocupação com a **perfeição formal** do poema.
+	Preocupação com a **perfeição formal** do poema, havendo **regularidade métrica, rimática e estrófica**.
 - ##### Poeta impressionista
 	Os seus poemas dão **impressões** (movimentos, cores, luz, etc).
 - ##### Precursor do Modernismo
@@ -115,15 +115,26 @@ A **memória coletiva** surge como **fuga possível à decadência do presente**
 - ##### Descrição objetiva
 	**Percepção sensorial** através da visão, da audição e do olfato.
 - ##### Descrição subjetiva e expressiva
-	
+	Expressa **emoções**.
 - ##### Linguagem quotidiana e coloquial
 	Uso de palavras do dia-a-dia, utilizadas pelo povo, e **escassez de palavras eruditas**.
 - ##### Vocabulário objetivo e concreto
 	Integra **termos precisos e técnicos** do **comércio e agricultura** (áreas conhecidas de Cesário, devido às suas ocupações profissionais).
 - ##### Uso de empréstimos
 	Principalmente **galicismos** (de origem francesa).
+- ##### Uso de diminutivos
+	Que podem ter **valor valorativo (afetivo)** ou **valor pejorativo (depreciativo)**.
+- ##### Uso expressivo de advérbios e adjetivos
+	Por vezes, **antepõem as impressões às realidades que as provocam**, dando destaque às primeiras.
 - ##### Plasticidade
 	Cria e transmite um profundo **visualismo**, explorando vários recursos expressivos.
+- ##### Sinestesia
+	
+- ##### Adjetivação
+- ##### Enumeração e gradação
+- ##### Comparação
+- ##### Metáfora
+- ##### Hipérbole
 
 ### Temáticas dos seus poemas
 - ##### Humilhação social
@@ -133,6 +144,8 @@ A **memória coletiva** surge como **fuga possível à decadência do presente**
 	**Incompreensão e marginalização da sua poesia**.
 - ##### Humilhação sentimental
 	A **mulher da cidade** (poderosa, altiva e distante) **humilha o homem que tenta a aproximação**.
-
-## Imagética feminina
-Mulher fatal, angélica, trabalhadora e burguesa
+	- ##### Imagética feminina
+		- Mulher **fatal**: explêndida, atraente, fria (associada à **cidade**)
+		- Mulher **angélica**: regeneradora, simples, frágil, terna, vulnerável (valores do **campo**)
+		- Mulher **trabalhadora**: tentam ganhar o pão
+		- Mulher **burguesa**: passeia ou faz compras rodeada de atenções e vénias
