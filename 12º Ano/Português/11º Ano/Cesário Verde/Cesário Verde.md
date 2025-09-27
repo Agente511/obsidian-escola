@@ -59,8 +59,6 @@ Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçado
 Publicado a 10/06/1880, como **festejo do tricentenário da morte de Luís de Camões**, o título de **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
 O "**desejo absurdo de sofrer**", despertado pela **ambiência citadina ao crepúsculo** vai sendo **justificado e amplificado ao longo do poema**, culminando na imagem de uma cidade mergulhada num "sinistro mar".
 O sentimento de **aprisionamento e opressão** origina um **desejo de fuga**, canalizado para a **evasão para outros espaços**.
-
-Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, o "eu" poético aplica um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
 ### Viagem no espaço e no tempo
 Representa-se uma **viagem no espaço** (na cidade e para dentro dela) e **no tempo** (do anoitecer à madrugada e do presente ao passado) feita pelo "eu".
 O **percurso temporal** é identificado pelos **subtítulos**:
@@ -86,7 +84,7 @@ Estes dois polos interpenetram-se: existem **elementos do campo presentes nos po
 Poética realista
 Erra pelos becos e ruas de Lisboa.
 
-A deambulação permite 
+Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, o "eu" poético aplica capta a realidade com um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
 
 ## Transfiguração poética do real e percepção sensorial
 Inovação da arte poética
