@@ -32,7 +32,6 @@ Destinou-se apenas a amigos, **não entrando no circuito editorial**.
 Em **1901**, foi publicada uma **2ª edição** para o **público em geral**.
 
 Apesar de **ignorado e menosprezado em vida**, Cesário impôs-se como um **precursor do Modernismo**, sendo, inclusive, eleito por Fernando Pessoa como um dos seus mestres.
-
 ## Representação da cidade e dos tipos sociais
 Um dos aspetos da sua **modernidade poética** é a **centralidade temática e imagética da cidade na sua poesia** (a cidade e os diferentes tipos sociais são presenças constantes nos seus poemas).
 
@@ -42,8 +41,8 @@ O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a 
 Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**.
 ### Contrastes na Lisboa de Cesário Verde
 - ##### No plano urbanístico
-  - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
-  - **Espaços velhos e degradados**: Becos, Bairros populares, Arruamentos estreitos e escuros, Tabernas
+	  - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
+	  - **Espaços velhos e degradados**: Becos, Bairros populares, Arruamentos estreitos e escuros, Tabernas
 - ##### No plano social
 	- **Labor do povo** (carpinteiros, calafates, varinas, calceteiros, vendedeira; ...)
 	- **Ociosidade e vida fácil dos burgueses**: (lojistas, "elegantes" que procuram o luxo)
@@ -78,9 +77,9 @@ Verifica-se uma **dicotomia espacial e temporal** entre as "**nossas ruas**" e o
 ### Binómio ou dicotomia cidade/campo
 Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua **experiência de vida** em que passou a sua **infância** no **campo** (**Linda-a-Pastora**) o que determina a visão que ele nos dá.
 - ##### Cidade
-	Local de **doença**, **morte**, **injustiça**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **aprisionamento** e **opressão**
+	Local de **doença**, **morte**, **injustiça**, **monotonia**, **melancolia**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **aprisionamento** e **opressão**
 - ##### Campo
-	Associado às ideias de **saúde**, **vitalidade**, **autenticidade**,**espaço** e **liberdade**.
+	Associado às ideias de **saúde**, **vitalidade**, **autenticidade**, **espaço** e **liberdade**.
 
 Estes dois polos interpenetram-se: existem **elementos do campo presentes nos poemas relativos à cidade**, através de **figuras humanas** ou de **vestígios materiais de um espaço que fora rural**.
 ## Deambulação e imaginação: o observador acidental
