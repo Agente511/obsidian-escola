@@ -127,9 +127,10 @@ A **memória coletiva** surge como **fuga possível à decadência do presente**
 - ##### Uso expressivo de advérbios e adjetivos
 	Por vezes, **antepõem as impressões às realidades que as provocam**, dando destaque às primeiras.
 - ##### Plasticidade
-	Cria e transmite um profundo **visualismo**, explorando vários recursos expressivos.
+	Cria e transmite um profundo **visualismo**, criando imagens vívidas e maleáveis, tratando-se, por isso, de **poemas-quadros**.
 - ##### Sinestesia
-	
+	Manifestação, na mesma expressão, de **sensações ligadas a sentidos diferentes**.
+	Ex: "E fere a vista, com brancuras quentes".
 - ##### Adjetivação
 - ##### Enumeração e gradação
 - ##### Comparação
