@@ -28,7 +28,7 @@ Apesar de **ignorado e menosprezado em vida**, Cesário impôs-se como um **prec
 ## Representação da cidade e dos tipos sociais
 Um dos aspetos da sua **modernidade poética** é a **centralidade temática e imagética da cidade na sua poesia** (a cidade e os diferentes tipos sociais são presenças constantes nos seus poemas).
 
-
+A cidade, além de **cenário**, numa **representação [[#Poeta realista|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes**.
 ### Contrastes na Lisboa de Cesário Verde
 - ##### No plano urbanístico
   - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
@@ -45,7 +45,7 @@ Um dos aspetos da sua **modernidade poética** é a **centralidade temática e i
 - ##### No plano das estações do ano
 	- **Verão** («Num Bairro Moderno»)
 	- **Inverno** («Cristalizações»)
-## Deambulação
-## Transfiguração poética do real
+## Deambulação e imaginação: o observador acidental
+## Transfiguração poética do real e percepção sensorial
 ## Imaginário épico
 ## Linguagem, estilo e estrutura
