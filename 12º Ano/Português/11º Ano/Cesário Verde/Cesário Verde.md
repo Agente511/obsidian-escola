@@ -50,12 +50,24 @@ Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçado
 	- **Inverno** («Cristalizações»)
 ## "O Sentimento dum Ocidental"
 O título **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
+O "**desejo absurdo de sofrer**", despertado pela **ambiência citadina ao crepúsculo** vai sendo **justificado e amplificado ao longo do poema**, culminando na imagem de uma cidade mergulhada num "sinistro mar".
+
 Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, o "eu" poético aplica um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
 
 Representa-se uma **viagem no espaço** (na cidade e para dentro dela) e **no tempo** (do anoitecer à madrugada e do presente para o passado) feita pelo "eu".
 O percurso temporal é identificado pelos **subtítulos**:
 - ##### "Ave-Marias"
-	
+	O "cair das badaladas", que chama para a missa das seis horas, anuncia o **fim da tarde** e o **termo do dia de trabalho para os operários**.
+- ##### "Noite Fechada"
+	O "acender das luzes", os reflexos da "lua" e os contrastes entre o claro e o escuro indiciam o **início da noite**.
+- ##### "Ao Gás"
+	A atmosfera noturna, quase asfixiante, resultante da iluminação a gás, marca uma **fase mais avançada da noite**, com o **cessar da atividade comercial** e o alastrar da escuridão.
+- ##### "Horas Mortas"
+	O "silêncio", o perigo das "folhas das navalhas" e a noite habitada por "gritos de socorro", pelas vozes dos "tristes bebedores", pelas "imorais" e pela profunda dor do "eu", intensificam a ideia de **noite absoluta**.
+
+O sentimento de **aprisionamento e opressão** origina um **desejo de fuga**, canalizado para a **evasão para outros espaços**.
+### Binómio ou dicotomia cidade/campo
+A **cidade** é um local de **doença** e de **morte**, enquanto o **campo**
 ## Deambulação e imaginação: o observador acidental
 ## Transfiguração poética do real e percepção sensorial
 ## Imaginário épico
