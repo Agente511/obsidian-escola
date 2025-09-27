@@ -30,7 +30,7 @@ Um dos aspetos da sua **modernidade poética** é a **centralidade temática e i
 
 A cidade, além de **cenário**, numa **representação [[#Poeta realista|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes** (cidade **heterogénea**).
 
-O poeta toma uma **posição crítica perante a realidade**.
+O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a realidade**, existindo uma vertente de **denúncia social**.
 Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**.
 ### Contrastes na Lisboa de Cesário Verde
 - ##### No plano urbanístico
@@ -48,6 +48,14 @@ Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçado
 - ##### No plano das estações do ano
 	- **Verão** («Num Bairro Moderno»)
 	- **Inverno** («Cristalizações»)
+## "O Sentimento dum Ocidental"
+O título **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
+Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, o "eu" poético aplica um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
+
+Representa-se uma **viagem no espaço** (na cidade e para dentro dela) e **no tempo** (do anoitecer à madrugada e do presente para o passado) feita pelo "eu".
+O percurso temporal é identificado pelos **subtítulos**:
+- ##### "Ave-Marias"
+	
 ## Deambulação e imaginação: o observador acidental
 ## Transfiguração poética do real e percepção sensorial
 ## Imaginário épico

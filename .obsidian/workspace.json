@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "Cesário Verde"
             }
+          },
+          {
+            "id": "7a81c664dacc0ae2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
+                "viewState": {
+                  "x": -154.08714324898006,
+                  "y": -94.37839394439644,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "O Sentimento dum Ocidental"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a71032d8c5098a77",
+  "active": "7a81c664dacc0ae2",
   "lastOpenFiles": [
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
