@@ -5,23 +5,6 @@
 - **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**. Estes eram recebidos ora com **indignação**, ora com **indiferença** pelo público e até por aqueles que Cesário admirava, como Ramalho Ortigão e Teófilo Braga, com quem partilhava o **ideário cultural e político da geração de 70**.
 - **1884** - **Publicou** o seu **último poema**, após **4 anos de interregno**.
 - **19/07/1886** - **Morreu**, com **31 anos**, vítima de **tuberculose**, tal como a sua irmã e um irmão já tinham.
-## Características de Cesário Verde (juntar com [[#Linguagem, estilo e estrutura]]')
-- ##### Poeta realista
-	Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
-- ##### Poeta parnasiano
-	Preocupação com a perfeição formal do poema
-- ##### Poeta impressionista
-	Os seus poemas dão impressões (movimentos, cores, luz, etc)
-- ##### Precursor do Modernismo
-	A...
-### Temáticas dos seus poemas
-- ##### Humilhação social
-	**Povo oprimido** e **dominado pelos poderosos**.
-	**Abandono dos doentes**.
-- ##### Humilhação literária
-	**Incompreensão e marginalização da sua poesia**.
-- ##### Humilhação sentimental
-	A **mulher da cidade** (poderosa, altiva e distante) **humilha o homem que tenta a aproximação**.
 ## *Cânticos do Realismo* (torna-se *O Livro de Cesário Verde*)
 Cesário desejava ter a sua **poesia reunida num livro** intitulado *Cânticos do Realismo* e que fosse caracterizado por uma "definitiva unidade de composição, formal e de conteúdo".
 O projeto **não foi concretizado** e a publicação em volume dos seus poemas amenas se deu **postumamente** (após a sua morte).
@@ -80,13 +63,40 @@ Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua *
 	Associado às ideias de **saúde**, **vitalidade**, **autenticidade**, **espaço** e **liberdade**.
 
 Estes dois polos interpenetram-se: existem **elementos do campo presentes nos poemas relativos à cidade**, através de **figuras humanas** ou de **vestígios materiais de um espaço que fora rural**.
+
+---
+"O Sentimento dum Ocidental" integra os **traços principais da arte poética de Cesário Verde**. 
 ## Deambulação e imaginação: o observador acidental
 Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, errando pelos becos e ruas de Lisboa, o "eu" poético **capta a realidade** que lhe **surge no caminho** com um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
 
-A **cidade** serve de **inspiração** para o poeta, mas, simultaneamente **confina-o em horizontes que o sufocam**.
+A **cidade** serve de **inspiração** para o poeta, ao mesmo tempo que o **confina em horizontes que o sufocam**.
 ## Transfiguração poética do real e percepção sensorial
-Inovação da arte poética
-Objetividade e subjetividade
+Ao longo de todo "O Sentimento dum Ocidental", a **descrição objetiva é suplantada pelo olhar subjetivo** (como o olhar doente e melancólico sobre a cidade noturna, sinédoque do país decadente).
+
+Através da **imaginação**, dá-se a **transfiguração poética do real** sendo descritas **novas realidades imaginárias e poéticas que estão além da realidade observável**, possibilitando a **evasão do real** para outros espaços e tempos face a uma realidade que desperta "um desejo absurdo de sofrer" ao sujeito poético.
+O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pela **imaginação**.
+
+O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.
 ## Imagética feminina
+
 ## Imaginário épico
+
+
 ## Linguagem, estilo e estrutura
+## Características de Cesário Verde (juntar com [[#Linguagem, estilo e estrutura]]')
+- ##### Poeta realista
+	Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
+- ##### Poeta parnasiano
+	Preocupação com a perfeição formal do poema
+- ##### Poeta impressionista
+	Os seus poemas dão impressões (movimentos, cores, luz, etc)
+- ##### Precursor do Modernismo
+	A...
+### Temáticas dos seus poemas
+- ##### Humilhação social
+	**Povo oprimido** e **dominado pelos poderosos**.
+	**Abandono dos doentes**.
+- ##### Humilhação literária
+	**Incompreensão e marginalização da sua poesia**.
+- ##### Humilhação sentimental
+	A **mulher da cidade** (poderosa, altiva e distante) **humilha o homem que tenta a aproximação**.
