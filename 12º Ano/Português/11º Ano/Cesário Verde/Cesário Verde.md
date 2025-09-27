@@ -6,14 +6,21 @@
 - **1884** - **Publicou** o seu **último poema**, após **4 anos de interregno**.
 - **19/07/1886** - **Morreu**, com **31 anos**, vítima de **tuberculose**, tal como a sua irmã e um irmão já tinham.
 ## Características de Cesário Verde
-### Poeta realista
-Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
-### Poeta parnasiano
-Preocupação com a perfeição formal do poema
-### Poeta impressionista
-Os seus poemas dão impressões (movimentos, cores, luz, etc)
-### Precursor do Modernismo
-
+- ##### Poeta realista
+	Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
+- ##### Poeta parnasiano
+	Preocupação com a perfeição formal do poema
+- ##### Poeta impressionista
+	Os seus poemas dão impressões (movimentos, cores, luz, etc)
+- ##### Precursor do Modernismo
+### Temáticas dos seus poemas
+- ##### Humilhação social
+	**Povo oprimido** e **dominado pelos poderosos**.
+	**Abandono dos doentes**.
+- ##### Humilhação literária
+	**Incompreensão e marginalização da sua poesia**.
+- ##### Humilhação sentimental
+	A **mulher da cidade** (poderosa, altiva e distante) **humilha o homem que tenta a aproximação**.
 ## *Cânticos do Realismo* (torna-se *O Livro de Cesário Verde*)
 Cesário desejava ter a sua **poesia reunida num livro** intitulado *Cânticos do Realismo* e que fosse caracterizado por uma "definitiva unidade de composição, formal e de conteúdo".
 O projeto **não foi concretizado** e a publicação em volume dos seus poemas amenas se deu **postumamente** (após a sua morte).
@@ -49,11 +56,11 @@ Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçado
 	- **Verão** («Num Bairro Moderno»)
 	- **Inverno** («Cristalizações»)
 ## "O Sentimento dum Ocidental"
-O título **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
+Publicado a 10/06/1880, como **festejo do tricentenário da morte de Luís de Camões**, o título de **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
 O "**desejo absurdo de sofrer**", despertado pela **ambiência citadina ao crepúsculo** vai sendo **justificado e amplificado ao longo do poema**, culminando na imagem de uma cidade mergulhada num "sinistro mar".
 
 Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, o "eu" poético aplica um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
-
+### Viagem no espaço e no tempo
 Representa-se uma **viagem no espaço** (na cidade e para dentro dela) e **no tempo** (do anoitecer à madrugada e do presente para o passado) feita pelo "eu".
 O percurso temporal é identificado pelos **subtítulos**:
 - ##### "Ave-Marias"
@@ -67,8 +74,14 @@ O percurso temporal é identificado pelos **subtítulos**:
 
 O sentimento de **aprisionamento e opressão** origina um **desejo de fuga**, canalizado para a **evasão para outros espaços**.
 ### Binómio ou dicotomia cidade/campo
-A **cidade** é um local de **doença** e de **morte**, enquanto o **campo**
+- ##### Cidade
+	Local de **doença**, **morte**, **injustiça**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **aprisionamento** e **opressão**
+- ##### Campo
+	Associado às ideias de **saúde**, **vitalidade** e **liberdade**.
+
+Estes dois polos interpenetram-se: existem **elementos do campo presentes nos poemas relativos à cidade**, através de **figuras humanas** ou de **vestígios materiais de um espaço que fora rural**.
 ## Deambulação e imaginação: o observador acidental
+
 ## Transfiguração poética do real e percepção sensorial
 ## Imaginário épico
 ## Linguagem, estilo e estrutura
