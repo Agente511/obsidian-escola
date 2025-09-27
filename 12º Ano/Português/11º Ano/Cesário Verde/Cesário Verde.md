@@ -24,12 +24,14 @@ Representa-se uma **viagem no espaço** (na cidade e para dentro dela) e **no te
 O **percurso temporal** é identificado pelos **subtítulos**:
 - ##### "Ave-Marias"
 	O "cair das badaladas", que chama para a missa das seis horas, anuncia o **fim da tarde** e o **termo do dia de trabalho para os operários**.
+	O sujeito poético **cruza-se com diversos trabalhadores**, no **regresso de mais um dia de trabalho**.
 - ##### "Noite Fechada"
 	O "acender das luzes", os reflexos da "lua" e os contrastes entre o claro e o escuro indiciam o **início da noite**.
 - ##### "Ao Gás"
-	A atmosfera noturna, quase asfixiante, resultante da iluminação a gás, marca uma **fase mais avançada da noite**, com o **cessar da atividade comercial** e o alastrar da escuridão.
+	A atmosfera noturna, quase asfixiante, resultante da iluminação a gás dos candeeiros, marca uma **fase mais avançada da noite**, com o **cessar da atividade comercial** e o alastrar da escuridão.
 - ##### "Horas Mortas"
 	O "silêncio", o perigo das "folhas das navalhas" e a noite habitada por "gritos de socorro", pelas vozes dos "tristes bebedores", pelas "imorais" e pela profunda dor do "eu", intensificam a ideia de **noite absoluta**.
+	Representam-se os espaços e figuras que povoam a capital durante a **madrugada**.
 
 Verifica-se uma **dicotomia espacial e temporal** entre as "**nossas ruas**" e o "**mundo**" e entre o **presente angustiante e melancólico** e o **passado grandioso e heroico**.
 ### Binómio ou dicotomia cidade/campo
@@ -82,12 +84,19 @@ O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pel
 
 O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.
 ## Imaginário épico em "O Sentimento dum Ocidental"
-"O Sentimento dum Ocidental" pretendeu **homenagear Camões no tricentenário do seu falecimento**, mas fá-lo **denunciando o estado humanamente decadente em que o país e a sua sociedade se encontrava**, apesar de **tecnicamente evoluído**, **contrastando com o seu passado glorioso**.
 ### Marcas específicas da epopeia
 "O Sentimento dum Ocidental" apresenta várias características em comum com *Os Lusíadas*, epopeia de Luís de Camões.
 - ##### Estruturação
-	**Poema longo**, que se estrutura em **4 secções de 11 quadras**
+	**Poema longo** e com **pendor narrativo**, estruturado em **4 secções de 11 quadras**, sendo o **1º verso** de cada uma delas um **alexandrino** e os **3 restantes decassílabos**.
+- ##### Organização do poema
+	**Viagem individual** que **representa a viagem da nação** (entidade coletiva).
+- ##### Reflexão sobre o povo
+- ##### Importância das referências temporais
+### Antiépico
+"O Sentimento dum Ocidental" pretendeu **homenagear Camões no tricentenário do seu falecimento**, mas fá-lo **denunciando a realidade opressora o estado humanamente decadente em que o país e a sua sociedade se encontra**, apesar de **tecnicamente evoluído**, **contrastando com o seu passado glorioso** em que fora um império (o épico).
+Verifica-se **subversão** (inversão) **da matéria épica** na descrição do **presente**.
 
+A viagem que o poeta faz pode ser lida como uma **atualização da viagem marítima**, agora **impossível**.
 ## Linguagem, estilo e estrutura
 ## Imagética feminina
 ## Características de Cesário Verde (juntar com [[#Linguagem, estilo e estrutura]]')
