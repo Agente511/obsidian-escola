@@ -2,7 +2,7 @@
 - **25/02/1855** - **Nasceu** em **Lisboa**
 - **1856** - A sua **irmã** **nasce**
 - **1857** - Mudou-se **de Lisboa para Linda-a-Pastora** para fugir às **epidemias que assolavam a cidade**
-- **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**. Estes eram recebidos ora com **indignação**, ora com **indiferença** pelo público e até por aqueles que Cesário admirava, como Ramalho Ortigão e Teófilo Braga.
+- **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**. Estes eram recebidos ora com **indignação**, ora com **indiferença** pelo público e até por aqueles que Cesário admirava, como Ramalho Ortigão e Teófilo Braga, com quem partilhava o **ideário cultural e político da geração de 70**.
 - **1884** - **Publicou** o seu **último poema**, após **4 anos de interregno**.
 - **19/07/1886** - **Morreu**, com **31 anos**, vítima de **tuberculose**, tal como a sua irmã e um irmão já tinham.
 ## Características de Cesário Verde
@@ -12,7 +12,7 @@ Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
 Preocupação com a perfeição formal do poema
 ### Poeta impressionista
 Os seus poemas dão impressões (movimentos, cores, luz, etc)
-### Precursor do modernismo
+### Precursor do Modernismo
 
 ## *Cânticos do Realismo* (torna-se *O Livro de Cesário Verde*)
 Cesário desejava ter a sua **poesia reunida num livro** intitulado *Cânticos do Realismo* e que fosse caracterizado por uma "definitiva unidade de composição, formal e de conteúdo".
@@ -22,7 +22,14 @@ Em **1887**, o seu amigo íntimo desde o Curso Superior de Letras, **Silva Pinto
 Destinou-se apenas a amigos, **não entrando no circuito editorial**.
 
 Em **1901**, foi publicada uma **2ª edição** para o **público em geral**.
-## Contrastes na Lisboa de Cesário Verde
+
+Apesar de **ignorado e menosprezado em vida**, Cesário impôs-se como um **precursor do Modernismo**, sendo, inclusive, eleito por Fernando Pessoa como um dos seus mestres.
+
+## Representação da cidade e dos tipos sociais
+Um dos aspetos da sua **modernidade poética** é a **centralidade temática e imagética da cidade na sua poesia** (a cidade e os diferentes tipos sociais são presenças constantes nos seus poemas).
+
+
+### Contrastes na Lisboa de Cesário Verde
 - ##### No plano urbanístico
   - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
   - **Espaços velhos e degradados**: Becos, Bairros populares, Arruamentos estreitos e escuros, Tabernas
