@@ -14,7 +14,7 @@ Destinou-se apenas a amigos, **não entrando no circuito editorial**.
 
 Em **1901**, foi publicada uma **2ª edição** para o **público em geral**.
 
-Apesar de **ignorado e menosprezado em vida**, Cesário impôs-se como um **precursor do Modernismo**, sendo, inclusive, eleito por Fernando Pessoa como um dos seus mestres.
+Apesar de **ignorado e menosprezado em vida**, Cesário impôs-se como um **[[#^c807ac|precursor do Modernismo]]**, sendo, inclusive, eleito por Fernando Pessoa como um dos seus mestres.
 ## "O Sentimento dum Ocidental"
 Publicado a 10/06/1880, como **festejo do tricentenário da morte de Luís de Camões**, o título de **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
 O "**desejo absurdo de sofrer**", despertado pela **ambiência citadina ao crepúsculo** vai sendo **justificado e amplificado ao longo do poema**, culminando na imagem de uma cidade mergulhada num "sinistro mar".
@@ -37,7 +37,7 @@ Verifica-se uma **dicotomia espacial e temporal** entre as "**nossas ruas**" e o
 ### Binómio ou dicotomia cidade/campo
 Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua **experiência de vida** em que passou a sua **infância** no **campo** (**Linda-a-Pastora**) o que determina a visão que ele nos dá.
 - ##### Cidade
-	Local de **doença**, **morte**, **injustiça**, **monotonia**, **melancolia**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **aprisionamento** e **opressão**
+	Local de **doença**, **morte**, **injustiça**, **monotonia**, **melancolia**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **enclausuramento** e **opressão**
 - ##### Campo
 	Associado às ideias de **saúde**, **vitalidade**, **autenticidade**, **espaço** e **liberdade**.
 
@@ -52,17 +52,17 @@ Estes dois polos interpenetram-se: existem **elementos do campo presentes nos po
 ## Representação da cidade e dos tipos sociais
 Um dos aspetos da sua **modernidade poética** é a **centralidade temática e imagética da cidade na sua poesia** (a cidade e os diferentes tipos sociais são presenças constantes nos seus poemas).
 
-A cidade, além de **cenário**, numa **representação [[#Poeta realista|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes** (cidade **heterogénea**).
-
 O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a realidade**, existindo uma vertente de **denúncia social**.
+### Preocupação social
 Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**.
 ### Contrastes na Lisboa de Cesário Verde
-- ##### No plano urbanístico
-	  - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
-	  - **Espaços velhos e degradados**: Becos, Bairros populares, Arruamentos estreitos e escuros, Tabernas
+A cidade, além de **cenário**, numa **representação [[#^ec0b0f|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes** (cidade **heterogénea**).
 - ##### No plano social
 	- **Labor do povo** (carpinteiros, calafates, varinas, calceteiros, vendedeira; ...)
 	- **Ociosidade e vida fácil dos burgueses**: (lojistas, "elegantes" que procuram o luxo)
+- ##### No plano urbanístico
+	  - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
+	  - **Espaços velhos e degradados**: Becos, Bairros populares, Arruamentos estreitos e escuros, Tabernas
 - ##### No plano histórico
 	- **Presente decadente**: Lisboa oitocentista
 	- **Passado glorioso**: crónicas navais dos Descobrimentos
@@ -97,17 +97,23 @@ O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **ci
 Verifica-se **subversão** (inversão) **da matéria épica** na descrição do **presente**.
 
 A viagem que o poeta faz pode ser lida como uma **atualização da viagem marítima**, agora **impossível**.
+
+A **memória coletiva** surge como **fuga possível à decadência do presente**, sendo convocada na **errância pensativa** por espaços confinados.
 ## Linguagem, estilo e estrutura
-## Imagética feminina
-## Características de Cesário Verde (juntar com [[#Linguagem, estilo e estrutura]]')
+### Estilos literários
 - ##### Poeta realista
-	Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
+	Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**. ^ec0b0f
 - ##### Poeta parnasiano
-	Preocupação com a perfeição formal do poema
+	Preocupação com a **perfeição formal** do poema.
 - ##### Poeta impressionista
-	Os seus poemas dão impressões (movimentos, cores, luz, etc)
+	Os seus poemas dão **impressões** (movimentos, cores, luz, etc).
 - ##### Precursor do Modernismo
-	A...
+	A sua poesia é **antissentimental**, rompendo com o estilo dominante da época, e antecipa traços do **Sensacionismo** (foco nas **sensações**) e o **Surrealismo** ([[#Transfiguração poética do real e percepção sensorial|transfiguração poética do real]], recorrendo à imaginação)  ^c807ac
+### Linguagem
+- ##### Prosaísmo
+	Simula o **ritmo da prosa**
+- ##### Linguagem quotidiana e coloqui
+
 ### Temáticas dos seus poemas
 - ##### Humilhação social
 	**Povo oprimido** e **dominado pelos poderosos**.
@@ -116,3 +122,6 @@ A viagem que o poeta faz pode ser lida como uma **atualização da viagem marít
 	**Incompreensão e marginalização da sua poesia**.
 - ##### Humilhação sentimental
 	A **mulher da cidade** (poderosa, altiva e distante) **humilha o homem que tenta a aproximação**.
+
+## Imagética feminina
+Mulher fatal, angélica, trabalhadora e burguesa
