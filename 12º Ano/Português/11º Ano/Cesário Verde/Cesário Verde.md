@@ -86,6 +86,8 @@ Estes dois polos interpenetram-se: existem **elementos do campo presentes nos po
 Poética realista
 Erra pelos becos e ruas de Lisboa.
 
+A deambulação permite 
+
 ## Transfiguração poética do real e percepção sensorial
 Inovação da arte poética
 Objetividade e subjetividade
