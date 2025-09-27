@@ -111,8 +111,19 @@ A **memória coletiva** surge como **fuga possível à decadência do presente**
 	A sua poesia é **antissentimental**, rompendo com o estilo dominante da época, e antecipa traços do **Sensacionismo** (foco nas **sensações**) e o **Surrealismo** ([[#Transfiguração poética do real e percepção sensorial|transfiguração poética do real]], recorrendo à imaginação)  ^c807ac
 ### Linguagem
 - ##### Prosaísmo
-	Simula o **ritmo da prosa**
-- ##### Linguagem quotidiana e coloqui
+	Simula o **ritmo da prosa**.
+- ##### Descrição objetiva
+	**Percepção sensorial** através da visão, da audição e do olfato.
+- ##### Descrição subjetiva e expressiva
+	
+- ##### Linguagem quotidiana e coloquial
+	Uso de palavras do dia-a-dia, utilizadas pelo povo, e **escassez de palavras eruditas**.
+- ##### Vocabulário objetivo e concreto
+	Integra **termos precisos e técnicos** do **comércio e agricultura** (áreas conhecidas de Cesário, devido às suas ocupações profissionais).
+- ##### Uso de empréstimos
+	Principalmente **galicismos** (de origem francesa).
+- ##### Plasticidade
+	Cria e transmite um profundo **visualismo**, explorando vários recursos expressivos.
 
 ### Temáticas dos seus poemas
 - ##### Humilhação social
