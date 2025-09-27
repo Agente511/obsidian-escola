@@ -15,29 +15,6 @@ Destinou-se apenas a amigos, **não entrando no circuito editorial**.
 Em **1901**, foi publicada uma **2ª edição** para o **público em geral**.
 
 Apesar de **ignorado e menosprezado em vida**, Cesário impôs-se como um **precursor do Modernismo**, sendo, inclusive, eleito por Fernando Pessoa como um dos seus mestres.
-## Representação da cidade e dos tipos sociais
-Um dos aspetos da sua **modernidade poética** é a **centralidade temática e imagética da cidade na sua poesia** (a cidade e os diferentes tipos sociais são presenças constantes nos seus poemas).
-
-A cidade, além de **cenário**, numa **representação [[#Poeta realista|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes** (cidade **heterogénea**).
-
-O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a realidade**, existindo uma vertente de **denúncia social**.
-Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**.
-### Contrastes na Lisboa de Cesário Verde
-- ##### No plano urbanístico
-	  - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
-	  - **Espaços velhos e degradados**: Becos, Bairros populares, Arruamentos estreitos e escuros, Tabernas
-- ##### No plano social
-	- **Labor do povo** (carpinteiros, calafates, varinas, calceteiros, vendedeira; ...)
-	- **Ociosidade e vida fácil dos burgueses**: (lojistas, "elegantes" que procuram o luxo)
-- ##### No plano histórico
-	- **Presente decadente**: Lisboa oitocentista
-	- **Passado glorioso**: crónicas navais dos Descobrimentos
-- ##### No plano dos ciclos do dia
-	- **Cidade noturna**: («O Sentimento dum Ocidental»)
-	- **Cidade diurna**: solar e cheia de movimento («Num Bairro Moderno»)
-- ##### No plano das estações do ano
-	- **Verão** («Num Bairro Moderno»)
-	- **Inverno** («Cristalizações»)
 ## "O Sentimento dum Ocidental"
 Publicado a 10/06/1880, como **festejo do tricentenário da morte de Luís de Camões**, o título de **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
 O "**desejo absurdo de sofrer**", despertado pela **ambiência citadina ao crepúsculo** vai sendo **justificado e amplificado ao longo do poema**, culminando na imagem de uma cidade mergulhada num "sinistro mar".
@@ -65,7 +42,34 @@ Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua *
 Estes dois polos interpenetram-se: existem **elementos do campo presentes nos poemas relativos à cidade**, através de **figuras humanas** ou de **vestígios materiais de um espaço que fora rural**.
 
 ---
-"O Sentimento dum Ocidental" integra os **traços principais da arte poética de Cesário Verde**. 
+**"O Sentimento dum Ocidental"** integra os **traços principais da arte poética de Cesário Verde**:
+- [[#Representação da cidade e dos tipos sociais]]
+- [[#Deambulação e imaginação o observador acidental]]
+- [[#Transfiguração poética do real e percepção sensorial]]
+- [[#Imaginário épico]]
+## Representação da cidade e dos tipos sociais
+Um dos aspetos da sua **modernidade poética** é a **centralidade temática e imagética da cidade na sua poesia** (a cidade e os diferentes tipos sociais são presenças constantes nos seus poemas).
+
+A cidade, além de **cenário**, numa **representação [[#Poeta realista|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes** (cidade **heterogénea**).
+
+O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a realidade**, existindo uma vertente de **denúncia social**.
+Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**.
+### Contrastes na Lisboa de Cesário Verde
+- ##### No plano urbanístico
+	  - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
+	  - **Espaços velhos e degradados**: Becos, Bairros populares, Arruamentos estreitos e escuros, Tabernas
+- ##### No plano social
+	- **Labor do povo** (carpinteiros, calafates, varinas, calceteiros, vendedeira; ...)
+	- **Ociosidade e vida fácil dos burgueses**: (lojistas, "elegantes" que procuram o luxo)
+- ##### No plano histórico
+	- **Presente decadente**: Lisboa oitocentista
+	- **Passado glorioso**: crónicas navais dos Descobrimentos
+- ##### No plano dos ciclos do dia
+	- **Cidade noturna**: («O Sentimento dum Ocidental»)
+	- **Cidade diurna**: solar e cheia de movimento («Num Bairro Moderno»)
+- ##### No plano das estações do ano
+	- **Verão** («Num Bairro Moderno»)
+	- **Inverno** («Cristalizações»)
 ## Deambulação e imaginação: o observador acidental
 Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, errando pelos becos e ruas de Lisboa, o "eu" poético **capta a realidade** que lhe **surge no caminho** com um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
 
@@ -77,12 +81,15 @@ Através da **imaginação**, dá-se a **transfiguração poética do real** sen
 O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pela **imaginação**.
 
 O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.
-## Imagética feminina
-
-## Imaginário épico
-
+## Imaginário épico em "O Sentimento dum Ocidental"
+"O Sentimento dum Ocidental" pretendeu **homenagear Camões no tricentenário do seu falecimento**, mas fá-lo **denunciando o estado humanamente decadente em que o país e a sua sociedade se encontrava**, apesar de **tecnicamente evoluído**, **contrastando com o seu passado glorioso**.
+### Marcas específicas da epopeia
+"O Sentimento dum Ocidental" apresenta várias características em comum com *Os Lusíadas*, epopeia de Luís de Camões.
+- ##### Estruturação
+	**Poema longo**, que se estrutura em **4 secções de 11 quadras**
 
 ## Linguagem, estilo e estrutura
+## Imagética feminina
 ## Características de Cesário Verde (juntar com [[#Linguagem, estilo e estrutura]]')
 - ##### Poeta realista
 	Capta o **real** e o **quotidiano** com grande **pormenor e objetividade**.
