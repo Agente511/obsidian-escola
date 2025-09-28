@@ -96,8 +96,8 @@ O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **ci
 - ##### Reflexão sobre o povo
 - ##### Importância das referências temporais
 ### Antiépico
-"O Sentimento dum Ocidental" pretendeu **homenagear Camões no tricentenário do seu falecimento**, mas fá-lo **denunciando a realidade opressora** e o **estado humanamente decadente em que o país e a sua sociedade se encontra**, apesar de **tecnicamente evoluído**, **contrastando com o seu passado glorioso** em que fora um império (o épico).
-A sensação de decadência é destacada através da evocação **episódios grandiosos** do **passado** do país, sendo referidas "crónicas navais", "heróis" e "naus que eu não verei jamais", além da **figura monumental da estátua de Camões** que serve de **símbolo épico da pátria**.
+"O Sentimento dum Ocidental" pretendeu **homenagear Camões no tricentenário do seu falecimento**, mas fá-lo **denunciando a realidade opressora** e o **estado humanamente decadente** em que **o país e a sua sociedade se encontra**, apesar de **tecnicamente evoluído**, **contrastando com o seu passado glorioso** em que fora um império (o épico).
+A sensação de decadência é destacada através da evocação de **episódios grandiosos** do **passado** do país, sendo referidas "crónicas navais", "heróis" e "naus que eu não verei jamais", além da **figura monumental da estátua de Camões** que serve de **símbolo épico da pátria**.
 
 Verifica-se **subversão** (inversão) **da matéria épica** na descrição do **presente**.
 
@@ -130,7 +130,7 @@ A **memória coletiva** surge como **fuga possível à decadência do presente**
 - ##### Valor expressivo do diminutivo
 	Que podem ter **valor valorativo (afetivo)** ou **valor pejorativo (depreciativo)**.
 - ##### Valor expressivo do advérbio e do adjetivo
-	Por vezes, **antepõem as impressões às realidades que as provocam**, dando destaque às primeiras.
+	Por vezes, **as impressões antepõem as realidades que as provocam**, dando destaque às primeiras.
 - ##### Plasticidade
 	Cria e transmite um profundo **visualismo**, criando imagens vívidas e maleáveis, tratando-se, por isso, de **poemas-quadros**.
 - ##### Sinestesia
