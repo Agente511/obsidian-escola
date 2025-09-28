@@ -87,17 +87,18 @@ O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pel
 
 O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.
 ## Imaginário épico em "O Sentimento dum Ocidental"
-A sensação de decadência é destacada pelo "eu" evoca **episódios grandiosos** do passado da pátria, referindo-se às "crónicas navais", "heróis" e "naus que eu não verei jamais".
 ### Marcas específicas da epopeia
 "O Sentimento dum Ocidental" apresenta várias características em comum com *Os Lusíadas*, epopeia de Luís de Camões.
 - ##### Estruturação
-	**Poema longo** e com **pendor narrativo**, estruturado em **4 secções de 11 quadras**, sendo o **1º verso** de cada uma delas um **alexandrino** e os **3 restantes decassílabos**.
+	**Poema longo** e com **pendor narrativo**, estruturado em **4 partes de 11 quadras**, sendo o **1º verso** de cada uma delas um **alexandrino** e os **3 restantes decassílabos**.
 - ##### Organização do poema
 	**Viagem individual** que **representa a viagem da nação** (entidade coletiva).
 - ##### Reflexão sobre o povo
 - ##### Importância das referências temporais
 ### Antiépico
 "O Sentimento dum Ocidental" pretendeu **homenagear Camões no tricentenário do seu falecimento**, mas fá-lo **denunciando a realidade opressora o estado humanamente decadente em que o país e a sua sociedade se encontra**, apesar de **tecnicamente evoluído**, **contrastando com o seu passado glorioso** em que fora um império (o épico).
+A sensação de decadência é destacada através da evocação **episódios grandiosos** do **passado** do país, sendo referidas "crónicas navais", "heróis" e "naus que eu não verei jamais", além da **figura monumental da estátua de Camões** que serve de **símbolo épico da pátria**.
+
 Verifica-se **subversão** (inversão) **da matéria épica** na descrição do **presente**.
 
 A viagem que o poeta faz pode ser lida como uma **atualização da viagem marítima**, agora **impossível**.
