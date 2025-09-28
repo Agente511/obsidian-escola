@@ -37,9 +37,10 @@ Verifica-se uma **dicotomia espacial e temporal** entre as "**nossas ruas**" e o
 ### Binómio ou dicotomia cidade/campo
 Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua **experiência de vida** em que passou a sua **infância** no **campo** (**Linda-a-Pastora**) o que determina a visão que ele nos dá.
 - ##### Cidade
-	Local de **doença**, **morte**, **injustiça**, **monotonia**, **melancolia**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **enclausuramento** e **opressão**
+	Local de **doença**, **morte**, **injustiça**, **monotonia**, **melancolia**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **enclausuramento**, **exclusão social** e **opressão**.
 - ##### Campo
-	Associado às ideias de **saúde**, **vitalidade**, **autenticidade**, **espaço** e **liberdade**.
+	Associado às ideias de **saúde**, **vitalidade**, **pureza**, **autenticidade**, **espaço**. **harmonia**, **beleza natural** e **liberdade**.
+	Serve de **refúgio** e **espaço de regeneração física e espiritual**.
 
 Estes dois polos interpenetram-se: existem **elementos do campo presentes nos poemas relativos à cidade**, através de **figuras humanas** ou de **vestígios materiais de um espaço que fora rural**.
 
@@ -52,7 +53,7 @@ Estes dois polos interpenetram-se: existem **elementos do campo presentes nos po
 ## Representação da cidade e dos tipos sociais
 Um dos aspetos da sua **modernidade poética** é a **centralidade temática e imagética da cidade na sua poesia** (a cidade e os diferentes tipos sociais são presenças constantes nos seus poemas).
 
-O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a realidade**, existindo uma vertente de **denúncia social**.
+O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a realidade**, existindo uma vertente de **denúncia social**, por exemplo, da **indiferença da sociedade perante os mais frágeis**.
 ### Preocupação social
 Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**.
 ### Contrastes na Lisboa de Cesário Verde
@@ -73,7 +74,7 @@ A cidade, além de **cenário**, numa **representação [[#^ec0b0f|realista]]**,
 	- **Verão** («Num Bairro Moderno»)
 	- **Inverno** («Cristalizações»)
 ## Deambulação e imaginação: o observador acidental
-Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, errando pelos becos e ruas de Lisboa, o "eu" poético **capta a realidade** que lhe **surge no caminho** com um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina.
+Ao longo da sua **deambulação**, do seu **passeio solitário** e **aparentemente sem destino nem propósito**, errando pelos becos e ruas de Lisboa, o "eu" poético **capta a realidade** que lhe **surge no caminho** com um **olhar atento e lúcido**, mas também **transfigurador e visionário** (vendo o que não está à vista), sobre a realidade citadina, descrevendo-a **minuciosamente**.
 
 A **cidade** serve de **inspiração** para o poeta, ao mesmo tempo que o **confina em horizontes que o sufocam**.
 ## Transfiguração poética do real e percepção sensorial
