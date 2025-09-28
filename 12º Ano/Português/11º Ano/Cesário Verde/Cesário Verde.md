@@ -55,7 +55,7 @@ Um dos aspetos da sua **modernidade poética** é a **centralidade temática e i
 
 O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a realidade**, existindo uma vertente de **denúncia social**, por exemplo, da **indiferença da sociedade perante os mais frágeis**.
 ### Preocupação social
-Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**.
+Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**, assumindo um **profundo compromisso social**.
 ### Contrastes na Lisboa de Cesário Verde
 A cidade, além de **cenário**, numa **representação [[#^ec0b0f|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes** (cidade **heterogénea**).
 - ##### No plano social
@@ -87,6 +87,7 @@ O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pel
 
 O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.
 ## Imaginário épico em "O Sentimento dum Ocidental"
+A sensação de decadência é destacada pelo "eu" evoca **episódios grandiosos** do passado da pátria, referindo-se às "crónicas navais", "heróis" e "naus que eu não verei jamais".
 ### Marcas específicas da epopeia
 "O Sentimento dum Ocidental" apresenta várias características em comum com *Os Lusíadas*, epopeia de Luís de Camões.
 - ##### Estruturação
@@ -125,22 +126,27 @@ A **memória coletiva** surge como **fuga possível à decadência do presente**
 	Integra **termos precisos e técnicos** do **comércio e agricultura** (áreas conhecidas de Cesário, devido às suas ocupações profissionais).
 - ##### Uso de empréstimos
 	Principalmente **galicismos** (de origem francesa).
-- ##### Uso de diminutivos
+- ##### Valor expressivo do diminutivo
 	Que podem ter **valor valorativo (afetivo)** ou **valor pejorativo (depreciativo)**.
-- ##### Uso expressivo de advérbios e adjetivos
+- ##### Valor expressivo do advérbio e do adjetivo
 	Por vezes, **antepõem as impressões às realidades que as provocam**, dando destaque às primeiras.
 - ##### Plasticidade
 	Cria e transmite um profundo **visualismo**, criando imagens vívidas e maleáveis, tratando-se, por isso, de **poemas-quadros**.
 - ##### Sinestesia
 	Manifestação, na mesma expressão, de **sensações ligadas a sentidos diferentes**.
 	Ex: "E fere a vista, com brancuras quentes".
+- ##### Hipálage
+	**Atribuição de uma característica** a um objeto que, na verdade, **pertence a outro** como o qual está relacionado.
+	Ex: "'Um cheiro salutar e honesto a pão no forno'
 - ##### Adjetivação
+- ##### Aliteração
+	**Repetição de sons semelhante**s em pontos próximos de uma frase ou verso, contribuindo para a musicalidade do discurso.
 - ##### Enumeração e gradação
 - ##### Comparação
 - ##### Metáfora
 - ##### Hipérbole
 
-### Temáticas dos seus poemas
+### Temáticas centrais dos seus poemas
 - ##### Humilhação social
 	**Povo oprimido** e **dominado pelos poderosos**.
 	**Abandono dos doentes**.
