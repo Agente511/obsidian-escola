@@ -80,7 +80,9 @@ A **cidade** serve de **inspiração** para o poeta, ao mesmo tempo que o **conf
 ## Transfiguração poética do real e percepção sensorial
 Ao longo de todo "O Sentimento dum Ocidental", a **descrição objetiva é suplantada pelo olhar subjetivo** (como o olhar doente e melancólico sobre a cidade noturna, sinédoque do país decadente).
 
-Através da **imaginação**, dá-se a **transfiguração poética do real** sendo descritas **novas realidades imaginárias e poéticas que estão além da realidade observável**, possibilitando a **evasão do real** para outros espaços e tempos face a uma realidade que desperta "um desejo absurdo de sofrer" ao sujeito poético.
+A deambulação permite ao poeta ultrapassar o estatuto de mero "pintor de espaços e ambientes", possibilitando a **análise** e **introspeção**.
+
+Através da **imaginação**, dá-se a **transfiguração poética do real** sendo descritas **novas realidades imaginárias e poéticas que estão além da realidade observável**, possibilitando a **evasão do real** para outros **espaços e tempos** face a uma realidade que desperta **"um desejo absurdo de sofrer"** ao sujeito poético.
 O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pela **imaginação** e a **visão de artista** de Cesário Verde.
 
 O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.

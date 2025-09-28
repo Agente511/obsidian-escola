@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "projeto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,10 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a71032d8c5098a77",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
-    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
+    "11º Ano/Português/Outros/Projeto de Leitura - O Violino de Auschwitz.md",
+    "10º Ano/Português/Outros/Projeto de Leitura --- Os Jogos da Herança.md",
+    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
@@ -262,8 +264,6 @@
     "10º Ano/Química/Densidade relativa de metais.md",
     "10º Ano/Química/Propriedades periódicas dos elementos.md",
     "10º Ano/Química/Tabela Periódica.md",
-    "10º Ano/Química/Composição quantitativa de soluções.md",
-    "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
     "Imagens/Sem título 7.jpg",
     "Imagens/Sem título-1.jpg",
     "Sem título 6.jpg",
