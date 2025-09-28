@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -25,20 +25,16 @@
             "id": "7a81c664dacc0ae2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
-                "viewState": {
-                  "x": -259.9205114401494,
-                  "y": 6.415290047193338,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "O Sentimento dum Ocidental"
+              "icon": "lucide-file-text",
+              "title": "O Sentimento dum Ocidental-Resu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,13 +221,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a71032d8c5098a77",
+  "active": "7a81c664dacc0ae2",
   "lastOpenFiles": [
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
+    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "11º Ano/Português/Outros/Projeto de Leitura - O Violino de Auschwitz.md",
     "10º Ano/Português/Outros/Projeto de Leitura --- Os Jogos da Herança.md",
-    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Resumo e personagens.md",

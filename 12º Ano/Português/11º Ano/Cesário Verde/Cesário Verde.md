@@ -33,7 +33,7 @@ O **percurso temporal** é identificado pelos **subtítulos**:
 	O "silêncio", o perigo das "folhas das navalhas" e a noite habitada por "gritos de socorro", pelas vozes dos "tristes bebedores", pelas "imorais" e pela profunda dor do "eu" intensificam a ideia de **noite absoluta**.
 	Representam-se os espaços e figuras que povoam a capital durante a **madrugada**.
 
-Verifica-se uma **dicotomia espacial** entre as "**nossas ruas**" e o "**mundo**" e uma **dicotomia temporal** entre o **presente angustiante e melancólico** e o **passado grandioso e heroico**.
+Verifica-se uma **dicotomia espacial** entre as "**nossas ruas**" e o "**mundo**" e uma **dicotomia passado/presente** entre o **presente angustiante e melancólico** e o **passado grandioso e heroico**.
 ### Binómio ou dicotomia cidade/campo
 Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua **experiência de vida** em que passou a sua **infância** no **campo** (**Linda-a-Pastora**) o que determina a visão que ele nos dá.
 - ##### Cidade
@@ -55,7 +55,7 @@ Um dos aspetos da sua **modernidade poética** é a **centralidade temática e i
 
 O poeta toma uma **posição crítica** e, por vezes, **irónica**, **perante a realidade**, existindo uma vertente de **denúncia social**, por exemplo, da **indiferença da sociedade perante os mais frágeis**.
 ### Preocupação social
-Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**, assumindo um **profundo compromisso social**.
+Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçados**, **valorizando o trabalho duro e honesto do povo** (**[comiseração](https://dicionario.priberam.org/comisera%C3%A7%C3%A3o)** do sujeito poético) e destacando as **injustiças, misérias e desigualdades** que **encontra omnipresentes no ambiente da cidade**, assumindo um **profundo compromisso social**.
 ### Contrastes na Lisboa de Cesário Verde
 A cidade, além de **cenário**, numa **representação [[#^ec0b0f|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes** (cidade **heterogénea**).
 - ##### No plano social
