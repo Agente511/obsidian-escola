@@ -60,7 +60,7 @@ Mostra-se ainda **solidário com os desfavorecidos, os frágeis e os desgraçado
 A cidade, além de **cenário**, numa **representação [[#^ec0b0f|realista]]**, serve também de **representação simbólica** dos ambientes e da **sociedade marcada pelas diferenças entre as classes** (cidade **heterogénea**).
 - ##### No plano social
 	- **Labor do povo** (carpinteiros, calafates, varinas, calceteiros, vendedeira; ...)
-	- **Ociosidade e vida fácil dos burgueses**: (lojistas, "elegantes" que procuram o luxo)
+	- **Ociosidade e vida fácil dos burgueses**: (lojistas, "burguesinhas", "elegantes" que procuram o luxo)
 - ##### No plano urbanístico
 	  - **Espaços modernos**: Baixa pombalina, com o seu traçado geométrico, Magasins, Hotéis da moda, Teatros, Cafés, Bairros da burguesia
 	  - **Espaços velhos e degradados**: Becos, Bairros populares, Arruamentos estreitos e escuros, Tabernas
@@ -83,20 +83,20 @@ Ao longo de todo "O Sentimento dum Ocidental", a **descrição objetiva é supla
 A deambulação permite ao poeta ultrapassar o estatuto de mero "pintor de espaços e ambientes", possibilitando a **análise** e **introspeção**.
 
 Através da **imaginação**, dá-se a **transfiguração poética do real** sendo descritas **novas realidades imaginárias e poéticas que estão além da realidade observável**, possibilitando a **evasão do real** para outros **espaços e tempos** face a uma realidade que desperta **"um desejo absurdo de sofrer"** ao sujeito poético.
-O **real** é o **ponto de partida** para os **"poemas-quadros** trabalhados pela **imaginação** e a **visão de artista** de Cesário Verde.
+O **real** é o **ponto de partida** para os **"poemas-quadros"** trabalhados pela **imaginação** e a **visão de artista** de Cesário Verde.
 
 O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.
 ## Imaginário épico em "O Sentimento dum Ocidental"
 ### Marcas específicas da epopeia
 "O Sentimento dum Ocidental" apresenta várias características em comum com *Os Lusíadas*, epopeia de Luís de Camões.
 - ##### Estruturação
-	**Poema longo** e com **pendor narrativo**, estruturado em **4 partes de 11 quadras**, sendo o **1º verso** de cada uma delas um **alexandrino** e os **3 restantes decassílabos**.
+	**Poema longo** e com **pendor narrativo**, estruturado em **4 partes de 11 quadras**, sendo o **1º verso** de cada uma delas um **alexandrino** (12 sílabas métricas) e os **3 restantes decassílabos**.
 - ##### Organização do poema
 	**Viagem individual** que **representa a viagem da nação** (entidade coletiva).
 - ##### Reflexão sobre o povo
 - ##### Importância das referências temporais
 ### Antiépico
-"O Sentimento dum Ocidental" pretendeu **homenagear Camões no tricentenário do seu falecimento**, mas fá-lo **denunciando a realidade opressora o estado humanamente decadente em que o país e a sua sociedade se encontra**, apesar de **tecnicamente evoluído**, **contrastando com o seu passado glorioso** em que fora um império (o épico).
+"O Sentimento dum Ocidental" pretendeu **homenagear Camões no tricentenário do seu falecimento**, mas fá-lo **denunciando a realidade opressora** e o **estado humanamente decadente em que o país e a sua sociedade se encontra**, apesar de **tecnicamente evoluído**, **contrastando com o seu passado glorioso** em que fora um império (o épico).
 A sensação de decadência é destacada através da evocação **episódios grandiosos** do **passado** do país, sendo referidas "crónicas navais", "heróis" e "naus que eu não verei jamais", além da **figura monumental da estátua de Camões** que serve de **símbolo épico da pátria**.
 
 Verifica-se **subversão** (inversão) **da matéria épica** na descrição do **presente**.
