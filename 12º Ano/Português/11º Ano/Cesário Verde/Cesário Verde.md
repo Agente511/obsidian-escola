@@ -4,10 +4,10 @@
 - **1857** - Mudou-se **de Lisboa para Linda-a-Pastora** para fugir às **epidemias que assolavam a cidade**
 - **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**. Estes eram recebidos ora com **indignação**, ora com **indiferença** pelo público e até por aqueles que Cesário admirava, como Ramalho Ortigão e Teófilo Braga, com quem partilhava o **ideário cultural e político da geração de 70**.
 - **1884** - **Publicou** o seu **último poema**, após **4 anos de interregno**.
-- **19/07/1886** - **Morreu**, com **31 anos**, vítima de **tuberculose**, tal como a sua irmã e um irmão já tinham.
+- **19/07/1886** - **Morreu**, com **31 anos**, vítima de **tuberculose**, que também vitimou a sua irmã e um irmão.
 ## *Cânticos do Realismo* (torna-se *O Livro de Cesário Verde*)
 Cesário desejava ter a sua **poesia reunida num livro** intitulado *Cânticos do Realismo* e que fosse caracterizado por uma "definitiva unidade de composição, formal e de conteúdo".
-O projeto **não foi concretizado** e a publicação em volume dos seus poemas amenas se deu **postumamente** (após a sua morte).
+O projeto **não foi concretizado** e a publicação em volume dos seus poemas apenas se deu **postumamente** (após a sua morte).
 
 Em **1887**, o seu amigo íntimo desde o Curso Superior de Letras, **Silva Pinto**, editou *O Livro de Cesário Verde*, uma **recolha incompleta**, **organizada segundo os critérios do autor**.
 Destinou-se apenas a amigos, **não entrando no circuito editorial**.
@@ -18,7 +18,7 @@ Apesar de **ignorado e menosprezado em vida**, Cesário impôs-se como um **[[#^
 ## "O Sentimento dum Ocidental"
 Publicado a 10/06/1880, como **festejo do tricentenário da morte de Luís de Camões**, o título de **"O Sentimento dum Ocidental"** indicia um sujeito poético, inscrito na **civilização ocidental**, que **revelará as sua emoções provocadas pelo ambiente e pelo quotidiano da cidade de Lisboa** do último quartel do séc. XIX.
 O "**desejo absurdo de sofrer**", despertado pela **ambiência citadina ao crepúsculo** vai sendo **justificado e amplificado ao longo do poema**, culminando na imagem de uma cidade mergulhada num "sinistro mar".
-O sentimento de **aprisionamento e opressão** origina um **desejo de fuga**, canalizado para a **evasão para outros espaços**.
+O sentimento de **aprisionamento e opressão** origina um **desejo de fuga**, canalizado para a **evasão do real para outros espaços**.
 ### Viagem no espaço e no tempo
 Representa-se uma **viagem no espaço** (na cidade e para dentro dela) e **no tempo** (do anoitecer à madrugada e do presente ao passado) feita pelo "eu".
 O **percurso temporal** é identificado pelos **subtítulos**:
@@ -30,16 +30,16 @@ O **percurso temporal** é identificado pelos **subtítulos**:
 - ##### "Ao Gás"
 	A atmosfera noturna, quase asfixiante, resultante da iluminação a gás dos candeeiros, marca uma **fase mais avançada da noite**, com o **cessar da atividade comercial** e o alastrar da escuridão.
 - ##### "Horas Mortas"
-	O "silêncio", o perigo das "folhas das navalhas" e a noite habitada por "gritos de socorro", pelas vozes dos "tristes bebedores", pelas "imorais" e pela profunda dor do "eu", intensificam a ideia de **noite absoluta**.
+	O "silêncio", o perigo das "folhas das navalhas" e a noite habitada por "gritos de socorro", pelas vozes dos "tristes bebedores", pelas "imorais" e pela profunda dor do "eu" intensificam a ideia de **noite absoluta**.
 	Representam-se os espaços e figuras que povoam a capital durante a **madrugada**.
 
-Verifica-se uma **dicotomia espacial e temporal** entre as "**nossas ruas**" e o "**mundo**" e entre o **presente angustiante e melancólico** e o **passado grandioso e heroico**.
+Verifica-se uma **dicotomia espacial** entre as "**nossas ruas**" e o "**mundo**" e uma **dicotomia temporal** entre o **presente angustiante e melancólico** e o **passado grandioso e heroico**.
 ### Binómio ou dicotomia cidade/campo
 Cesário Verde apresenta nos seus poemas o binómio cidade-campo, fruto da sua **experiência de vida** em que passou a sua **infância** no **campo** (**Linda-a-Pastora**) o que determina a visão que ele nos dá.
 - ##### Cidade
 	Local de **doença**, **morte**, **injustiça**, **monotonia**, **melancolia**, **[depravação](https://www.infopedia.pt/dicionarios/lingua-portuguesa/deprava%C3%A7%C3%A3o)**, **enclausuramento**, **exclusão social** e **opressão**.
 - ##### Campo
-	Associado às ideias de **saúde**, **vitalidade**, **pureza**, **autenticidade**, **espaço**. **harmonia**, **beleza natural** e **liberdade**.
+	Associado às ideias de **saúde**, **vitalidade**, **pureza**, **autenticidade**, **espaço**, **harmonia**, **beleza natural** e **liberdade**.
 	Serve de **refúgio** e **espaço de regeneração física e espiritual**.
 
 Estes dois polos interpenetram-se: existem **elementos do campo presentes nos poemas relativos à cidade**, através de **figuras humanas** ou de **vestígios materiais de um espaço que fora rural**.
@@ -49,7 +49,7 @@ Estes dois polos interpenetram-se: existem **elementos do campo presentes nos po
 - [[#Representação da cidade e dos tipos sociais]]
 - [[#Deambulação e imaginação o observador acidental]]
 - [[#Transfiguração poética do real e percepção sensorial]]
-- [[#Imaginário épico]]
+- E ainda o [[#Imaginário épico]]
 ## Representação da cidade e dos tipos sociais
 Um dos aspetos da sua **modernidade poética** é a **centralidade temática e imagética da cidade na sua poesia** (a cidade e os diferentes tipos sociais são presenças constantes nos seus poemas).
 
