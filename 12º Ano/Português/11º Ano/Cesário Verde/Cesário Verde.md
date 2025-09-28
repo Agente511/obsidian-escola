@@ -90,7 +90,7 @@ O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **ci
 ### Marcas específicas da epopeia
 "O Sentimento dum Ocidental" apresenta várias características em comum com *Os Lusíadas*, epopeia de Luís de Camões.
 - ##### Estruturação
-	**Poema longo** e com **pendor narrativo**, estruturado em **4 partes de 11 quadras**, sendo o **1º verso** de cada uma delas um **alexandrino** (12 sílabas métricas) e os **3 restantes decassílabos**.
+	**Poema longo** e com **pendor narrativo**, estruturado em **4 partes de 11 quadras**, sendo o **1º verso** de cada uma delas um **decassílabo** e os **3 restantes** **alexandrino** (12 sílabas métricas).
 - ##### Organização do poema
 	**Viagem individual** que **representa a viagem da nação** (entidade coletiva).
 - ##### Reflexão sobre o povo
