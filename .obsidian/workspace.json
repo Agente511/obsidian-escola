@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2022280b0bd0bd77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "7a81c664dacc0ae2",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "O Sentimento dum Ocidental-Resu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a71032d8c5098a77",
+  "active": "2022280b0bd0bd77",
   "lastOpenFiles": [
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
