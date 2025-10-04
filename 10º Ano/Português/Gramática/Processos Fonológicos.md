@@ -71,3 +71,6 @@
 	- #### Sinérese/Ditongação
 	  Contração ou **fusão de 2 vogais num ditongo**
 		- r**ee** > r**ei**
+
+A imagem seguinte não foi verificada se está atualizada:
+![[Novo mural.png]] 

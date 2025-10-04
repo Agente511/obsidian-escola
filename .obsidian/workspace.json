@@ -11,12 +11,14 @@
             "id": "a71032d8c5098a77",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf"
+                "file": "10º Ano/Português/Gramática/Processos Fonológicos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "O Sentimento dum Ocidental-Resu"
+              "icon": "lucide-file",
+              "title": "Processos Fonológicos"
             }
           },
           {
@@ -43,8 +45,7 @@
               "title": "O Sentimento dum Ocidental-Resu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,8 +232,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2022280b0bd0bd77",
+  "active": "a71032d8c5098a77",
   "lastOpenFiles": [
+    "10º Ano/Português/Gramática/Etimologia.md",
+    "9º Ano/Português/Exame Nacional 9ºAno/Gramática/Recursos Expressivos.md",
+    "10º Ano/Português/Gramática/Processos Fonológicos.md",
+    "Novo mural.png",
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
@@ -268,8 +273,6 @@
     "10º Ano/Química/Tipos de Ligações Químicas.md",
     "10º Ano/Química/Atividades Laboratoriais/Exatidão Precisão.md",
     "10º Ano/Química/Densidade relativa de metais.md",
-    "10º Ano/Química/Propriedades periódicas dos elementos.md",
-    "10º Ano/Química/Tabela Periódica.md",
     "Imagens/Sem título 7.jpg",
     "Imagens/Sem título-1.jpg",
     "Sem título 6.jpg",
@@ -278,7 +281,6 @@
     "Imagens/Sem título 5.jpg",
     "Imagens/Sem título 4.jpg",
     "Imagens/Sem título 3.jpg",
-    "Imagens/Sem título 2.jpg",
     "Sem título.canvas"
   ]
 }
