@@ -82,7 +82,7 @@ Integra sempre outra função sintática, na qual se inclui o nome por que é se
 ## Modificador do nome
 ### Restritivo
 Restringe a referência do nome que modifica.
-- O *soduku* é um jogo **desafiante**.
+- O *sudoku* é um jogo **desafiante**.
 - Não aprecio bebidas **com gás**.
 - A pastelaria **que abriu na minha rua** faz uns pastéis de nata **deliciosos**.
 ### Apositivo
