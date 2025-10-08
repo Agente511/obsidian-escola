@@ -573,6 +573,83 @@
         }
       ],
       "title": "Exame FQ 11º Ano"
+    },
+    {
+      "type": "group",
+      "ctime": 1759920398505,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Funções Sintáticas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Frase complexa.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Coordenação.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Subordinação.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Classes de palavras.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Subclasses do Verbo.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Tempos verbais.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920426874,
+          "path": "10º Ano/Português/Gramática/Etimologia.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920426874,
+          "path": "10º Ano/Português/Gramática/Processos Fonológicos.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Atos de fala.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Coesão textual.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Dêixis.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Modalidades de reprodução do discurso.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1759920392780,
+          "path": "11º Ano/Português/Gramática/Valor modal.md"
+        }
+      ],
+      "title": "Gramática"
     }
   ]
 }

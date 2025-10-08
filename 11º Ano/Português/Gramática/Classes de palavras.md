@@ -1,24 +1,37 @@
 ## Nome
 Nomeia pessoas, coisas, lugares, ideias ou sentimentos  
-### Comum
-Refere-se a um ser ou objeto de uma categoria geral  
-- *Cadeira*, *livro*, *homem*...
-### Próprio
-Refere-se a um ser ou objeto individualizado, nome próprio  
-- *Pedro*, *Lisboa*, *Brasil*...
-#### Coletivo
-Designa um **conjunto** de seres ou coisas da mesma espécie  
-- *Cardume*, *rebanho*, *alcateia*...
+- ### Comum
+	Refere-se a um ser ou objeto de uma categoria geral  
+	>[!Exemplo]
+	>*Cadeira*, *livro*, *homem*...
+	
+	- #### Coletivo
+	Designa um **conjunto** de seres ou coisas da mesma espécie
+	
+	>[!Exemplo]
+	>*Cardume*, *rebanho*, *alcateia*...
+
+
+- ### Próprio
+	Refere-se a um ser ou objeto individualizado, nome próprio  
+	>[!Exemplo]
+	>*Pedro*, *Lisboa*, *Brasil*...
+
 ## Determinante
-### Artigo
-Acompanha o nome, definindo-o ou indefinindo-o  
-- *O* gato está na rua... / *Uma* ideia surgiu...
-#### Definido
-Especifica o nome de maneira determinada  
-- *O*, *a*, *os*, *as*...
-#### Indefinido
-Refere-se a um nome de maneira não determinada  
-- *Um*, *uma*, *uns*, *umas*...
+- ### Artigo
+	Acompanha o nome, definindo-o ou indefinindo-o  
+	>[!Exemplo]
+	>*O* gato está na rua... / *Uma* ideia surgiu...
+	
+	- #### Definido
+	Especifica o nome de maneira determinada  
+	>[!Exemplo]
+	>*O*, *a*, *os*, *as*...
+	
+	- #### Indefinido
+	Refere-se a um nome de maneira não determinada  
+	>[!Exemplo]
+	>*Um*, *uma*, *uns*, *umas*...
 ### Possessivo
 Indica posse ou pertencimento  
 - *Meu*, *teu*, *nosso*...
