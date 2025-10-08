@@ -18,10 +18,9 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 	>*Pedro*, *Lisboa*, *Brasil*...
 
 ## Determinante
+**Antecede o nome**.
 - ### Artigo
-	Acompanha o nome, definindo-o ou indefinindo-o  
-	>[!Exemplo]
-	>*O* gato está na rua... / *Uma* ideia surgiu...
+	Acompanha o nome, definindo-o ou indefinindo-o
 	
 	- #### Definido
 	Especifica o nome de maneira determinada  
@@ -32,36 +31,74 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 	Refere-se a um nome de maneira não determinada  
 	>[!Exemplo]
 	>*Um*, *uma*, *uns*, *umas*...
-### Possessivo
-Indica posse ou pertencimento  
-- *Meu*, *teu*, *nosso*...
-### Demonstrativo
-Indica a localização de algo no espaço ou no tempo, em relação ao discurso  
-- *Este*, *esse*, *aquela*...
-### Indefinido
-- Certo, outro...
-###
+- ### Possessivo
+	Indica posse ou pertencimento  
+	>[!Exemplo]
+	>*Meu*, *teu*, *nosso*...
+- ### Demonstrativo
+	Indica a localização de algo no espaço ou no tempo, em relação ao discurso  
+	>[!Exemplo]
+	>*Este*, *esse*, *aquela*...
+- ### Indefinido
+	>[!Exemplo]
+	>Certo, outras...
+
+- ### Interrogativo
+	>[!Exemplo]
+	>*Quais?, que?...*
+
+- ### Relativo
+	>[!Exemplo]
+	>*Cujo, cujas...*
 ## Pronome
-Substitui o nome, indicando uma relação de proximidade, posse ou identidade.
-### Pessoal
-Substitui o nome e indica uma pessoa do discurso  
-- *Eu*, *tu*, *ele*, *nós*, *eles*...
-### Possessivo
-Indica posse ou pertencimento  
-- *Meu*, *teu*, *nosso*...
-### Demonstrativo
-Indica a localização de algo no espaço ou no tempo, em relação ao discurso  
-- *Este*, *esse*, *aquela*...
-### Indefinido
-Refere-se a algo ou alguém de forma vaga ou imprecisa  
-- *Alguém*, *ninguém*, *alguns*...
-### Interrogativo
-- *Quanto?, qual?, quem?, (o) quê?*
-### Relativo
-Substitui um termo já mencionado, fazendo a ligação com uma oração subordinada  
-- *Que*, *quem*, *cujo*...
+**Substitui o nome**.
+- ### Pessoal
+	Substitui o nome e indica uma pessoa do discurso
+	>[!Exemplo]
+	>*Eu*, *tu*, *ele*, *nós*, *eles*, *mim*, *lhes*...
+- ### Possessivo
+	Indica posse ou pertencimento  
+	>[!Exemplo]
+	>*Meu*, *teu*, *nosso*...
+- ### Demonstrativo
+	Indica a localização de algo no espaço ou no tempo, em relação ao discurso  
+	>[!Exemplo]
+	>*Este*, *esse*, *aquela*...
+- ### Indefinido
+	Refere-se a algo ou alguém de forma vaga ou imprecisa  
+	>[!Exemplo]
+	>*Alguém*, *ninguém*, *alguns*, *muito*, *cada*, *outrem*...
+- ### Interrogativo
+	>[!Exemplo]
+	>*Quanto?, qual?, quem?, (o) quê?*
+- ### Relativo
+	Substitui um termo já mencionado, fazendo a ligação com uma oração subordinada
+	>[!Exemplo]
+	>*A qual*, *que*, *quem*, *cujo*...
 ## Quantificador
-[...]
+- ### Numeral
+	- #### Cardinal
+	  >[!Exemplo]
+	  >*Três, mil e um, vinte e cinco...*
+	- #### Multiplicativo
+	  >[!Exemplo]
+	  >*Dobro, quádruplo, décuplo, cêntuplo...*
+	- #### Fracionário
+	  >[!Exemplo]
+	  >*Metade, quinto, décimo, ducentésimo...*
+	  
+- ### Existencial
+	>[!Exemplo]
+	>*Algum, muito, pouco, tanto, várias, bastante*
+- ### Universal
+	>[!Exemplo]
+	>*Todo, nenhuma, quaisquer, ambos, cada*
+- ### Interrogativo
+	>[!Exemplo]
+	>*Quanto?*
+- ### Relativo
+	>[!Exemplo]
+	>*Quanto*
 ## Adjetivo
 Caracteriza ou qualifica o nome, indicando uma propriedade, qualidade ou estado  
 - ### Qualificativo
