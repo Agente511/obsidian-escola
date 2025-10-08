@@ -100,34 +100,34 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 	>[!Exemplo]
 	>*Quanto*
 ## Adjetivo
-Caracteriza ou qualifica o nome, indicando uma propriedade, qualidade ou estado  
+**Caracteriza ou qualifica o nome**, indicando uma propriedade, qualidade ou estado.
 - ### Qualificativo
-	Indica uma característica ou qualidade do nome  
+	Indica uma **característica** ou qualidade do nome  
 	>[!NOTE] Exemplo
 	>*Prestável*, *amigo*, *grande*, *salgado*, *completo*...
 
 - ### Numeral
-	Indica a quantidade, a ordem ou a fração de algo  
+	Indica a ordem de algo (pertencem aos **números ordinais**)
 	>[!NOTE] Exemplo
- *Dois*, *primeiro*, *metade*, *vigésimo sétimo*...
+	 >*Primeiro, segundo, vigésimo sétimo*...
 
 ## Interjeição e locução interjetiva
-Exprime emoções, sentimentos ou reações, sem estabelecer uma relação sintática com outras palavras  
+Exprime **emoções**, **sentimentos** ou **reações**, sem estabelecer uma relação sintática com outras palavras.
 
 > [!Exemplo]
-> *ah!, oxalá!, psiu!, alto lá!, bravo!, sus!, olá!, vamos!...*
+> *ah!, oxalá!, psiu!, alto lá!, bravo!, sus!, olá!, vamos! ai de mim!, Deus queira!...*
 
 ## Preposição e locução prepositiva
-Estabelece uma relação de dependência entre palavras, ligando termos da oração  
+Estabelece uma **relação de dependência entre palavras**, **ligando termos da oração**.
 
 > [!Exemplo]
 > *a, ante, após, até, com, contra, de, entre, perante, por, sob, a fim de, graças a, longe de...*
 
 ## Verbo
-*[[Subclasses do Verbo|(Noutro documento)]]*
+*Ver [[Subclasses do Verbo]]*
 ## Conjunção
-*[[Coordenação|(Noutro documento 1)]]*
-*[[Subordinação|(Noutro documento 2)]]*
+*Ver [[Coordenação]]*
+*Ver [[Subordinação]]*
 ## Advérbio e locução adverbial
 Modifica o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como tempo, lugar, modo, intensidade, entre outros  
 - ### de Negação
@@ -140,6 +140,7 @@ Modifica o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como 
 	>[!Exemplo]
 	>*Sim*, *certamente*, *realmente*...
 
+- ### de Quantidade e 
 - ### de inclusão e exclusão
 	>[!Exemplo]
 	>*apenas, senão, só, exceto, salvo, somente, até, inclusivamente, mesmo*...
