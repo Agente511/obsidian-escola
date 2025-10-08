@@ -41,7 +41,7 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 	>*Este*, *esse*, *aquela*...
 - ### Indefinido
 	>[!Exemplo]
-	>Certo, outras...
+	>Certo, outras
 
 - ### Interrogativo
 	>[!Exemplo]
@@ -55,7 +55,7 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 - ### Pessoal
 	Substitui o nome e indica uma pessoa do discurso
 	>[!Exemplo]
-	>*Eu*, *tu*, *ele*, *nós*, *eles*, *mim*, *lhes*...
+	>*Eu*, *tu*, *ele*, *nós*, *eles*, *mim*, *lhes*, *se*...
 - ### Possessivo
 	Indica posse ou pertencimento  
 	>[!Exemplo]
@@ -165,7 +165,7 @@ Modifica o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como 
 - ### de Modo
 	Indica a **maneira** como a ação é realizada  .
 	>[!Exemplo]
-	>*Rapidamente*, *calmamente*...
+	>*Rapidamente*, *calmamente*, *melhor*, *de propósito*, *a sós*...
 
 - ### de Frase
 	Age como **modificador**
