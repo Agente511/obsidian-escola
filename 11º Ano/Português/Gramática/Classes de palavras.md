@@ -179,8 +179,7 @@ Modifica o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como 
 - ### Relativo
 	Referente ao constituinte relativizado numa **oração relativa**.
 	>[!Exemplo]
-	>- A rua **onde** moro é bonita.
-	>- O prato **que** comi estava delicioso.
+	>*Onde, aonde*
 
 - ### Conectivo
 	Conecta a frase através de, por exemplo, relações de **consequência**, **contraste** ou **ordenação**.
