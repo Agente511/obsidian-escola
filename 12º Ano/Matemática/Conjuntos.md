@@ -31,9 +31,21 @@ Se **todos os elementos de $A$** são também **elementos de $B$**, então **$A$
 	
 	$A \cup B=\{x:\ x \in A\ \lor\ x \in B\}$ 
 	![[Pasted image 20251011165602.png|160]]
-- ##### Interseção
+- ##### Interseção de $A$ com $B$
 	Conjunto de **todos os objetos** que **pertencem simultaneamente a $A$ e a $B$**.
 	
 	$A \cap B=\{x:\ x \in A\ \land\ x \in B\}$
-- ##### Complementar
-- ##### Diferença
+	![[Pasted image 20251011165949.png|160]]
+- ##### Complementar de $A$
+	Conjunto de **todos os elementos de $U$** que **não pertencem a $A$**.
+	
+	$\overline A=\{x:\ x \notin A\}$
+	![[Pasted image 20251011170547.png|160]]
+- ##### Diferença entre $A$ e $B$
+	Conjunto de **todos os objetos de $A$** que **não pertencem a $B$**
+	
+	$A \backslash B=\{x:\ x \in A\ \land\ x \notin B\}$ ou $A \backslash B=\{x\in A: x \notin B\}$
+	![[Pasted image 20251011170952.png|160]]
+
+### Propriedades das operações sobre conjuntos
+#### Teorema da inclusão
