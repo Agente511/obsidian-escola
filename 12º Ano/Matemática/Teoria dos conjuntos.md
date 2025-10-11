@@ -77,3 +77,11 @@ Sejam $A$, $B$ e $C$ subconjuntos de um universo $U$, tem-se que:
 ### Produto cartesiano entre conjuntos
 Sejam $A$ e $B$ subconjuntos de $U$, o **produto de cartesiano de $A$ por B** é o conjunto:
 $A \times B=\{ (a,\ b):\ a \in A\ \land\ b \in B\}$
+
+>[!Note] Exemplo
+>Sejam:
+>- $A=\{1,\ 2\}$
+>- $B=\{\square, \circ, \triangle \}$
+>  
+>Tem-se que:
+>$A \times B=\{(1,\square),(1,\circ),(1,\triangle),(2,\square),(2,\circ),(2,\triangle)\}$
