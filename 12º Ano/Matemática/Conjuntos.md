@@ -26,4 +26,14 @@ ${}$
 Se **todos os elementos de $A$** são também **elementos de $B$**, então **$A$ está contido em B** e diz-se que **$A$ é um subconjunto de $B$**:
 - Se $\forall\ x,\ x \in A \Rightarrow x \in B$, então $A \subset B$
 ## Operações com conjuntos
+- ##### Reunião de $A$ com $B$
+	Conjunto de **todos os objetos** que **pertencem pelo menos a um dos conjuntos $A$ e $B$**.
+	
+	$A \cup B=\{x:\ x \in A\ \lor\ x \in B\}$ 
+	![[Pasted image 20251011165602.png|160]]
+- ##### Interseção
+	Conjunto de **todos os objetos** que **pertencem simultaneamente a $A$ e a $B$**.
+	
+	$A \cap B=\{x:\ x \in A\ \land\ x \in B\}$
 - ##### Complementar
+- ##### Diferença
