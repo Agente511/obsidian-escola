@@ -60,8 +60,12 @@ Verifica-se ainda que:
 
 #### Interseção e reunião
 Sejam $A$, $B$ e $C$ subconjuntos de um universo $U$, tem-se que:
-| Propriedades | **Interseção** | **Reunião** |
-| --- | --- | --- |
-| Comutativa | $A \cap B = B \cap A$ | $A \cup B = B \cup A$ |
-| Associativa | $(A \cap B) \cap C = A \cap (B \cap C)$ | $(A \cup B) \cup C = A \cup (B \cup C)$ |
-| Existência de elemento neutro | $U$ é u
+
+| Propriedades                      | **Interseção**                                                                                                | **Reunião**                                                                                     |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Comutativa                        | $$A \cap B = B \cap A$$                                                                                       | $$A \cup B = B \cup A$$                                                                         |
+| Associativa                       | $$(A \cap B) \cap C = A \cap (B \cap C)$$                                                                     | $$(A \cup B) \cup C = A \cup (B \cup C)$$                                                       |
+| Existência de elemento neutro     | **$U$** é o **elemento neutro da interseção**: $$U \cap A = A \cap U = A$$                                    | **$\emptyset$** é o **elemento neutro da reunião**: $$\emptyset \cup A = A \cup \emptyset = A$$ |
+| Existência de elemento absorvente | **$\emptyset$** é o **elemento absorvente da interseção**: $$\emptyset \cap A= A \cap \emptyset = \emptyset$$ | **$U$** é o **elemento absorvente da reunião**: $$U \cup A = A \cup U = U$$                     |
+| Idempotência                      | $$A \cap A = A$$                                                                                              | $$ A \cup A = A$$                                                                               |
+| Distributiva                      |                                                                                                               |                                                                                                 |
