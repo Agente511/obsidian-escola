@@ -49,3 +49,5 @@ Se **todos os elementos de $A$** são também **elementos de $B$**, então **$A$
 
 ### Propriedades das operações sobre conjuntos
 #### Teorema da inclusão
+>[!Summary] Teorema da inclusão
+>Dados os conjutnos $A$ e $B$ conjuntos contidos num universo $U$, então, se $A \subset B$ temos que $A \cap B?A$ e $A \cup B=B$.
