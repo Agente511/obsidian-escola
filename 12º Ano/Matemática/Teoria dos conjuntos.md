@@ -48,6 +48,20 @@ Se **todos os elementos de $A$** são também **elementos de $B$**, então **$A$
 	![[Pasted image 20251011170952.png|160]]
 
 ### Propriedades das operações sobre conjuntos
-#### Teorema da inclusão
+#### Inclusão
 >[!Summary] Teorema da inclusão
->Dados os conjutnos $A$ e $B$ conjuntos contidos num universo $U$, então, se $A \subset B$ temos que $A \cap B?A$ e $A \cup B=B$.
+>Dados dois conjuntos, $A$ e $B$, contidos num universo $U$ e sendo $A \subset B$, temos que:
+>- $A \cap B=A$
+>- $A \cup B=B$
+
+Verifica-se ainda que:
+- O **conjunto vazio** está **contido em qualquer conjunto**
+- Se **$A \subset B$**, então **$\overline B \subset \overline A$**
+
+#### Interseção e reunião
+Sejam $A$, $B$ e $C$ subconjuntos de um universo $U$, tem-se que:
+| Propriedades | **Interseção** | **Reunião** |
+| --- | --- | --- |
+| Comutativa | $A \cap B = B \cap A$ | $A \cup B = B \cup A$ |
+| Associativa | $(A \cap B) \cap C = A \cap (B \cap C)$ | $(A \cup B) \cup C = A \cup (B \cup C)$ |
+| Existência de elemento neutro | $U$ é u
