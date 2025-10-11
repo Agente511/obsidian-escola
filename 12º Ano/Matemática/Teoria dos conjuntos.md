@@ -68,4 +68,12 @@ Sejam $A$, $B$ e $C$ subconjuntos de um universo $U$, tem-se que:
 | Existência de elemento neutro     | **$U$** é o **elemento neutro da interseção**: $$U \cap A = A \cap U = A$$                                    | **$\emptyset$** é o **elemento neutro da reunião**: $$\emptyset \cup A = A \cup \emptyset = A$$ |
 | Existência de elemento absorvente | **$\emptyset$** é o **elemento absorvente da interseção**: $$\emptyset \cap A= A \cap \emptyset = \emptyset$$ | **$U$** é o **elemento absorvente da reunião**: $$U \cup A = A \cup U = U$$                     |
 | Idempotência                      | $$A \cap A = A$$                                                                                              | $$ A \cup A = A$$                                                                               |
-| Distributiva                      |                                                                                                               |                                                                                                 |
+|                                   | <br>**Interceção em relação à reunião**                                                                       | <br>**Reunião em relação à interseção**                                                         |
+| Distributiva                      | $$A \cap (B \cup C)=(A \cap B) \cup (A \cap C)$$                                                              | $$A \cup(B \cap C)=(A \cup B) \cap (A \cup C)$$                                                 |
+|                                   |                                                                                                               |                                                                                                 |
+##### Leis de Morgan para conjuntos
+- $\overline {A \cap B}=\overline A \cup \overline B$
+- $\overline {A \cup B} = \overline A \cap \overline B$
+### Produto cartesiano entre conjuntos
+Sejam $A$ e $B$ subconjuntos de $U$, o **produto de cartesiano de $A$ por B** é o conjunto:
+$A \times B=\{ (a,\ b):\ a \in A\ \land\ b \in B\}$
