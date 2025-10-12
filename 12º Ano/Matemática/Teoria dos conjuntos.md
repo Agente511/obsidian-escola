@@ -70,7 +70,6 @@ Sejam $A$, $B$ e $C$ subconjuntos de um universo $U$, tem-se que:
 | Idempotência                      | $$A \cap A = A$$                                                                                              | $$ A \cup A = A$$                                                                               |
 |                                   | <br>**Interceção em relação à reunião**                                                                       | <br>**Reunião em relação à interseção**                                                         |
 | Distributiva                      | $$A \cap (B \cup C)=(A \cap B) \cup (A \cap C)$$                                                              | $$A \cup(B \cap C)=(A \cup B) \cap (A \cup C)$$                                                 |
-|                                   |                                                                                                               |                                                                                                 |
 ##### Leis de Morgan para conjuntos
 - $\overline {A \cap B}=\overline A \cup \overline B$
 - $\overline {A \cup B} = \overline A \cap \overline B$
