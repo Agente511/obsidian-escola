@@ -45,7 +45,7 @@ Dados $n$ objetos, existem exatamente $^nA'_p$ formas distintas de efetuar $p$ e
 >$10 \times 10 \times 10 \times 10 = 10^4 = ^{10}A'_4=10 000$
 
 >[!Tip] Nota - Calcular número de subconjuntos de um conjunto $A$
->$$\begin{flalign}&  &\end{flalign}$$
+>$$\begin{flalign}& 2^{\#A} &\end{flalign}$$
 ### Permutações
 A uma maneira de **ordenar $n$ elementos distintos** dá-se o nome de **permutação dos $n$ elementos**.
 
@@ -58,10 +58,14 @@ Representa-se por **$n!$**.
 >Em geral, para qualquer $n \in \mathbb N$, tem-se: $n!=n \times (n-1)!$
 >Por convenção, $0!=1$.
 
+>[!Note] Exemplo
+>>De quantas formas é possível arrumar 4 carros num parque de 4 lugares?
+>
+>$4 \times 3 \times 2 \times 1 = 4! = 24$
 ### Arranjos sem repetição
 Chama-se **arranjos sem repetição de $n$ elementos $p$ a $p$** ao número de sequências de $p \in \mathbb N_0$ elementos **distintos**, escolhidos num conjunto de cardinal $n \in \mathbb N$, com $n \geq p$.
 
-Representa-se por **$^nAp$**.
+Representa-se por **$^nA_p$**.
 
 Dados $n$ objetos, existem exatamente $^n A_p$ formas distintas de efetuar $p$ extrações sucessivas de um desses objetos, **sem repor o objeto escolhido após cada uma das extrações**.
 
@@ -75,3 +79,20 @@ $$\begin{flalign}& ^nA_p=\frac {n!} {(n-p)!} \text{, com } 0 \leq p \leq n &\end
 >
 >$10 \times 9 \times 8 \times 7 = ^{10}A_4=5040$
 ### Combinações
+Chama-se **combinações de $n$ elementos $p$ a $p$** ao número de **subconjuntos de $p$ elementos** $(0 \leq p \leq n)$ de um conjunto de $n \in \mathbb N_0$ elementos.
+
+>[!Tip] Nota
+>$\{1,\ 2\}=\{2,\ 1\}$
+
+Representa-se por **$^nC_p$**, $C^n_p$ ou $\binom n p$.
+
+Dados $n$ objetos, existem exatamente $^nC_p$ formas distintas de escolher $p(p \leq n)$ desses objetos.
+
+>[!Summary] Propriedade
+>$$\begin{flalign}& ^nC_p=\frac {^nA_p} {p!} = \frac {n!} {p!(n-p)!} \text{, com } 0 \leq p \leq n &\end{flalign}$$
+
+>[!Note] Exemplo
+>>De quantas formas é possível escolher 3 amigos de entre 5 amigos para ir ao cinema?
+>
+>$^5C_3$
+
