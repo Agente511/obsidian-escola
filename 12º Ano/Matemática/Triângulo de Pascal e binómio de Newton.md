@@ -14,4 +14,5 @@ Calculando os respetivos valores dos coeficientes binomiais, o triângulo també
 ![[Pasted image 20251012135947.png]]
 
 >[!Summary] Notas
->1. Cada linha
+>1. Cada **linha começa e acaba em 1** $(^nC_0=^nC_n)$.
+>2. Em cada linha, elementos igualmente
