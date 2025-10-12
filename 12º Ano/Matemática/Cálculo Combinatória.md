@@ -30,14 +30,36 @@ Representa-se por **#**.
 
 ## Arranjos e combinações
 ### Arranjos com repetição
-Chama-se **arranjos com repetição de $n$ elementos $p$ a $p$** ao número de sequências de $p \in \mathbb N_0$ elementos, não necessariamente distintos, escolhidos num conjunto de cardinal $n \in \mathbb N$,
+Chama-se **arranjos com repetição de $n$ elementos $p$ a $p$** ao número de sequências de $p \in \mathbb N_0$ elementos, **não necessariamente distintos**, escolhidos num conjunto de cardinal $n \in \mathbb N$,
 
 Representa-se por **$^nA'_p$**.
 
+**$^nA'_p=n^p$
+
 >[!Note] Exemplo
->Quantos códigos de 4 dígitos é possível escrever?
+>>Quantos códigos de 4 dígitos é possível escrever?
 >
->>$10 \times 10 \times 10 \times 10 = 
+>$10 \times 10 \times 10 \times 10 = 10^4 = ^{10}A'_4=10 000$
+
+>[!Summary] Propriedade
+>Dados $n$ objetos, existem exatamente $^nA'_p$ formas distintas de efetuar $p$ extrações sucessivas de um desses objetos, **repondo o objeto escolhido após cada uma das extrações**.
 ### Permutações
+A uma maneira de **ordenar $n$ elementos distintos** dá-se o nome de **permutação dos $n$ elementos**.
+
+Representa-se por $n!$.
+
+ $n!=n \times (n-1) \times (n-2) \times ... \times 1$
+ 
+Em geral, para qualquer $n \in \mathbb N$, tem-se: $n!=n \times (n-1)!$
+Por convenção, $0!=1$.
 ### Arranjos sem repetição
+Chama-se 
+
+>[!Note] Exemplo
+>>Quantos códigos de 4 dígitos é possível escrever, de modo que nenhum dígito se repita?
+>
+>$10 \times 9 \times 8 \times 7 = ^{10}A_4=5040$
+
+>[!Summary] Propriedade
+>Dados $n$ objetos, existem exatamente $^n A_p$ formas distintas de efetuar $p$ extrações sucessivas de um desses objetos, **sem repor o objeto escolhido após cada uma das extrações**.
 ### Combinações
