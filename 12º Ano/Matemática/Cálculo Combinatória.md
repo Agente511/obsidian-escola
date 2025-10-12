@@ -82,7 +82,7 @@ $$\begin{flalign}& ^nA_p=\frac {n!} {(n-p)!} \text{, com } 0 \leq p \leq n &\end
 Chama-se **combinações de $n$ elementos $p$ a $p$** ao número de **subconjuntos de $p$ elementos** $(0 \leq p \leq n)$ de um conjunto de $n \in \mathbb N_0$ elementos.
 
 >[!Tip] Nota
->$\{1,\ 2\}=\{2,\ 1\}$
+>$\{1,\ 2\}=\{2,\ 1\}$, ou seja, a **ordem não interessa**.
 
 Representa-se por **$^nC_p$**, $C^n_p$ ou $\binom n p$.
 
@@ -91,8 +91,14 @@ Dados $n$ objetos, existem exatamente $^nC_p$ formas distintas de escolher $p(p 
 >[!Summary] Propriedade
 >$$\begin{flalign}& ^nC_p=\frac {^nA_p} {p!} = \frac {n!} {p!(n-p)!} \text{, com } 0 \leq p \leq n &\end{flalign}$$
 
->[!Note] Exemplo
+>[!Note] Exemplos
 >>De quantas formas é possível escolher 3 amigos de entre 5 amigos para ir ao cinema?
 >
->$^5C_3$
+>$$\begin{flalign}& ^5C_3 = \frac {^5A_3} {3!} = 10 &\end{flalign}$$
+>
+>> Quantos subconjuntos de 2 elementos é possível fazer do conjunto $\{0,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6\}$?
+>
+>$^7C_2=21$ subconjuntos
+
+
 
