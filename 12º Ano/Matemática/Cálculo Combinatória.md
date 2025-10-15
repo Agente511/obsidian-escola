@@ -45,7 +45,7 @@ Dados $n$ objetos, existem exatamente $^nA'_p$ formas distintas de efetuar $p$ e
 >$10 \times 10 \times 10 \times 10 = 10^4 = ^{10}A'_4=10 000$
 
 >[!Tip] Nota - Calcular número de subconjuntos de um conjunto $A$
->$$\begin{flalign}& \large 2^{\#A} &\end{flalign}$$
+>$$\begin{flalign}& \large ^2A'_{\#A} = 2^{\#A} &\end{flalign}$$
 ### Permutações
 A uma maneira de **ordenar $n$ elementos distintos** dá-se o nome de **permutação dos $n$ elementos**.
 
