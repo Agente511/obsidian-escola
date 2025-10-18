@@ -12,6 +12,7 @@
 - **1907** - **Abandona** o curso, na sequência de uma **greve de estudantes**
 - **1911** - Começa a **traduzir obras em inglês e espanhol para português**
 - **1912** - **Publica** o seu **primeiro poema** na revista *A Águia*
+- **1913** - Conhece **Almada Negreiros**
 - **1914** - Primeiros poemas datados de **Alberto Caeiro** e de **Ricardo Reis**. Em "Ode Triunfal", surge **Álvaro de Campos**.
 - **1915** - Saem os 2 primeiros e últimos números da revista ***Orpheu***
 - **26/04/1916** - O seu **melhor amigo** **Mário de Sá-Carneiro** **suicida-se em Paris**
@@ -71,14 +72,28 @@ Algumas das suas características são:
 - ##### Simplificação da sintaxe
 
 ### Revista *Orpheu*
+Projeto fundado em **1915**, por um grupo de **artistas plásticos e escritores**, entre eles **Fernando Pessoa**, **Mário de Sá-Carneiro** e **Almada Negreiros** que tinham o objetivo de **explorar novas formas de expressão**. Serviu, então, de metáfora de uma geração que não olha para trás, querendo **esquecer o passado** e **centrar as suas atenções no futuro**.
 
-## Fingimento artístico
+Provocou **grande escândalo na sociedade conservadora da época**, por apresentar **práticas de escrita e correntes artísticas vanguardistas**.
+
+Devido a **falta de financiamento** e às **duras críticas** de que foi alvo, a revista teve apenas **2 números publicados**, um em abril e outro em julho de 1915.
+
+---
+Fernando Pessoa ortónimo (personalidade poética que mantém o nome de Fernando Pessoa) tinha como **temáticas**:
+- [[#Fingimento poético]]
+- [[#Dor de pensar]]
+- [[#Sonho e realidade]]
+- [[#Nostalgia da Infância]]
+## Fingimento poético
 ## Dor de pensar
 ## Sonho e realidade
 ## Nostalgia da Infância
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
-
-poeta tradicional e de vanguarda
+A poesia de Fernando Pessoa tem **2 vertentes**:
+- ##### Tradicional
+	As suas composição seguem na continuidade do lirismo português, com **marcas do saudosismo** (apego ao passado).
+- ##### Modernista/Vanguardista
+	
 ### Linguagem
 - ##### Versificação de inspiração tradicional
 	Uso de **quadras** ou **quintilhas** e **versos curtos** (frequentemente **redondilhas**)
