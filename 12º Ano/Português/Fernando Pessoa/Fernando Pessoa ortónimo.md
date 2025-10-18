@@ -88,7 +88,9 @@ Fernando Pessoa ortónimo (personalidade poética que mantém o nome de Fernando
 - [[#Sonho e realidade]]
 - [[#Nostalgia da Infância]]
 ## Fingimento artístico
-Pessoa **reflete sobre a própria poesia** na sua poesia, apresentando, em *Autopsicografia* e *Isto*, a **poética do fingimento** que **se opõe a uma poética tradicional, sentimental e romântica**.
+Pessoa **opõe-se** à **poética tradicional sentimental e romântica** e à ideia do **poeta como um confessor**. Em vez disso, defende que o **"poeta é um fingidor"**, isto é, na produção literária, o poeta **transforma os seus sentimentos e emoções noutros que simula** (racionalização/intelectualização do sentimento).
+
+**Despreza ainda o imediatismo sentimental**, defendendo que a **escrita** deve ocorrer num **momento posterior ao sentir**, **livre do enleio** (do engano das sensações).
 ## Dor de pensar
 ## Sonho e realidade
 ## Nostalgia da Infância
