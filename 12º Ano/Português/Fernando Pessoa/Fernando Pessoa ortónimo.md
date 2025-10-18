@@ -2,9 +2,23 @@
 - **13/06/1888** - **Nasce**, em **Lisboa**
 - **1893**- O **pai**, Joaquim Seabra Pessoa, **morre** vítima de tuberculose.
 - **1894** - O **irmão** Jorge **morre**. A sua **mãe conhece o 2º marido**
+- **1895** - A **mãe casa-se**, por **procuração**, com o comandante João Miguel Rosa, **cônsul de Portugal em Durban**, **África do Sul**.
+- **1896** - **Parte para Durban**, com a mãe. **Frequenta um colégio de freiras**.
+- **1901** - **Parte para Lisboa**, com a família.
+- **1902** - Em **junho**, a **mãe, o padrasto e os meios-irmãos** **partem para Durban**, mas **Pessoa fica em Lisboa** até **setembro**, quando **embarca sozinho**
+- **1903** - Realiza um **exame de admissão** à **Universidade do Cabo**.
+- **1904** - Faz o **1º ano de estudos universitários** na **Durban High School**
+- **1905** - Embarca para **Lisboa**, onde frequenta o **Curso Superior de Letras**
+- **1907** - **Abandona** o curso, na sequência de uma **greve de estudantes**
+- **1911** - Começa a **traduzir obras em inglês e espanhol para português**
 - **1912** - **Publica** o seu **primeiro poema** na revista *A Águia*
-- **1915** - Publicação da revista ***Orpheu***
-- **1934** - **Publica *Mensagem***
+- **1914** - Primeiros poemas datados de **Alberto Caeiro** e de **Ricardo Reis**. Em "Ode Triunfal", surge **Álvaro de Campos**.
+- **1915** - Saem os 2 primeiros e últimos números da revista ***Orpheu***
+- **26/04/1916** - O seu **melhor amigo** **Mário de Sá-Carneiro** **suicida-se em Paris**
+- **1919** - Conhece **Ofélia Queiroz**, a sua **primeira e única namorada**
+- **1925** - A **mãe morre**
+- **1929-1932** - Publica em revista 11 fragmentos do *Livro do Desassossego*, atribuído ao **semi-heterónimo Bernardo Soares**.
+- **1934** - **Publica *Mensagem***, o seu único livro
 - **30/11/1935** - **Morre**, no Hospital de São Luís dos Franceses, em Lisboa
 ## Contextualização histórico-literária
 - **1908** - **Regicídio de D. Carlos** e **assassinato de D. Luís Filipe**, seu herdeiro. O 2º filho, **D. Manuel II**, **ascende ao trono**
@@ -27,6 +41,8 @@ Esta época é também chamada de **"belle époque"** (1871-1914), pois **contra
 ## Sonho e realidade
 ## Nostalgia da Infância
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
+
+poeta tradicional e de vanguarda
 ### Linguagem
 - ##### Versificação de inspiração tradicional
 	Uso de **quadras** ou **quintilhas** e **versos curtos** (frequentemente **redondilhas**)
