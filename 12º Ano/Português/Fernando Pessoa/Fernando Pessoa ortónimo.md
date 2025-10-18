@@ -7,8 +7,9 @@
 - **30/11/1935** - **Morreu**, no Hospital de São Luís dos Franceses, em Lisboa
 ### Contextualização histórico-literária
 - **1908** - **Regicídio de D. Carlos** e **assassinato de D. Luís Filipe**, seu herdeiro. O 2º filho, **D. Manuel II**, **ascende ao trono**
-- **1910** - Implantação da **República**
+- **1910** - Implantação da **República**, após **revolução republicana de 5 de outubro**
 - **1914** - **Início** da **I Guerra Mundial**
+- **1917** - **Sinódio Pais**
 - **1918** - **Fim** da **I Guerra Mundial**
 - **1926** - **Golpe de Estado** e início da **ditadura militar**
 - **1933** - Início do **Estado Novo**
