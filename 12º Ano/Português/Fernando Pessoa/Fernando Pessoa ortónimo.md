@@ -50,7 +50,17 @@ Há uma **busca por novas formas de expressão**, surgindo **novas correntes est
 - ##### Decadentismo
 	Exprime **cansaço** e **tédio existencial**, havendo **desencanto pela vida** que provoca **busca de novas sensações** que **rompam com a monotonia da vida moderna**
 - ##### Parnasianismo
-	Preocupação com a **perfeição formal** do poema, havendo **regularidade métrica, rimática e estrófica**. **Objetividade**, havendo **recusa dos excessos sentimentais e da subjetividade**. **"Arte pela arte"** ()
+	Preocupação com a **perfeição formal** do poema, havendo **regularidade métrica, rimática e estrófica**. **Objetividade**, havendo **recusa dos excessos sentimentais e da subjetividade**. (**"Arte pela arte"**)
+- ##### Simbolismo
+	Valorização da **palavra** e da **musicalidade**. **Criação do indescritível** e, portanto, **busca pelo sonho e afastamento da realidade**
+#### Modernismo
+Estas tendências servirão de **base ao modernismo**, uma **reação contra os valores políticos sociais e filosóficos da época** e que **abrange um vasto conjunto de movimentos artísticos e literários de vanguarda**: futurismo, dadaísmo, surrealismo, cubismo, expressionismo, intersecionismo, paulismo, sensacionismo, etc.
+Algumas das suas características são:
+- **liberdade criadora** (de experimentação de novas técnicas)
+- desejo do artista de **transformar a sociedade através da sua arte**
+- **perfeição formal**
+- **liberdade estrófica** (organização livre do poema, de acordo com o ritmo, a musicalidade e o sentido que se pretende transmitir)
+- gosto pelo **exótico**, pelo **clássico** e pelo **pitoresco**
 ## Fingimento artístico
 ## Dor de pensar
 ## Sonho e realidade
