@@ -37,14 +37,15 @@
 ### Contexto histórico na Europa
 No **final do séc. XIX e início do séc. XX**, vive-se um **período de crises e mudanças** na **Europa**:
 - **Revolução científica, técnica e industrial**, originando **crença no progresso** e **grande euforia** perante as **potencialidades da máquina**
-- 
+- **Revolução socialista** põe a **burguesia em perigo**
+- A **I Guerra Mundial** causa **insegurança e destruição**
 
-Esta época é também chamada de **"belle époque"** (1871-1914), pois **contrastou com os horrores vividos por causa das guerras** em período anteriores, como é o caso da Guerra Franco-Prussiana. Por isso, as pessoas sentiam a **necessidade de aproveitar o presente** enquanto podiam. 
+A época antes da I Guerra Mundial (1871-1914) é também chamada de **"belle époque"**, pois **contrastou com os horrores vividos por causa das guerras** em período anteriores, como é o caso da Guerra Franco-Prussiana. Por isso, as pessoas sentiam a **necessidade de aproveitar o presente** enquanto podiam. 
 ### Contexto político em Portugal
 - (Ressente-se da situação europeia)
 - Grande **agitação política e social**, na **busca da democracia**
 - **Crença** no **progresso**
-- **Descrença** nos **sistema políticos, sociais e filosóficos** face às várias crises provocas acontecimentos
+- **Descrença** nos **sistema políticos, sociais e filosóficos** face às várias crises provocadas pelos [[#Contextualização histórico-literária|acontecimentos que ocorreram em Portugal]]
 - Clima de **incerteza** criado pela **guerra**
 
 Estes temas são **refletidos pelos artistas nas suas obras**.
