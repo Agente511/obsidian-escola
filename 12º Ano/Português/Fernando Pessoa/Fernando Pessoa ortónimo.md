@@ -18,7 +18,9 @@
 - **1919** - Conhece **Ofélia Queiroz**, a sua **primeira e única namorada**
 - **1925** - A **mãe morre**
 - **1929-1932** - Publica em revista 11 fragmentos do *Livro do Desassossego*, atribuído ao **semi-heterónimo Bernardo Soares**.
-- **1934** - **Publica *Mensagem***, o seu único livro
+- **1934** - **Publica** ***Mensagem***, o único livro de poesia em português publicado ainda em vida
+- **1935** - **Escreve**, para **Adolfo Casais Monteiro**, a **carta sobre a génese dos heterónimos**, em janeiro
+- **29/11/1935** - Escreve as suas últimas palavras: "I know not what tomorrow will bring"
 - **30/11/1935** - **Morre**, no Hospital de São Luís dos Franceses, em Lisboa
 ## Contextualização histórico-literária
 - **1908** - **Regicídio de D. Carlos** e **assassinato de D. Luís Filipe**, seu herdeiro. O 2º filho, **D. Manuel II**, **ascende ao trono**
@@ -33,9 +35,22 @@
 ### Contexto histórico na Europa
 No **final do séc. XIX e início do séc. XX**, vive-se um **período de crises e mudanças** na **Europa**:
 - **Revolução científica, técnica e industrial**, originando **crença no progresso** e **grande euforia** perante as **potencialidades da máquina**
+- 
 
 Esta época é também chamada de **"belle époque"** (1871-1914), pois **contrastou com os horrores vividos por causa das guerras** em período anteriores, como é o caso da Guerra Franco-Prussiana. Por isso, as pessoas sentiam a **necessidade de aproveitar o presente** enquanto podiam. 
 ### Contexto político em Portugal
+- Grande **agitação política e social**, na **busca da democracia**
+- **Crença** no **progresso**
+- **Descrença** nos **sistema políticos, sociais e filosóficos**
+- Clima de **incerteza** criado pela **guerra**
+
+Estes temas são **refletidos pelos artistas nas suas obras**.
+### Tendências literárias e estéticas do início do séc. XX
+Há uma **busca por novas formas de expressão**, surgindo **novas correntes estéticas** que procuram uma **rotura com o passado**:
+- ##### Decadentismo
+	Exprime **cansaço** e **tédio existencial**, havendo **desencanto pela vida** que provoca **busca de novas sensações** que **rompam com a monotonia da vida moderna**
+- ##### Parnasianismo
+	Preocupação com a **perfeição formal** do poema, havendo **regularidade métrica, rimática e estrófica**. **Objetividade**, havendo **recusa dos excessos sentimentais e da subjetividade**. **"Arte pela arte"** ()
 ## Fingimento artístico
 ## Dor de pensar
 ## Sonho e realidade
