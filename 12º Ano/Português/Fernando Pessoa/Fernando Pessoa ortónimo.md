@@ -9,6 +9,14 @@
 ## Nostalgia da Infância
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
 ### Linguagem
-- ##### Vocabulário simples mas densa e sugestiva
+- ##### Versificação de inspiração tradicional
+	Uso de **qu**
+- ##### Vocabulário simples
+- ##### Naturalidade sintática
+	A **estrutura das frases** é **natural**, **clara** e **fácil de compreender**
+- ##### Pontuação emotiva
+	Uso de sinais de pontuação para **expressar emoções**
+- ##### Regularidade estrófica, métrica e rimática
 - ##### Musicalidade
-  Através das **rimas** e **aliterações**
+  Confere **ritmo** e **fluidez** ao poema
+  Concretizado através de **rimas** e **
