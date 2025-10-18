@@ -56,11 +56,22 @@ Há uma **busca por novas formas de expressão**, surgindo **novas correntes est
 #### Modernismo
 Estas tendências servirão de **base ao modernismo**, uma **reação contra os valores políticos sociais e filosóficos da época** e que **abrange um vasto conjunto de movimentos artísticos e literários de vanguarda**: futurismo, dadaísmo, surrealismo, cubismo, expressionismo, intersecionismo, paulismo, sensacionismo, etc.
 Algumas das suas características são:
-- **liberdade criadora** (de experimentação de novas técnicas)
-- desejo do artista de **transformar a sociedade através da sua arte**
-- **perfeição formal**
-- **liberdade estrófica** (organização livre do poema, de acordo com o ritmo, a musicalidade e o sentido que se pretende transmitir)
-- gosto pelo **exótico**, pelo **clássico** e pelo **pitoresco**
+- ##### Liberdade criadora (de experimentação de novas técnicas)
+- ##### Desejo do artista de transformar a sociedade através da sua arte
+- ##### Perfeição formal
+- ##### Liberdade estrófica, versificação irregular e verso livre
+	**Organização livre** do poema, de acordo com o ritmo, a musicalidade e o sentido que se pretende transmitir
+- ##### Gosto pelo exótico, pelo clássico e pelo pitoresco
+- ##### Cosmopolitismo
+	**Contacto** e **influência** de **outras culturas**
+- ##### Sentido aristocrático da arte, contra a vulgaridade
+	O artista tem o **objetivo de criar beleza**, **não de agradar o público**
+- ##### Impressionismo descritivo
+- ##### Renovação vocabular e dos recursos expressivos
+- ##### Simplificação da sintaxe
+
+### Revista *Orpheu*
+
 ## Fingimento artístico
 ## Dor de pensar
 ## Sonho e realidade
