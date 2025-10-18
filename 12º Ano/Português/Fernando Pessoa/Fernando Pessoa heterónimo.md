@@ -1,0 +1,1 @@
+Heterónimos (individualidades criadas por Pessoa, com biografia própria, estilo e visão do mundo)

@@ -24,6 +24,7 @@
 - **29/11/1935** - Escreve as suas últimas palavras: "I know not what tomorrow will bring"
 - **30/11/1935** - **Morre**, no Hospital de São Luís dos Franceses, em Lisboa
 ## Contextualização histórico-literária
+- **1890** - **Ultimato inglês** exige a **retirada das tropas portuguesas dos territórios entre Angola e Moçambique**, pondo **fim ao projeto do "Mapa cor-de-rosa"** e constituindo uma **humilhação para Portugal**
 - **1908** - **Regicídio de D. Carlos** e **assassinato de D. Luís Filipe**, seu herdeiro. O 2º filho, **D. Manuel II**, **ascende ao trono**
 - **1910** - Implantação da **República**, após **revolução republicana de 5 de outubro**
 - **1914** - **Início** da **I Guerra Mundial**
@@ -40,9 +41,10 @@ No **final do séc. XIX e início do séc. XX**, vive-se um **período de crises
 
 Esta época é também chamada de **"belle époque"** (1871-1914), pois **contrastou com os horrores vividos por causa das guerras** em período anteriores, como é o caso da Guerra Franco-Prussiana. Por isso, as pessoas sentiam a **necessidade de aproveitar o presente** enquanto podiam. 
 ### Contexto político em Portugal
+- (Ressente-se da situação europeia)
 - Grande **agitação política e social**, na **busca da democracia**
 - **Crença** no **progresso**
-- **Descrença** nos **sistema políticos, sociais e filosóficos**
+- **Descrença** nos **sistema políticos, sociais e filosóficos** face às várias crises provocas acontecimentos
 - Clima de **incerteza** criado pela **guerra**
 
 Estes temas são **refletidos pelos artistas nas suas obras**.
@@ -89,14 +91,14 @@ Fernando Pessoa ortónimo (personalidade poética que mantém o nome de Fernando
 ## Sonho e realidade
 ## Nostalgia da Infância
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
-A poesia de Fernando Pessoa tem **2 vertentes**:
+### Vertentes da poesia ortónima pessoana
 - ##### Tradicional
 	As suas composição seguem na continuidade do lirismo português, com **marcas do saudosismo** (apego ao passado).
 - ##### Modernista/Vanguardista
-	
+	Os **textos iniciam o processo de rutura** com a **tradição literária**, que se concretiza nos **heterónimos** ou nas **experiências modernistas** que vão desde o simbolismo ao paulismo e intersecionismo.
 ### Linguagem
 - ##### Versificação de inspiração tradicional
-	Uso de **quadras** ou **quintilhas** e **versos curtos** (frequentemente **redondilhas**)
+	Uso de **quadras** ou **quintilhas** e **versos curtos** (frequentemente **redondilhas**, menores (5) e maiores (7))
 - ##### Regularidade estrófica, métrica e rimática
 - ##### Vocabulário simples
 - ##### Naturalidade sintática
