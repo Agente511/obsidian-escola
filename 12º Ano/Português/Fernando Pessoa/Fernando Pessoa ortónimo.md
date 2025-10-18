@@ -10,13 +10,16 @@
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
 ### Linguagem
 - ##### Versificação de inspiração tradicional
-	Uso de **qu**
+	Uso de **quadras** ou **quintilhas** e **versos curtos** (frequentemente **redondilhas**)
 - ##### Vocabulário simples
 - ##### Naturalidade sintática
 	A **estrutura das frases** é **natural**, **clara** e **fácil de compreender**
 - ##### Pontuação emotiva
 	Uso de sinais de pontuação para **expressar emoções**
 - ##### Regularidade estrófica, métrica e rimática
-- ##### Musicalidade
+- ##### Musicalidade da linguagem
   Confere **ritmo** e **fluidez** ao poema
-  Concretizado através de **rimas** e **
+  Concretizado através de **rimas** e **aliterações**
+- ##### Simplicidade estilística
+	**Comparações**, **metáforas**, **repetições** e **paralelismos**
+- ##### Exploração de símbolos
