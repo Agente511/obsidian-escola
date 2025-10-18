@@ -11,12 +11,12 @@
 ### Linguagem
 - ##### Versificação de inspiração tradicional
 	Uso de **quadras** ou **quintilhas** e **versos curtos** (frequentemente **redondilhas**)
+- ##### Regularidade estrófica, métrica e rimática
 - ##### Vocabulário simples
 - ##### Naturalidade sintática
 	A **estrutura das frases** é **natural**, **clara** e **fácil de compreender**
 - ##### Pontuação emotiva
 	Uso de sinais de pontuação para **expressar emoções**
-- ##### Regularidade estrófica, métrica e rimática
 - ##### Musicalidade da linguagem
   Confere **ritmo** e **fluidez** ao poema
   Concretizado através de **rimas** e **aliterações**
