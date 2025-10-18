@@ -1,10 +1,10 @@
 ## Biografia
-- **25/02/1855** - **Nasceu** em **Lisboa**
+- **25/02/1855** - **Nasce** em **Lisboa**
 - **1856** - A sua **irmã** **nasce**
 - **1857** - Mudou-se **de Lisboa para Linda-a-Pastora** para fugir às **epidemias que assolavam a cidade**
 - **Entre 1873 e 1880** - **Publicava os seus poemas** regularmente nos **periódicos Diário de Notícias, Diário da Tarde e Revista de Coimbra**. Estes eram recebidos ora com **indignação**, ora com **indiferença** pelo público e até por aqueles que Cesário admirava, como Ramalho Ortigão e Teófilo Braga, com quem partilhava o **ideário cultural e político da geração de 70**.
 - **1884** - **Publicou** o seu **último poema**, após **4 anos de interregno**.
-- **19/07/1886** - **Morreu**, com **31 anos**, vítima de **tuberculose**, que também vitimou a sua irmã e um irmão.
+- **19/07/1886** - **Morre**, com **31 anos**, vítima de **tuberculose**, que também vitimou a sua irmã e um irmão.
 ## *Cânticos do Realismo* (torna-se *O Livro de Cesário Verde*)
 Cesário desejava ter a sua **poesia reunida num livro** intitulado *Cânticos do Realismo* e que fosse caracterizado por uma "definitiva unidade de composição, formal e de conteúdo".
 O projeto **não foi concretizado** e a publicação em volume dos seus poemas apenas se deu **postumamente** (após a sua morte).
