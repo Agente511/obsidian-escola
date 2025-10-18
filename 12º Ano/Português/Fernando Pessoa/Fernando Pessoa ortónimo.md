@@ -106,8 +106,13 @@ Pessoa procura **fugir à [[#Dor de pensar|dor de pensar]] através do sonho**, 
 No entanto, o próprio **sonho torna-se fonte de angústia e dor**, pois **não consegue alterar a realidade**, **acentuando a negatividade do presente e da realidade vivida**
 
 (preciso completar?)
+(será q pode pedir para relacionar com o desejo de evasão?)
 ## Nostalgia da Infância
+Também a memória da infância constitui um modo de Fernando Pessoa **tentar fugir à [[#Dor de pensar|dor de pensar]]**, surgindo como **espaço-tempo onde apenas o sentir e a inconsciência são possíveis**.
+A infância surge **idealizada** e confere uma **percepção**, no presente, de que a **felicidade existiu realmente**, apesar de **não existirem certezas quanto à real felicidade vivida**.
+No entanto, a **evocação da infância provoca uma nostalgia angustiada**, pois **evidencia o caráter disfórico e negativo do ser presente**.
 
+(preciso completar?)
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
 ### Vertentes da poesia ortónima pessoana
 - ##### Tradicional
