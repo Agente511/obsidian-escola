@@ -83,11 +83,12 @@ Devido a **falta de financiamento** e às **duras críticas** de que foi alvo, a
 
 ---
 Fernando Pessoa ortónimo (personalidade poética que mantém o nome de Fernando Pessoa) tinha como **temáticas**:
-- [[#Fingimento poético]]
+- [[#Fingimento artístico]]
 - [[#Dor de pensar]]
 - [[#Sonho e realidade]]
 - [[#Nostalgia da Infância]]
-## Fingimento poético
+## Fingimento artístico
+Pessoa **reflete sobre a própria poesia** na sua poesia, apresentando, em *Autopsicografia* e *Isto*, a **poética do fingimento** que **se opõe a uma poética tradicional, sentimental e romântica**.
 ## Dor de pensar
 ## Sonho e realidade
 ## Nostalgia da Infância
