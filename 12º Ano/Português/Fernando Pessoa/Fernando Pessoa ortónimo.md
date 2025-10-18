@@ -1,8 +1,17 @@
 ## Biografia e Contextualização histórico-literária
+### Biografia
 - **13/06/1888** - **Nasceu**
 - **1912** - **Publica** o seu **primeiro poema** na revista *A Águia*
+- **1915** - Publicação da revista ***Orpheu***
 - **1934** - **Publica *Mensagem***
 - **30/11/1935** - **Morreu**, no Hospital de São Luís dos Franceses, em Lisboa
+### Contextualização histórico-literária
+- **1908** - **Regicídio de D. Carlos** e **assassinato de D. Luís Filipe**, seu herdeiro. O 2º filho, **D. Manuel II**, **ascende ao trono**
+- **1910** - Implantação da **República**
+- **1914** - **Início** da **I Guerra Mundial**
+- **1918** - **Fim** da **I Guerra Mundial**
+- **1926** - **Golpe de Estado** e início da **ditadura militar**
+- **1933** - Início do **Estado Novo**
 ## Fingimento artístico
 ## Dor de pensar
 ## Sonho e realidade
