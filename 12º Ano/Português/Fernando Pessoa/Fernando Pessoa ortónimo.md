@@ -95,11 +95,19 @@ Pessoa **opõe-se** à **poética tradicional sentimental e romântica** e à id
 >[!Info] Nota
 >**"Fingir" poeticamente não é mentir**, é trabalhar pelo intelecto a matéria da poesia, recriando o vivido ou sonhado.
 ## Dor de pensar
-A **perscrutação do "eu"** e a **atitude autorreflexiva** de Fernando Pessoa são provocadas por **estímulos sensoriais exteriores**, desencadeando o sentido de **fragmentação do "eu"** e, por conseguinte, a **busca do autoconhecimento**.
+A **perscrutação do "eu"** e a **atitude autorreflexiva** de Fernando Pessoa são provocadas por **estímulos sensoriais exteriores**, desencadeando o sentido de **fragmentação do "eu"** e, por conseguinte, a **busca do autoconhecimento**. (ponho isto?)
 
-A **intelectualização dos sentimentos**, essencial à criação poética, é, contudo, **geradora de dor**, pois intensifica as sensações de **tédio**, **solidão**, **náusea**, **vacuidade existencial**, **incapacidade de realização**, **inquietação** e **angústia existencial**
+Pessoa procura o entendimento da vida e dos seus mistérios de forma muitas vezes angustiada derivado do seu estado emotivo perturbado e insatisfeito.
+O pensamento racional, como a **intelectualização dos sentimentos**, apesar de essencial à criação poética, é **gerador de dor**, pois torna Pessoa **incapaz de verdadeiramente sentir, sensitivamente e institivamente**, além de intensificar as sensações de **tédio**, **solidão**, **náusea**, **vacuidade existencial**, **incapacidade de realização**, **inquietação** e **angústia existencial**.
+
+Apesar de reconhecer que só a **ausência de interrogação conduzirá a felicidade**, porque o **conhecimento da essência das coisas é inacessível**, Pessoa **não renuncia à sua lucidez**.
 ## Sonho e realidade
+Pessoa procura **fugir à [[#Dor de pensar|dor de pensar]] através do sonho**, que permite o vislumbre de outra realidade, ideal, onde poderá existir outro "eu".
+No entanto, o próprio **sonho torna-se fonte de angústia e dor**, pois **não consegue alterar a realidade**, **acentuando a negatividade do presente e da realidade vivida**
+
+(preciso completar?)
 ## Nostalgia da Infância
+
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
 ### Vertentes da poesia ortónima pessoana
 - ##### Tradicional
