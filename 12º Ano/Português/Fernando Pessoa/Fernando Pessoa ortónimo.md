@@ -1,39 +1,47 @@
 ## Biografia 
-- **13/06/1888** - **Nasce**, em **Lisboa**
-- **1893**- O **pai**, Joaquim Seabra Pessoa, **morre** vítima de tuberculose.
-- **1894** - O **irmão** Jorge **morre**. A sua **mãe conhece o 2º marido**
-- **1895** - A **mãe casa-se**, por **procuração**, com o comandante João Miguel Rosa, **cônsul de Portugal em Durban**, **África do Sul**.
-- **1896** - **Parte para Durban**, com a mãe. **Frequenta um colégio de freiras**.
-- **1901** - **Parte para Lisboa**, com a família.
-- **1902** - Em **junho**, a **mãe, o padrasto e os meios-irmãos** **partem para Durban**, mas **Pessoa fica em Lisboa** até **setembro**, quando **embarca sozinho**
-- **1903** - Realiza um **exame de admissão** à **Universidade do Cabo**.
-- **1904** - Faz o **1º ano de estudos universitários** na **Durban High School**
-- **1905** - Embarca para **Lisboa**, onde frequenta o **Curso Superior de Letras**
-- **1907** - **Abandona** o curso, na sequência de uma **greve de estudantes**
-- **1911** - Começa a **traduzir obras em inglês e espanhol para português**
-- **1912** - **Publica** o seu **primeiro poema** na revista *A Águia*
-- **1913** - Conhece **Almada Negreiros**
-- **1914** - Primeiros poemas datados de **Alberto Caeiro** e de **Ricardo Reis**. Em "Ode Triunfal", surge **Álvaro de Campos**.
-- **1915** - Saem os 2 primeiros e últimos números da revista **_[[#Revista *Orpheu*|Orpheu]]_**
-- **26/04/1916** - O seu **melhor amigo** **Mário de Sá-Carneiro** **suicida-se em Paris**
-- **1919** - Conhece **Ofélia Queiroz**, a sua **primeira e única namorada**
-- **1925** - A **mãe morre**
-- **1929-1932** - Publica em revista 11 fragmentos do *Livro do Desassossego*, atribuído ao **semi-heterónimo Bernardo Soares**.
-- **1934** - **Publica** ***Mensagem***, o único livro de poesia em português publicado ainda em vida
-- **1935** - **Escreve**, para **Adolfo Casais Monteiro**, a **carta sobre a génese dos heterónimos**, em janeiro
-- **29/11/1935** - Escreve as suas últimas palavras: "I know not what tomorrow will bring"
-- **30/11/1935** - **Morre**, no Hospital de São Luís dos Franceses, em Lisboa
+
+> [!Info] Biografia de Fernando Pessoa
+> - **13/06/1888** - **Nasce**, em **Lisboa**
+> - **1893**- O **pai**, Joaquim Seabra Pessoa, **morre** vítima de tuberculose.
+> - **1894** - O **irmão** Jorge **morre**. A sua **mãe conhece o 2º marido**
+> - **1895** - A **mãe casa-se**, por **procuração**, com o comandante João Miguel Rosa, **cônsul de Portugal em Durban**, **África do Sul**.
+> - **1896** - **Parte para Durban**, com a mãe. **Frequenta um colégio de freiras**.
+> - **1901** - **Parte para Lisboa**, com a família.
+> - **1902** - Em **junho**, a **mãe, o padrasto e os meios-irmãos** **partem para Durban**, mas **Pessoa fica em Lisboa** até **setembro**, quando **embarca sozinho**
+> - **1903** - Realiza um **exame de admissão** à **Universidade do Cabo**.
+> - **1904** - Faz o **1º ano de estudos universitários** na **Durban High School**
+> - **1905** - Embarca para **Lisboa**, onde frequenta o **Curso Superior de Letras**
+> - **1907** - **Abandona** o curso, na sequência de uma **greve de estudantes**
+> - **1911** - Começa a **traduzir obras em inglês e espanhol para português**
+> - **1912** - **Publica** o seu **primeiro poema** na revista *A Águia*
+> - **1913** - Conhece **Almada Negreiros**
+> - **1914** - Primeiros poemas datados de **Alberto Caeiro** e de **Ricardo Reis**. Em "Ode Triunfal", surge **Álvaro de Campos**.
+> - **1915** - Saem os 2 primeiros e últimos números da revista **_[[#Revista *Orpheu*|Orpheu]]_**
+> - **26/04/1916** - O seu **melhor amigo** **Mário de Sá-Carneiro** **suicida-se em Paris**
+> - **1919** - Conhece **Ofélia Queiroz**, a sua **primeira e única namorada**
+> - **1925** - A **mãe morre**
+> - **1929-1932** - Publica em revista 11 fragmentos do *Livro do Desassossego*, atribuído ao **semi-heterónimo Bernardo Soares**.
+> - **1934** - **Publica** ***Mensagem***, o único livro de poesia em português publicado ainda em vida
+> - **1935** - **Escreve**, para **Adolfo Casais Monteiro**, a **carta sobre a génese dos heterónimos**, em janeiro
+> - **29/11/1935** - Escreve as suas últimas palavras: "I know not what tomorrow will bring"
+> - **30/11/1935** - **Morre**, no Hospital de São Luís dos Franceses, em Lisboa
+
 ## Contextualização histórico-literária
-- **1890** - **Ultimato inglês** exige a **retirada das tropas portuguesas dos territórios entre Angola e Moçambique**, pondo **fim ao projeto do "Mapa cor-de-rosa"** e constituindo uma **humilhação para Portugal**
-- **1908** - **Regicídio de D. Carlos** e **assassinato de D. Luís Filipe**, seu herdeiro. O 2º filho, **D. Manuel II**, **ascende ao trono**
-- **1910** - Implantação da **República**, após a **revolução republicana de 5 de outubro**
-- **1914** - **Início** da **I Guerra Mundial**
-- **1917** - **Sinódio Pais** é **eleito presidente**
-- **1918** - **Fim** da **I Guerra Mundial**
-- **1926** - **Golpe de Estado a 28 de maio** e início da **ditadura militar**
-- **1928** - **Salazar** é eleito **ministro das finanças** e **General Carmona** **presidente**
-- **1932** - **Salazar ascende a chefe do governo**
-- **1933** - Início do **Estado Novo**
+
+> [!Info] Acontecimentos em Portugal no final do séc. XIX e início do séc. XX
+> - **1890** - **Ultimato inglês** exige a **retirada das tropas portuguesas dos territórios entre Angola e Moçambique**, pondo **fim ao projeto do "Mapa cor-de-rosa"** e constituindo uma **humilhação para Portugal**
+> - **1908** - **Regicídio de D. Carlos** e **assassinato de D. Luís Filipe**, seu herdeiro. O 2º filho, **D. Manuel II**, **ascende ao trono**
+> - **1910** - Implantação da **República**, após a **revolução republicana de 5 de outubro**
+> - **1914** - **Início** da **I Guerra Mundial**
+> - **1917** - **Sinódio Pais** é **eleito presidente**
+> - **1918** - **Fim** da **I Guerra Mundial**
+> - **1926** - **Golpe de Estado a 28 de maio** e início da **ditadura militar**
+> - **1928** - **Salazar** é eleito **ministro das finanças** e **General Carmona** **presidente**
+> - **1932** - **Salazar ascende a chefe do governo**
+> - **1933** - Início do **Estado Novo**
+
+^71b8b9
+
 ### Contexto histórico na Europa
 No **final do séc. XIX e início do séc. XX**, vive-se um **período de crises e mudanças** na **Europa**:
 - **Revolução científica, técnica e industrial**, originando **crença no progresso** e **grande euforia** perante as **potencialidades da máquina**
@@ -45,7 +53,7 @@ A época antes da I Guerra Mundial (1871-1914) é também chamada de **"belle é
 - (Ressente-se da situação europeia)
 - Grande **agitação política e social**, na **busca da democracia**
 - **Crença** no **progresso**
-- **Descrença** nos **sistema políticos, sociais e filosóficos** face às várias crises provocadas pelos [[#Contextualização histórico-literária|acontecimentos que ocorreram em Portugal]]
+- **Descrença** nos **sistema políticos, sociais e filosóficos** face às várias crises provocadas pelos [[#^71b8b9|acontecimentos que ocorreram em Portugal]]
 - Clima de **incerteza** criado pela **guerra**
 
 Estes temas são **refletidos pelos artistas nas suas obras**.
@@ -81,7 +89,7 @@ Provocou **grande escândalo na sociedade conservadora da época**, por apresent
 
 Devido a **falta de financiamento** e às **duras críticas** de que foi alvo, a revista teve apenas **2 números publicados**, um em abril e outro em julho de 1915.
 
----
+# Temáticas de Fernando Pessoa ortónimo
 Fernando Pessoa ortónimo (personalidade poética que mantém o nome de Fernando Pessoa) tinha como **temáticas**:
 - [[#Fingimento artístico]]
 - [[#Dor de pensar]]
@@ -100,7 +108,7 @@ A **perscrutação do "eu"** e a **atitude autorreflexiva** de Fernando Pessoa s
 Pessoa procura o entendimento da vida e dos seus mistérios de forma muitas vezes angustiada derivado do seu estado emotivo perturbado e insatisfeito.
 O pensamento racional, como a **intelectualização dos sentimentos**, apesar de essencial à criação poética, é **gerador de dor**, pois torna Pessoa **incapaz de verdadeiramente sentir, sensitivamente e institivamente**, além de intensificar as sensações de **tédio**, **solidão**, **náusea**, **vacuidade existencial**, **incapacidade de realização**, **inquietação** e **angústia existencial**.
 
-Apesar de reconhecer que só a **ausência de interrogação conduzirá a felicidade**, porque o **conhecimento da essência das coisas é inacessível**, Pessoa **não renuncia à sua lucidez**.
+Apesar de reconhecer que só a **ausência de interrogação conduzirá à felicidade**, porque o **conhecimento da essência das coisas é inacessível**, Pessoa **não renuncia à sua lucidez**.
 ## Sonho e realidade
 Pessoa procura **fugir à [[#Dor de pensar|dor de pensar]] através do sonho**, que permite o vislumbre de outra realidade, ideal, onde poderá existir outro "eu".
 No entanto, o próprio **sonho torna-se fonte de angústia e dor**, pois **não consegue alterar a realidade**, **acentuando a negatividade do presente e da realidade vivida**
@@ -116,9 +124,9 @@ No entanto, a **evocação da infância provoca uma nostalgia angustiada**, pois
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
 ### Vertentes da poesia ortónima pessoana
 - ##### Tradicional
-	As suas composição seguem na continuidade do lirismo português, com **marcas do saudosismo** (apego ao passado).
+	As suas composição seguem na continuidade do lirismo português, com **marcas do saudosismo** (apego ao passado). ^8e9759
 - ##### Modernista/Vanguardista
-	Os **textos iniciam o processo de rutura** com a **tradição literária**, que se concretiza nos **heterónimos** ou nas **experiências modernistas** que vão desde o simbolismo ao paulismo e intersecionismo.
+	Os **textos iniciam o processo de rutura** com a **[[#^8e9759|tradição literária]]**, que se concretiza nos **heterónimos** ou nas **experiências modernistas** que vão desde o simbolismo ao paulismo e intersecionismo.
 ### Linguagem
 - ##### Versificação de inspiração tradicional
 	Uso de **quadras** ou **quintilhas** e **versos curtos** (frequentemente **redondilhas**, menores (5) e maiores (7))

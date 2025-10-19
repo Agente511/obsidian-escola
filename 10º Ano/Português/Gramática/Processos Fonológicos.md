@@ -73,4 +73,4 @@
 		- r**ee** > r**ei**
 
 A imagem seguinte não foi verificada se está atualizada:
-![[Novo mural.png]] 
+![[Processos fonológicos.png]] 
