@@ -14,7 +14,7 @@
 - **1912** - **Publica** o seu **primeiro poema** na revista *A Águia*
 - **1913** - Conhece **Almada Negreiros**
 - **1914** - Primeiros poemas datados de **Alberto Caeiro** e de **Ricardo Reis**. Em "Ode Triunfal", surge **Álvaro de Campos**.
-- **1915** - Saem os 2 primeiros e últimos números da revista ***Orpheu***
+- **1915** - Saem os 2 primeiros e últimos números da revista **_[[#Revista *Orpheu*|Orpheu]]_**
 - **26/04/1916** - O seu **melhor amigo** **Mário de Sá-Carneiro** **suicida-se em Paris**
 - **1919** - Conhece **Ofélia Queiroz**, a sua **primeira e única namorada**
 - **1925** - A **mãe morre**
@@ -26,7 +26,7 @@
 ## Contextualização histórico-literária
 - **1890** - **Ultimato inglês** exige a **retirada das tropas portuguesas dos territórios entre Angola e Moçambique**, pondo **fim ao projeto do "Mapa cor-de-rosa"** e constituindo uma **humilhação para Portugal**
 - **1908** - **Regicídio de D. Carlos** e **assassinato de D. Luís Filipe**, seu herdeiro. O 2º filho, **D. Manuel II**, **ascende ao trono**
-- **1910** - Implantação da **República**, após **revolução republicana de 5 de outubro**
+- **1910** - Implantação da **República**, após a **revolução republicana de 5 de outubro**
 - **1914** - **Início** da **I Guerra Mundial**
 - **1917** - **Sinódio Pais** é **eleito presidente**
 - **1918** - **Fim** da **I Guerra Mundial**
