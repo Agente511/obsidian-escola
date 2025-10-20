@@ -96,7 +96,7 @@ Os poemas de Fernando Pessoa ortónimo (personalidade poética que mantém o nom
 - [[#Sonho e realidade]]
 - [[#Nostalgia da Infância]]
 ## Fingimento artístico
-Pessoa **opõe-se** à **poética tradicional sentimental e romântica** e à ideia do **poeta como um confessor**. Defende que o **"poeta é um fingidor"**, isto é, na produção literária, o poeta **transforma racional e artisticamente os seus sentimentos e emoções noutros que simula** (racionalização/intelectualização do sentimento), em vez de transmitir o que sente.
+Pessoa **opõe-se** à **poética tradicional sentimental e romântica** e à ideia do **poeta como um confessor**. Defende que o **"poeta é um fingidor"**, isto é, na produção literária, o poeta **transforma racional e artisticamente os seus sentimentos e emoções noutros que simula** (**racionalização/intelectualização do sentimento**), em vez de transmitir o que sente.
 
 Desta forma, existem 3 dores:
 - **Dor sentida**: sentimentos sentidos realmente
