@@ -16,7 +16,7 @@
 > - **1912** - **Publica** o seu **primeiro poema** na revista *A Águia*
 > - **1913** - Conhece **Almada Negreiros**
 > - **1914** - Primeiros poemas datados de **Alberto Caeiro** e de **Ricardo Reis**. Em "Ode Triunfal", surge **Álvaro de Campos**.
-> - **1915** - Saem os 2 primeiros e últimos números da revista **_[[#Revista *Orpheu*|Orpheu]]_**
+> - **1915** - Saem os 2 primeiros e únicos números da revista **_[[#Revista *Orpheu*|Orpheu]]_**
 > - **26/04/1916** - O seu **melhor amigo** **Mário de Sá-Carneiro** **suicida-se em Paris**
 > - **1919** - Conhece **Ofélia Queiroz**, a sua **primeira e única namorada**
 > - **1925** - A **mãe morre**
