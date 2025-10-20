@@ -87,10 +87,10 @@ Projeto fundado em **1915**, por um grupo de **artistas plásticos e escritores*
 
 Provocou **grande escândalo na sociedade conservadora da época**, por apresentar **práticas de escrita e correntes artísticas vanguardistas**.
 
-Devido a **falta de financiamento** e às **duras críticas** de que foi alvo, a revista teve apenas **2 números publicados**, um em abril e outro em julho de 1915.
+Devido à **falta de financiamento** e às **duras críticas** de que foi alvo, a revista teve apenas **2 números publicados**, um em abril e outro em julho de 1915.
 
 # Temáticas de Fernando Pessoa ortónimo
-Fernando Pessoa ortónimo (personalidade poética que mantém o nome de Fernando Pessoa) tinha como **temáticas**:
+Os poemas de Fernando Pessoa ortónimo (personalidade poética que mantém o nome de Fernando Pessoa) tinha como **temáticas**:
 - [[#Fingimento artístico]]
 - [[#Dor de pensar]]
 - [[#Sonho e realidade]]
