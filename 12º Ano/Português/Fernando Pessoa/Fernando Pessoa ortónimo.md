@@ -98,12 +98,17 @@ Os poemas de Fernando Pessoa ortónimo (personalidade poética que mantém o nom
 ## Fingimento artístico
 Pessoa **opõe-se** à **poética tradicional sentimental e romântica** e à ideia do **poeta como um confessor**. Defende que o **"poeta é um fingidor"**, isto é, na produção literária, o poeta **transforma racional e artisticamente os seus sentimentos e emoções noutros que simula** (racionalização/intelectualização do sentimento), em vez de transmitir o que sente.
 
+Desta forma, existem 3 dores:
+- **Dor sentida**: sentimentos sentidos realmente
+- **Dor fingida**: resultante da intelectualização do sentimento
+- **Dor lida**: emoções interpretadas pelos leitores
+
 **Despreza ainda o imediatismo sentimental**, defendendo que a **escrita** deve ocorrer num **momento posterior ao sentir**, **livre do enleio** (do engano das sensações).
 
 >[!Info] Nota
 >**"Fingir" poeticamente não é mentir**, é trabalhar pelo intelecto a matéria da poesia, recriando o vivido ou sonhado.
 ## Dor de pensar
-A **perscrutação do "eu"** e a **atitude autorreflexiva** de Fernando Pessoa são provocadas por **estímulos sensoriais exteriores**, desencadeando o sentido de **fragmentação do "eu"** e, por conseguinte, a **busca do autoconhecimento**. (ponho isto?)
+A **perscrutação do "eu"** e a **atitude autorreflexiva** de Fernando Pessoa são provocadas por **estímulos sensoriais exteriores**, desencadeando o sentido de **fragmentação do "eu"** e, por conseguinte, a **busca do autoconhecimento**.
 
 Pessoa procura o entendimento da vida e dos seus mistérios de forma muitas vezes angustiada derivado do seu estado emotivo perturbado e insatisfeito.
 O pensamento racional, como a **intelectualização dos sentimentos**, apesar de essencial à criação poética, é **gerador de dor**, pois torna Pessoa **incapaz de verdadeiramente sentir, sensitivamente e institivamente**, além de intensificar as sensações de **tédio**, **solidão**, **náusea**, **vacuidade existencial**, **incapacidade de realização**, **inquietação** e **angústia existencial**.
@@ -124,7 +129,7 @@ No entanto, a **evocação da infância provoca uma nostalgia angustiada**, pois
 ## Linguagem, estilo e estrutura da poesia ortónima pessoana
 ### Vertentes da poesia ortónima pessoana
 - ##### Tradicional
-	As suas composição seguem na continuidade do lirismo português, com **marcas do saudosismo** (apego ao passado). ^8e9759
+	As suas composições seguem na continuidade do lirismo português, com **marcas do saudosismo** (apego ao passado). ^8e9759
 - ##### Modernista/Vanguardista
 	Os **textos iniciam o processo de rutura** com a **[[#^8e9759|tradição literária]]**, que se concretiza nos **heterónimos** ou nas **experiências modernistas** que vão desde o simbolismo ao paulismo e intersecionismo.
 ### Linguagem
