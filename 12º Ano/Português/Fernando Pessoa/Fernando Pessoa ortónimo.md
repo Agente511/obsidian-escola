@@ -131,7 +131,7 @@ No entanto, a **evocação da infância provoca uma nostalgia angustiada**, pois
 - ##### Tradicional
 	As suas composições seguem na continuidade do lirismo português, com **marcas do saudosismo** (apego ao passado). ^8e9759
 - ##### Modernista/Vanguardista
-	Os **textos iniciam o processo de rutura** com a **[[#^8e9759|tradição literária]]**, que se concretiza nos **heterónimos** ou nas **experiências modernistas** que vão desde o simbolismo ao paulismo e intersecionismo.
+	Os **textos iniciam o processo de rutura com a tradição literária**, que se concretiza nos **heterónimos** ou nas **experiências modernistas** que vão desde o simbolismo ao paulismo e intersecionismo.
 ### Linguagem
 - ##### Versificação de inspiração tradicional
 	Uso de **quadras** ou **quintilhas** e **versos curtos** (frequentemente **redondilhas**, menores (5) e maiores (7))
@@ -143,7 +143,7 @@ No entanto, a **evocação da infância provoca uma nostalgia angustiada**, pois
 	Uso de sinais de pontuação para **expressar emoções**
 - ##### Musicalidade da linguagem
   Confere **ritmo** e **fluidez** ao poema
-  Concretizado através de **rimas** e **aliterações**
+  Concretizado através de **rimas**, **encavalgamentos** e **aliterações**
 - ##### Simplicidade estilística
 	**Comparações**, **metáforas**, **repetições** e **paralelismos**
 - ##### Exploração de símbolos
