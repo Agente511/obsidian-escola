@@ -35,7 +35,8 @@
               "title": "Cesário Verde"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,11 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "986296f849e39184",
+  "active": "50686dc1c48b3a5c",
   "lastOpenFiles": [
+    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Português/Fernando Pessoa/Fernando Pessoa heterónimo.md",
-    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
     "Processos fonológicos.png",
     "Imagens/Pasted image 20251012135947.png",
     "Sem título.md",
