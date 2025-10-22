@@ -11,28 +11,17 @@
             "id": "986296f849e39184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "12º Ano/Matemática/Probabilidades.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Probabilidades"
-            }
-          },
-          {
-            "id": "50686dc1c48b3a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Matemática/Teoria dos conjuntos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teoria dos conjuntos"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -224,9 +213,11 @@
   },
   "active": "986296f849e39184",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Teoria dos conjuntos.md",
-    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Matemática/Probabilidades.md",
+    "12º Ano/Matemática/Teoria dos conjuntos.md",
+    "Sem título.canvas",
+    "af25c3a6c2f9f7e9c8b77d7875e301f0.jpg",
+    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
     "Sem título 1.md",
     "Joana CO.md",
@@ -247,7 +238,6 @@
     "Imagens/Pasted image 20251011170547.png",
     "Pasted image 20251011170426.png",
     "Imagens/Pasted image 20251011165949.png",
-    "Pasted image 20251011165936.png",
     "11º Ano/Português/Gramática/Subclasses do Verbo.md",
     "11º Ano/Português/Gramática/Classes de palavras.md",
     "11º Ano/Português/Gramática/Subordinação.md",
@@ -259,7 +249,6 @@
     "11º Ano/Português/Gramática/Atos de fala.md",
     "10º Ano/Português/Gramática/Etimologia.md",
     "11º Ano/Português/Gramática/Valor modal.md",
-    "11º Ano/Português/Gramática/Coesão textual.md",
     "12º Ano/Português/Fernando Pessoa",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
@@ -270,7 +259,6 @@
     "12º Ano/Biologia",
     "12º Ano/Química",
     "12º Ano/Matemática",
-    "12º Ano/Português",
-    "Sem título.canvas"
+    "12º Ano/Português"
   ]
 }
