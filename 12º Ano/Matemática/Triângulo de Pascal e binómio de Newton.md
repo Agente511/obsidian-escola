@@ -37,6 +37,12 @@ Os **coeficientes do desenvolvimento de $(a+b)^n$** são os **coeficientes binom
 >[!Note] Exemplo
 >$(a+b)^4=$
 >$=^4C_0 \times a^{4-0} \times b^0 + ^4C_1 \times a^{4-1} \times b^1 + ^4C_2 \times a^{4-2} \times b^2 + ^4C_3 \times a^{4-3} \times b^3 + ^4C_4 \times a^{4-4} \times b^4=$
->$=a^4 + ^4C_1 \times a^{3} \times b^1 + ^4C_2 \times a^{2} \times b^2 + ^4C_3 \times a^{1} \times b^3 + ^4C_4 \times b^4=$
+>$=^4C_0 \times a^{4} \times b^0 + ^4C_1 \times a^{3} \times b^1 + ^4C_2 \times a^{2} \times b^2 + ^4C_3 \times a^{1} \times b^3 + ^4C_4 \times a^{0} \times b^4=$
+>$=a^{4} + 4 a^{3} b + 6 a^{2} b^2 + 4 a b^3 + b^4=$
 
-Os **expoentes de $a$** variam de **$n$ a 0** e os **expoentes de $b$** variam de **0 a $n$**.
+Verifica-se que os **expoentes de $a$** variam de **$n$ a 0** e os **expoentes de $b$** variam de **0 a $n$**.
+
+>[!Summary] Notas
+>1. O desenvolvimento de $(a-b)^n$ pode ser obtido pela expressão $(a+(-b))^n$.
+>2. O desenvolvimento de $(a+b)^n$ tem $(n+1)$ termos.
+>3. A soma dos coeficientes binomiais $(^nC_p)$ é dado por $2^n$.

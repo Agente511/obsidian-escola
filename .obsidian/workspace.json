@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
-                "mode": "preview",
+                "file": "12º Ano/Matemática/Probabilidades.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Triângulo de Pascal e binómio de Newton"
+              "title": "Probabilidades"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
+                "file": "12º Ano/Matemática/Teoria dos conjuntos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cesário Verde"
+              "title": "Teoria dos conjuntos"
             }
           }
         ]
@@ -224,19 +224,20 @@
   },
   "active": "986296f849e39184",
   "lastOpenFiles": [
-    "Sem título 1.md",
+    "12º Ano/Matemática/Teoria dos conjuntos.md",
+    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
+    "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
+    "Sem título 1.md",
     "Joana CO.md",
     "12º Ano/Matemática/Cálculo Combinatória.md",
     "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
-    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Português/Fernando Pessoa/Fernando Pessoa heterónimo.md",
     "Processos fonológicos.png",
     "Imagens/Pasted image 20251012135947.png",
     "Sem título.md",
     "10º Ano/Nota (trabalho geologia).md",
     "10º Ano/Devia fazer resumos das ALs de FQ talvez....md",
-    "12º Ano/Matemática/Teoria dos conjuntos.md",
     "Imagens/Pasted image 20251012135839.png",
     "Imagens/Pasted image 20251012124155.png",
     "Pasted image 20251012124122.png",
@@ -259,7 +260,6 @@
     "10º Ano/Português/Gramática/Etimologia.md",
     "11º Ano/Português/Gramática/Valor modal.md",
     "11º Ano/Português/Gramática/Coesão textual.md",
-    "11º Ano/Português/Gramática/Dêixis.md",
     "12º Ano/Português/Fernando Pessoa",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
