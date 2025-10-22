@@ -29,4 +29,14 @@ Calculando os respetivos valores dos coeficientes binomiais, o triângulo també
 >	- **ímpar**, a **linha** de ordem $n$ tem um **número par de elementos**, sendo os **dois maiores** os **dois elementos centrais**, que são $\Large ^nC_{\frac {n-1} 2}$ e $\Large ^nC_{\frac {n+1} 2}$
 
 ## Binómio de Newton
-Os **coeficientes do desenvolvimento de $(a+b**
+Os **coeficientes do desenvolvimento de $(a+b)^n$** são os **coeficientes binomiais do triângulo de Pascal** e são de forma **$^nC_p$**.
+
+>[!Summary] Termo geral do desenvolvimento de binómio de Newton
+>$$\begin{flalign}& \large (a+b)^n=\sum_{p=0}^n\ ^nC_p \times a^{n-p} \times b^p &\end{flalign}$$
+
+>[!Note] Exemplo
+>$(a+b)^4=$
+>$=^4C_0 \times a^{4-0} \times b^0 + ^4C_1 \times a^{4-1} \times b^1 + ^4C_2 \times a^{4-2} \times b^2 + ^4C_3 \times a^{4-3} \times b^3 + ^4C_4 \times a^{4-4} \times b^4=$
+>$=a^4 + ^4C_1 \times a^{3} \times b^1 + ^4C_2 \times a^{2} \times b^2 + ^4C_3 \times a^{1} \times b^3 + ^4C_4 \times b^4=$
+
+Os **expoentes de $a$** variam de **$n$ a 0** e os **expoentes de $b$** variam de **0 a $n$**.
