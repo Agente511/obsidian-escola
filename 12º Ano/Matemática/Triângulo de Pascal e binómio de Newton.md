@@ -28,3 +28,4 @@ Calculando os respetivos valores dos coeficientes binomiais, o triângulo també
 >	- **par**, a **linha** de ordem $n$ tem um **número ímpar de elementos**, sendo o **maior** deles o **elemento central**, que é $\Large ^nC_{\frac n 2}$
 >	- **ímpar**, a **linha** de ordem $n$ tem um **número par de elementos**, sendo os **dois maiores** os **dois elementos centrais**, que são $\Large ^nC_{\frac {n-1} 2}$ e $\Large ^nC_{\frac {n+1} 2}$
 
+## Binómio de Newton
