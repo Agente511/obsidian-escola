@@ -14,8 +14,15 @@
 	Tem **múltiplos casos possíveis**.
 	>[!Exemplo]
 	>> Lançar três moedas equilibradas ao ar e anotas as faces que ficam voltadas para cima.
-	>Usando o **diagrama de árvore** para determinar o espaço amostral desta experiência:
-	>![[af25c3a6c2f9f7e9c8b77d7875e301f0.jpg]]
+	>
+	>Usando o **diagrama de árvore** para determinar o espaço amostral desta experiência e considerando N: "face nacional" e E: "face europeia":
+	>![[Pasted image 20251022133907.png]]
+	>
+	>>Lançar dois dados equilibrados, um preto e um branco, e verificar as faces que ficam voltadas para cima.
+	>
+	>Usando a **tabela de dupla entrada** para determinar o espaço amostral desta experiência:
+	>|
 ## Acontecimentos
 ## Operações com acontecimentos
 ## Lei de Laplace
+

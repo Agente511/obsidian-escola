@@ -11,17 +11,14 @@
             "id": "986296f849e39184",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": 80.37856198313986,
-                  "y": -55.79128754873797,
-                  "zoom": -0.6666666666666665
-                }
+                "file": "12º Ano/Matemática/Probabilidades.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "Probabilidades"
             }
           }
         ]
@@ -213,9 +210,10 @@
   },
   "active": "986296f849e39184",
   "lastOpenFiles": [
+    "Pasted image 20251022133907.png",
+    "Sem título.canvas",
     "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Teoria dos conjuntos.md",
-    "Sem título.canvas",
     "af25c3a6c2f9f7e9c8b77d7875e301f0.jpg",
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
