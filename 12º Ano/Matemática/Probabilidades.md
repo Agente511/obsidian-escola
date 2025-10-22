@@ -38,11 +38,37 @@ Os elementos de um acontecimento designam-se por **casos favoráveis**.
 	Verifica-se quando se realiza $A$ **ou** $B$.
 	Representa-se por $A \cup B$
 	>[!Note] Exemplo
+	>>Lançar um dado cúbico e registar a face que fica voltada para cima.
 	>
+	>Considerando os acontecimentos:
+	>$A$: "Sair um número primo."  $\ \ \ \ A=\{2,\ 3,\ 5\}$
+	>$B$: "Sair um número par." $\ \ \ \ \ \ \ \ \ B=\{2,\ 4,\ 6\}$
+	>
+	>$A \cup B$: "Sair um número primo **ou** um número par."
+	>$A \cup B= \{2,\ 3,\ 5\} \cup \{2,\ 4,\ 6\}=\{2,\ 3,\ 4,\ 5,\ 6\}$
+	>
+
 - ##### Acontecimento interseção de $A$ com $B$
 	Verifica-se quando se realiza $A$ **e** $B$ **em simultâneo**.
 	Representa-se por $A \cap B$
-- ##### Acontecimentos disjuntos
+	
+	>[!Note] Exemplo
+	>>Lançar um dado cúbico e registar a face que fica voltada para cima.
+	>
+	>Considerando os acontecimentos:
+	>$A$: "Sair um número primo."  $\ \ \ \ A=\{2,\ 3,\ 5\}$
+	>$B$: "Sair um número par." $\ \ \ \ \ \ \ \ \ B=\{2,\ 4,\ 6\}$
+	>
+	>$A \cup B$: "Sair um número primo **e** um número par."
+	>$A \cup B= \{2,\ 3,\ 5\} \cap \{2,\ 4,\ 6\}=\{2\}$
+	>
+### Acontecimentos incompatíveis, disjuntos ou mutuamente exclusivos
+Acontecimentos que **nunca ocorrem em simultâneo**.
+A realização de um deles implica a não realização do outro.
 
+$A$ e $B$ dizem-se **incompatíveis** se e só se $A \cap B = \emptyset$.
+- ##### Acontecimentos contrários
+	D
+	Se a união dos conjuntos corresponder ao espaço amostral, isto é, se $A \cup B= \Omega$
 ## Lei de Laplace
 
