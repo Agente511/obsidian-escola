@@ -34,6 +34,7 @@ O sistema reprodutor masculino é constituído por:
 	- **Próstata**
 	- **Glândulas de Cowper**
 
-
+A **produção de espermatozoides** ocorre nos **túbulos seminíferos**, por um **processo centrípeto** desde a **periferia dos túbulos seminíferos**, **em torno das células de Sertoli**, dispostas radialmente na parede do túbulo, **até ao lúmen**. As **células de Sertoli** asseguram a **diferenciação das células da linha germinativa**, produzindo nutrientes e outras substâncias orgânicas
+Nos **interstícios entre os túbulos seminíferos**, encontram-se as **células de Leydig**,
 ## Gametogénese humana
 ### Gametogénese masculina
