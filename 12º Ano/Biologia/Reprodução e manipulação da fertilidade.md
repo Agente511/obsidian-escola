@@ -51,11 +51,14 @@ Conjunto de processos fisiológicos, que ocorrem nos testículos, envolvidos na 
 A espermatogénese **inicia-se na puberdade** (10-14 anos de idade) e ocorre **continuamente até ao fim da vida do homem**, apesar de **declinar significativamente em idade mais avançada**.
 
 1. #### Fase de multiplicação
-	As **espermatogónias** (células germinativas estaminais, localizadas na periferias dos túbulos seminíferos) **sofrem mitoses sucessivas**.
+	As **espermatogónias** (células germinativas estaminais, localizadas na periferias dos túbulos seminíferos) **sofrem [[D2 2. Reprodução Sexuada#Mitose|mitoses]] sucessivas**.
 	Estas células são **diploides** (**2n**) e entram em divisão celular desde a puberdade até ao fim da vida.
 2. #### Fase de crescimento
 	Em **cada duas espermatogónias** formadas por mitose:
-		- **Uma sofrerá mitose novamente**
-		- **Outra** contina
+	- **Uma sofrerá mitose novamente**
+	- **Outra continua a espermatogénese**, aumentando o seu volume celular ligeiramente, originando o **espermatócito I**.
 3. #### Fase de maturação
+	Os **espermatócitos I** sofrem **divisão nuclear meiótica**. No final desta **meiose I** formam-se os **espermatócitos II**, células **haploides** (**n**).
+	De seguida, ocorre a **meiose II** que origina os **espermatídios**.
+	(Cada espermatócito I origina 4 espermatídios haploides)
 4. #### Fase de diferenciação (ou espermiogénese)
