@@ -51,17 +51,25 @@ Conjunto de processos fisiológicos, que ocorrem nos testículos, envolvidos na 
 A espermatogénese **inicia-se na puberdade** (10-14 anos de idade) e ocorre **continuamente até ao fim da vida do homem**, apesar de **declinar significativamente em idade mais avançada**.
 
 1. #### Fase de multiplicação
+	![[Pasted image 20251023222559.png|450]]
 	As **espermatogónias** (células germinativas estaminais, localizadas na periferias dos túbulos seminíferos) **sofrem [[D2 2. Reprodução Sexuada#Mitose|mitoses]] sucessivas**.
 	Estas células são **diploides** (**2n**) e entram em divisão celular desde a puberdade até ao fim da vida.
+	
 2. #### Fase de crescimento
+	![[Pasted image 20251023222827.png|450]]
 	Em **cada duas espermatogónias** formadas por mitose:
 	- **Uma sofrerá mitose novamente**
 	- **Outra continua a espermatogénese**, aumentando o seu volume celular ligeiramente, originando o **espermatócito I**.
 3. #### Fase de maturação
+	![[Pasted image 20251023223028.png|450]]
 	Os **espermatócitos I** sofrem **divisão nuclear meiótica**. No final desta **meiose I** formam-se os **espermatócitos II**, células **haploides** (**n**).
 	De seguida, ocorre a **meiose II** que origina os **espermatídios**.
 	(**Cada espermatócito I origina 4 espermatídios haploides**)
 4. #### Fase de diferenciação (ou espermiogénese)
+	![[Pasted image 20251023223045.png|450]]
+	![[Pasted image 20251023223136.png]]
 	Os **espermatídios sofrem diferenciação celular**, transformando-se em **espermatozoides**, células muito especializadas.
 	As **células de Sertoli fagocitam a maior parte do citoplasma dos espermatídios** e os **poucos organelos que ficam no espermatozoide reorganizam-se**.
-	O **complexo de Golgi forma o acrossoma** (ou capuz cefálico), uma estrutura celular que **armazena enzimas digestivas**
+	O **complexo de Golgi forma o acrossoma** (ou capuz cefálico), que **armazena enzimas digestivas** e **envolve parte do núcleo**.
+	Os **centríolos** dispõem-se no **lado oposto ao acrossoma**, e um deles **origina os microtúbulos do flagelo**, responsável pela **locomoção dos espermatozoides**.
+	Algumas **mitocôndrias** dispõem-se na base do flagelo, **fornecendo a energia necessária para o seu movimento**
