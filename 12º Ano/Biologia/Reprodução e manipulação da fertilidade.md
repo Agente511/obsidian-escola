@@ -18,8 +18,22 @@ A partir da **puberdade**, as diferenças morfológicas aprofundam entre os dois
 ### Sistema reprodutor masculino
 O sistema reprodutor masculino é constituído por:
 - ##### Gónadas masculinas
-	**Testículos**
+	- **Testículos**
+		>[!Info] Constituição do testículo
+		>Orgãos de forma oval com um comprimento de 4-7 cm.
+		>Localizados no **escroto** (ou bolsa escrotal), uma projeção externa da parte inferior do abdómen.
+		>
+		>Possuem 200-290 **lóbulos do testículo**, separados por **septos testiculares**.
+		>Em cada lóbulo encontram-se 1-4 **túbulos seminíferos**, tubos microscópicos muito enovelados. Estes estão **ligados ao epidídimo**, um ducto fino enovelado, localizado posteriormente ao testículo, **para onde os espermatozoides são transportados** e **onde adquirem a sua mobilidade**.
 - ##### Vias genitais
-	**Ed**
+	- **Epidídimos**
+	- **Canais deferentes**
+	- **Uretra**: transporta a urina deste a bexiga até ao exterior e é por onde o sémen é ejaculado
+- ##### Glândulas anexas
+	- **Vesículas seminais**
+	- **Próstata**
+	- **Glândulas de Cowper**
+
+
 ## Gametogénese humana
 ### Gametogénese masculina
