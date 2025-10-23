@@ -17,6 +17,9 @@ A partir da **puberdade**, as diferenças morfológicas aprofundam entre os dois
 ## Sistema reprodutor
 ### Sistema reprodutor masculino
 O sistema reprodutor masculino é constituído por:
-- 
+- ##### Gónadas masculinas
+	**Testículos**
+- ##### Vias genitais
+	**Ed**
 ## Gametogénese humana
 ### Gametogénese masculina
