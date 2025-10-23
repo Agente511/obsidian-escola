@@ -42,6 +42,6 @@ As **células de Leydig**, responsáveis pela **produção de testosterona**, en
 A **testosterona** **controla a produção de espermatozoides**.
 
 Os **espermatozoides terminam o seu amadurecimento e adquirem mobilidade nos epidídimos** para onde transitam, após libertados no lúmen dos túbulos.
-Durante a **saída dos espermatozoides pelas [[#^3e0ca0|vias genitais]]**, são-lhes adicionadas o **líquido protático** e o **líquido seminal**, secreções **produzidas pelas [[#^7fcbf5|glândulas anexas]]**.
+Durante a **saída dos espermatozoides pelas [[#^3e0ca0|vias genitais]]**, são-lhes adicionadas o **líquido prostático** e o **líquido seminal**, secreções **produzidas pelas [[#^7fcbf5|glândulas anexas]]**.
 ## Gametogénese humana
 ### Gametogénese masculina
