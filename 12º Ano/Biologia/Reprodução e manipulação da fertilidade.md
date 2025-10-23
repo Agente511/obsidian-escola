@@ -60,5 +60,8 @@ A espermatogénese **inicia-se na puberdade** (10-14 anos de idade) e ocorre **c
 3. #### Fase de maturação
 	Os **espermatócitos I** sofrem **divisão nuclear meiótica**. No final desta **meiose I** formam-se os **espermatócitos II**, células **haploides** (**n**).
 	De seguida, ocorre a **meiose II** que origina os **espermatídios**.
-	(Cada espermatócito I origina 4 espermatídios haploides)
+	(**Cada espermatócito I origina 4 espermatídios haploides**)
 4. #### Fase de diferenciação (ou espermiogénese)
+	Os **espermatídios sofrem diferenciação celular**, transformando-se em **espermatozoides**, células muito especializadas.
+	As **células de Sertoli fagocitam a maior parte do citoplasma dos espermatídios** e os **poucos organelos que ficam no espermatozoide reorganizam-se**.
+	O **complexo de Golgi forma o acrossoma** (ou capuz cefálico), uma estrutura celular que **armazena enzimas digestivas**
