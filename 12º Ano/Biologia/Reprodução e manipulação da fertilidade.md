@@ -25,11 +25,11 @@ O sistema reprodutor masculino é constituído por:
 		>
 		>Possuem 200-290 **lóbulos do testículo**, separados por **septos testiculares**.
 		>Em cada lóbulo encontram-se 1-4 **túbulos seminíferos**, tubos microscópicos muito enovelados. Estes estão **ligados ao epidídimo**, um ducto fino enovelado, localizado posteriormente ao testículo, **para onde os espermatozoides são transportados** e **onde adquirem a sua mobilidade**.
-- ##### Vias genitais
+- ##### Vias genitais ^3e0ca0
 	- **Epidídimos**
 	- **Canais deferentes**
 	- **Uretra**: transporta a urina deste a bexiga até ao exterior e é por onde o sémen é ejaculado
-- ##### Glândulas anexas
+- ##### Glândulas anexas ^7fcbf5
 	- **Vesículas seminais**
 	- **Próstata**
 	- **Glândulas de Cowper**
@@ -41,6 +41,7 @@ As **células de Leydig**, responsáveis pela **produção de testosterona**, en
 
 A **testosterona** **controla a produção de espermatozoides**.
 
-Os **espermatozoides terminam o seu amadurecimento e adquirem mobilidade nos epidídimos** para onde transitam, após libertados no lúmen dos túbulos
+Os **espermatozoides terminam o seu amadurecimento e adquirem mobilidade nos epidídimos** para onde transitam, após libertados no lúmen dos túbulos.
+Durante a **saída dos espermatozoides pelas [[#^3e0ca0|vias genitais]]**, são-lhes adicionadas o **líquido protático** e o **líquido seminal**, secreções **produzidas pelas [[#^7fcbf5|glândulas anexas]]**.
 ## Gametogénese humana
 ### Gametogénese masculina
