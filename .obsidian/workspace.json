@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Reprodução e manipulação da fertilidade"
             }
+          },
+          {
+            "id": "6bb5bb61e9df4d3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ]
       }
@@ -210,9 +220,9 @@
   },
   "active": "986296f849e39184",
   "lastOpenFiles": [
+    "12º Ano/Biologia/Reprodução e manipulação da fertilidade.md",
     "11º Ano/Biologia/D2 2. Reprodução Sexuada.md",
     "11º Ano/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
-    "12º Ano/Biologia/Reprodução e manipulação da fertilidade.md",
     "11º Ano/Biologia/D1 1.1-1.3 Composição e Estrutura dos Ácidos Nucleicos.md",
     "11º Ano/Biologia/D1 1. Ácidos Nucleicos e Informação Genética.md",
     "11º Ano/Biologia/Biologia 11º Ano.md",
