@@ -13,9 +13,9 @@ Na **espécie humana**, o **dimorfismo sexual** observa-se desde a gravidez, pel
 A partir da **puberdade**, as diferenças morfológicas aprofundam entre os dois sexos, devido aos **testículos e ovários entrarem em funcionamento** produzindo **hormonas sexuais** que **atuam em células-alvo**, levando ao **aparecimento e manutenção dos caracteres sexuais secundários**:
 - Masculino: **aparecimento de barba** e **alargamento dos ombros**
 - Feminino: **desenvolvimento dos seios** e **arredondamento das ancas**
-
-## Sistema reprodutor
+## Gametogénese humana
 ### Sistema reprodutor masculino
+
 O sistema reprodutor masculino é constituído por:
 - ##### Gónadas masculinas
 	- **Testículos**
@@ -33,6 +33,7 @@ O sistema reprodutor masculino é constituído por:
 	- **Próstata**
 	- **Glândulas de Cowper**
 
+![[Sem título-1 1.jpg]]
 #### Produção e libertação de espermatozoides
 A **produção de espermatozoides** ocorre nos **túbulos seminíferos**, por um **processo centrípeto** desde a **periferia dos túbulos seminíferos**, **em torno das células de Sertoli**, que estão dispostas radialmente na parede do túbulo, **até ao lúmen**. As **células de Sertoli** asseguram a **diferenciação das células da linha germinativa**, produzindo nutrientes e outras substâncias orgânicas
 
@@ -40,36 +41,42 @@ As **células de Leydig**, responsáveis pela **produção de testosterona**, en
 
 A **testosterona** **controla a produção de espermatozoides**.
 
+![[Sem título.jpg|600]]
+
 Os **espermatozoides terminam o seu amadurecimento e adquirem mobilidade nos epidídimos** para onde transitam, após libertados no lúmen dos túbulos.
 
 As **glândulas de Cowper** libertam um **líquido pré-ejaculatório** que **neutraliza a acidez da urina na uretra**.
 Durante a **saída dos espermatozoides pelas [[#^3e0ca0|vias genitais]]**, são-lhes adicionadas o **líquido prostático** e o **líquido seminal**, secreções **produzidas pelas [[#^7fcbf5|glândulas anexas]]**, e cuja mistura resulta no **esperma**/sémen.
-## Gametogénese humana
 ### Espermatogénese (Gametogénese masculina)
 Conjunto de processos fisiológicos, que ocorrem nos testículos, envolvidos na produção de espermatozoides.
 
 A espermatogénese **inicia-se na puberdade** (10-14 anos de idade) e ocorre **continuamente até ao fim da vida do homem**, apesar de **declinar significativamente em idade mais avançada**.
 
 1. #### Fase de multiplicação
-	![[Pasted image 20251023222559.png|450]]
 	As **espermatogónias** (células germinativas estaminais, localizadas na periferias dos túbulos seminíferos) **sofrem [[D2 2. Reprodução Sexuada#Mitose|mitoses]] sucessivas**.
 	Estas células são **diploides** (**2n**) e entram em divisão celular desde a puberdade até ao fim da vida.
 	
-2. #### Fase de crescimento
-	![[Pasted image 20251023222827.png|450]]
+	![[Pasted image 20251023222559.png|450]]
+1. #### Fase de crescimento
 	Em **cada duas espermatogónias** formadas por mitose:
 	- **Uma sofrerá mitose novamente**
 	- **Outra continua a espermatogénese**, aumentando o seu volume celular ligeiramente, originando o **espermatócito I**.
-3. #### Fase de maturação
-	![[Pasted image 20251023223028.png|450]]
+	
+	![[Pasted image 20251023222827.png|450]]
+1. #### Fase de maturação
 	Os **espermatócitos I** sofrem **divisão nuclear meiótica**. No final desta **meiose I** formam-se os **espermatócitos II**, células **haploides** (**n**).
 	De seguida, ocorre a **meiose II** que origina os **espermatídios**.
 	(**Cada espermatócito I origina 4 espermatídios haploides**)
-4. #### Fase de diferenciação (ou espermiogénese)
-	![[Pasted image 20251023223045.png|450]]
-	![[Pasted image 20251023223136.png]]
+	
+	![[Pasted image 20251023223028.png|450]]
+1. #### Fase de diferenciação (ou espermiogénese)
 	Os **espermatídios sofrem diferenciação celular**, transformando-se em **espermatozoides**, células muito especializadas.
 	As **células de Sertoli fagocitam a maior parte do citoplasma dos espermatídios** e os **poucos organelos que ficam no espermatozoide reorganizam-se**.
 	O **complexo de Golgi forma o acrossoma** (ou capuz cefálico), que **armazena enzimas digestivas** e **envolve parte do núcleo**.
 	Os **centríolos** dispõem-se no **lado oposto ao acrossoma**, e um deles **origina os microtúbulos do flagelo**, responsável pela **locomoção dos espermatozoides**.
 	Algumas **mitocôndrias** dispõem-se na base do flagelo, **fornecendo a energia necessária para o seu movimento**
+	![[Pasted image 20251023223045.png|450]]
+	![[Pasted image 20251023223245.png]]
+
+
+![[Pasted image 20251023223446.png|350]]
