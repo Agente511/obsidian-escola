@@ -43,10 +43,7 @@ A **testosterona** **controla a produção de espermatozoides**.
 
 ![[Sem título.jpg|600]]
 
-Os **espermatozoides terminam o seu amadurecimento e adquirem mobilidade nos epidídimos** para onde transitam, após libertados no lúmen dos túbulos.
 
-As **glândulas de Cowper** libertam um **líquido pré-ejaculatório** que **neutraliza a acidez da urina na uretra**.
-Durante a **saída dos espermatozoides pelas [[#^3e0ca0|vias genitais]]**, são-lhes adicionadas o **líquido prostático** e o **líquido seminal**, secreções **produzidas pelas [[#^7fcbf5|glândulas anexas]]**, e cuja mistura resulta no **esperma**/sémen.
 ### Espermatogénese (Gametogénese masculina)
 Conjunto de processos fisiológicos, que ocorrem nos testículos, envolvidos na produção de espermatozoides.
 
@@ -57,19 +54,19 @@ A espermatogénese **inicia-se na puberdade** (10-14 anos de idade) e ocorre **c
 	Estas células são **diploides** (**2n**) e entram em divisão celular desde a puberdade até ao fim da vida.
 	
 	![[Pasted image 20251023222559.png|450]]
-1. #### Fase de crescimento
+2. #### Fase de crescimento
 	Em **cada duas espermatogónias** formadas por mitose:
 	- **Uma sofrerá mitose novamente**
 	- **Outra continua a espermatogénese**, aumentando o seu volume celular ligeiramente, originando o **espermatócito I**.
 	
 	![[Pasted image 20251023222827.png|450]]
-1. #### Fase de maturação
+3. #### Fase de maturação
 	Os **espermatócitos I** sofrem **divisão nuclear meiótica**. No final desta **meiose I** formam-se os **espermatócitos II**, células **haploides** (**n**).
 	De seguida, ocorre a **meiose II** que origina os **espermatídios**.
 	(**Cada espermatócito I origina 4 espermatídios haploides**)
 	
 	![[Pasted image 20251023223028.png|450]]
-1. #### Fase de diferenciação (ou espermiogénese)
+4. #### Fase de diferenciação (ou espermiogénese)
 	Os **espermatídios sofrem diferenciação celular**, transformando-se em **espermatozoides**, células muito especializadas.
 	As **células de Sertoli fagocitam a maior parte do citoplasma dos espermatídios** e os **poucos organelos que ficam no espermatozoide reorganizam-se**.
 	O **complexo de Golgi forma o acrossoma** (ou capuz cefálico), que **armazena enzimas digestivas** e **envolve parte do núcleo**.
@@ -77,6 +74,11 @@ A espermatogénese **inicia-se na puberdade** (10-14 anos de idade) e ocorre **c
 	Algumas **mitocôndrias** dispõem-se na base do flagelo, **fornecendo a energia necessária para o seu movimento**
 	![[Pasted image 20251023223045.png|450]]
 	![[Pasted image 20251023223245.png]]
+
+Os **espermatozoides terminam o seu amadurecimento e adquirem mobilidade nos epidídimos** para onde transitam, após libertados no lúmen dos túbulos.
+
+As **glândulas de Cowper** libertam um **líquido pré-ejaculatório** que **neutraliza a acidez da urina na uretra**.
+Durante a **saída dos espermatozoides pelas [[#^3e0ca0|vias genitais]]**, são-lhes adicionadas o **líquido prostático** e o **líquido seminal**, secreções **produzidas pelas [[#^7fcbf5|glândulas anexas]]**, e cuja mistura resulta no **esperma**/sémen.
 
 
 ![[Pasted image 20251023223446.png|350]]
@@ -104,6 +106,7 @@ O aparelho reprodutor feminino está adaptado à gametogénese, à fecundação 
 ### Produção de oócitos (cruzar informação depois)
 Os ovários produzem os oócitos II e as hormonas sexuais estrogénios e progesterona
 
-Cada folículo ovárico é constituído por uma célula da linha germinativa de maiores dimensões e pelo menos uma camada de células foliculares intervenientes na nutrição e proteção da célula da linha germinativa e ainda na produção de estrogénios
+Cada folículo ovárico é constituído por uma **célula da linha germinativa de maiores dimensões** e pelo menos uma **camada de células foliculares intervenientes na nutrição e proteção da célula da linha germinativa e ainda na produção de estrogénios**.
 Cada oócito I está envolvido por células foliculares, constituindo os **folículos primordiais**
-A partir da puberdade e até à menopausa, alguns destes folículos iniciam, todos os meses, um processo de amadurecimento em que aumentam de tamanho e desenvolvem a **cavidade antral** ou folicular. Apenas um destes folículos desenvolve-se totalmente, designando-se **folículo de Graaf**, folículo antral ou folículo maduro. Graças ao seu tamanho e a sua proximidade da parede do ovário, ocorre o rompimento do folículo e da parede
+A partir da puberdade e até à menopausa, alguns destes **folículos** iniciam, **todos os meses**, um processo de **amadurecimento** em que **aumentam de tamanho** e desenvolvem a **cavidade antral** ou folicular. **Apenas um** destes folículos **desenvolve-se totalmente**, designando-se **folículo de Graaf**, folículo antral ou folículo maduro. Graças ao seu tamanho e à sua proximidade da parede do ovário, ocorre o **rompimento do folículo de Graaf e da parede do ovário**, e, consequentemente, a **ovulação**, sendo **libertado o oócito II** envolvido por algumas células foliculares, para o **pavilhão da trompa de Falópio**. As restantes camadas celulares do folículo que permanecem no ovário evoluem, formando o **corpo lúteo** ou amarelo, responsável pela **produção de estrogénios e progesterona**.
+Caso **não ocorra fecundação**, o **corpo lúteo regride**, deixando uma pequena cicatriz no ovário.
