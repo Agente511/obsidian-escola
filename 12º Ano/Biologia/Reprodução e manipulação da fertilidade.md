@@ -44,6 +44,7 @@ As **células de Leydig**, responsáveis pela **produção de testosterona**, qu
 ![[Sem título.jpg|600]]
 ![[Pasted image 20251023223446.png|250]]
 
+Decorre nas seguintes etapas sequenciais:
 1. #### Fase de multiplicação
 	As **espermatogónias** (células germinativas estaminais, localizadas na periferias dos túbulos seminíferos) **sofrem [[D2 2. Reprodução Sexuada#Mitose|mitoses]] sucessivas**.
 	Estas células são **diploides** (**2n**) e entram em divisão celular desde a puberdade até ao fim da vida.
@@ -95,7 +96,7 @@ O sistema reprodutor feminino é constituído por:
 
 O aparelho reprodutor feminino está adaptado à gametogénese, à fecundação e ao alojamento e nutrição do embrião e do feto, durante o período de gestação no útero.
 
-### Oogénese
+### Oogénese (Gametogénese feminina)
 Os ovários produzem os oócitos II e as hormonas sexuais estrogénios e progesterona
 
 Cada folículo ovárico é constituído por uma **célula da linha germinativa de maiores dimensões** e pelo menos uma **camada de células foliculares intervenientes na nutrição e proteção da célula da linha germinativa e ainda na produção de estrogénios**.
@@ -109,4 +110,9 @@ As restantes camadas celulares do folículo que permanecem no ovário evoluem, f
 Caso **não ocorra fecundação**, o **corpo lúteo regride**, deixando uma pequena cicatriz no ovário.
 
 ---
+A oogénese **inicia-se no desenvolvimento embrionário** e **retoma a partir da puberdade**, sendo produzido **um oócito, de 28 em 28 dias, até à menopausa**, havendo **períodos de repouso** em que a **oogénese é interrompida**.
 
+Decorre nas seguintes etapas sequenciais:
+1. ##### Fase de multiplicação
+	As **células germinativas primordiais**, localizados nos ovários, sofrem uma **rápida proliferação por mitose**, **aumentando exponencialmente o número de oogónias**.
+	A maioria destas **sofrerá atresia**, **degenerando-se**, sendo apenas cerca de 450 que completam a sua evolução até à **[[#Ovulação|ovulação]]**.
