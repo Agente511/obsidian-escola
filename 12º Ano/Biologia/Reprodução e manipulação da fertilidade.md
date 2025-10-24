@@ -101,8 +101,7 @@ Os ovários produzem os oócitos II e as hormonas sexuais estrogénios e progest
 
 Cada folículo ovárico é constituído por uma **célula da linha germinativa de maiores dimensões** e pelo menos uma **camada de células foliculares intervenientes na nutrição e proteção da célula da linha germinativa e ainda na produção de estrogénios**.
 #### Fase folicular
-Cada oócito I está envolvido por células foliculares, constituindo os **folículos primordiais**
-A partir da puberdade e até à menopausa, alguns destes **folículos** iniciam, **todos os meses**, um processo de **amadurecimento** em que **aumentam de tamanho** e desenvolvem a **cavidade antral** ou folicular. **Apenas um** destes folículos **desenvolve-se totalmente**, designando-se **folículo de Graaf**, folículo antral ou folículo maduro.
+A partir da puberdade e até à menopausa, alguns dos **folículos primordiais** iniciam, **todos os meses**, um processo de **amadurecimento** em que **aumentam de tamanho** e desenvolvem a **cavidade antral** ou folicular. **Apenas um** destes folículos **desenvolve-se totalmente**, designando-se **folículo de Graaf**, folículo antral ou folículo maduro.
 #### Ovulação
 Graças ao seu tamanho e à sua proximidade da parede do ovário, ocorre o **rompimento do folículo de Graaf e da parede do ovário**, e, consequentemente, a **ovulação**, sendo **libertado o oócito II** envolvido por algumas células foliculares, para o **pavilhão da trompa de Falópio**.
 #### Fase luteínica
@@ -114,7 +113,15 @@ A oogénese **inicia-se no desenvolvimento embrionário** e **retoma a partir da
 
 Decorre nas seguintes etapas sequenciais:
 1. ##### Fase de multiplicação
-	As **células germinativas primordiais**, localizados nos ovários, sofrem uma **rápida proliferação por mitose**, **aumentando exponencialmente o número de oogónias**.
+	Durante **apenas o desenvolvimento embrionário**, as **células germinativas primordiais**, localizados nos ovários, sofrem uma **rápida proliferação por mitose**, **aumentando exponencialmente o número de oogónias**.
 	A maioria destas **sofrerá atresia**, **degenerando-se**, sendo apenas cerca de 450 que completam a sua evolução até à **[[#Ovulação|ovulação]]**.
 2. ##### Fase de crescimento
-	As **oogónias** que não sofreram atrofia **aumentam o seu volume**
+	Durante **apenas o desenvolvimento embrionário**, as **oogónias** que não sofreram atrofia **aumentam o seu volume**, formando os oócitos de primeira ordem (**oócitos I**).
+	Cada um dos oócitos I é rodeado por uma **camada de células do córtex do ovário**, constituindo os **folículos primordiais**.
+	**Muitos oócitos I degeneram**, sendo os materiais nutritivos que destes sobram usados para o **crescimento do embrião**, graças às primeiras divisões celulares que ocorrem após a fecundação
+3. ##### Fase de maturação
+	Esta fase inicia-se antes do nascimento e permanece em repouso até à puberdade, a partir do qual é retomada mensalmente, sendo concluída na fecundação.
+	
+	Durante o **desenvolvimento fetal**, os **oócitos I remanescentes iniciam a meiose I**, mas esta fica **bloqueada na profase I até à puberdade**.
+	A partir da **puberdade**, iniciam-se os **ciclos ováricos**
+	
