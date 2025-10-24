@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Biologia/D1 3. Fecundação.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,15 +237,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bb5bb61e9df4d3f",
+  "active": "986296f849e39184",
   "lastOpenFiles": [
-    "12º Ano/Biologia/D1 1. Gametogénese humana.md",
+    "Pasted image 20251024220217.png",
+    "Sem título 9.jpg",
+    "Pasted image 20251024220116.png",
+    "Sem título 8.jpg",
     "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
+    "Pasted image 20251024220031.png",
+    "Pasted image 20251024215907.png",
+    "Sem título 7.jpg",
+    "Pasted image 20251024215758.png",
+    "Pasted image 20251024215614.png",
+    "Sem título 6.jpg",
+    "Pasted image 20251024215512.png",
     "12º Ano/Biologia/D1 3. Fecundação.md",
-    "Sem título 4.jpg",
-    "Sem título 3.jpg",
-    "Sem título 2.jpg",
-    "Sem título 1.jpg",
+    "12º Ano/Biologia/D1 1. Gametogénese humana.md",
     "^b92b9b.md",
     "10º Ano/Biologia/A Célula - Unidade estrutural e funcional.md",
     "11º Ano/Biologia/D2 1. Reprodução Assexuada.md",
@@ -259,12 +266,6 @@
     "11º Ano/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "11º Ano/Biologia/D3 2. Mecanismos de Evolução.md",
     "11º Ano/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
-    "Sem título-1 1.jpg",
-    "Sem título-1.jpg",
-    "Sem título.jpg",
-    "Pasted image 20251023223446.png",
-    "Pasted image 20251023223245.png",
-    "Pasted image 20251023223136.png",
     "11º Ano/Biologia/Biologia 11º Ano.md",
     "12º Ano/Matemática/Teoria dos conjuntos.md",
     "12º Ano/Matemática/Probabilidades.md",
@@ -275,7 +276,6 @@
     "Joana CO.md",
     "12º Ano/Matemática/Cálculo Combinatória.md",
     "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
-    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa heterónimo.md",
     "12º Ano/Português/Fernando Pessoa",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
