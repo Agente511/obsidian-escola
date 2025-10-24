@@ -80,3 +80,24 @@ A espermatogénese **inicia-se na puberdade** (10-14 anos de idade) e ocorre **c
 
 
 ![[Pasted image 20251023223446.png|350]]
+
+### Sistema reprodutor feminino
+O sistema reprodutor feminino é constituído por:
+- ##### Gónadas femininas
+	- **Ovários**
+		>[!Info] Constituição do ovário
+		>Localizados no **interior da cavidade abdominal** e ancorados ao útero e lateralmente à parede pélvica por ligamentos.
+		>
+		>A **zona medular** (parte interna) é constituída por **tecido rico em vasos sanguíneos e nervos**.
+		>A **zona cortical** (parte externa) apresenta **folículos ováricos** em diferentes estádios de desenvolvimento.
+- ##### Vias genitais ^3e0ca0
+	- **Vagina**
+	- **Útero**
+	- **Trompas de Falópio ou uterinas**
+- ##### Glândulas anexas ^7fcbf5
+	- **Vesículas seminais**
+	- **Próstata**
+	- **Glândulas de Cowper**
+
+O aparelho reprodutor feminino está adaptado à gametogénese, à fecundação e ao alojamento e nutrição do embrião e do feto, durante o período de gestação no útero.
+
