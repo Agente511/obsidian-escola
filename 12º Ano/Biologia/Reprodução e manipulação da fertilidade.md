@@ -89,7 +89,7 @@ O sistema reprodutor feminino é constituído por:
 		>Localizados no **interior da cavidade abdominal** e ancorados ao útero e lateralmente à parede pélvica por ligamentos.
 		>
 		>A **zona medular** (parte interna) é constituída por **tecido rico em vasos sanguíneos e nervos**.
-		>A **zona cortical** (parte externa) apresenta **folículos ováricos** em diferentes estádios de desenvolvimento. Cada folículo é constituído por uma célula da linha germinativa de maiores dimensões e pelo menos uma camada de células foliculares intervinientes na notrição e proteção
+		>A **zona cortical** (parte externa) apresenta **folículos ováricos** em diferentes estádios de desenvolvimento.
 - ##### Vias genitais ^3e0ca0
 	- **Vagina**
 	- **Útero**
@@ -101,5 +101,9 @@ O sistema reprodutor feminino é constituído por:
 
 O aparelho reprodutor feminino está adaptado à gametogénese, à fecundação e ao alojamento e nutrição do embrião e do feto, durante o período de gestação no útero.
 
+### Produção de oócitos (cruzar informação depois)
 Os ovários produzem os oócitos II e as hormonas sexuais estrogénios e progesterona
 
+Cada folículo ovárico é constituído por uma célula da linha germinativa de maiores dimensões e pelo menos uma camada de células foliculares intervenientes na nutrição e proteção da célula da linha germinativa e ainda na produção de estrogénios
+Cada oócito I está envolvido por células foliculares, constituindo os **folículos primordiais**
+A partir da puberdade e até à menopausa, alguns destes folículos iniciam, todos os meses, um processo de amadurecimento em que aumentam de tamanho e desenvolvem a **cavidade antral** ou folicular. Apenas um destes folículos desenvolve-se totalmente, designando-se **folículo de Graaf**, folículo antral ou folículo maduro. Graças ao seu tamanho e a sua proximidade da parede do ovário, ocorre o rompimento do folículo e da parede
