@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "986296f849e39184",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
     "Sem título-1 1.jpg",
     "Sem título-1.jpg",
