@@ -116,3 +116,5 @@ Decorre nas seguintes etapas sequenciais:
 1. ##### Fase de multiplicação
 	As **células germinativas primordiais**, localizados nos ovários, sofrem uma **rápida proliferação por mitose**, **aumentando exponencialmente o número de oogónias**.
 	A maioria destas **sofrerá atresia**, **degenerando-se**, sendo apenas cerca de 450 que completam a sua evolução até à **[[#Ovulação|ovulação]]**.
+2. ##### Fase de crescimento
+	As **oogónias** que não sofreram atrofia **aumentam o seu volume**
