@@ -99,7 +99,14 @@ O aparelho reprodutor feminino está adaptado à gametogénese, à fecundação 
 Os ovários produzem os oócitos II e as hormonas sexuais estrogénios e progesterona
 
 Cada folículo ovárico é constituído por uma **célula da linha germinativa de maiores dimensões** e pelo menos uma **camada de células foliculares intervenientes na nutrição e proteção da célula da linha germinativa e ainda na produção de estrogénios**.
+#### Fase folicular
 Cada oócito I está envolvido por células foliculares, constituindo os **folículos primordiais**
-A partir da puberdade e até à menopausa, alguns destes **folículos** iniciam, **todos os meses**, um processo de **amadurecimento** em que **aumentam de tamanho** e desenvolvem a **cavidade antral** ou folicular. **Apenas um** destes folículos **desenvolve-se totalmente**, designando-se **folículo de Graaf**, folículo antral ou folículo maduro. Graças ao seu tamanho e à sua proximidade da parede do ovário, ocorre o **rompimento do folículo de Graaf e da parede do ovário**, e, consequentemente, a **ovulação**, sendo **libertado o oócito II** envolvido por algumas células foliculares, para o **pavilhão da trompa de Falópio**. As restantes camadas celulares do folículo que permanecem no ovário evoluem, formando o **corpo lúteo** ou amarelo, responsável pela **produção de estrogénios e progesterona**.
+A partir da puberdade e até à menopausa, alguns destes **folículos** iniciam, **todos os meses**, um processo de **amadurecimento** em que **aumentam de tamanho** e desenvolvem a **cavidade antral** ou folicular. **Apenas um** destes folículos **desenvolve-se totalmente**, designando-se **folículo de Graaf**, folículo antral ou folículo maduro.
+#### Ovulação
+Graças ao seu tamanho e à sua proximidade da parede do ovário, ocorre o **rompimento do folículo de Graaf e da parede do ovário**, e, consequentemente, a **ovulação**, sendo **libertado o oócito II** envolvido por algumas células foliculares, para o **pavilhão da trompa de Falópio**.
+#### Fase luteínica
+As restantes camadas celulares do folículo que permanecem no ovário evoluem, formando o **corpo lúteo** ou amarelo, responsável pela **produção de estrogénios e progesterona**.
 Caso **não ocorra fecundação**, o **corpo lúteo regride**, deixando uma pequena cicatriz no ovário.
+
+---
 
