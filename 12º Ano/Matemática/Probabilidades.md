@@ -80,3 +80,4 @@ $A$ e $B$ dizem-se **incompatíveis** se e só se $A \cap B = \emptyset$.
 >- $P(\text{acontecimento certo})=P(E)=1$
 >- $P(\text{acontecimento impossível})=P(\emptyset)=0$
 
+## Propriedades das probabilidades
