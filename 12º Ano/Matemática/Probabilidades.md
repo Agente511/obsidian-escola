@@ -81,3 +81,15 @@ $A$ e $B$ dizem-se **incompatíveis** se e só se $A \cap B = \emptyset$.
 >- $P(\text{acontecimento impossível})=P(\emptyset)=0$
 
 ## Propriedades das probabilidades
+>[!Summary] Propriedades das probabilidades
+>- $0 \leq P(A) \leq 1$
+>- $P(\overline A)= 1 - P(A)$
+>- $P(\emptyset)=0$ e $P(E)=1$
+>- Se $A \subset B$,
+>  $P(A) \leq P(B)$
+>  $P(B \backslash A)=P(B)-P(A)$
+>- $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
+>
+>Leis de Morgan:
+>- $P(A) = P(A \cap B) + P(A \cap \overline B)$
+>- $P(\overline {A \cup B}) =
