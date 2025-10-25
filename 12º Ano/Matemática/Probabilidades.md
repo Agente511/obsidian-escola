@@ -61,7 +61,9 @@ Os elementos de um acontecimento designam-se por **casos favoráveis**.
 	>
 	>$A \cup B$: "Sair um número primo **e** um número par."
 	>$A \cup B= \{2,\ 3,\ 5\} \cap \{2,\ 4,\ 6\}=\{2\}$
-	>
+
+- ##### Diferença
+	Representa-se por $A \backslash B$
 ### Acontecimentos incompatíveis, disjuntos ou mutuamente exclusivos
 Acontecimentos que **nunca ocorrem em simultâneo**.
 A realização de um deles implica a não realização do outro.
@@ -86,10 +88,11 @@ $A$ e $B$ dizem-se **incompatíveis** se e só se $A \cap B = \emptyset$.
 >- $P(\overline A)= 1 - P(A)$
 >- $P(\emptyset)=0$ e $P(E)=1$
 >- Se $A \subset B$,
->  $P(A) \leq P(B)$
->  $P(B \backslash A)=P(B)-P(A)$
+>	- $P(A) \leq P(B)$
+>	- $P(B \backslash A)=P(B)-P(A)$
 >- $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
+>- $P(A) = P(A \cap B) + P(A \cap \overline B)$
 >
 >Leis de Morgan:
->- $P(A) = P(A \cap B) + P(A \cap \overline B)$
->- $P(\overline {A \cup B}) =
+>- $P(\overline {A \cup B}) = P(\overline A \cap \overline B)$
+>- $P(\overline {A \cap B}) = P(\overline A \cup \overline B)$
