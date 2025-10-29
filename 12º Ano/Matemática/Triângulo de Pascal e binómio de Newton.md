@@ -15,7 +15,7 @@ Calculando os respetivos valores dos coeficientes binomiais, o triângulo també
 
 >[!Summary] Notas
 >1. Cada **linha começa e acaba em 1**.
->   $\large (^nC_0=^nC_n)$
+>   $\large (^nC_0=^nC_n=1)$
 >2. Em cada linha, **elementos igualmente afastados dos extremos** são **iguais**.
 >   $\large (^nC_p=^nC_{n-p})$
 >3. Cada elemento, que **não esteja num dos extremos** de uma linha, é **igual à soma dos elementos que estão acima dele**, na **linha anterior**, um à **esquerda** e outro à **direita**.
