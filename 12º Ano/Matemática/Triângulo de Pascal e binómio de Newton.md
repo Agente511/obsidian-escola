@@ -21,6 +21,7 @@ Calculando os respetivos valores dos coeficientes binomiais, o triângulo també
 >3. Cada elemento, que **não esteja num dos extremos** de uma linha, é **igual à soma dos elementos que estão acima dele**, na **linha anterior**, um à **esquerda** e outro à **direita**.
 >   $\large (^nC_p+^nC_{p+1}=^{n+1}C_{p+1})$
 >4. O **segundo e o penúltimo elementos** da linha de ordem $n$ são ambos **iguais a $n$**.
+>   $\large (^nC_1=^nC_{n-1}=n)$
 >5. A **soma de todos os elementos da linha** de ordem $n$ é **$2^n$**.
 >   $$\begin{flalign}& (\sum_{p=0}^n\ ^nC_p = 2^n) &\end{flalign}$$
 >6. A **linha** de ordem $n$ tem **$n+1$ elementos**.
