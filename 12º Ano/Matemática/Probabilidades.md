@@ -85,8 +85,8 @@ $A$ e $B$ dizem-se **incompatíveis** se e só se $A \cap B = \emptyset$.
 ## Propriedades das probabilidades
 >[!Summary] Propriedades das probabilidades
 >- $0 \leq P(A) \leq 1$
->- $P(\overline A)= 1 - P(A)$
 >- $P(\emptyset)=0$ e $P(E)=1$
+>- $P(\overline A)= 1 - P(A)$
 >- Se $A \subset B$,
 >	- $P(A) \leq P(B)$
 >	- $P(B \backslash A)=P(B)-P(A)$
