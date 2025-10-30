@@ -69,8 +69,11 @@ Acontecimentos que **nunca ocorrem em simultâneo**.
 A realização de um deles implica a não realização do outro.
 
 $A$ e $B$ dizem-se **incompatíveis** se e só se $A \cap B = \emptyset$.
-- ##### Acontecimentos contrários
+- ##### Acontecimentos contrários ou complementares
 	$A$ e $B$ dizem-se **contrários** se $A \cap B= \emptyset$ e $A \cup B=\Omega$, isto é, se o acontecimento reunião  de $A$ com $B$ corresponder ao espaço amostral e os acontecimentos forem incompatíveis.
+
+### Acontecimentos equiprováveis
+Acontecimentos com a **mesma probabilidade**.
 ## Lei de Laplace
 >[!Summary] Definição de Laplace de probabilidade
 >Numa experiência aleatória onde os casos possíveis são em número finito e equiprováveis, a probabilidade de um acontecimento $A$ é dada pelo quociente entre o número de casos favoráveis a esse acontecimento e o número de casos possíveis.
