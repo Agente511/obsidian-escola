@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Matemática/Probabilidades.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3baa1aad04d69e97",
+  "active": "9bdf5ccbdf88e777",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
+    "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Cálculo Combinatória.md",
     "10º Ano/Inglês/Vocabulary.md",
     "12º Ano/Matemática/Teoria dos conjuntos.md",
