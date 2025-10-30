@@ -47,3 +47,6 @@ Verifica-se que os **expoentes de $a$** variam de **$n$ a 0** e os **expoentes d
 >1. O desenvolvimento de $(a-b)^n$ pode ser obtido pela expressão $(a+(-b))^n$.
 >2. O desenvolvimento de $(a+b)^n$ tem $(n+1)$ termos.
 >3. A soma dos coeficientes binomiais $(^nC_p)$ é dado por $2^n$.
+
+>[!Tip] Nota
+>Para descobrir o valor do **termo independente de $x$** simplifica-se o termo geral do desenvolvimento do binómio de Newton e **substitui-se o expoente de $x$ por 0**.
