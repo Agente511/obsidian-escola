@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "telofase",
+                "query": "\"rer\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,12 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3baa1aad04d69e97",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
+    "12º Ano/Biologia/D1 1. Gametogénese humana.md",
     "12º Ano/Biologia/D1 3. Fecundação.md",
+    "11º Ano/Biologia/D2 3. Ciclos de Vida.md",
     "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
     "12º Ano/Matemática/Probabilidades.md",
-    "12º Ano/Biologia/D1 1. Gametogénese humana.md",
     "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
     "12º Ano/Matemática/Cálculo Combinatório.md",
     "12º Ano/Matemática/Teoria dos conjuntos.md",
@@ -269,7 +270,6 @@
     "11º Ano/Biologia/D1 1.1-1.3 Composição e Estrutura dos Ácidos Nucleicos.md",
     "11º Ano/Biologia/D1 1. Ácidos Nucleicos e Informação Genética.md",
     "11º Ano/Biologia/D2 2. Reprodução Sexuada.md",
-    "11º Ano/Biologia/D2 3. Ciclos de Vida.md",
     "11º Ano/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
     "11º Ano/Biologia/D3 2. Mecanismos de Evolução.md",
     "11º Ano/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
