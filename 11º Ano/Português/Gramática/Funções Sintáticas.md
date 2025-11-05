@@ -74,7 +74,7 @@ Pode ter valor temporal, modal ou locativo.
 - Resolvo os exercícios, **assim que esclarecer as minhas dúvidas** (valor temporal)
 # Internas ao Grupo Nominal
 ## Complemento do nome
-Selecionado por um nome dependente, colocando-se à direita desse.
+Selecionado por um nome dependente, colocando-se à sua direita.
 Integra sempre outra função sintática, na qual se inclui o nome por que é selecionado.
 - O tio **da Ana** é um jornalista conhecido.
 - A descoberta **deste autor** fez de mim um novo leitor.
@@ -93,7 +93,16 @@ Não restringe a referência do nome que modifica.
 
 # Internas ao Grupo Adjetival
 ## Complemento do adjetivo
-Selecionado por um adjetivo, colocando-se à direita desse.
+Selecionado por um adjetivo, colocando-se à sua direita.
 Integra sempre outra função sintática, na qual se inclui o adjetivo por que é selecionado.
-- O vencedor, surpreendido **com o pré**
+- O vencedor, surpreendido **com o prémio**, agradeceu aos colegas.
+- Atento **às novidades**, o Raul já comprou um computador do mais recente modelo.
+- Não estou disponível **para trabalhar no sábado**.
+- Esse café não fica muito distante **de minha casa**.
 # Internas ao Grupo Adverbial
+## Complemento do advérbio
+Selecionado por um advérbio, colocando-se à sua direita.
+Integra sempre outra função sintática, na qual se inclui o advérbio por que é selecionado.
+- Independentemente **do tempo que estiver**, o jantar será ao ar livre.
+- Dentro **do armário** foram encontradas várias relíquias.
+- Sempre **que vou ao teatro**, tenho boas surpresas.
