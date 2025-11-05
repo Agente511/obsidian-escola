@@ -23,15 +23,17 @@ Chamamento ou interpelação do interlocutor, identificando-o.
 Ocorre frequentemente em frases imperativas, interrogativas e exclamativas.
 - Veste o casaco, **Daniel**!
 - **Vítor**, viste a série que lançou?
-## (?) Modificador (de frase) (?)
+## Modificador (de frase)
 Elemento opcional e a sua omissão não afeta a gramaticalidade da frase.
+Desempenhado por um grupo adverbial, um grupo preposicional ou uma oração que afeta toda a frase.
 Representa a atitude do locutor relativamente ao conteúdo enunciativo ou orientação para um dado domínio.
-- **Talvez** a estrada seja alcatroada este ano.
+- As temperaturas têm sido, **de facto**, bastante elevadas.
 - **Cientificamente**, as descobertas feitas são surpreendentes.
+- **Embora tivesse lido o livro**, ele não soube responder à pergunta.
 # Internas ao Grupo verbal
 ## Complemento direto
 Selecionado por um verbo transitivo direto. Responde à pergunta "O quê?" ou "Quem?".
-Substituível pelo pronome pessoal *o*, *a*, *os*, *as*.
+Substituível pelo pronome pessoal *o*, *a*, *os*, *as* e pelo pronome demonstrativo *isto*, *isso*, *aquilo*.
 - O técnico reparou **a avaria**.
 - Perguntei **se a peça era substituível**.
 - Ele informou **que o arranjo seria dispendioso**.
@@ -51,7 +53,7 @@ Selecionado por um verbo transitivo indireto.
 Não é substituível pelo pronome pessoal *lhe*/*lhes*.
 - Nos fins de semana, a Rita olha **pelas crianças dos vizinhos**.
 - A multidão resguardou-se **da chuva** nas entradas dos prédios.
-- O Martim sente-se **bem**.
+- Não posso ir **aí** agora.
 ## Complemento agente da passiva
 Presente numa frase passiva.
 Introduzido pela preposição *por* (simples ou contraída).
