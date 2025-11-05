@@ -91,3 +91,9 @@ Não restringe a referência do nome que modifica.
 - O quadro, **de valor incalculável**, desapareceu há vários anos.
 - Dei à Laurinda o casaco azul, **que tinha comprado no Algarve**.
 
+# Internas ao Grupo Adjetival
+## Complemento do adjetivo
+Selecionado por um adjetivo, colocando-se à direita desse.
+Integra sempre outra função sintática, na qual se inclui o adjetivo por que é selecionado.
+- O vencedor, surpreendido **com o pré**
+# Internas ao Grupo Adverbial
