@@ -49,7 +49,7 @@ Relação de parte-todo.
 Conjunto de mecanismos assentes no **estabelecimento de ligações intra e interfrásicas**.
 ### Coesão referencial
 #### Anáfora
-Mecanismo de ligação assente na existência de cadeias anafóricas, constituídas por um **antecedente** (referente) que é **retomado por termos anafóricos** (termos correferentes) cujo entendimento só é possível antecedente ao significado do antecedente.
+Mecanismo de ligação assente na existência de cadeias anafóricas, constituídas por um **antecedente** (referente) que é **retomado por termos anafóricos** (termos correferentes) cujo entendimento só é possível antendendo ao significado do antecedente.
 >[!Note] Exemplo
 >*Quando **Padre António Vieira** chegou ao Brasil, começou a contactar com as **comunidades indígenas**. **Estas** apaixonavam-**no**.*
 >
