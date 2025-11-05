@@ -23,7 +23,7 @@ Chamamento ou interpelação do interlocutor, identificando-o.
 Ocorre frequentemente em frases imperativas, interrogativas e exclamativas.
 - Veste o casaco, **Daniel**!
 - **Vítor**, viste a série que lançou?
-## Modificador (de frase)
+## Modificador ~~(de frase)~~
 Elemento opcional e a sua omissão não afeta a gramaticalidade da frase.
 Desempenhado por um grupo adverbial, um grupo preposicional ou uma oração que afeta toda a frase.
 Representa a atitude do locutor relativamente ao conteúdo enunciativo ou orientação para um dado domínio.
