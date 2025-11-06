@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "348a1dac7da3bbbd",
+            "id": "297433bca3dc532c",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://apfertilidade.org/tratamento/injecao-intracitoplasmatica-de-espermatozoides/?doing_wp_cron=1762283973.7901360988616943359375",
-                "title": "Injeção intracitoplasmática de espermatozóides | Associação Portuguesa de Fertilidade",
+                "url": "https://ivi.pt/tratamentos-procriacao-assistida/icsi/",
+                "title": "Injeção Intracitoplásmica (ICSI) - Clínicas de Fertilidade IVI",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Injeção intracitoplasmática de espermatozóides | Associação Portuguesa de Fertilidade"
+              "title": "Injeção Intracitoplásmica (ICSI) - Clínicas de Fertilidade IVI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bae47c4d0fb90b6",
+  "active": "297433bca3dc532c",
   "lastOpenFiles": [
     "12º Ano/Biologia/trabalho injeção intracitoplasmática.md",
     "12º Ano/Biologia/D1 1. Gametogénese humana.md",
