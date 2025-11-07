@@ -34,8 +34,23 @@
               "icon": "globe-2",
               "title": "Injeção Intracitoplásmica (ICSI) - Clínicas de Fertilidade IVI"
             }
+          },
+          {
+            "id": "07492256947085b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D1 2. Regulação hormonal da reprodução"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bae47c4d0fb90b6",
+  "active": "07492256947085b8",
   "lastOpenFiles": [
-    "12º Ano/Biologia/trabalho injeção intracitoplasmática.md",
     "12º Ano/Biologia/D1 1. Gametogénese humana.md",
+    "12º Ano/Biologia/trabalho injeção intracitoplasmática.md",
     "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
     "12º Ano/Biologia/D1 3. Fecundação.md",
     "11º Ano/Português/Gramática/Valor modal.md",
