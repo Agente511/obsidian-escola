@@ -9,6 +9,7 @@ Fontes:
 - [ivi.pt](https://ivi.pt/tratamentos-procriacao-assistida/icsi/)
 - [apfertilidade.org](https://apfertilidade.org/tratamento/injecao-intracitoplasmatica-de-espermatozoides/?doing_wp_cron=1762283973.7901360988616943359375)
 
+Doenças infeciosas ou infertilidade de causa imunitária
 
 ## Interculturalidade
 A ICSI levanta questões éticas e culturais, existindo países em que é alvo de restrições, como é o caso da Alemanha, que permite apenas a criação de 3 embriões e impede a seleção de embriões de modo a ser escolhido o com melhor potencial de desenvolvimento, de acordo com a Lei de Proteção ao Embrião imposta no país.
