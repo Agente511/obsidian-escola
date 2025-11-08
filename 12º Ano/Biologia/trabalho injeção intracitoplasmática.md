@@ -20,3 +20,4 @@ Já em países como Portugal, as leis são mais permissivas, sendo a técnica am
 https://cureholiday.com/pt/Guia-de-sele%C3%A7%C3%A3o-de-g%C3%AAnero-para-fertiliza%C3%A7%C3%A3o-in-vitro-na-Alemanha--pr%C3%B3s--contras-e-custos/º
 ---
 Culturas com diferentes normas e costumes A aplicação da ICSI varia enormemente conforme as normas culturais, religiosas e legais de cada sociedade. Em sociedades ocidentais laicas com alto grau de secularização, como muitos países da Europa Ocidental, a técnica é amplamente aceita, utilizada e vista como progresso médico para superar a infertilidade e permitir o sonho da parentalidade a muitos casais. Por outro lado, em países onde religiões tradicionais têm grande influência sobre as leis e valores sociais—como ocorre em Estados de maioria católica conservadora, islâmica sunita ou judaica ortodoxa—há restrições, proibições ou estigmatização social do uso da ICSI, principalmente se envolver doação de gametas ou manipulação de embriões.
+
