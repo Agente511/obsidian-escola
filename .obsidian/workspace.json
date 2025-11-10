@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "D1 2. Regulação hormonal da reprodução"
             }
+          },
+          {
+            "id": "3cc2172803f4d9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D1 2. Regulação hormonal da reprodução"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,12 +251,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bae47c4d0fb90b6",
+  "active": "3cc2172803f4d9fa",
   "lastOpenFiles": [
-    "Pasted image 20251108010954.png",
-    "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
     "12º Ano/Biologia/D1 1. Gametogénese humana.md",
     "12º Ano/Biologia/trabalho injeção intracitoplasmática.md",
+    "Pasted image 20251108010954.png",
+    "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
     "12º Ano/Biologia/D1 3. Fecundação.md",
     "11º Ano/Português/Gramática/Valor modal.md",
     "11º Ano/Português/Gramática/Coesão textual.md",
@@ -272,7 +287,6 @@
     "Pasted image 20251024215907.png",
     "Sem título 7.jpg",
     "Pasted image 20251024215758.png",
-    "Pasted image 20251024215614.png",
     "^b92b9b.md",
     "10º Ano/Biologia/A Célula - Unidade estrutural e funcional.md",
     "Sem título.canvas",
