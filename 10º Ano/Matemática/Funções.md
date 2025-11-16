@@ -1,5 +1,4 @@
 ## Produto cartesiano de dois conjuntos
----
 O **produto cartesiano de A em B** é um **conjunto** constituído por todos os **pares ordenados** em que o **1º elemento pertence a A** e o **2º elemento pertence a B**
 >[!Note] Exemplo
 >$A =$ {$1, 2, 4$}
@@ -11,7 +10,6 @@ O **produto cartesiano de A em B** é um **conjunto** constituído por todos os 
 >##### $\#B = 2$
 
 ## Função
----
 **Função de A em B** é uma correspondência em que a cada elemento de A associa um e um só elemento de B.
 ![[Pasted image 20240227234622.png]]
 >[!Note] Exemplo
@@ -32,7 +30,6 @@ O **produto cartesiano de A em B** é um **conjunto** constituído por todos os 
 #### Gráfico
 $G_f =$ {$(1,e); (2,f); (3,g)$}
 ## Funções injetivas
----
 Uma função diz-se injetiva quando a **objetos diferentes** correspondem **imagens diferentes**.
 >[!Note] Exemplo
 
@@ -47,16 +44,13 @@ $f$ é uma função injetiva.
 $g$ não é uma função injetiva, porque $g(1) = g(3)$.
 
 ## Funções sobrejetivas
----
 Uma função diz-se sobrejetiva se o **contradomínio coincidir** com o **conjunto de chegada**.
 
 ![[Pasted image 20240228000637.png]]
 ## Funções bijetivas
----
 Uma função diz-se bijetiva se for **simultaneamente injetiva e sobrejetiva**.
 
 ## Composição de Funções
----
 ![[Pasted image 20240228000816.png]]
 $(g\circ f)(4) = g(f(4)) = g(13) = 10$
 $(g\circ f)(3) = g(f(3)) = g(11) = 8$
