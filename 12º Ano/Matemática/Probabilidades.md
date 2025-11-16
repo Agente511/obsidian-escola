@@ -99,3 +99,9 @@ Acontecimentos com a **mesma probabilidade**.
 >Leis de Morgan:
 >- $P(\overline {A \cup B}) = P(\overline A \cap \overline B)$
 >- $P(\overline {A \cap B}) = P(\overline A \cup \overline B)$
+
+## Probabilidade condicionada
+
+> [!Summary] Definição de probabilidade condicionada
+> Dados um conjunto finito, não vazio, $E$, e dois acontecimentos $A$ e $B$ em $E$, com $P(B) \neq 0$, a **probabilidade condicionada de $A$ se $B$**, ou **probabilidade de $A$, sabendo que ocorreu $B$**:
+> $\Large \frac {P(A \cap B)} {P(B)}$
