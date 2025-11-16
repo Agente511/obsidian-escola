@@ -103,5 +103,16 @@ Acontecimentos com a **mesma probabilidade**.
 ## Probabilidade condicionada
 
 > [!Summary] Definição de probabilidade condicionada
-> Dados um conjunto finito, não vazio, $E$, e dois acontecimentos $A$ e $B$ em $E$, com $P(B) \neq 0$, a **probabilidade condicionada de $A$ se $B$**, ou **probabilidade de $A$, sabendo que ocorreu $B$**:
-> $\Large \frac {P(A \cap B)} {P(B)}$
+> Dados um conjunto finito, não vazio, $E$, e dois acontecimentos $A$ e $B$ em $E$, com $P(B) \neq 0$, a **probabilidade condicionada de $A$ se $B$**, ou **probabilidade de $A$, sabendo que ocorreu $B$** é igual a:
+> $$\begin{flalign}& P(A|B) = \frac {P(A \cap B)} {P(B)} &\end{flalign}$$
+
+
+>[!Summary] Notas
+>1. $$\begin{flalign}& P(A|B) = \frac {P(A \cap B)} {P(B)} \iff P(A \cap B) = P(B) \times P(A|B),\ \ P(B)>0 &\end{flalign}$$
+>	e, analogamente:
+>	$$\begin{flalign}& P(B|A) = \frac {P(B \cap A)} {P(A)} \iff P(A \cap B) = P(A) \times P(A|B),\ \ P(A)>0 &\end{flalign}$$
+>
+>2. $$\begin{flalign}& P(A|B) = \frac {P(A \cap B)} {P(B)} \iff P(B) = \frac {P(A \cap B)} {P(A|B)} &\end{flalign}$$
+>	e, analogamente:
+>	$$\begin{flalign}& P(B|A) = \frac {P(B \cap A)} {P(A)} \iff P(A) = \frac {P(A \cap B)} {P(B|A)} &\end{flalign}$$
+
