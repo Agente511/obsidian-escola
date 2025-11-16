@@ -1,0 +1,1 @@
+Dada uma função real de variável real $f$ e um ponto $a$ do respetivo domínio, diz-se que **$f$ é contínua em $a$** se e só se existir $\underset{x\rightarrow a} \lim f(x)$, ou seja, **se $\underset{x\rightarrow a} \lim f(x)=f(a)$**.
