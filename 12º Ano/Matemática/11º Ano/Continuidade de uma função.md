@@ -9,4 +9,6 @@ Dada uma função real de variável real $f$ e um ponto $a \in D_f$, diz-se que 
 	- $\frac f g$, $g\neq 0$
 	- $f^n$, $n \in \mathbb N$
 	- $\sqrt[n] f$, $n$ par
-- Se $f$ é contínua em $a$ e $g$ é contínua em $g(a)$ então $g \c
+- Se **$f$ é contínua em $a$** e **$g$ é contínua em $f(a)$** então a [[Funções#Composição de Funções|função composta]] **$g \circ f$ é contínua em $a$**.
+- Se **$\underset{x \rightarrow a} \lim f(x) = 0$** e **$g$ é limitada** então **$\underset{x \rightarrow a} \lim f(x) \times g(x)=0$**.
+- As **funções trigonométricas $\sin x$ e $\cos x$ são contínuas**.
