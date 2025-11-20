@@ -88,12 +88,12 @@ Sendo $(u_n)$ e $(v_n)$ sucessões [[#Limite de uma sucessão convergente|conver
 >[!Note] Exemplo
 >1. $\lim u_n=a$, $\lim v_n=+\infty$
 >$\lim (u_n+v_n)=\lim u_n + \lim v_n= a +(+\infty)=+ \infty$
->.
+>${}$
 >2. $\lim u_n=-3$, $\lim v_n=+\infty$
 >$\lim (u_n \times v_n)= \lim u_n \times \lim v_n = -3 \times (+\infty) = -\infty$
->.
+>${}$
 >3. $\lim u_n = +\infty$, $\lim v_n=-\infty$
->$$\begin{flalign}& \lim (u_n+v_n) = \lim u_n + \lim v_n = +\infty +(+\infty) = \infty-\infty &\end{flalign}$$
+>$$\begin{flalign}& \lim (u_n+v_n) = \lim u_n + \lim v_n = +\infty +(-\infty) = \infty-\infty &\end{flalign}$$
 >Indeterminação
 
 ## Indeterminações
