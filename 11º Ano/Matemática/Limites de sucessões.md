@@ -116,7 +116,7 @@ $\lim$ polinómio $= \lim$ (termo de maior grau)
 >
 >$\lim (u_n+v_n) \overset{\infty-\infty} = \lim (n^2+4n+1-n^3)=\lim (-n^3+n^2+4n+1)=\lim (-n^3)=-\infty$
 ##### $(\frac \infty \infty)$
-Considera-se o **termo de maior grau** no **numerador** e **denominador**.
+Considera-se o **limite do quociente dos termos de maior grau do numerador e do denominador**.
 >[!Note] Exemplo
 >1. $u_n=n^3+4n$, $v_n=3n^2$
 >$$\begin{flalign}& \lim{\frac {u_n} {v_n}} \lim{\frac {n^3+4n} {3n^2}} \overset{\frac \infty \infty}= \frac {\lim n^3} {\lim 3n^2} = \lim {\frac n 3} = \frac {+\infty} {3} = +\infty &\end{flalign}$$
