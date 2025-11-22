@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Limite segundo Heine"
             }
+          },
+          {
+            "id": "71cf4228230e05ad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f70cf664ad91574f",
+  "active": "71cf4228230e05ad",
   "lastOpenFiles": [
-    "11º Ano/Matemática/Funções racionais.md",
     "11º Ano/Matemática/Limite segundo Heine.md",
+    "11º Ano/Matemática/Funções racionais.md",
     "11º Ano/Matemática/Sucessões.md",
     "11º Ano/Matemática/Limites de sucessões.md",
     "10º Ano/Matemática/Funções.md",
