@@ -28,14 +28,15 @@
               "type": "markdown",
               "state": {
                 "file": "11º Ano/Matemática/Limite segundo Heine.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Limite segundo Heine"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,11 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9fffe523ee661f3",
+  "active": "f70cf664ad91574f",
   "lastOpenFiles": [
+    "11º Ano/Matemática/Funções racionais.md",
     "11º Ano/Matemática/Limite segundo Heine.md",
     "11º Ano/Matemática/Sucessões.md",
-    "11º Ano/Matemática/Funções racionais.md",
     "11º Ano/Matemática/Limites de sucessões.md",
     "10º Ano/Matemática/Funções.md",
     "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
