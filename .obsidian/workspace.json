@@ -62,6 +62,20 @@
               "icon": "lucide-file",
               "title": "Assíntotas ao gráfico de uma função"
             }
+          },
+          {
+            "id": "3ec246ed6a4b48d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10º Ano/Matemática/Polinómios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polinómios"
+            }
           }
         ]
       }
@@ -95,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ponto aderente\"",
+                "query": "ruffini",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,8 +267,9 @@
   },
   "active": "d9fffe523ee661f3",
   "lastOpenFiles": [
-    "11º Ano/Matemática/Limite segundo Heine.md",
+    "10º Ano/Matemática/Polinómios.md",
     "11º Ano/Matemática/Limites de sucessões.md",
+    "11º Ano/Matemática/Limite segundo Heine.md",
     "11º Ano/Matemática/Funções racionais.md",
     "12º Ano/Matemática/11º Ano/Continuidade de uma função.md",
     "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
@@ -277,7 +293,6 @@
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Capítulo V - Confirmação (Repreensões aos peixes, em particular).md",
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Capítulo VI - Peroração (Elogio final e apelo aos peixes).md",
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Discurso Político.md",
-    "10º Ano/Português/Educação Literária/Cantiga de amor.md",
     "12º Ano/Matemática/11º Ano",
     "Pasted image 20251108010954.png",
     "Sem título 1.canvas",
