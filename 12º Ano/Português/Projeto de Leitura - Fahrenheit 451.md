@@ -8,9 +8,11 @@ Bom dia a todos, o livro que venho apresentar intitula-se...
 1ª **edição**, de maio de 2018
 A **versão original** foi publicada em 1953, quando o autor tinha apenas 33 anos
 
-**Género literário**: romance distópico e ficção científica (desenvolve um cenário futuro obscuro e negativo explorando ideias ligadas ao avanço científico e tecnológico)
+**Género literário**: romance distópico e ficção científica (visiona um cenário futuro negativo e obscuro, explorando ideias ligadas ao potencial avanço científico e tecnológico)
 
 ## Resumo da história
+A história passa-se num tempo não especificado, sabendo-se que desde 2022 ocorreram 2 guerras atómicas,
+
 A história começa com o narrador, membro de um trio musical, a atuar num concerto onde, também atuou de seguida outra orquestra, cujo **som do violino lhe captou a atenção**. Ele era tocado por uma **mulher idosa** que lhe revelou que o **violino** tinha sido **feito pelo seu tio**, Daniel, enquanto ele estava num campo de concentração.
 
 A partir do **2º capítulo**, é feita uma **analepse**, retomando para quando Daniel chegou ao Campo dos Três Rios, em Auschwitz.
