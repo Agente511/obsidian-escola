@@ -5,10 +5,10 @@ Bom dia a todos, o livro que venho apresentar intitula-se...
 **Tradutor**: Casimiro da Piedade
 
 **Editora**: Saída de Emergência
-1ª **edição**, de 2018
-A **versão original** foi publicada em 1953, 
+1ª **edição**, de maio de 2018
+A **versão original** foi publicada em 1953, quando o autor tinha apenas 33 anos
 
-**Género literário**: romance distópico e ficção científica ()
+**Género literário**: romance distópico e ficção científica (desenvolve um cenário futuro obscuro e negativo explorando ideias ligadas ao avanço científico e tecnológico)
 
 ## Resumo da história
 A história começa com o narrador, membro de um trio musical, a atuar num concerto onde, também atuou de seguida outra orquestra, cujo **som do violino lhe captou a atenção**. Ele era tocado por uma **mulher idosa** que lhe revelou que o **violino** tinha sido **feito pelo seu tio**, Daniel, enquanto ele estava num campo de concentração.
