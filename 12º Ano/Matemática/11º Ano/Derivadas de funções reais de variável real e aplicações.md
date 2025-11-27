@@ -29,9 +29,41 @@ Quando existe derivada de $f$ em $a$, diz-se que **$f$ é diferenciável** (ou d
 Uma função é **diferenciável** se for **diferenciável no domínio**.
 
 ### Reta tangente ao gráfico de $f$ no ponto $a$
-Geometricamente, é o declive da reta tangente ao gráfico de $f$ no ponto $a$.
+Geometricamente, $f'(a)$ é o declive da reta tangente ao gráfico de $f$ no ponto $a$.
 
 >[!Summary] Equação da reta tangente ao gráfico de $f$ no ponto de abcissa $a$
 >$\large y = f'(a) (x-a) + f(a)$
 
 ## Função derivada
+Dada uma função real de variável real $f$, designa-se por função derivada de $f$ a função de domínio $D_f = \{x \in D_f: f$ é diferenciável em $x\}$.
+Representa-se por $f'$.
+
+> [!Summary] Teorema
+> Dada uma função de variável real $f$ e um ponto $a \in D_f$, se $f$ é diferenciável em $a$, então **$f$ é contínua em $a$**.
+> >[!Warning] A implicação recíproca não é necessariamente verdadeira.
+> >$f$ pode ser contínua em $a$ e não ser diferenciável em $x$.
+
+### Regras da derivação
+Considerando:
+\- $f$ e $g$ funções reais de variável real de domínio D
+\- $a \in D$
+\- $k \in \mathbb R$
+\- $f$ e $g$ diferenciáveis em $a$
+
+- ##### Soma e diferença
+  $(f+g)'=f' + g'$
+- ##### Produto por uma constante
+  $(k\ f)'=k\ f', k \in \mathbb R$
+- ##### Constante
+	$k'=0$
+- ##### $x$
+	$x'=1$
+- ##### Potência
+	$(x^n)'=n\ x^{n-1}$
+	>[!Note] Exemplos
+	>- $(x^2)'=2\ x$
+	>- $(x^3)'=3\ x^{2}$
+	>- $(x^4)'=4\ x^{3}$
+
+- ##### Produto
+	
