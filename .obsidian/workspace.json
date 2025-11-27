@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "cb71d424abddaf9b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "73f23d856741b8c7",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Projeto de Leitura - O Violino de Auschwitz"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e241eed9f8c585bb",
+  "active": "cb71d424abddaf9b",
   "lastOpenFiles": [
     "11º Ano/Português/Outros/Projeto de Leitura - O Violino de Auschwitz.md",
     "12º Ano/Português/Projeto de Leitura - Fahrenheit 451.md",
