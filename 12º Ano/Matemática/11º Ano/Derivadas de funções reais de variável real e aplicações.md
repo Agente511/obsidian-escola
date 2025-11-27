@@ -59,11 +59,15 @@ Considerando:
 - ##### $x$
 	$x'=1$
 - ##### Potência
-	$(x^n)'=n\ x^{n-1}$
+	$(x^n)'=n\ n'\ x^{n-1} = n\ x^{n-1}$
 	>[!Note] Exemplos
 	>- $(x^2)'=2\ x$
 	>- $(x^3)'=3\ x^{2}$
-	>- $(x^4)'=4\ x^{3}$
+	>- $(\frac 1 x)'=(x^{-1})'=-x^{-2}=-\frac 1 {x^2}$
+	>- $(\sqrt x)'= (x^{\frac 1 2})' = \frac 1 2 \times x^{-\frac 1 2}= \frac 1 2 \times \frac 1 {x^2}= \frac 1 {2 \sqrt x}$
+	>- $(f^n)'= n\ f'\ f^{-1}$
 
 - ##### Produto
-	
+	$(f \times g)'= f' \times g + g' \times f$
+- ##### Quociente
+	$(f \times g)'=$ $\large \frac {f' \times g - g' \times f} {g^2}$, $g \neq 0$
