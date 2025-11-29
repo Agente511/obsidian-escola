@@ -30,7 +30,7 @@ Mendel calculou a proporção entre os 2 tipos de plantas obtidas em F2 e determ
 >[!Note] Experiências de mono-hibidrismo de Mendel relativamente à cor das flores
 >![[Pasted image 20251129003322.png]]
 
-### Primeira Lei de Mendel / Lei da segregação de fatores
+### Primeira Lei de Mendel / Lei da Segregação de Fatores
 A partir dos resultados das suas experiências, Mendel formulou a Lei da segregação de fatores
 >[!Summary] Primeira Lei de Mendel
 >Cada característica hereditária é determinada por um **par de fatores hereditários** discretos que **se separam um do outro aquando da formação dos gâmetas nas plantas**. Cada **gâmeta** transportará apenas **um dos fatores**, com 50% de probabilidade de transportar cada um deles.
@@ -166,8 +166,10 @@ O **novo fenótipo presente em híbridos da geração F1**, pode resultar de out
 
 ## Di-hibidrismo
 Mendel também fez uma série de experiências relacionadas com os mecanismos de transmissão dos fatores hereditários (alelos) relativos a **2 características diferentes**, para verificar qual das 2 hipóteses de mecanismos se verificava:
-- se a transmissão de cada um deles é independente
-- se são transmitidos em associação durante a formação dos gâmetas.
+- >[!Fail] Hipótese 1
+  Os alelos são transmitidos em associação durante a formação dos gâmetas.
+- >[!Check] Hipótese 2
+  >A transmissão de cada um dos alelos é independente
 
 Por isso, **cruzou linhas puras de ervilheiras que diferiam entre si nas 2 características escolhidas para estudo**, tendo obtido uma **geração F1 uniforme de plantas di-híbridas**.
 
@@ -175,11 +177,26 @@ Por isso, **cruzou linhas puras de ervilheiras que diferiam entre si nas 2 carac
 >Cruzou plantas produtoras de sementes amarelas e lisas com plantas produtoras de sementes verdes e enrugadas, obtendo uma geração F1 de plantas produtoras de sementes amarelas e lisas.
 
 De seguida, **cruzou as plantas di-híbridas por autopolinização**.
-- Se as plantas de F1 produzirem apenas **dois tipos de gâmetas**, **um com ambos os alelos dominantes** e **outro com ambos os alelos recessivos**, então os **alelos mantêm a associação que tinham na geração parental**.
-  >[!Note] Exemplo
+- >[!Fail] Hipótese 1
+  >Se as plantas de F1 produzirem apenas **dois tipos de gâmetas**, **um com ambos os alelos dominantes** e **outro com ambos os alelos recessivos**, então os **alelos mantêm a associação que tinham na geração parental**.
+>>[!Note] Exemplo
   >As plantas da geração F1 produzem apenas gâmetas $LA$ ou $la$.
-- Se as plantas de F1 produzirem **gâmetas correspondentes a todas as associações possíveis dos alelos das duas características**, então a **separação dos alelos das 2 características durante a formação dos gâmetas é independente**.
->[!Note] Exemplo
+- >[!Check] Hipótese 2
+  >Se as plantas de F1 produzirem **gâmetas correspondentes a todas as associações possíveis dos alelos das duas características**, então a **separação dos alelos das 2 características durante a formação dos gâmetas é independente**.
+>>[!Note] Exemplo
   >As plantas da geração F1 produzem gâmetas $LA$, $La$, $lA$ e $la$.
-  
-  Mendel verificou que a distribuição fenotípica da geração F2 (descendência de F1) se aproximava da razão 9:3:3:1, o que só seria possível se os alelos envolvidos no fenótipo das 2 características tivessem sido separados de forma aleatória e independente, originando todas as combinações possíveis de alelos nos gâmetas formados pelos indivíduos de F1
+
+### Segunda Lei de Mendel / Lei da Segregação Independente dos Caracteres
+Mendel verificou que a **distribuição fenotípica da geração F2** (descendência de F1) se aproximava da razão 9:3:3:1, o que só seria possível se os alelos envolvidos no fenótipo das 2 características tivessem sido separados de forma aleatória e independente, originando todas as combinações possíveis de alelos nos gâmetas formados pelos indivíduos de F1. Isto permitiu Mendel formular a lei da segregação independente dos caracteres:
+>[!Summary] Segunda Lei de Mendel
+>**Alelos de características diferentes** são **segregados de forma aleatória e independente**, aquando da formação dos gâmetas.
+>>[!Warning] Atenção
+>>A separação só é feita de forma independente se os alelos estiverem localizados em cromossomas diferentes.
+>>Caso os genes se localizem no mesmo cromossoma, essa probabilidade depende da distância a que os genes se encontram: se estiverem muito próximos, os alelos permancem ligados após o *crossing-over*, tendendo a ser segregados conjuntamente e não independe
+
+#### Retrocruzamento / Cruzamento-teste
+Também em experiências de di-hibidrismo se pode efetuar um cruzamento-teste para **determinar o genótipo de um indivíduo que apresente dominância numa ou nas 2 características estudadas**. O cruzamento será feito com **um indivíduo homozigótico recessivo para as 2 características**.
+
+>[!Note] Exemplo - Ervilheiras com sementes amarelas e lisas
+>
+>
