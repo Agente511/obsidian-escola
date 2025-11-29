@@ -27,5 +27,11 @@ Mendel iniciou as suas experiências cruzando manualmente (impedindo a autopolin
 
 Mendel calculou a proporção entre os 2 tipos de plantas obtidas em F2 e determinou que a **relação entre plantas com flores púrpuras e plantas com flores brancas** era de, aproximadamente, **3:1** (em experiências com outras características, foram obtidas proporções semelhantes).
 
-PÁG 58
+#### Primeira Lei de Mendel / Lei da segregação de fatores
+A partir dos resultados, Mendel concluiu que o fenótipo de cada uma das características hereditárias é determinado por um **par de fatores hereditários** discretos que **se separam um do outro aquando da formação dos gâmetas nas plantas**. Cada **gâmeta** transportará apenas **um dos fatores**, com 50% de probabilidade de transportar cada um deles. Estava assim constituído o pressuposto fundamental da Primeira Lei de Mendel.
+
+Como os indivíduos de **F1** apresentam **uniformidade fenotípica**, pode se assumir que **um dos progenitores da geração parental (P)** seria portador de **dois fatores dominantes** e o **outro** de **dois fatores recessivos**.
+
+>[!Info] Nota
+>Por convenção, os fatores dominantes são representados por uma letra maiúscula correspondente à primeira letra do fenótipo
 ### Di-hibidrismo
