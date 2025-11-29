@@ -165,8 +165,21 @@ O **novo fenótipo presente em híbridos da geração F1**, pode resultar de out
 	>![[Pasted image 20251129162750.png|300]]
 
 ## Di-hibidrismo
-Mendel também fez uma série de experiências relacionadas com os mecanismos de transmissão dos fatores hereditários (alelos) relativos a **2 características diferentes**, para verificar qual das 2 hipóteses de modo de transmissão dos alelos se verificava:
-1. se a transmissão de cada um deles é independente
-2. se são transmitidos em associação durante a formação dos gâmetas.
+Mendel também fez uma série de experiências relacionadas com os mecanismos de transmissão dos fatores hereditários (alelos) relativos a **2 características diferentes**, para verificar qual das 2 hipóteses de mecanismos se verificava:
+- se a transmissão de cada um deles é independente
+- se são transmitidos em associação durante a formação dos gâmetas.
 
-Por isso, selecionou linhas puras de ervilheiras que diferiam entre si
+Por isso, **cruzou linhas puras de ervilheiras que diferiam entre si nas 2 características escolhidas para estudo**, tendo obtido uma **geração F1 uniforme de plantas di-híbridas**.
+
+>[!Note] Exemplo
+>Cruzou plantas produtoras de sementes amarelas e lisas com plantas produtoras de sementes verdes e enrugadas, obtendo uma geração F1 de plantas produtoras de sementes amarelas e lisas.
+
+De seguida, **cruzou as plantas di-híbridas por autopolinização**.
+- Se as plantas de F1 produzirem apenas **dois tipos de gâmetas**, **um com ambos os alelos dominantes** e **outro com ambos os alelos recessivos**, então os **alelos mantêm a associação que tinham na geração parental**.
+  >[!Note] Exemplo
+  >As plantas da geração F1 produzem apenas gâmetas $LA$ ou $la$.
+- Se as plantas de F1 produzirem **gâmetas correspondentes a todas as associações possíveis dos alelos das duas características**, então a **separação dos alelos das 2 características durante a formação dos gâmetas é independente**.
+>[!Note] Exemplo
+  >As plantas da geração F1 produzem gâmetas $LA$, $La$, $lA$ e $la$.
+  
+  Mendel verificou que a distribuição fenotípica da geração F2 (descendência de F1) se aproximava da razão 9:3:3:1, o que só seria possível se os alelos envolvidos no fenótipo das 2 características tivessem sido separados de forma aleatória e independente, originando todas as combinações possíveis de alelos nos gâmetas formados pelos indivíduos de F1
