@@ -19,7 +19,7 @@ Mendel cruzava **ervilheiras idênticas numa característica**, durante várias 
 ### Mono-hibidrismo
 Mendel iniciou as suas experiências cruzando manualmente (impedindo a autopolinização) **plantas provenientes de linhas puras** que **diferiam no aspeto de uma dada característica**.
 >[!Exemplo]
->Plantas com flores púrpuras cruzadas com Plantas com flores brancas.
+>Plantas com flores púrpuras $\times$ Plantas com flores brancas.
 
 Deste **cruzamento parental** resultam **plantas "híbridas"**  relativamente a apenas uma característica (**mono-híbridas**) que constituem uma **primeira geração (F1) uniforme fenotipicamente**.
 >[!Exemplo]
@@ -39,13 +39,29 @@ A partir dos resultados, Mendel concluiu que o fenótipo de cada uma das caracte
 >
 >>[!Note] Exemplo
 >>Em experiências relativas à cor das flores:
->>- P - flor púrpura (fator dominante)
->>- p - flor branca (fator recessivo)
+>>- $P$ - flor púrpura (fator dominante)
+>>- $p$ - flor branca (fator recessivo)
 
 Como os indivíduos de **F1** apresentam **uniformidade fenotípica**, induz-se que **um dos progenitores da geração parental (P)** seria portador de **dois fatores dominantes** e o **outro** de **dois fatores recessivos**.
 
-Na geração **F1**, os **fatores recessivos não se manifestaram**, porque cada indivíduo tinha presente **um fator dominante**
+>[!Note] Exemplo
+>P: $PP \times pp$
+
+
+Na geração **F1**, os **fatores recessivos não se manifestaram**, porque cada indivíduo tinha presente **um fator dominante**.
 
 >[!Note] Exemplo
->
+>Os fatores das plantas de F1 eram **$Pp$**, tendo todas flores púrpura (fenótipo dominante).
+
+A **relação de dominância-recessividade entre fatores** é comprovada pelo aparecimento de **indivíduos com fenótipo recessivo na geração F2**.
+
+#### Xadrez mendeliano
+
+É possível determinar todas as possibilidades de combinações de gâmetas num cruzamento de indivíduos mono-híbridos e prever as proporções fenotípicas no descendentes recorrendo a um quadro de Punnett ou **xadrez mendeliano**.
+
+>[!Example] Como fazer o xadrez mendeliano
+>1. Na **primeira coluna** do diagrama, colocam-se os **fatores dos gâmetas de um indivíduo**.
+>   Na **primeira linha**, colocam-se os possíveis gâmetas do outro indivíduo.
+>   (De acordo com a )
+
 ### Di-hibidrismo
