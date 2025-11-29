@@ -191,12 +191,43 @@ Mendel verificou que a **distribuição fenotípica da geração F2** (descendê
 >[!Summary] Segunda Lei de Mendel
 >**Alelos de características diferentes** são **segregados de forma aleatória e independente**, aquando da formação dos gâmetas.
 >>[!Warning] Atenção
->>A separação só é feita de forma independente se os alelos estiverem localizados em cromossomas diferentes.
->>Caso os genes se localizem no mesmo cromossoma, essa probabilidade depende da distância a que os genes se encontram: se estiverem muito próximos, os alelos permancem ligados após o *crossing-over*, tendendo a ser segregados conjuntamente e não independe
+>>Caso os **genes se localizem no mesmo cromossoma**, a **separação dos alelos pode não ser feita de forma independente**. Essa probabilidade **depende da distância a que os genes se encontram**: se estiverem **muito próximos**, os alelos p**ermanecem ligados** após o *crossing-over*, tendendo a ser **segregados conjuntamente** e não de forma independente.
 
+### Xadrez mendeliano
+
+> [!NOTE] Exemplo
+> P: $AA$ $LL$ $\times$ $aa$ $ll$
+> Gâmetas: $\frac 1 2 AL + \frac 1 2 AL$ e $\frac 1 2 al + \frac 1 2 al$
+> 
+> |      | $al$      | $al$      |
+> | ---- | --------- | --------- |
+> | $AL$ | $Aa$ $Ll$ | $Aa$ $Ll$ |
+> | $AL$ | $Aa$ $Ll$ | $Aa$ $Ll$ |
+> 
+> ---
+> 
+> F1: $Aa$ $Ll$ $\times$ $Aa$ $Ll$
+> Gâmetas: $(AL+Al+aL+al) \times \frac 1 4$ e $(AL + Al + aL + al) \times \frac 1 4$
+> 
+> ![[Sem título 10.jpg|300]]
+> 
+> Fenótipos:
+> - 9/16 Amarelas e Lisas
+> - 3/16 Amarelas e Rugosas
+> - 3/16 Verdes e Lisas
+> - 1/16 Verdes e Rugosas
+> 
+> Genótipos:
+>
+> | Amarelas e Lisas | Amarelas e Rugosas | Verdes e Lisas | Verdes e Rugosas |
+> | ---------------- | ------------------ | -------------- | ---------------- |
+> | 1 $AA$ $LL$      | 1 $AA$ $ll$        | 1 $aa$ $LL$    | 1 $aa$ $ll$      |
+> | 2 $AA$ $Ll$      | 2 $Aa$ $ll$        | 2 $aa$ $Ll$    |                  |
+> | 2 $Aa$ $LL$      |                    |                |                  |
+> | 4 $Aa$ $Ll$      |                    |                |                  |
+> 
 #### Retrocruzamento / Cruzamento-teste
 Também em experiências de di-hibidrismo se pode efetuar um cruzamento-teste para **determinar o genótipo de um indivíduo que apresente dominância numa ou nas 2 características estudadas**. O cruzamento será feito com **um indivíduo homozigótico recessivo para as 2 características**.
 
 >[!Note] Exemplo - Ervilheiras com sementes amarelas e lisas
->
->
+>![[Sem título 11.jpg]]
