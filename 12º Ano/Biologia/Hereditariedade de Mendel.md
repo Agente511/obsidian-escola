@@ -97,5 +97,65 @@ As características observadas por Mendel apresentam sempre dois fenótipos poss
 O **novo fenótipo presente em híbridos da geração F1**, pode resultar de outros tipos de interação entre os alelos, nomeadamente:
 - ##### Dominância incompleta
 	O **fenótipo dos heterozigóticos é intermédio do fenótipo dos homozigóticos**, resultando da **expressão atenuada do gene dominante**.
+	>[!Note] Exemplo 1
+	>Nomenclatura:
+	>- $V$: Flor de corola vermelha
+	>- $B$: Flor de corola branca
+	>
+	>---
+	>
+	>P: $VV \times BB$ 
+	>
+	>|  | $B$ | $B$ |
+	>| --- | --- | --- |
+	>| $V$ | $VB$ | $VB$ |
+	>| $V$ | $VB$ | $VB$ |
+	>
+	>Genótipo de F1: 100% VB
+	>Fenótipo de F1:  100% Corola cor-de-rosa
+	>
+	>---
+	>
+	>F1: $VB \times VB$ 
+	>
+	>|  | $V$ | $B$ |
+	>| --- | --- | --- |
+	>| $V$ | $VV$ | $VB$ |
+	>| $B$ | $VB$ | $BB$ |
+	>
+	>Genótipo de F2: 25% VV | 50% VB | 25% BB
+	>Fenótipo de F2:  25% Corola vermelha | 50% Corola cor-de-rosa | 25% Corola branca
+
+
+- ##### Codominância
+	O fenótipo resulta da **expressão de ambos os alelos**
+	>[!Note] Exemplo
+	>Nomenclatura:
+	>- $N$: Vaca com pelagem negra
+	>- $B$: Vaca com pelagem branca
+	>
+	>---
+	>
+	>P: $VV \times BB$ 
+	>
+	>|  | $B$ | $B$ |
+	>| --- | --- | --- |
+	>| $V$ | $VB$ | $VB$ |
+	>| $V$ | $VB$ | $VB$ |
+	>
+	>Genótipo de F1: 100% VB
+	>Fenótipo de F1:  100% Corola cor-de-rosa
+	>
+	>---
+	>
+	>F1: $VB \times VB$ 
+	>
+	>|  | $V$ | $B$ |
+	>| --- | --- | --- |
+	>| $V$ | $VV$ | $VB$ |
+	>| $B$ | $VB$ | $BB$ |
+	>
+	>Genótipo de F2: 25% VV | 50% VB | 25% BB
+	>Fenótipo de F2:  25% Corola vermelha | 50% Corola cor-de-rosa | 25% Corola branca
 
 ## Di-hibidrismo
