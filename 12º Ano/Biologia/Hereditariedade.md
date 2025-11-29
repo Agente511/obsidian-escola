@@ -23,5 +23,9 @@ Mendel iniciou as suas experiências cruzando manualmente (impedindo a autopolin
 >Plantas híbridas relativamente a apenas uma característica (como neste caso) são designadas **mono-híbridas**.
 
 >[!Note] Experiências de mono-hibidrismo de Mendel relativamente à cor das flores
->
+>![[Pasted image 20251129003322.png]]
+
+Mendel calculou a proporção entre os 2 tipos de plantas obtidas em F2 e determinou que a **relação entre plantas com flores púrpuras e plantas com flores brancas** era de, aproximadamente, **3:1** (em experiências com outras características, foram obtidas proporções semelhantes).
+
+PÁG 58
 ### Di-hibidrismo
