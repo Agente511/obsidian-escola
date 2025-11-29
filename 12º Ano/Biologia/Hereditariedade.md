@@ -17,5 +17,11 @@ Mendel cruzava **ervilheiras idênticas numa característica**, durante várias 
 | <br><br>Recessiva | Branca<br>![[Pasted image 20251128235301.png\|100]]  | Enrugada<br>![[Pasted image 20251128235930.png]] | Verde<br>![[Pasted image 20251128235523.png]]   | Enrugada<br>![[Pasted image 20251129000107.png]] | Amarela<br>![[Pasted image 20251128235622.png]] | Baixo<br>![[Pasted image 20251128235711.png]] | Terminal<br>![[Pasted image 20251128235757.png]] |
 
 ### Mono-hibidrismo
-Mendel iniciou as suas experiências cruzando manualmente (impedindo a autopolinização) **plantas provenientes de linhas puras** que **diferiam no aspeto de uma dada característica**. Deste **cruzamento parental** resultam **plantas "híbridas"** relativamente apenas a essa característica (**mono-híbridos**) que constituem uma **primeira geração (F1) uniforme** (todas as plantas da geração F1 tinham o **mesmo fenótipo**).
+Mendel iniciou as suas experiências cruzando manualmente (impedindo a autopolinização) **plantas provenientes de linhas puras** que **diferiam no aspeto de uma dada característica**. Deste **cruzamento parental** resultam **plantas "híbridas"** que constituem uma **primeira geração (F1) uniforme** (todas as plantas da geração F1 tinham o **mesmo fenótipo**). De seguida, permitiu que as plantas de **F1** se **autopolinizassem**, obtendo uma segunda geração (F2) constituída por plantas com fenótipos diferentes.
+
+>[!Info] Nota
+>Plantas híbridas relativamente a apenas uma característica (como neste caso) são designadas **mono-híbridas**.
+
+>[!Note] Experiências de mono-hibidrismo de Mendel relativamente à cor das flores
+>
 ### Di-hibidrismo
