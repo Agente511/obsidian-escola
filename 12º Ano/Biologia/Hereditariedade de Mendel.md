@@ -125,37 +125,43 @@ O **novo fenótipo presente em híbridos da geração F1**, pode resultar de out
 	>
 	>Genótipo de F2: 25% VV | 50% VB | 25% BB
 	>Fenótipo de F2:  25% Corola vermelha | 50% Corola cor-de-rosa | 25% Corola branca
+	>
+	>![[images 1.png|400]]
 
 
 - ##### Codominância
 	O fenótipo resulta da **expressão de ambos os alelos**
 	>[!Note] Exemplo
 	>Nomenclatura:
-	>- $N$: Vaca com pelagem negra
 	>- $B$: Vaca com pelagem branca
+	>- $N$: Vaca com pelagem negra
 	>
 	>---
 	>
-	>P: $VV \times BB$ 
+	>P: $BB \times NN$ 
 	>
 	>|  | $B$ | $B$ |
 	>| --- | --- | --- |
-	>| $V$ | $VB$ | $VB$ |
-	>| $V$ | $VB$ | $VB$ |
+	>| $N$ | $BN$ | $BN$ |
+	>| $N$ | $BN$ | $BN$ |
 	>
-	>Genótipo de F1: 100% VB
-	>Fenótipo de F1:  100% Corola cor-de-rosa
+	>Genótipo de F1: 100% BN
+	>Fenótipo de F1:  100% Pelagem branca e negra
+	>
+	>![[Pasted image 20251129162727.png|300]]
 	>
 	>---
 	>
-	>F1: $VB \times VB$ 
+	>F1: $BN \times BN$ 
 	>
-	>|  | $V$ | $B$ |
+	>|  | $B$ | $N$ |
 	>| --- | --- | --- |
-	>| $V$ | $VV$ | $VB$ |
-	>| $B$ | $VB$ | $BB$ |
+	>| $B$ | $BB$ | $BN$ |
+	>| $N$ | $BN$ | $NN$ |
 	>
-	>Genótipo de F2: 25% VV | 50% VB | 25% BB
-	>Fenótipo de F2:  25% Corola vermelha | 50% Corola cor-de-rosa | 25% Corola branca
+	>Genótipo de F2: 25% BB | 50% BN | 25% NN
+	>Fenótipo de F2:  25% Pelagem branca | 50% Pelagem branca e negra | 25% Pelagem negra
+	>
+	>![[Pasted image 20251129162750.png|300]]
 
 ## Di-hibidrismo
