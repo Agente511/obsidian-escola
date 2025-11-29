@@ -79,11 +79,23 @@ Desta forma:
 #### Retrocruzamento / Cruzamento-teste
 Como o fenótipo dominante pode resultar de dois genótipos, Mendel recorria ao **retrocruzamento** e posterior **observação dos fenótipos da descendência** para **determinar o genótipo dos indivíduos que apresentavam o fenótipo dominante**.
 
-O retrocruzamento consiste no **cruzamento de um indíviduo com fenótipo dominante** (cujo genótipo se pretende conhecer) **com um indivíduo com fenótipo recessivo** (que é necessariamente homozigótico recessivo)
+O retrocruzamento consiste no **cruzamento de um indíviduo com fenótipo dominante** (cujo genótipo se pretende conhecer) **com um indivíduo com fenótipo recessivo** (que é necessariamente homozigótico recessivo).
+
+Deve.se fazer ao longo de várias gerações para aumentar a fiabilidade dos resultados.
 
 >[!Note] Exemplo
->![[Sem título 9.jpg]]
+>![[Pasted image 20251129155634.png]]
+>
+>###### Situação I
+>Como 100% das ervilheiras da descendência têm flor púrpura, sabe-se que a planta progenitora tinha genótipo $PP$.
+>
+>###### Situação II
+>Como 50% das ervilheiras da descendência têm flor púrpura e 50% flor branca, sabe-se que a planta progenitora tinha genótipo $Pp$.
 
 ### Exceções à Primeira Lei de Mendel
+As características observadas por Mendel apresentam sempre dois fenótipos possíveis estabelecidos por uma relação de dominância-recessividade entre os alelos que os determinam. No entanto, a **maioria das características hereditárias não obedecem a este padrão de transmissão**, o que leva a que, em muitas situações, **indivíduos heterozigóticos apresentem um fenótipo diferente dos seus progenitores homozigóticos**.
+O **novo fenótipo presente em híbridos da geração F1**, pode resultar de outros tipos de interação entre os alelos, nomeadamente:
+- ##### Dominância incompleta
+	O **fenótipo dos heterozigóticos é intermédio do fenótipo dos homozigóticos**, resultando da **expressão atenuada do gene dominante**.
 
 ## Di-hibidrismo
