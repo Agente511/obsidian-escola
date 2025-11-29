@@ -165,3 +165,8 @@ O **novo fenótipo presente em híbridos da geração F1**, pode resultar de out
 	>![[Pasted image 20251129162750.png|300]]
 
 ## Di-hibidrismo
+Mendel também fez uma série de experiências relacionadas com os mecanismos de transmissão dos fatores hereditários (alelos) relativos a **2 características diferentes**, para verificar qual das 2 hipóteses de modo de transmissão dos alelos se verificava:
+1. se a transmissão de cada um deles é independente
+2. se são transmitidos em associação durante a formação dos gâmetas.
+
+Por isso, selecionou linhas puras de ervilheiras que diferiam entre si
