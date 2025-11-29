@@ -57,11 +57,23 @@ A **relação de dominância-recessividade entre fatores** é comprovada pelo ap
 
 #### Xadrez mendeliano
 
-É possível determinar todas as possibilidades de combinações de gâmetas num cruzamento de indivíduos mono-híbridos e prever as proporções fenotípicas no descendentes recorrendo a um quadro de Punnett ou **xadrez mendeliano**.
+É possível determinar todas as possibilidades de combinações de gâmetas num cruzamento de indivíduos mono-híbridos e prever as proporções dos fenótipos manifestados nos descendentes recorrendo a um quadro de Punnett ou **xadrez mendeliano**.
 
 >[!Example] Como fazer o xadrez mendeliano
->1. Na **primeira coluna** do diagrama, colocam-se os **fatores dos gâmetas de um indivíduo**.
->   Na **primeira linha**, colocam-se os possíveis gâmetas do outro indivíduo.
->   (De acordo com a )
+>1. Na **primeira coluna** do diagrama, colocam-se os **fatores dos gâmetas de um indivíduo** e, **na primeira linha**, colocam-se do **outro indivíduo**.
+>   
+>   (De acordo com a [[#Primeira Lei de Mendel / Lei da segregação de fatores|Primeira Lei de Mendel]], há 50% de probabilidade de um gâmeta portador de um dos fatores estar envolvido na fecundação )
+>2. 
+
+> [!Info] Descobertas de Mendel na atualidade
+> Atualmente, os "fatores" descobertos por Mendel são designados **genes** e sabe-se que se localizam nos cromossomas. As variantes do genes que integram o genoma de qualquer ser vivo são chamadas **alelos**.
+> 
+> A Primeira Lei de Mendel refere-se então à **segregação do par de alelos na formação dos gâmetas** (princípio da pureza dos gâmetas).
+> Por exemplo, um **gene responsável pela forma da ervilha** pode corresponder a um **alelo dominante** ($L$) ou a um **alelo recessivo** ($l$).
+> Desta forma:
+> - ervilheiras com **ervilhas lisas** (**fenótipo dominante**) podem ser **homozigóticas ($LL$)** ou **heterozigóticas ($Ll$)**. 
+> - ervilheiras com **ervilhas enrugadas** (**fenótipo recessivo**) são sempre **homozigóticas** para essa característica, porque **possuem necessariamente 2 alelos iguais ($ll$)**
+>   
+>O termo **genótipo** refere-se à **constituição genética de cada indivíduo** relativamente a umada dada característica
 
 ### Di-hibidrismo
