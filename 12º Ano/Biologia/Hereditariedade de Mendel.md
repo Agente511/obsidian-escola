@@ -77,5 +77,13 @@ Desta forma:
 - os **genótipos $LL$ e $lL$** determinarão o **fenótipo liso**
 - o **genótipo $ll$** determinará o **fenótipo enrugado**
 #### Retrocruzamento / Cruzamento-teste
+Como o fenótipo dominante pode resultar de dois genótipos, Mendel recorria ao **retrocruzamento** e posterior **observação dos fenótipos da descendência** para **determinar o genótipo dos indivíduos que apresentavam o fenótipo dominante**.
+
+O retrocruzamento consiste no **cruzamento de um indíviduo com fenótipo dominante** (cujo genótipo se pretende conhecer) **com um indivíduo com fenótipo recessivo** (que é necessariamente homozigótico recessivo)
+
+>[!Note] Exemplo
+>![[Sem título 9.jpg]]
+
+### Exceções à Primeira Lei de Mendel
 
 ## Di-hibidrismo
