@@ -18,9 +18,11 @@ A personagem principal é exatamente um bombeiro, Guy Montag, que vive conformad
 	Ao chegar a casa, encontrou a sua esposa, Mildred, a sofrer uma overdose após ter tomado 30 comprimidos para dormir, obrigando a chamar os serviços de emergência para a salvar. Naquela sociedade, situações como esta eram frequentes e feitas de forma inconsciente. No dia seguinte, a mulher estava novamente a cumprir a sua rotina normal, em que passava o dia na sala a olhar para as suas 3 paredes-ecrã e com um dispositivo semelhante a uns auriculares que eram designados por "Conchas".
 
 Montag passa a encontrar-se diariamente com Clarisse o que o vai gradualmente tornando mais consciente da sua vida, mas, um dia, ela e toda a sua família desapareceram, abalando o bombeiro que sentia falta da jovem vizinha.
+Clarisse tinha sido atropelada e a família se mudado. Naquela sociedade, as pessoas eram impacientes e tudo era mais acelerado e curto. Alguém deveria estar a conduzir a alta velocidade e, sem reparar, ter morto a rapariga.
 
 No quartel, Montag começava a questionar a origem e integridade do trabalho de bombeiros, obrigando o comandante Beatty a mentir-lhe afirmando que, desde a sua fundação, os bombeiros eram encarregados de queimar livros e nunca tinham tido outro papel, mas foi interrompido pelo alarme que sinalizava que havia trabalho a fazer.
-Foram então a uma casa onde uma mulher guardava livros. Espalharam querosene por cada divisão da casa onde havia livros e a própria mulher ateou fogo aquilo, como se achasse que a sua vida não merecesse ser vivida se não tivesse livros
+Foram então a uma casa onde uma mulher guardava livros. Espalharam querosene por cada divisão da casa onde havia livros e a própria mulher ateou fogo aquilo, como se achasse que a sua vida não merecesse ser vivida se não tivesse livros.
+Toda a vizinhança assistiu ao incêndio como se de um espetáculo se tratasse e, terminada a missão, os bombeiros regressaram ao quartel, mas Montag trazia escondido um livro que roubara à mulher. O suicídio da mulher tinha enlouquecido Montag e fê-lo pensar no que os livros teriam para a alguém querer morrer com eles. 
 
 
 
