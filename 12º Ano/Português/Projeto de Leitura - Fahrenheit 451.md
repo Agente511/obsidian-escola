@@ -42,7 +42,9 @@ Já longe da cidade, Montag encontrou um acampamento em que um grupo de homens r
 
 De repente, e sem que a maioria dos cidadãos desse conta, uma bomba atómica caiu sobre a cidade, destruindo todos os seus prédios e matando todos os que lá se encontravam. O grupo começou a caminhar em direção à cidade em ruínas para ajudar possíveis sobreviventes, com a esperança de futuramente conseguirem reconstruir uma sociedade com base nos livros que carregam na memória.
 ## Conclusão/Recomendo a ler?
-ADOREI
+Fahrenheit 451 foi um livro que superou totalmente as minhas expectativas e que me marcou pela sua mistura de história com uma vertente reflexiva, sendo ainda uma leitura bastante cativante.
+
+Surpreendeu-me a forma como, apesar de o livro ser originalmente ser de 1953, o autor conseguiu visionar uma sociedade relativamente semelhante com a atual, em que cada vez temos m
 
 Relevância e parecenças com a atualidade
 
