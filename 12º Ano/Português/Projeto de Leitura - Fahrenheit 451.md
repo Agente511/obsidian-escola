@@ -5,7 +5,7 @@ Bom dia a todos, o livro que venho apresentar intitula-se...
 **Tradutor**: Casimiro da Piedade
 
 **Editora**: Saída de Emergência
-1ª **edição**, de maio de 2018
+**1ª edição**, de maio de 2018
 A **versão original** foi publicada em 1953, quando o autor tinha apenas 33 anos
 
 **Género literário**: romance distópico e ficção científica (visiona um cenário futuro negativo e obscuro, explorando ideias ligadas ao potencial avanço científico e tecnológico)
@@ -22,8 +22,11 @@ Clarisse tinha sido atropelada e a família se mudado. Naquela sociedade, as pes
 
 No quartel, Montag começava a questionar a origem e integridade do trabalho de bombeiros, obrigando o comandante Beatty a mentir-lhe afirmando que, desde a sua fundação, os bombeiros eram encarregados de queimar livros e nunca tinham tido outro papel, mas foi interrompido pelo alarme que sinalizava que havia trabalho a fazer.
 Foram então a uma casa onde uma mulher guardava livros. Espalharam querosene por cada divisão da casa onde havia livros e a própria mulher ateou fogo aquilo, como se achasse que a sua vida não merecesse ser vivida se não tivesse livros.
-Toda a vizinhança assistiu ao incêndio como se de um espetáculo se tratasse e, terminada a missão, os bombeiros regressaram ao quartel, mas Montag trazia escondido um livro que roubara à mulher. O suicídio da mulher tinha enlouquecido Montag e fê-lo pensar no que os livros teriam para a alguém querer morrer com eles. 
+Toda a vizinhança assistiu ao incêndio como se de um espetáculo se tratasse e, terminada a missão, os bombeiros regressaram ao quartel, mas Montag trazia escondido um livro que roubara à mulher. O suicídio da mulher tinha enlouquecido Montag e fê-lo pensar no que os livros teriam para alguém querer morrer com eles. 
 
+Já em casa, Montag mostrou a Mildred os vários livros que escondia atrás da grelha do ar condicionado. Mildred ficou em pânico e quis queimar os livros antes que fossem denunciados, mas Montag impediu-a e começaram a lê-los enquanto podiam.
+Por vezes ouvem bombardeiros a atravessar o céu e o homem questiona-se porquê que ninguém fala acerca disso e do resto do mundo.
+Mildred, desinteressada com a leitura, voltou a preocupar-se com a possibilidade de a qualquer momento virem lhe incendiar a casa e Montag não viu outra solução que não procurar ajuda com um professo
 
 
 Cão Mecânico, latão, cobre e aço, 8 pernas de aranha, terminações capilares sensíveis, agulha metálica que sai do nariz que injetava morfina ou procaína
