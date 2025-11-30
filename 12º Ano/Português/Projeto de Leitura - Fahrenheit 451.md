@@ -23,7 +23,7 @@ A personagem principal é exatamente um bombeiro, Guy Montag, que vive conformad
 Montag passa a encontrar-se diariamente com Clarisse o que o vai gradualmente tornando mais consciente da sua vida, mas, um dia, ela e toda a sua família desapareceram, abalando o bombeiro que sentia falta da jovem vizinha.
 Clarisse tinha sido atropelada e a família se mudado. Naquela sociedade, as pessoas eram impacientes e tudo era mais acelerado e curto. Alguém deveria estar a conduzir a alta velocidade e, sem reparar, ter morto a rapariga.
 
-#####
+##### Dúvidas acerca da sociedade
 No quartel, Montag começava a questionar a origem e integridade do trabalho de bombeiros, obrigando o comandante Beatty a mentir-lhe afirmando que, desde a sua fundação, os bombeiros eram encarregados de queimar livros e nunca tinham tido outro papel, mas foi interrompido pelo alarme que sinalizava que havia trabalho a fazer.
 Foram então a uma casa onde uma mulher guardava livros. Espalharam querosene por cada divisão da casa onde havia livros e a própria mulher ateou fogo aquilo, como se achasse que a sua vida não merecesse ser vivida se não tivesse livros.
 Toda a vizinhança assistiu ao incêndio como se de um espetáculo se tratasse e, terminada a missão, os bombeiros regressaram ao quartel, mas Montag trazia escondido um livro que roubara à mulher. O suicídio da mulher tinha enlouquecido Montag e fê-lo pensar no que os livros teriam para alguém querer morrer com eles. 
@@ -34,9 +34,11 @@ Por vezes ouvem bombardeiros a atravessar o céu e o homem questiona-se porquê 
 Mildred, desinteressada com a leitura, voltou a preocupar-se com a possibilidade de a qualquer momento virem lhe incendiar a casa e Montag não viu outra solução que não pedir ajuda ao antigo professor Faber, que tinha conhecido no ano anterior. Foi a sua casa e planearam imprimir alguns livros e escondê-los em casas de bombeiros por todo o país e Faber entregou-lhe um rádio auricular para se comunicarem à distância secretamente.
 ##### Incêndio da casa do Montag
 Mais tarde, o alarme do quartel soou novamente, e deslocaram-se para o local. Desta vez, a casa era a de Montag, denunciada por Mildred, a própria esposa, que fugiu de táxi para um hotel. Beatty fez questão que fosse o próprio Montag a incendiar tudo, que seria preso de seguida pelo crime cometido, mas Montag não se limitou a queimar os livros e matou com o lança-chamas o comandante que tinha descoberto o auricular de Faber, ameaçando castigá-lo também.
-
 ##### Fuga
-Montag procedeu a fugir, para que não fosse apanhado pelo Cão Mecânico, um robô veloz dos bombeiros e com alta capacidade de perseguição para apanhar criminosos e matá-los. Passou brevemente pela casa de Faber para elaborarem um plano de fuga, já que tinha perdido contacto com ele após o auricular ser queimado, e seguiu caminho até ao rio, onde trocou de roupa para o Cão perder o rasto do seu cheiro.
+Montag procedeu a fugir, para que não fosse apanhado pelo Cão Mecânico, um robô veloz dos bombeiros e com alta capacidade de perseguição para apanhar criminosos e matá-los. Toda a caçada estava a ser transmitida na televisão, como um programa de entretenimento.
+Passou brevemente pela casa de Faber para elaborarem um plano de fuga, já que tinha perdido contacto com ele após o auricular ser queimado, e seguiu caminho até ao rio, onde trocou de roupa para o Cão Mecânico perder o rasto do seu cheiro.
+
+Já longe da cidade, Montag encontrou um acampamento em que um grupo de homens repousava. Todos aqueles nómadas eram intelectuais e ex-professores que tinham decorado cada um, um livro inteiro, para mesmo que todas as cópias fossem queimadas o conteúdo do livro continuasse preservado. Montag, quando fosse 
 
 
 
