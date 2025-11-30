@@ -26,7 +26,7 @@ Toda a vizinhança assistiu ao incêndio como se de um espetáculo se tratasse e
 
 Já em casa, Montag mostrou a Mildred os vários livros que escondia atrás da grelha do ar condicionado. Mildred ficou em pânico e quis queimar os livros antes que fossem denunciados, mas Montag impediu-a e começaram a lê-los enquanto podiam.
 Por vezes ouvem bombardeiros a atravessar o céu e o homem questiona-se porquê que ninguém fala acerca disso e do resto do mundo.
-Mildred, desinteressada com a leitura, voltou a preocupar-se com a possibilidade de a qualquer momento virem lhe incendiar a casa e Montag não viu outra solução que não pedir ajuda ao antigo professor Faber, que tinha conhecido no ano anterior. 
+Mildred, desinteressada com a leitura, voltou a preocupar-se com a possibilidade de a qualquer momento virem lhe incendiar a casa e Montag não viu outra solução que não pedir ajuda ao antigo professor Faber, que tinha conhecido no ano anterior. Foi a sua casa e planearam imprimir alguns livros e escondê-los em casas de bombeiros por todo o país 
 
 
 Cão Mecânico, latão, cobre e aço, 8 pernas de aranha, terminações capilares sensíveis, agulha metálica que sai do nariz que injetava morfina ou procaína
