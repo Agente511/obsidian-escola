@@ -195,7 +195,15 @@ Mendel verificou que a **distribuição fenotípica da geração F2** (descendê
 
 ### Xadrez mendeliano
 
-> [!NOTE] Exemplo
+> [!NOTE] Exemplo - Ervilheiras com sementes amarelas e lisas
+> Nomenclatura:
+> - $A$: Semente amarela
+> - $a$: Semente verde
+> - $L$: Semente lisa
+> - $l$: Semente rugosa
+> 
+> ---
+> 
 > P: $AA$ $LL$ $\times$ $aa$ $ll$
 > Gâmetas: $\frac 1 2 AL + \frac 1 2 AL$ e $\frac 1 2 al + \frac 1 2 al$
 > 
