@@ -17,6 +17,10 @@ A personagem principal é exatamente um bombeiro, Guy Montag, que vive conformad
 
 Ao chegar a casa, encontrou a sua esposa, Mildred, a sofrer uma overdose após ter tomado 30 comprimidos para dormir, obrigando a chamar os serviços de emergência para a salvar. Naquela sociedade, situações como esta eram frequentes e feitas de forma inconsciente. No dia seguinte, a mulher estava novamente a cumprir a sua rotina normal, em que passava o dia na sala a olhar para as suas 3 paredes-ecrã e com um dispositivo semelhante a uns auriculares que eram designados por "Conchas".
 
+Nas semanas seguintes, Montag encontra-se diariamente com Clarisse o que o vai gradualmente tornando mais consciente da sua vida
+
+Cão Mecânico, latão, cobre e aço, 8 pernas de aranha, terminações capilares sensíveis, agulha metálica que sai do nariz que injetava morfina ou procaína
+
 
 hedonismo (viver para ser feliz)
 
