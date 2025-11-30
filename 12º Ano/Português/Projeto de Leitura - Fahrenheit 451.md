@@ -44,13 +44,9 @@ De repente, e sem que a maioria dos cidadãos desse conta, uma bomba atómica ca
 ## Conclusão/Recomendo a ler?
 Fahrenheit 451 foi um livro que superou totalmente as minhas expectativas e que me marcou pela sua mistura de história com uma vertente reflexiva, sendo ainda uma leitura bastante cativante.
 
-Surpreendeu-me a forma como, apesar de o livro ser originalmente ser de 1953, o autor conseguiu visionar uma sociedade relativamente semelhante com a atual, em que cada vez temos m
+Surpreendeu-me a forma como, apesar de o livro ser originalmente de 1953, o autor conseguiu visionar uma sociedade que, assustadamente, se assemelha à atual. Uma sociedade em que se prefere o curto e o imediato, em que  e em que temos cada vez menos tempo para pensar tecnologias não muito distantes das atuais. O mais assustador é perceber que é o próprio povo que causa o estado da sociedade em Fahrenheit 451 e não um ditador
 
-Relevância e parecenças com a atualidade
-
-Passa-se algures após 2022
-
-guerras atómicas
+Por estas razões, recomendaria, e até encorajaria, qualquer pessoa a ler Fahrenheit 451, um livro que inesperadamente, pode mesmo se ter tornado dos meus favoritos.
 
 > [!Notas à toa]
 > Cão Mecânico, latão, cobre e aço, 8 pernas de aranha, terminações capilares sensíveis, agulha metálica que sai do nariz que injetava morfina ou procaína
