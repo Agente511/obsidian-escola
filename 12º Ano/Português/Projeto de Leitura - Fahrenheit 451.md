@@ -38,25 +38,9 @@ Mais tarde, o alarme do quartel soou novamente, e deslocaram-se para o local. De
 Montag procedeu a fugir, para que não fosse apanhado pelo Cão Mecânico, um robô veloz dos bombeiros e com alta capacidade de perseguição para apanhar criminosos e matá-los. Toda a caçada estava a ser transmitida na televisão, como um programa de entretenimento.
 Passou brevemente pela casa de Faber para elaborarem um plano de fuga, já que tinha perdido contacto com ele após o auricular ser queimado, e seguiu caminho até ao rio, onde trocou de roupa para o Cão Mecânico perder o rasto do seu cheiro.
 
-Já longe da cidade, Montag encontrou um acampamento em que um grupo de homens repousava. Todos aqueles nómadas eram intelectuais e ex-professores que tinham decorado cada um, um livro inteiro, para mesmo que todas as cópias fossem queimadas o conteúdo do livro continuasse preservado. Montag, quando fosse 
+Já longe da cidade, Montag encontrou um acampamento em que um grupo de homens repousava. Todos aqueles nómadas eram intelectuais e ex-professores que tinham decorado cada um, um livro inteiro, para mesmo que todas as cópias fossem queimadas o conteúdo dos livros continuasse preservado. Juntando-se a eles, Montag, quando aprendesse a desbloquear as suas memórias fotográficas, tornar-se-ia o Livro de Eclesiastes.
 
-
-
-
-Cão Mecânico, latão, cobre e aço, 8 pernas de aranha, terminações capilares sensíveis, agulha metálica que sai do nariz que injetava morfina ou procaína
-
-
-hedonismo (viver para ser feliz)
-
-
-"parentes"
-
-"tudo ficou mais acelerado e curto" - Beatty pág 70
-"pensamento considerado desnecessário" - Beatty pág 71
-"Impaciência"- Pág 72
-"Tentar não ser controverso" - Pág 73
-"\[A proibição de livros] Não foi uma decisão governamental" - Pág 73
-Bombeiros como censores oficiais, juízes e executores - pág 74
+De repente, e sem que a maioria dos cidadãos desse conta, uma bomba atómica caiu sobre a cidade, destruindo todos os seus prédios e matando todos os que lá se encontravam. O grupo começou a caminhar em direção à cidade em ruínas para ajudar possíveis sobreviventes, com a esperança de futuramente conseguirem reconstruir uma sociedade com base nos livros que carregam na memória.
 ## Conclusão/Recomendo a ler?
 ADOREI
 
@@ -66,3 +50,18 @@ Passa-se algures após 2022
 
 guerras atómicas
 
+> [!Notas à toa]
+> Cão Mecânico, latão, cobre e aço, 8 pernas de aranha, terminações capilares sensíveis, agulha metálica que sai do nariz que injetava morfina ou procaína
+> 
+> 
+> hedonismo (viver para ser feliz)
+> 
+> 
+> "parentes"
+> 
+> "tudo ficou mais acelerado e curto" - Beatty pág 70
+> "pensamento considerado desnecessário" - Beatty pág 71
+> "Impaciência"- Pág 72
+> "Tentar não ser controverso" - Pág 73
+> "\[A proibição de livros] Não foi uma decisão governamental" - Pág 73
+> Bombeiros como censores oficiais, juízes e executores - pág 74
