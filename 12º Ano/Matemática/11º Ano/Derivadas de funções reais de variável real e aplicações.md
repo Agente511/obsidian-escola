@@ -9,7 +9,7 @@ A taxa média de variação traduz a **variação média de $f$ por cada unidade
 
 Geometricamente, a taxa média de variação de $f$ entre $a$ e $b$ é o **declive da reta que passa nos pontos do gráfico de $f$ de abcissas $a$ e $b$**.
 
->[!Tip] Nota
+>[!Info] Nota
 >Quando a função estabelece uma **correspondência entre tempo e distância percorrida**, a taxa média de variação chama-se **velocidade média**.
 ### Relação com a monotonia da função
 - Se uma função é **estritamente crescente** (ou, respetivamente, **estritamente decrescente**) num conjunto $D$ do seu domínio, então, para quaisquer $a$ e $b$ pertencentes a $D$, a **taxa média de variação** de $f$ entre $a$ e $b$ é **positiva** (respetivamente, **negativa**).
