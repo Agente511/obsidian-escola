@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Matemática/Probabilidades.md",
+                "file": "12º Ano/Matemática/11º Ano/Continuidade de uma função.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probabilidades"
+              "title": "Continuidade de uma função"
             }
           },
           {
@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Matemática/Teoria dos conjuntos.md",
+                "file": "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assíntotas ao gráfico de uma função"
+            }
+          },
+          {
+            "id": "ebd8ec0ac7283f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12º Ano/Matemática/Probabilidades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teoria dos conjuntos"
+              "title": "Probabilidades"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +237,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "830515ee37dff642",
+  "active": "2eb61a60b4521a35",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Teoria dos conjuntos.md",
     "12º Ano/Matemática/Probabilidades.md",
+    "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
+    "12º Ano/Matemática/Teoria dos conjuntos.md",
+    "12º Ano/Matemática/11º Ano/Continuidade de uma função.md",
     "12º Ano/Matemática/Cálculo Combinatório.md",
     "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
-    "12º Ano/Matemática/11º Ano/Continuidade de uma função.md",
     "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "12º Ano/Biologia/D1 3. Fecundação.md",
     "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
@@ -246,7 +262,6 @@
     "Sem título 9.jpg",
     "Sem título 6.jpg",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
-    "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
     "11º Ano/Matemática/Limite segundo Heine.md",
     "11º Ano/Matemática/Limites de sucessões.md",
     "10º Ano/Matemática/Polinómios.md",
