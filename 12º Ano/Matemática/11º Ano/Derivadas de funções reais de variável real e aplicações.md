@@ -44,7 +44,7 @@ Representa-se por $f'$.
 
 ### Regras da derivação
 Considerando:
-\- $f$ e $g$ funções reais de variável real de domínio D
+\- $f$ e $g$ funções reais de variável real de domínio $D$
 \- $a \in D$
 \- $k \in \mathbb R$
 \- $f$ e $g$ diferenciáveis em $a$
