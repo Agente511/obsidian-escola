@@ -49,8 +49,7 @@
               "title": "Probabilidades"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,10 +236,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2eb61a60b4521a35",
+  "active": "830515ee37dff642",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
+    "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Teoria dos conjuntos.md",
     "12º Ano/Matemática/11º Ano/Continuidade de uma função.md",
     "12º Ano/Matemática/Cálculo Combinatório.md",
