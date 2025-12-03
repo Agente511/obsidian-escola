@@ -18,5 +18,5 @@ Dados um referencial cartesiano e uma função real de variável real $f$ de dom
 >1. Calcular $m$:
 >   **$$\begin{flalign}& m=\underset{x \rightarrow (+ \text{ ou } - \infty)} \lim \frac {f(x)} x = k_1 \in \mathbb R &\end{flalign}$$**
 >2. Calcular $b$:
->   **$$\begin{flalign}& b=\underset{x \rightarrow (+ \text{ ou } - \infty)} \lim f(x)-mx = k_2 \in \mathbb R &\end{flalign}$$**
+>   **$$\begin{flalign}& b=\underset{x \rightarrow (+ \text{ ou } - \infty)} \lim [f(x)-mx] = k_2 \in \mathbb R &\end{flalign}$$**
 >3. Conclui-se que **y=mx+b é assíntota não vertical ao gráfico de $f$**.

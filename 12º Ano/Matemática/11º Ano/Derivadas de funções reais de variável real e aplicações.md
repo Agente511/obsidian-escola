@@ -1,6 +1,5 @@
-*(feito à pressa, então possivelmente inacabado/impreciso)*
 ## Taxa média de variação
-A taxa média de variação traduz a **variação média de $f$ por cauda unidade de variação da variável independente**.
+A taxa média de variação traduz a **variação média de $f$ por cada unidade de variação da variável independente**.
 
 >[!Summary]  Taxa média de variação de $f$ entre $a$ e $b$
 >Dada uma função real de variável real $f$ e dois pontos distintos, $a$ e $b$, do seu domínio:
@@ -13,7 +12,7 @@ Geometricamente, a taxa média de variação de $f$ entre $a$ e $b$ é o **decli
 >[!Tip] Nota
 >Quando a função estabelece uma **correspondência entre tempo e distância percorrida**, a taxa média de variação chama-se **velocidade média**.
 ### Relação com a monotonia da função
-- Se uma função é **estritamente crescente** (ou, respetivamente, **decrescente**) num conjunto $D$ do seu domínio, então, para quaisquer $a$ e $b$ pertencentes a $D$, a **taxa média de variação** de $f$ entre $a$ e $b$ é **positiva** (respetivamente, **negativa**).
+- Se uma função é **estritamente crescente** (ou, respetivamente, **estritamente decrescente**) num conjunto $D$ do seu domínio, então, para quaisquer $a$ e $b$ pertencentes a $D$, a **taxa média de variação** de $f$ entre $a$ e $b$ é **positiva** (respetivamente, **negativa**).
 - Se uma função é **constante** num conjunto $D$ do seu domínio, então, para quaisquer $a$ e $b$ pertencentes a $D$, a **taxa média de variação** de $f$ entre $a$ e $b$ é **zero**.
   >[!Warning] As implicações recíprocas destas são falsas.
 
@@ -41,7 +40,7 @@ Representa-se por $f'$.
 > [!Summary] Teorema
 > Dada uma função de variável real $f$ e um ponto $a \in D_f$, se $f$ é diferenciável em $a$, então **$f$ é contínua em $a$**.
 > >[!Warning] A implicação recíproca não é necessariamente verdadeira.
-> >$f$ pode ser contínua em $a$ e não ser diferenciável em $x$.
+> >$f$ pode ser contínua em $x=a$ e não ser diferenciável em $x=a$.
 
 ### Regras da derivação
 Considerando:
