@@ -23,14 +23,14 @@ Montag começa a **encontrar-se diariamente com Clarisse** o que o vai **gradual
 %%Clarisse tinha sido atropelada e a família se mudado. Naquela sociedade, as pessoas eram impacientes e tudo era mais acelerado e curto. Alguém deveria estar a conduzir a alta velocidade e, sem reparar, ter morto a rapariga.%%
 
 ##### Ida dos bombeiros à casa de uma mulher
-No quartel **soou o alarme de serviço** e então os bombeiros deslocaram-se a uma casa onde uma mulher guardava livros. **Espalharam querosene por cada divisão da casa** e a própria mulher ateou fogo àquilo, preferindo morrer a viver sem os seus livros.
+No quartel, **soou o alarme de serviço** e então os bombeiros deslocaram-se a uma casa onde uma mulher guardava livros. **Espalharam querosene por cada divisão da casa** e a própria mulher ateou fogo àquilo, preferindo morrer a viver sem os seus livros.
 Toda a **vizinhança assistiu ao incêndio como se de um espetáculo se tratasse** e, terminada a missão, os **bombeiros regressaram ao quartel**, mas **Montag**, **perturbado com o suicídio da mulher**, **trouxe clandestinamente um livro que não chegou a arder**.
 
 ##### Leitura dos livros + Encontro com o Faber
 Já em casa, Montag mostrou à sua esposa, Mildred, os **vários livros que escondia atrás da grelha do ar condicionado**. **Mildred ficou em pânico** e insistiu em queimar os livros antes que fossem denunciados, mas **Montag convenceu-a a lê-los enquanto podiam**.
 Por vezes ouviam-se bombardeiros a atravessar o céu e o homem questionava-se porquê que ninguém falava acerca disso e do resto do mundo.
 
-**Mildred**, desinteressada com a leitura, voltou a **preocupar-se com a possibilidade de a qualquer momento virem lhe incendiar a casa** e Montag não viu outra solução que não **pedir ajuda ao antigo professor Faber**, com quem **elaborou um plano**: **imprimir livros e escondê-los em casas de bombeiros por todo o país**. Faber entregou-lhe ainda um **rádio auricular para se comunicarem secretamente**.
+**Mildred**, desinteressada com a leitura, voltou a **preocupar-se com a possibilidade de, a qualquer momento, virem lhe incendiar a casa** e Montag não viu outra solução que não **pedir ajuda ao antigo professor Faber**, com quem **elaborou um plano**: **imprimir livros e escondê-los em casas de bombeiros por todo o país**. Faber entregou-lhe ainda um **rádio auricular para se comunicarem secretamente**.
 ##### Incêndio da casa do Montag
 Mais tarde, o **quartel recebeu outro alerta** e, desta vez, o **destino era a casa de Montag**, denunciado pela própria esposa, que foge de táxi para um hotel. **O comandante Beatty obrigou Montag a incendiar a sua casa antes de o deter**, mas o bombeiro não se limitou a queimar os livros e **matou o comandante com o lança-chamas**, quando percebeu que ele tinha descoberto o auricular e ameaçava Faber.
 ##### Fuga
