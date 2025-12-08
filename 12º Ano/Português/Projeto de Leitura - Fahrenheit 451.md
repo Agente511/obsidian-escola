@@ -1,12 +1,11 @@
-Bom dia a todos, o livro que venho apresentar intitula-se...
 ## Informações
 **Título**: Fahrenheit 451
-**Autor**: Ray Douglas Bradbury, que, além de escritor, foi um roteirista norte-americano
+**Autor**: Ray Douglas Bradbury, que, além de escritor, foi um guionista norte-americano
 **Tradutor**: Casimiro da Piedade
 
 **Editora**: Saída de Emergência
 **1ª edição**, de maio de 2018
-A **versão original** foi publicada em 1953, quando o autor tinha apenas 33 anos
+**Versão original**: publicada em 1953, quando o autor tinha apenas 33 anos
 
 **Género literário**: romance distópico e ficção científica (visiona um cenário futuro negativo e obscuro, explorando ideias ligadas ao potencial avanço científico e tecnológico)
 
@@ -45,10 +44,11 @@ De repente, e sem que a maioria dos cidadãos desse conta, uma **bomba atómica 
 ## Conclusão/Recomendo a ler?
 Fahrenheit 451 foi um livro que **superou totalmente as minhas expectativas** e que me marcou bastante pela forma como **combina uma narrativa envolvente e cativante com uma dimensão reflexiva**.
 
-Surpreendeu-me como, apesar de o livro ser **originalmente de 1953**, o **autor conseguiu visionar uma sociedade que, de forma alarmante, se aproxima da atual**: um mundo que **prefere o curto e o imediato**, em que se dá **protagonismo mediático ao irrelevante**, onde a **desumanização se torna banal** e onde **sobra cada vez menos espaço para refletir.** O mais assustador é perceber que, em Fahrenheit 451, é o **próprio povo que provoca aquele estado da sociedade**, não sendo uma figura com poder ou um ditador a impor aquele rumo.
+Surpreendeu-me como, apesar de o livro ser **originalmente de 1953**, o **autor conseguiu visionar uma sociedade que, de forma alarmante, se aproxima da atual**: um mundo que **prefere o curto e o imediato**, em que se dá **protagonismo mediático ao irrelevante**, onde a **desumanização se torna banal** e onde **sobra cada vez menos espaço para refletir.** O mais assustador é perceber que, na obra, é o **próprio povo que provoca aquele estado da sociedade**, não sendo uma figura com poder ou um ditador a impor aquele rumo.
 
 Por estas razões, **recomendaria, e até encorajaria**, qualquer pessoa a ler Fahrenheit 451, um livro que inesperadamente, **pode mesmo se ter tornado dos meus favoritos**.
 
+%%
 > [!Notas à toa]
 > Cão Mecânico, latão, cobre e aço, 8 pernas de aranha, terminações capilares sensíveis, agulha metálica que sai do nariz que injetava morfina ou procaína
 > 
@@ -64,3 +64,5 @@ Por estas razões, **recomendaria, e até encorajaria**, qualquer pessoa a ler F
 > "Tentar não ser controverso" - Pág 73
 > "\[A proibição de livros] Não foi uma decisão governamental" - Pág 73
 > Bombeiros como censores oficiais, juízes e executores - pág 74
+
+%%
