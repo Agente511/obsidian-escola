@@ -14,18 +14,17 @@ A **versão original** foi publicada em 1953, quando o autor tinha apenas 33 ano
 ##### Contexto geral
 A história passa-se numa época em que, devido às **casas terem passado a ser à prova de fogo**, os **bombeiros deixaram de apagar incêndios** e tornaram-se responsáveis por **atear fogo a livros** num tempo em que estes são proibidos.
 ##### Encontro com a Clarisse
-A personagem principal é exatamente um bombeiro, **Guy Montag**, que vive **conformado com a sua função** até que, numa noite, ao voltar do trabalho, conhece a **vizinha de 17 anos Clarisse McClellan**, que começa a **conversar com ele**. Ela assume-se como uma **louca**, tudo porque fala espontaneamente e gosta de olhar para as coisas, cheirá-las e pensar nelas, algo incomum nos tempos que corriam. Neste encontro, Clarisse também afirma que **não tem medo de Montag** e **questiona se ele é realmente feliz**, deixando **Montag desconcertado** e **fá-lo perder o sorriso artificial impresso no rosto**, e que não conseguia controlar, à medida que **dá conta do vazio da sua vida**.
+A personagem principal é exatamente um bombeiro, **Guy Montag**, que vive **conformado com a sua função** até que, numa noite, ao voltar do trabalho, conhece a **vizinha de 17 anos**, **Clarisse McClellan**, que começa a **conversar com ele**. Ela assume-se como uma **louca**, tudo porque fala espontaneamente e gosta de olhar para as coisas, cheirá-las e pensar nelas, algo incomum nos tempos que corriam. Neste encontro, Clarisse também afirma que **não tem medo de Montag** e **questiona se ele é realmente feliz**, deixando **Montag desconcertado** e **fá-lo perder o sorriso artificial impresso no rosto**, e que não conseguia controlar, à medida que **dá conta do vazio da sua vida**.
 
 %% ##### Overdose de Mildred
 Ao chegar a casa, encontrou a sua esposa, Mildred, a sofrer uma overdose após ter tomado 30 comprimidos para dormir, obrigando a chamar os serviços de emergência para a salvar. Naquela sociedade, situações como esta eram frequentes e feitas de forma inconsciente. No dia seguinte, a mulher estava novamente a cumprir a sua rotina normal, em que passava o dia na sala a olhar para as suas 3 paredes-ecrã e com um dispositivo semelhante a uns auriculares que eram designados por "Conchas". %%
 
 ##### Desaparecimento de Clarisse
-Montag passa a **encontrar-se diariamente com Clarisse** o que o vai **gradualmente tornando-o mais consciente da sua vida**, mas, um dia, **ela e toda a sua família desapareceram**, abalando o bombeiro que sentia falta da jovem vizinha.
+Montag passa a **encontrar-se diariamente com Clarisse** o que o vai **gradualmente tornando-o mais consciente da sua vida** e com dúvidas sobre a integridade do seu trabalho de bombeiro, mas, um dia, **ela e toda a sua família desapareceram**, abalando o bombeiro que sentia falta da jovem vizinha.
 Clarisse tinha sido atropelada e a família se mudado. Naquela sociedade, as pessoas eram impacientes e tudo era mais acelerado e curto. Alguém deveria estar a conduzir a alta velocidade e, sem reparar, ter morto a rapariga.
 
 ##### Dúvidas acerca da sociedade
-No quartel, Montag começava a questionar a origem e integridade do trabalho dos bombeiros, obrigando o comandante Beatty a mentir-lhe afirmando que, desde a sua fundação, os bombeiros foram sempre encarregados de queimar livros, mas foi interrompido pelo alarme de serviço.
-Foram então a uma casa onde uma mulher guardava livros. Espalharam querosene por cada divisão da casa onde havia livros e a própria mulher ateou fogo aquilo, como se achasse que a sua vida não merecesse ser vivida se não tivesse livros.
+No quartel **soou o alarme de serviço** e então os bombeiros deslocaram-se a uma casa onde uma mulher guardava livros. Espalharam querosene por cada divisão da casa onde havia livros e a própria mulher ateou fogo aquilo, como se achasse que a sua vida não merecesse ser vivida sem livros.
 Toda a vizinhança assistiu ao incêndio como se de um espetáculo se tratasse e, terminada a missão, os bombeiros regressaram ao quartel, mas Montag, perturbado com o suicídio da mulher, trouxe clandestinamente um livro que não chegou a arder.
 
 ##### Leitura dos livros + Encontro com o Faber
@@ -33,7 +32,7 @@ Já em casa, Montag mostrou à sua esposa, Mildred, os **vários livros que esco
 Por vezes ouvem-se bombardeiros a atravessar o céu e o homem questiona-se porquê que ninguém fala acerca disso e do resto do mundo.
 Mildred, desinteressada com a leitura, voltou a preocupar-se com a possibilidade de a qualquer momento virem lhe incendiar a casa e Montag não viu outra solução que não pedir ajuda ao antigo professor Faber, com quem elabora um plano: imprimir livros e escondê-los em casas de bombeiros por todo o país. Faber entregou-lhe ainda um rádio auricular para se comunicarem secretamente.
 ##### Incêndio da casa do Montag
-Mais tarde, o **alarme do quartel soou novamente** e deslocaram-se para o local que, desta vez, era a casa de Montag, denunciada pela própria esposa, que foge de táxi para um hotel. Beatty obriga Montag a incendiar a sua casa antes de o deter, mas o bombeiro não se limitou a queimar os livros e matou o comandante com o lança-chamas, quando percebeu que Beatty tinha descoberto o auricular e ameaçava Faber.
+Mais tarde, o **quartel recebeu outro alerta** e, desta vez, o destino era a casa de Montag, denunciada pela própria esposa, que foge de táxi para um hotel. Beatty obriga Montag a incendiar a sua casa antes de o deter, mas o bombeiro não se limitou a queimar os livros e matou o comandante com o lança-chamas, quando percebeu que Beatty tinha descoberto o auricular e ameaçava Faber.
 ##### Fuga
 Montag procedeu a fugir, para que não fosse apanhado pelo Cão Mecânico, um robô veloz usado pelos bombeiros para perseguir e eliminar fugitivos, enquanto toda esta caçada estava a ser transmitida na televisão, como um programa de entretenimento.
 Passou brevemente pela casa de Faber para elaborarem um plano de fuga, já que tinha perdido contacto com ele após o auricular ser queimado, e seguiu caminho até ao rio, onde trocou de roupa para o Cão Mecânico perder o rasto do seu cheiro.
