@@ -24,9 +24,9 @@ Montag passa a **encontrar-se diariamente com Clarisse** o que o vai **gradualme
 Clarisse tinha sido atropelada e a família se mudado. Naquela sociedade, as pessoas eram impacientes e tudo era mais acelerado e curto. Alguém deveria estar a conduzir a alta velocidade e, sem reparar, ter morto a rapariga.
 
 ##### Dúvidas acerca da sociedade
-No quartel, Montag começava a questionar a origem e integridade do trabalho de bombeiros, obrigando o comandante Beatty a mentir-lhe afirmando que, desde a sua fundação, os bombeiros eram encarregados de queimar livros e nunca tinham tido outro papel, mas foi interrompido pelo alarme que sinalizava que havia trabalho a fazer.
+No quartel, Montag começava a questionar a origem e integridade do trabalho dos bombeiros, obrigando o comandante Beatty a mentir-lhe afirmando que, desde a sua fundação, os bombeiros foram sempre encarregados de queimar livros, mas foi interrompido pelo alarme de serviço.
 Foram então a uma casa onde uma mulher guardava livros. Espalharam querosene por cada divisão da casa onde havia livros e a própria mulher ateou fogo aquilo, como se achasse que a sua vida não merecesse ser vivida se não tivesse livros.
-Toda a vizinhança assistiu ao incêndio como se de um espetáculo se tratasse e, terminada a missão, os bombeiros regressaram ao quartel, mas Montag trazia escondido um livro que roubara à mulher. O suicídio da mulher tinha enlouquecido Montag e fê-lo pensar no que os livros teriam para alguém querer morrer com eles. 
+Toda a vizinhança assistiu ao incêndio como se de um espetáculo se tratasse e, terminada a missão, os bombeiros regressaram ao quartel, mas Montag, perturbado com o suicídio da mulher, trouxe clandestinamente um livro que não chegou a arder.
 
 ##### Leitura dos livros + Encontro com o Faber
 Já em casa, Montag mostrou à sua esposa, Mildred, os vários livros que escondia atrás da grelha do ar condicionado. Mildred ficou em pânico e quis queimar os livros antes que fossem denunciados, mas Montag impediu-a e começaram a lê-los enquanto podiam.
@@ -35,11 +35,11 @@ Mildred, desinteressada com a leitura, voltou a preocupar-se com a possibilidade
 ##### Incêndio da casa do Montag
 Mais tarde, o alarme do quartel soou novamente, e deslocaram-se para o local. Desta vez, a casa era a de Montag, denunciada por Mildred, a própria esposa, que fugiu de táxi para um hotel. Beatty fez questão que fosse o próprio Montag a incendiar tudo e que seria preso de seguida pelo crime cometido, mas Montag não se limitou a queimar os livros e matou com o lança-chamas o comandante que tinha descoberto o auricular de Faber, ameaçando castigá-lo também.
 ##### Fuga
-Montag procedeu a fugir, para que não fosse apanhado pelo Cão Mecânico, um robô veloz dos bombeiros e com alta capacidade de perseguição para apanhar criminosos e matá-los. Toda a caçada estava a ser transmitida na televisão, como um programa de entretenimento.
+Montag procedeu a fugir, para que não fosse apanhado pelo Cão Mecânico, um robô veloz usado pelos bombeiros para perseguir e eliminar fugitivos, enquanto toda esta caçada estava a ser transmitida na televisão, como um programa de entretenimento.
 Passou brevemente pela casa de Faber para elaborarem um plano de fuga, já que tinha perdido contacto com ele após o auricular ser queimado, e seguiu caminho até ao rio, onde trocou de roupa para o Cão Mecânico perder o rasto do seu cheiro.
 
 ##### Acampamento
-Já longe da cidade, Montag encontrou um acampamento em que um grupo de homens repousava. Todos aqueles nómadas eram intelectuais e ex-professores que tinham decorado cada um, um livro inteiro, para mesmo que todas as cópias fossem queimadas o conteúdo dos livros continuasse preservado. Juntando-se a eles, Montag, quando aprendesse a desbloquear as suas memórias fotográficas, tornar-se-ia o Livro de Eclesiastes.
+Já longe da cidade, Montag encontrou um acampamento em que um grupo de homens repousava. Todos aqueles nómadas eram intelectuais e ex-professores que tinham decorado cada um, um livro inteiro, para mesmo que todas as cópias fossem queimadas o conteúdo dos livros continuasse preservado. %% Juntando-se a eles, **Montag tornar-se-ia o Livro de Eclesiastes**, assim que aprendesse a desbloquear as suas memórias fotográficas. %%
 
 ##### Bomba atómica + Fim
 De repente, e sem que a maioria dos cidadãos desse conta, uma bomba atómica caiu sobre a cidade, destruindo todos os seus prédios e matando todos os que lá se encontravam. O grupo começou a caminhar em direção à cidade em ruínas para ajudar possíveis sobreviventes, com a esperança de futuramente conseguirem reconstruir uma sociedade com base nos livros que carregam na memória.
