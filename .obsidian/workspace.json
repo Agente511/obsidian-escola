@@ -28,15 +28,14 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Português/Projeto de Leitura - Fahrenheit 451.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Projeto de Leitura - Fahrenheit 451"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,11 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "830515ee37dff642",
+  "active": "ebd8ec0ac7283f04",
   "lastOpenFiles": [
+    "12º Ano/Português/Projeto de Leitura - Fahrenheit 451.md",
     "11º Ano/Português/Outros/Projeto de Leitura - O Violino de Auschwitz.md",
     "12º Ano/Matemática/Probabilidades.md",
-    "12º Ano/Português/Projeto de Leitura - Fahrenheit 451.md",
     "12º Ano/Matemática/Teoria dos conjuntos.md",
     "12º Ano/Matemática/Cálculo Combinatório.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
