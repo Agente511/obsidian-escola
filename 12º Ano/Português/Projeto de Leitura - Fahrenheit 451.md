@@ -11,7 +11,7 @@
 
 ## Resumo da história
 ##### Contexto geral
-A história passa-se numa época em que, devido às **casas terem passado a ser à prova de fogo**, os **bombeiros deixaram de apagar incêndios** e tornaram-se responsáveis por **atear fogo a livros**, num tempo em que estes são proibidos, as pessoas são impacientes e tudo é mais acelerado e curto. 
+A história passa-se numa época em que, devido às **casas terem passado a ser à prova de fogo**, os **bombeiros deixaram de apagar incêndios** e tornaram-se responsáveis por **atear fogo a livros**, num tempo em que **estes são proibidos**, as **pessoas são impacientes** e **tudo é mais acelerado e curto**. 
 ##### Encontro com a Clarisse
 A **personagem principal** é exatamente um **bombeiro**, **Guy Montag**, que vive **conformado com a sua função** até que, numa noite, ao voltar do trabalho, conhece a **vizinha de 17 anos**, **Clarisse McClellan**, que começa a **conversar com ele**. Ela assume-se como uma **louca**, tudo porque fala espontaneamente e gosta de olhar para as coisas, cheirá-las e pensar nelas, algo incomum nos tempos que corriam. Neste encontro, Clarisse também afirma que **não tem medo de Montag** e **questiona se ele é realmente feliz**, deixando **Montag desconcertado** e **fá-lo perder o sorriso artificial impresso no rosto**, que não conseguia controlar, à medida que **dá conta do vazio da sua vida**.
 
