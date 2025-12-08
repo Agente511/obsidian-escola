@@ -24,17 +24,19 @@ Montag começa a **encontrar-se diariamente com Clarisse** o que o vai **gradual
 
 ##### Ida dos bombeiros à casa de uma mulher
 No quartel, **soou o alarme de serviço** e então os bombeiros deslocaram-se a uma casa onde uma mulher guardava livros. **Espalharam querosene por cada divisão da casa** e a própria mulher ateou fogo àquilo, preferindo morrer a viver sem os seus livros.
+##### Regresso e roubo de um livro por Montag
 Toda a **vizinhança assistiu ao incêndio como se de um espetáculo se tratasse** e, terminada a missão, os **bombeiros regressaram ao quartel**, mas **Montag**, **perturbado com o suicídio da mulher**, **trouxe clandestinamente um livro que não chegou a arder**.
 
-##### Leitura dos livros + Encontro com o Faber
+##### Leitura dos livros
 Já em casa, Montag mostrou à sua esposa, Mildred, os **vários livros que escondia atrás da grelha do ar condicionado**. **Mildred ficou em pânico** e insistiu em queimar os livros antes que fossem denunciados, mas **Montag convenceu-a a lê-los enquanto podiam**.
 Por vezes ouviam-se bombardeiros a atravessar o céu e o homem questionava-se porquê que ninguém falava acerca disso e do resto do mundo.
-
+##### Pedido de ajuda a Faber
 **Mildred**, desinteressada com a leitura, voltou a **preocupar-se com a possibilidade de, a qualquer momento, virem lhe incendiar a casa** e Montag não viu outra solução que não **pedir ajuda ao antigo professor Faber**, com quem **elaborou um plano**: **imprimir livros e escondê-los em casas de bombeiros por todo o país**. Faber entregou-lhe ainda um **rádio auricular para se comunicarem secretamente**.
 ##### Incêndio da casa do Montag
 Mais tarde, o **quartel recebeu outro alerta** e, desta vez, o **destino era a casa de Montag**, denunciado pela própria esposa, que foge de táxi para um hotel. **O comandante Beatty obrigou Montag a incendiar a sua casa antes de o deter**, mas o bombeiro não se limitou a queimar os livros e **matou o comandante com o lança-chamas**, quando percebeu que ele tinha descoberto o auricular e ameaçava Faber.
 ##### Fuga
 **Montag procedeu a fugir**, para que **não fosse apanhado pelo Cão Mecânico**, um robô veloz usado pelos bombeiros para perseguir e eliminar criminosos, enquanto toda esta caçada estava a ser **transmitida na televisão**, como um programa de entretenimento.
+##### Passagem pela casa de Faber
 Passou brevemente pela **casa de Faber** para elaborarem um **plano de fuga**, já que tinha perdido contacto com ele após o auricular ser queimado, e **seguiu caminho até ao rio**, onde **trocou de roupa para o Cão Mecânico perder o rasto do seu cheiro**.
 
 ##### Acampamento
