@@ -1,5 +1,4 @@
 ### Características
----
 - #### Sujeito poético
 **Homem**
 - #### Mulher ideal
