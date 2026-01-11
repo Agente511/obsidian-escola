@@ -17,9 +17,9 @@ Recuperação e reforço da tese defendida, através do apelo à **intervenção
 - **Informação seletiva e significativa**
 - Capacidade de **expor e argumentar** (coerência e validade dos argumentos, contra-argumentos e provas)
 - **Dimensão ética e social**
-- **[[Contextualização e Estrutura#Objetivos da Eloquência|Eloquência]]** (valor expressivo dos recursos mobilizados)
+- **[[Sermão de Santo António - Contextualização e Estrutura#Objetivos da Eloquência|Eloquência]]** (valor expressivo dos recursos mobilizados)
 ## Recursos linguísticos
-- **[[Contextualização e Estrutura#Objetivos da Eloquência|Eloquência]]** (arte de bem falar) assente em recursos como:
+- **[[Sermão de Santo António - Contextualização e Estrutura#Objetivos da Eloquência|Eloquência]]** (arte de bem falar) assente em recursos como:
 	- **frases declarativas e interrogativas**
 	- formas verbais no **presente do indicativo** (com valor universal e intemporal)
 	- **verbos declarativos** (*afirmar, considerar, alegar, declarar,* etc)
