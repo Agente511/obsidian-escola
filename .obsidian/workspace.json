@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Projeto de Leitura - O Violino de Auschwitz"
             }
+          },
+          {
+            "id": "978667f04d6ca27c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebd8ec0ac7283f04",
+  "active": "978667f04d6ca27c",
   "lastOpenFiles": [
     "11º Ano/Biologia/Biologia 11º Ano.md",
     "10º Ano/Português/Educação Literária/Crónica de D. João I/Fernão Lopes e a Crónica de D. João I.md",
