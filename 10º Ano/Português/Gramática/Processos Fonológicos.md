@@ -1,5 +1,4 @@
 ### De supressão (eliminação de sons)
----
 #### ASA
 - #### Aférese
 	Eliminação de um som no **início** da palavra
@@ -12,7 +11,6 @@
 	- mal**e** > mal
 
 ### De inserção (acrescentamento de sons)
----
 #### PEP
 - #### Prótese
 	Acréscimo de um novo som no **início** da palavra
@@ -25,7 +23,6 @@
 	- ante > ante**s**
 
 ### De alteração (troco de lugar ou modificação na articulação de sons)
----
 - #### Metátese
 	**Troca** de lugar entre sons
 	- fe**ri**a > fe**ir**a
@@ -72,5 +69,8 @@
 	  Contração ou **fusão de 2 vogais num ditongo**
 		- r**ee** > r**ei**
 
-A imagem seguinte não foi verificada se está atualizada:
+---
+
+> [!Warning] Falta dizer na imagem que tanto a crase como a sinérese são fenómenos de contração (pode ser contração por crase ou contração por sinérese). Não se se falta mais alguma coisa na imagem.
+
 ![[Processos fonológicos.png]] 
