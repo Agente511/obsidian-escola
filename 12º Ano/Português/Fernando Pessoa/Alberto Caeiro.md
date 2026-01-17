@@ -6,15 +6,14 @@
 >- Teve apenas a **instrução primária** e **não tinha profissão**, o que **provoca a sua simplicidade**
 
 ## Fingimento artístico: o poeta bucólico
-### Comunhão com a Natureza
-Na sua coletânea de poemas *O Guardador de Rebanhos*, Alberto Caeiro apresenta-se, através de uma **máscara poética**, como um **pastor**, devido a também ele **deambular e contemplar a Natureza**, de forma **simples, natural e objetiva**, defendendo a vida em **simbiose e harmonia com os elementos naturais**, aproximando-se do **paganismo**.
+Na sua coletânea de poemas *O Guardador de Rebanhos*, Alberto Caeiro apresenta-se, através de uma **máscara poética**, como um **pastor**, devido a também ele **deambular e contemplar a Natureza**, de forma **simples, natural e objetiva**.
+Defende a vida em **simbiose e harmonia com os elementos naturais**, aproximando-se do **[paganismo](https://www.infopedia.pt/artigos/$paganismo)**. sendo para ele essencial o **afastamento social** para a criação do **ambiente de paz**.
+
 É, assim, um **poeta [bucólico](https://dicionario.priberam.org/buc%C3%B3lico)**.
-
-
 ## Reflexão existencial: o primado das sensações
 Caeiro **apenas acredita no que vê**, **recusando o pensamento metafísico** ("pensar é estar doente dos olhos", "pensar é não compreender") e **valorizando as sensações**. Defende que o **mundo deve ser conhecido através dos sentidos** (principalmente da visão), pois, para ele, a **realidade resume-se ao mundo tangível**. Desta forma, insiste na "aprendizagem de desaprender", ou seja, de **aprender a não pensar**.
 
-Caeiro é o **mestre de Fernando Pessoa ortónimo e dos heterónimos**, apresentando **soluções para os problemas existenciais e filosóficos** dos seus discípulos (como a [[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar de Pessoa ortónimo]]).
+Estas convicções conferem a Caeiro o estatuto de **mestre de Fernando Pessoa ortónimo e dos seus heterónimos**, já que constituem **soluções para os problemas existenciais e filosóficos** dos seus discípulos (como a [[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar de Pessoa ortónimo]]).
 
 ## Linguagem, estilo e estrutura
 
