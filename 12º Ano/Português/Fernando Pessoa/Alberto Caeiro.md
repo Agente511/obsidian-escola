@@ -18,19 +18,33 @@ Considera ainda que **só existe o presente** (realidade imediata), sendo o temp
 É, assim, um **poeta [bucólico](https://dicionario.priberam.org/buc%C3%B3lico)**.
 ## Reflexão existencial: o primado das sensações
 Caeiro **apenas acredita no que vê**, **recusando o pensamento filosófico (bem como a metafísica e a ciência)**, que o faz sofrer, é fonte de enganos e não permite conhecer o real ("pensar é estar doente dos olhos", "pensar é não compreender"), e **valorizando as sensações** ("Eu não tenho filosofia: tenho sentidos").
-Consequentemente, constrói uma nova filosofia, a **filosofia da antifilosofia**, o que se revela **contraditório**, pois ao defender a recusa do pensamento está a filosofar e a espalhar a sua doutrina. 
 
 É um **sensacionista**, defendendo que o **mundo deve ser conhecido espontaneamente através dos sentidos** (principalmente da visão), pois, para ele, a **realidade reduz-se ao mundo tangível** ("As coisas não têm significado: têm existência", "o único sentido oculto das coisas / É elas não terem sentido oculto nenhum").
 
 Desta forma, **percepciona a realidade de forma objetiva**, **sem intelectualizar essa percepção** e **rejeitando a subjetividade**, insistindo na "aprendizagem de desaprender", ou seja, de **aprender a não pensar**.
+
+> [!Warning] Contradições de Alberto Caeiro
+> Consequentemente, Caeiro constrói uma nova filosofia, a **filosofia da antifilosofia**, o que se revela **contraditório**, pois **ao defender a recusa do pensamento está a filosofar**.
+> Além disso, nos seus poemas, **reflete sobre as sensações e expõe a sua doutrina**, **não se limitando a captar impressões**.
 ### Estatuto de "mestre"
 Estas convicções conferem a Caeiro o estatuto de **mestre de Fernando Pessoa ortónimo e dos seus heterónimos**, já que constituem **soluções para os problemas existenciais e filosóficos** dos seus discípulos (como a [[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar de Pessoa ortónimo]]).
 
 ## Linguagem, estilo e estrutura
 Poeta do real objetivo, pois descreve a realidade tal como ela é, de forma simples e concreta,
+- ##### Verso livre e, normalmente, longo
+- ##### Irregularidade estrófica, métrica e rimática
 - ##### Vocabulário simples e concreto
-  Linguagem oralizante, prosaica, familiar e objetiva.
-- ##### Presença de máximas e de aforismos (verdade absoluta/preceito)
+	Linguagem oralizante, prosaica, familiar e objetiva, evitando o léxico sofisticado.
+- ##### Presença de parataxes
+	Frases simples constituídas por **orações coordenadas** justapostas, **sem conjunções coordenativas**.
+- ##### Uso de máximas e de aforismos (verdade absoluta/preceito)
+- ##### Domínio do campo lexical de "natureza"
+- ##### Marcas do discurso da oralidade e da prosa
+	Uso de **polissíndetos** e **repetições**.
+- ##### Adjetivação objetiva
+- ##### Predomínio do presente do indicativo
+- ##### Simplicidade dos recursos retóricos
+	Uso de **comparações e metáforas simples**.
 
 
 ![[Pasted image 20260116183316.png]]
