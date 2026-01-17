@@ -8,8 +8,12 @@
 
 ## Fingimento artístico: o poeta bucólico
 Na sua coletânea de poemas *O Guardador de Rebanhos*, Alberto Caeiro apresenta-se, através de uma **máscara poética**, como um **pastor**, devido a também ele **deambular e contemplar a Natureza**, de forma **simples, natural e objetiva**.
+
 Defende a vida em **simbiose e harmonia com os elementos naturais, os ritmos e os ciclos da Natureza**, o que o aproxima do **[paganismo](https://www.infopedia.pt/artigos/$paganismo)**, e que implica o **afastamento social**, essencial para a criação do **ambiente de paz**.
-Considera ainda que **só existe o presente**, sendo o tempo a **ausência de tempo** (sem passado nem futuro)
+
+É **feliz pelo simples facto de existir**, aproximando-se da **ingenuidade de uma criança**, ao observar o mundo sem procurar explicações (**simplicidade e felicidade primordiais**). Assim, sente deslumbramento perante a Natureza e crê na "eterna novidade do mundo" 
+
+Considera ainda que **só existe o presente**, sendo o tempo a **ausência de tempo** (sem passado nem futuro).
 
 É, assim, um **poeta [bucólico](https://dicionario.priberam.org/buc%C3%B3lico)**.
 ## Reflexão existencial: o primado das sensações
