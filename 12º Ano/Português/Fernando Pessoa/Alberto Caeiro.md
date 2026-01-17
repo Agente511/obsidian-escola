@@ -17,9 +17,12 @@ Considera ainda que **só existe o presente**, sendo o tempo a **ausência de te
 
 É, assim, um **poeta [bucólico](https://dicionario.priberam.org/buc%C3%B3lico)**.
 ## Reflexão existencial: o primado das sensações
-Caeiro **apenas acredita no que vê**, **recusando o pensamento metafísico** ("pensar é estar doente dos olhos", "pensar é não compreender") e **valorizando as sensações**.
-É um **sensacionista**, Defende** que o **mundo deve ser conhecido através dos sentidos** (principalmente da visão), pois, para ele, a **realidade resume-se ao mundo tangível**. Desta forma, insiste na "aprendizagem de desaprender", ou seja, de **aprender a não pensar**.
+Caeiro **apenas acredita no que vê**, **recusando o pensamento metafísico**, que o faz sofrer, é fonte de enganos e não permite conhecer o real ("pensar é estar doente dos olhos", "pensar é não compreender"), e **valorizando as sensações**.
 
+É um **sensacionista**, defendendo que o **mundo deve ser conhecido através dos sentidos** (principalmente da visão), pois, para ele, a **realidade reduz-se ao mundo tangível** ("As coisas não têm significado: têm existência", "o único sentido oculto das coisas / É elas não terem sentido oculto nenhum").
+Desta forma, insiste na "aprendizagem de desaprender", ou seja, de **aprender a não pensar**.
+
+### Estatuto de "mestre"
 Estas convicções conferem a Caeiro o estatuto de **mestre de Fernando Pessoa ortónimo e dos seus heterónimos**, já que constituem **soluções para os problemas existenciais e filosóficos** dos seus discípulos (como a [[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar de Pessoa ortónimo]]).
 
 ## Linguagem, estilo e estrutura
