@@ -142,8 +142,8 @@ No entanto, a **evocação da infância provoca uma nostalgia angustiada**, pois
 - ##### Pontuação emotiva
 	Uso de sinais de pontuação para **expressar emoções**
 - ##### Musicalidade da linguagem
-  Confere **ritmo** e **fluidez** ao poema
-  Concretizado através de **rimas**, **encavalgamentos** e **aliterações**
+	Confere **ritmo** e **fluidez** ao poema
+	Concretizado através de **rimas**, **encavalgamentos** e **aliterações**
 - ##### Simplicidade estilística
 	**Comparações**, **metáforas**, **repetições** e **paralelismos**
 - ##### Exploração de símbolos

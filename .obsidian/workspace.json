@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebd8ec0ac7283f04",
+            "id": "7c05aef962b9e490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12º Ano/Português/Fernando Pessoa/Ricardo Reis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ricardo Reis"
+            }
+          },
+          {
+            "id": "106d3ba0e21d56fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12º Ano/Português/Fernando Pessoa/Alberto Caeiro.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alberto Caeiro"
+            }
+          },
+          {
+            "id": "56e9bc9b30cdfa94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,34 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "Fernando Pessoa heterónimo"
-            }
-          },
-          {
-            "id": "7c05aef962b9e490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Alberto Caeiro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alberto Caeiro"
-            }
-          },
-          {
-            "id": "674871f29f70fd17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fernando Pessoa ortónimo"
             }
           }
         ],
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,16 +237,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c05aef962b9e490",
+  "active": "106d3ba0e21d56fa",
   "lastOpenFiles": [
-    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
+    "12º Ano/Português/Fernando Pessoa/Ricardo Reis.md",
+    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa heterónimo.md",
     "12º Ano/Português/Fernando Pessoa/Alberto Caeiro.md",
+    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
     "Pasted image 20260117210915.png",
     "Pasted image 20260117210908.png",
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
-    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa heterónimo.md",
     "12º Ano/Português/Fernando Pessoa/Álvaro de Campos.md",
-    "12º Ano/Português/Fernando Pessoa/Ricardo Reis.md",
     "Pasted image 20260116184231.png",
     "Pasted image 20260116183327.png",
     "Pasted image 20260116183321.png",

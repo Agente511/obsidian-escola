@@ -21,7 +21,7 @@ Caeiro **apenas acredita no que vê**, **recusando o pensamento filosófico (bem
 
 É um **sensacionista**, defendendo que o **mundo deve ser conhecido espontaneamente através dos sentidos** (principalmente da visão), pois, para ele, a **realidade reduz-se ao mundo tangível** ("As coisas não têm significado: têm existência", "o único sentido oculto das coisas / É elas não terem sentido oculto nenhum").
 
-Desta forma, **percepciona a realidade de forma objetiva**, **sem intelectualizar essa percepção** e **rejeitando a subjetividade**, insistindo na "aprendizagem de desaprender", ou seja, de **aprender a não pensar**.
+Desta forma, **percepciona a realidade de forma objetiva**, **sem intelectualizar essa percepção** e **rejeitando a subjetividade**, insistindo na "aprendizagem de desaprender", ou seja, de **aprender a não pensar**. É chamado de **poeta do real objetivo**, pois descreve a realidade tal como ela é, de forma simples e concreta.
 
 > [!Warning] Contradições de Alberto Caeiro
 > Consequentemente, Caeiro constrói uma nova filosofia, a **filosofia da antifilosofia**, o que se revela **contraditório**, pois **ao defender a recusa do pensamento está a filosofar**.
@@ -30,7 +30,6 @@ Desta forma, **percepciona a realidade de forma objetiva**, **sem intelectualiza
 Estas convicções conferem a Caeiro o estatuto de **mestre de Fernando Pessoa ortónimo e dos seus heterónimos**, já que constituem **soluções para os problemas existenciais e filosóficos** dos seus discípulos (como a [[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar de Pessoa ortónimo]]).
 
 ## Linguagem, estilo e estrutura
-Poeta do real objetivo, pois descreve a realidade tal como ela é, de forma simples e concreta,
 - ##### Verso livre e, normalmente, longo
 - ##### Irregularidade estrófica, métrica e rimática
 - ##### Vocabulário simples e concreto
@@ -39,12 +38,9 @@ Poeta do real objetivo, pois descreve a realidade tal como ela é, de forma simp
 	Frases simples constituídas por **orações coordenadas** justapostas, **sem conjunções coordenativas**.
 - ##### Uso de máximas e de aforismos (verdade absoluta/preceito)
 - ##### Domínio do campo lexical de "natureza"
-- ##### Marcas do discurso da oralidade e da prosa
-	Uso de **polissíndetos** e **repetições**.
-- ##### Adjetivação objetiva
 - ##### Predomínio do presente do indicativo
-- ##### Simplicidade dos recursos retóricos
-	Uso de **comparações e metáforas simples**.
-
-
-![[Pasted image 20260116183316.png]]
+- ##### Marcas do discurso da oralidade e da prosa
+	Uso de **polissíndetos**, **repetições** e **versos longos**.
+- ##### Simplicidade estilística
+	Uso de **comparações e metáforas simples**, **enumerações**, **anáforas**, **paralelismos** e **repetições**.
+- ##### Pontuação expressiva
