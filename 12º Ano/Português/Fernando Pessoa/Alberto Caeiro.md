@@ -6,9 +6,14 @@
 >- Teve apenas a **instrução primária** e **não tinha profissão**, o que **provoca a sua simplicidade**
 
 ## Fingimento artístico: o poeta bucólico
-Na sua coletânea de poemas  Alberto Caeiro apresenta-se como um pastor/**"guardador de rebanhos"** 
-(que dá título à sua coletânea de poemas), sendo alguém que **deambula e contempla a natureza**, de forma **simples, natural e objetiva**.
-Ele **apenas acredita no que vê**, **recusando o pensamento metafísico** ("pensar é estar doente dos olhos")
+### Comunhão com a Natureza
+Na sua coletânea de poemas *O Guardador de Rebanhos*, Alberto Caeiro apresenta-se, através de uma **máscara poética**, como um **pastor**, devido a também ele **deambular e contemplar a Natureza**, de forma **simples, natural e objetiva**, vivendo em **simbiose com os elementos naturais**.
+É, assim, um **poeta [bucólico](https://dicionario.priberam.org/buc%C3%B3lico)**.
+
+### Estatuto de "mestre"
+Caeiro **apenas acredita no que vê**, **recusando o pensamento metafísico** ("pensar é estar doente dos olhos", "pensar é não compreender"), **valorizando o sentir e o ver**
+
+## Reflexão existencial: o primado das sensações
 
 
 ![[Pasted image 20260116183309.png]]
