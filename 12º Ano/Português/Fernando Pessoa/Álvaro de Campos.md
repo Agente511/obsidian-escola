@@ -41,10 +41,21 @@ O sujeito poético é apresentado **eufórico** e **entusiasmado**, desejando **
 > O sujeito poético, num **estado febril, extasiado e delirante**, chega a desejar **fundir-se com a máquina**.
 
 ^221a48
-### 3. Fase intimista/abúlica
-Consciente do f**racasso de todos os sonhos e aspirações**, o poeta sente a **nostalgia da infância** e exprime o **vazio**, a **angústia**, o **cansaço**, o **ceticismo** e a desilusão do presente.
+### 3. Fase intimista/abúlica/pessimista
+Consciente do **fracasso de todos os sonhos e aspirações**, o "eu" lírico sente a **nostalgia da infância** e exprime o **vazio**, a **angústia**, o **cansaço**, o **ceticismo** (crença na impossibilidade de alcançar a verdade) e a **desilusão do presente**.
+
+O sujeito poético deseja **evadir para o passado** que lhe serve de refúgio. Sente **nostalgia da infância**, tendo **consciência da impossibilidade de voltar a esse tempo feliz** em que era **inconsciente e ingénuo**.
+
+**Reflete** sobre si mesmo e a existência de forma **pessimista** e **desencantada**.
+
+>[!Info] "Aniversário"
+>Destaca-se o poema **"Aniversário"**,
 
 ## Linguagem, estilo e estrutura
-![[Pasted image 20260116183321.png]]
+
 
 ![[Pasted image 20260116183327.png]]
+
+
+
+![[Pasted image 20260116183321.png]]
