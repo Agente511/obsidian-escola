@@ -17,14 +17,18 @@ Acaba por se **marginalizar** e **não encontra nada que lhe interesse no mundo*
 > [!Info] "Opiário"
 > O **único poema que representa esta fase** intitula-se **"Opiário"** e relata uma viagem ao Oriente realizada por Campos onde ele procura escapar aos seus problemas, sem sucesso, através do ópio e da morfina (estupefacientes), não sabendo como reagir de outro modo.
 
+
+NOSTALGIA DA INFÂNCIA + CONSCIÊNCIA DO TEMPO QUE NÃO VOLTA ATRÁS
 ### 2. Fase futurista/sensacionista
 **Celebra a técnica, a velocidade e a força da civilização moderna**, desejando experimentar a **multiplicidade de sensações** que lhe estão associadas. **Abandona o paradigma aristotélico**.
 #### Futurismo
-Campos, influenciado pelo futurismo, **corta com a tradição e com o passado** e procura **chocar os leitores**.
+Campos, influenciado pelo futurismo, **corta com a tradição e com o passado** e procura **chocar os leitores**. Desta forma, de modo a transmitir o dinamismo da vida moderna, é feito uso de **onomatopeias e caracteres diferentes**, a **pontuação é negligenciada** (rompendo com a antiga sintaxe) e **rompe-se com a subjetividade da lírica tradicional**, num ato provocatório e escandalizador.
 
 É **exaltada a civilização industrial e a vida moderna** e glorifica-se a **máquina** que **permite ao Homem ultrapassar as limitações da sua condição humana**.
 #### Sensacionismo
-O poeta recorre à corrente modernista do sensacionismo, caracterizada pela **experiência e expressão excessiva das sensações**
+O poeta recorre também à corrente modernista do sensacionismo, caracterizada pela **experiência e expressão excessiva das sensações** que tenta transmitir ao leitor.
+
+O sujeito poético é apresentado **eufórico** e **entusiasmado**, desejando **sentir tudo o que o rodeia de todas as formas** e, por vezes, demonstrando até **sadismo e masoquismo no contacto com o mundo mecânico** (por exemplo, em [[#^221a48|"Ode Triunfal"]]).
 
 > [!Info] Outros temas que surgem na fase futurista
 > - amor a uma personalidade hipertrofiada;
@@ -37,7 +41,9 @@ O poeta recorre à corrente modernista do sensacionismo, caracterizada pela **ex
 
 > [!Info] "Ode Triunfal"
 > Destaca-se o poema **"Ode Triunfal"**, uma **epopeia do mundo mecânico e industrial**, em que é exaltada a vida moderna e o progresso, num **ritmo frenético e torrencial**, apontando os aspetos positivos (e negativos) da industrialização.
-> O sujeito poético, num **estado febril, extasiado e delirante**, chega a desejar **fundir-se com a máquina** deseja **sentir tudo o que o rodeia de todas as formas**.
+> O sujeito poético, num **estado febril, extasiado e delirante**, chega a desejar **fundir-se com a máquina**.
+
+^221a48
 
 ### 3. Fase intimista/abúlica
 
