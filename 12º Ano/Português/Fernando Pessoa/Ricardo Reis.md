@@ -14,9 +14,7 @@ Reis escreve **poemas com valor de exortação e tom moralizador ou didático**,
 Filosofia grega antiga, fundada por Epicuro, que defende que o **prazer é o objetivo da vida**.
 No entanto, procura-se uma **felicidade relativa**, conseguida através do estado de **ataraxia** (tranquilidade sem perturbação), de modo a **evitar o sofrimento e emoções intensas que impedem a serenidade da alma** (aponia).
 
-É aceite a **efemeridade da vida** e a **inevitabilidade da morte**, pelo que não há motivos 
-
-Revela-se algum **egoísmo** nesta 
+É aceite a **efemeridade da vida** e a **inevitabilidade da morte**, pelo que não há motivos para a temer e perturbar o presente com essa preocupação.
 ### Filosofia estoica
 Corrente filosófica
 
