@@ -16,13 +16,11 @@ Acaba por se **marginalizar** e **não encontra nada que lhe interesse no mundo*
 
 > [!Info] "Opiário"
 > O **único poema que representa esta fase** intitula-se **"Opiário"** e relata uma viagem ao Oriente realizada por Campos onde ele procura escapar aos seus problemas, sem sucesso, através do ópio e da morfina (estupefacientes), não sabendo como reagir de outro modo.
-
-
-NOSTALGIA DA INFÂNCIA + CONSCIÊNCIA DO TEMPO QUE NÃO VOLTA ATRÁS
+> Resta-lhe "fumar a vida", ou seja, **desejar a morte**, já que a vida não passa de uma realidade sem sentido.
 ### 2. Fase futurista/sensacionista
 **Celebra a técnica, a velocidade e a força da civilização moderna**, desejando experimentar a **multiplicidade de sensações** que lhe estão associadas. **Abandona o paradigma aristotélico**.
 #### Futurismo
-Campos, influenciado pelo futurismo, **corta com a tradição e com o passado** e procura **chocar os leitores**. Desta forma, de modo a transmitir o dinamismo da vida moderna, é feito uso de **onomatopeias e caracteres diferentes**, a **pontuação é negligenciada** (rompendo com a antiga sintaxe) e **rompe-se com a subjetividade da lírica tradicional**, num ato provocatório e escandalizador.
+Campos, influenciado pelo futurismo, **corta com a tradição e com o passado** e procura **chocar os leitores**. Desta forma, de modo a transmitir o dinamismo da vida moderna, é feito uso de **onomatopeias e caracteres diferentes**, a **pontuação é negligenciada** (rompendo com a antiga sintaxe) e **rejeita-se a subjetividade da lírica tradicional**, numa atitude provocatória e escandalosa.
 
 É **exaltada a civilização industrial e a vida moderna** e glorifica-se a **máquina** que **permite ao Homem ultrapassar as limitações da sua condição humana**.
 #### Sensacionismo
@@ -32,20 +30,19 @@ O sujeito poético é apresentado **eufórico** e **entusiasmado**, desejando **
 
 > [!Info] Outros temas que surgem na fase futurista
 > - amor a uma personalidade hipertrofiada;
-> - solidariedade entre os homens, desde o santo à prostituta e desde o salteador ao burguês;
+> - solidariedade entre os homens: desde o santo à prostituta e desde o salteador ao burguês;
 > - força hercúlea;
 > - pirataria;
 > - energia mecânica;
-> - tudo o que contribui para dar ao homem uma nova dimensão e libertá-lo.
-
+> - cosmopolitismo civilizado: dá ao Homem uma nova dimensão e liberta-o.
 
 > [!Info] "Ode Triunfal"
 > Destaca-se o poema **"Ode Triunfal"**, uma **epopeia do mundo mecânico e industrial**, em que é exaltada a vida moderna e o progresso, num **ritmo frenético e torrencial**, apontando os aspetos positivos (e negativos) da industrialização.
 > O sujeito poético, num **estado febril, extasiado e delirante**, chega a desejar **fundir-se com a máquina**.
 
 ^221a48
-
 ### 3. Fase intimista/abúlica
+Consciente do f**racasso de todos os sonhos e aspirações**, o poeta sente a **nostalgia da infância** e exprime o **vazio**, a **angústia**, o **cansaço**, o **ceticismo** e a desilusão do presente.
 
 ## Linguagem, estilo e estrutura
 ![[Pasted image 20260116183321.png]]
