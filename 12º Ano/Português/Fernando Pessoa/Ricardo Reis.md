@@ -16,7 +16,7 @@ No entanto, procura-se uma **felicidade relativa**, conseguida através do estad
 
 É aceite a **efemeridade da vida** e a **inevitabilidade da morte**, pelo que não há motivos para a temer e perturbar o presente com essa preocupação.
 ### Filosofia estoica
-Corrente filosófica
+Corrente filosófica, fundada por Zenão de Eleia,
 
 ### Horacianismo
 Horácio, poeta latino do séc. I a.c., com uma visão estoico-epicurista, defende que, pela vida ser efémera e o destino inevitável, se deve praticar a máxima **"carpe diem"**, ou seja, a fruição do momento presente com **moderação**.
