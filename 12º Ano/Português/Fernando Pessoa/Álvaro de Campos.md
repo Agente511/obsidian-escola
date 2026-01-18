@@ -8,9 +8,10 @@
 ## Fases da sua obra
 Os vários poemas de Álvaro de Campos, que se dividem em diferentes fases, **refletem a evolução da sua obra** ao longo do tempo:
 ### 1. Fase decadentista
-Nesta fase, o poeta exprime as ideias de tédio, cansaço, náusea e ausência de sentido da vida.
+Nesta fase, o poeta exprime as ideias de **tédio**, **cansaço**, **náusea** e **ausência de sentido da vida**.
 
-Marcada pelo **poema "Opiário"** que relata uma viagem ao Oriente realizada por Campos onde ele procura escapar aos seus problemas, sem sucesso.
+
+Destaca-se o **poema "Opiário"** que relata uma viagem ao Oriente realizada por Campos onde ele procura escapar aos seus problemas, sem sucesso.
 ### 2. Fase futurista/sensacionista
 ### 3. Fase intimista/abúlica
 
