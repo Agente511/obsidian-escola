@@ -7,12 +7,15 @@
 
 Ricardo Reis surgiu a Fernando Pessoa "depois de uma deliberação abstrata, que subitamente se concretiza numa ode".
 ## Epicurismo e estoicismo
-Reis escreve **poemas com valor de exortação e tom moralizador ou didático**, de acordo com a sua **filosofia de vida influenciada pelo epicurismo e pelo estoicismo**
+Reis escreve **poemas com valor de exortação e tom moralizador ou didático**, de acordo com os princípios do **epicurismo, do estoicismo e do horacianismo**.
 
+É um **"epicurista triste"**, pois, segundo a sua filosofia de vida, para alcançar a felicidade deve-se **aproveitar o momento** ("carpe diem"), mas **com moderação**, sem ceder aos impulsos dos instintos. <-- melhorar q meio q isto n tá a dizer pq q é triste
 ### Filosofia epicurista
+Filosofia grega antiga, fundada por Epicuro, que defende
 
-Horacianismo
 ### Filosofia estoica
+
+### Horacianismo
 ## Classicismo
 
 ## Linguagem, estilo e estrutura
