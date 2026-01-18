@@ -44,7 +44,7 @@ O sujeito poético é apresentado **eufórico** e **entusiasmado**, desejando **
 ### 3. Fase intimista/abúlica/pessimista
 Face ao **fracasso de todos os seus sonhos e aspirações**, o "eu" lírico **questiona o sentido da vida** e exprime o **vazio**, a **angústia**, o **cansaço**, o **ceticismo** (crença na impossibilidade de alcançar a verdade), a **[[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar]]** e a **desilusão do presente**.
 
-Incapaz de compreender a vida e o mistério das sensações, **reflete sobre si mesmo** (**introspetivo**) e sobre a existência de forma **pessimista** e **desencantada**, o que lhe provoca **[[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar]]**.
+Incapaz de compreender a vida e o mistério das sensações, **reflete sobre si mesmo** (**introspetivo**) e sobre a existência de forma **pessimista** e **desencantada**, o que lhe provoca **[[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar]]** e fragmentação do "eu".
 
 O sujeito poético deseja **evadir para o passado** que lhe serve de refúgio. Sente **[[Fernando Pessoa ortónimo#Nostalgia da Infância|nostalgia da infância]]**, tendo **consciência da impossibilidade de voltar a esse tempo feliz** em que era **inconsciente e ingénuo**.
 
@@ -56,17 +56,14 @@ Assim, Álvaro de Campos **aproxima-se de Fernando Pessoa ortónimo** nesta fase
 >Destaca-se o poema **"Aniversário"**.
 
 ## Linguagem, estilo e estrutura
-- ##### Estrofes e versos longos
-- ##### Privilégio do verso livre e branco
-- Estilo esfuziante, torrencial e excessivo
+- ##### Irregularidade estrófica e métrica
+	**Estrofes e versos longos**, de modo a expressar a euforia ou o desalento sem limites.
+- ##### Privilégio do verso livre (sem rima)
+- ##### Estilo esfuziante, excessivo e repetitivo e ritmo torrencial - [[#2. Fase futurista/sensacionista]]
 - ##### Primazia do presente do indicativo e do gerúndio
+- ##### Riqueza estilística, adequada aos excessos do conteúdo 
+	**Adjetivações** múltiplas, **metáforas**, **hipérboles**, **hipálages**, **anáforas**, **anástrofes**...
+	Predomínio de **exclamações**, **interjeições**, **apóstrofes**, **onomatopeias**, **enumerações caóticas**, **imagens arrojadas**...
 - ##### Linguagem prosaica e técnica
-- Predomínio de exclamações, interjeições, apóstrofes, onomatopeias, enumerações
-caóticas, imagens arrojadas...
-- Adjetivações múltiplas, metáforas, hipérboles, hipálages, anáforas, anástrofes...
-
-![[Pasted image 20260116183327.png]]
-
-
-
-![[Pasted image 20260116183321.png]]
+- ##### Linguagem exuberante
+	Uso de **empréstimos**, **neologismos**, **interjeições**, **onomatopeias**, etc
