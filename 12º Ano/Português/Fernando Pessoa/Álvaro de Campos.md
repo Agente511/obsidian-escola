@@ -10,12 +10,17 @@ Os vários poemas de Álvaro de Campos, que se dividem em diferentes fases, **re
 ### 1. Fase decadentista
 Nesta fase, o poeta, conduzido a este estado por um **fatalismo cego**, exprime as ideias de **tédio**, **cansaço**, **náusea** e **ausência de sentido da vida**.
 
-Acaba por se **marginalizar** e **não encontra nada que lhe interesse no mundo**.
-Procura uma **fuga à monotonia** e **novas sensações**.
+Procura, por isso, **novas sensações** e uma **fuga à monotonia**.
 
-O **único poema que representa esta fase** intitula-se "Opiário"** que relata uma viagem ao Oriente realizada por Campos onde ele procura escapar aos seus problemas, sem sucessoFoi e procura evadir-se através do ópio e da morfina (estupefacientes), não sabendo como reagir de outro modo.
+Acaba por se **marginalizar** e **não encontra nada que lhe interesse no mundo**, nem as viagens nem o trabalho.
 
+O **único poema que representa esta fase** intitula-se **"Opiário"** e relata uma viagem ao Oriente realizada por Campos onde ele procura escapar aos seus problemas, sem sucesso, através do ópio e da morfina (estupefacientes), não sabendo como reagir de outro modo.
 ### 2. Fase futurista/sensacionista
+**Celebra a técnica, a velocidade e a força da civilização moderna**, desejando experimentar a **multiplicidade de sensações** que lhe estão associadas. **Abandona o paradigma aristotélico**.
+
+Campos **rejeita a tradição e o passado** (livros, etc) e procura **chocar os leitores**.
+
+Destaca-se o poema **"Ode Triunfal"**, uma epopeia do mundo mecânico e industrial em que é exaltado o progresso, num ritmo frenético e torrencial
 ### 3. Fase intimista/abúlica
 
 ## Linguagem, estilo e estrutura
