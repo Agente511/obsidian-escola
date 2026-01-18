@@ -33,20 +33,17 @@ Assim, Ricardo Reis é um **"epicurista triste"**, pois limita-se a viver de for
 
 ## Linguagem, estilo e estrutura
 - ##### Regularidade estrófica, métrica e rimática
-	Versos predominantemente **decassilábicos** ou **hexassilábicos**
+	Versos predominantemente **decassilábicos** ou **hexassilábicos**.
 - ##### Ausência de rima (versos soltos)
 - ##### Estilo e forma complexos
 - ##### Preferência pela composição poética em ode
 	Poemas com **valor de exortação** e **tom didático ou moralista**, com origem clássica
 - ##### Predomínio dos modos imperativo e conjuntivo (tom moralista)
 - ##### Uso frequente da 1.ª pessoa do plural (tom moralista)
-- ##### Presença de um interlocutor (tom coloquial)
 - ##### Predomínio de subordinação
+- ##### Presença de um interlocutor (tom coloquial)
 - ##### Influência da sintaxe latina
-	Uso de **anástrofes** (inversão da ordem frásica padrão)
+	Uso de **anástrofes** (inversão da ordem frásica padrão)..
+- ##### Recurso à mitologia
 - ##### Linguagem culta, erudita e latinizante
-	Uso de **arcaísmos**
-
-![[Pasted image 20260116183316.png]]
-
-![[Pasted image 20260116183321.png]]
+	Uso de **arcaísmos**.
