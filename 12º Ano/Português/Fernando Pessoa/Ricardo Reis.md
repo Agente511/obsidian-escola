@@ -8,23 +8,26 @@
 Ricardo Reis surgiu a Fernando Pessoa "depois de uma deliberação abstrata, que subitamente se concretiza numa ode".
 ## Epicurismo e estoicismo
 Reis escreve **poemas com valor de exortação e tom moralizador ou didático**, de acordo com os princípios do **epicurismo, do estoicismo, do horacianismo e do neopaganismo**.
-
-É um **"epicurista triste"**, pois, segundo a sua filosofia de vida, para alcançar a felicidade deve-se **aproveitar o momento** ("carpe diem"), mas **com moderação**, sem ceder aos impulsos dos instintos. <-- melhorar q meio q isto n tá a dizer pq q é triste
 ### Filosofia epicurista
 Filosofia grega antiga, fundada por Epicuro, que defende que o **prazer é o objetivo da vida**.
 No entanto, procura-se uma **felicidade relativa**, conseguida através do estado de **ataraxia** (tranquilidade sem perturbação), de modo a **evitar o sofrimento e emoções intensas que impedem a serenidade da alma** (aponia).
 
 É aceite a **efemeridade da vida** e a **inevitabilidade da morte**, pelo que não há motivos para a temer e perturbar o presente com essa preocupação.
 ### Filosofia estoica
-Corrente filosófica, fundada por Zenão de Cítio, que defende que a eudaimonia é alcançada através da **apatia** (indiferença perante as emoções) e da **aceitação do destino**.
+Corrente filosófica, fundada por Zenão de Cítio, que defende que a eudaimonia é alcançada através da **razão** e da **apatia** (indiferença perante as emoções, que perturbam a razão).
 
-É reconhecida a supremacia dos deuses, mas estes são dominados pelo Fado/Destino, a quem tudo obedece. Assim, encara-se a morte como uma certeza inelutável, consequência da **passagem inexorável do tempo** e 
+Deve-se **aceitar o poder do Fado/Destino**, entidade inexorável que **oprime deuses e homens** (hierarquia Fado - deuses - homens).
+Assim, encara-se a morte como uma certeza inelutável, consequência da **passagem inexorável do tempo**, mas procura-se **atenuar o sofrimento ao aceitar voluntariamente o fado involuntário**.
 ### Horacianismo
 Horácio, poeta latino do séc. I a.c., com uma visão estoico-epicurista, defende que, pela vida ser efémera e o destino inevitável, se deve praticar a máxima **"carpe diem"**, ou seja, a fruição do momento presente com **moderação**.
 
 Apela ainda ao culto da **"aurea mediocritas"**, que representa uma **vivência calma, simples e equilibrada**, em **contacto com a natureza** e **livre das inquietações da vida pública**, no conforto dos prazeres quotidianos e **sem aspirações a mais do que aquilo que se tem**.
 
 ### Neopaganismo
+
+---
+
+Assim, Ricardo Reis é um **"epicurista triste"**, pois limita-se a viver de forma tranquila, **evitando afetos e sentimentos intensos**, convencido de que diminuirá o seu sofrimento, ao mesmo tempo que a sua **racionalidade**, a sua **consciência da fugacidade da vida** e a **imprevisibilidade do futuro** o atormentam.
 ## Classicismo
 
 ## Linguagem, estilo e estrutura
