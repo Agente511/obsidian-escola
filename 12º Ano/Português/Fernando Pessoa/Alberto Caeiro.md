@@ -2,10 +2,11 @@
 >[!Info] Biografia
 >- **Nascimento:** 1889, Lisboa
 >- **Falecimento:** 1915, vítima de tuberculose
->- **Características físicas:** estatura média, não parecia tão frágil como era;cara rapada; louro sem cor, olhos azuis.
->- Teve apenas a **instrução primária** e **não tinha profissão**, o que **provoca a sua simplicidade**
->- Viveu quase toda a vida no campo
+>- **Características físicas:** estatura média, não parecia tão frágil como era; cara rapada; louro sem cor, olhos azuis.
+>- Teve apenas a **instrução primária** e **não tinha profissão**, o que **provoca a sua simplicidade**.
+>- Viveu quase toda a vida no campo, com a tia avó.
 
+Alberto Caeiro surgiu a Fernando Pessoa "por pura e inesperada inspiração".
 ## Fingimento artístico: o poeta bucólico
 Na sua coletânea de poemas *O Guardador de Rebanhos*, Alberto Caeiro apresenta-se, através de uma **máscara poética**, como um **pastor**, devido a também ele **deambular e contemplar a Natureza**, de forma **simples, natural e objetiva**.
 
