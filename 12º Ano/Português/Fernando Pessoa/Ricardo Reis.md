@@ -16,8 +16,9 @@ No entanto, procura-se uma **felicidade relativa**, conseguida através do estad
 
 É aceite a **efemeridade da vida** e a **inevitabilidade da morte**, pelo que não há motivos para a temer e perturbar o presente com essa preocupação.
 ### Filosofia estoica
-Corrente filosófica, fundada por Zenão de Cítio, que defende que a eudaimonia é alcançada através da virtude
+Corrente filosófica, fundada por Zenão de Cítio, que defende que a eudaimonia é alcançada através da **apatia** (indiferença perante as emoções) e da **aceitação do destino**.
 
+É reconhecida a supremacia dos deuses, mas estes são dominados pelo Fado/Destino, a quem tudo obedece. Assim, encara-se a morte como uma certeza inelutável, consequência da **passagem inexorável do tempo** e 
 ### Horacianismo
 Horácio, poeta latino do séc. I a.c., com uma visão estoico-epicurista, defende que, pela vida ser efémera e o destino inevitável, se deve praticar a máxima **"carpe diem"**, ou seja, a fruição do momento presente com **moderação**.
 
