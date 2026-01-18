@@ -19,11 +19,24 @@ Acaba por se **marginalizar** e **não encontra nada que lhe interesse no mundo*
 
 ### 2. Fase futurista/sensacionista
 **Celebra a técnica, a velocidade e a força da civilização moderna**, desejando experimentar a **multiplicidade de sensações** que lhe estão associadas. **Abandona o paradigma aristotélico**.
+#### Futurismo
+Campos, influenciado pelo futurismo, **corta com a tradição e com o passado** e procura **chocar os leitores**.
 
-Campos, influenciado pelo futurismo, **corta a tradição e o passado** e procura **chocar os leitores**.
+É **exaltada a civilização industrial e a vida moderna** e glorifica-se a **máquina** que **permite ao Homem ultrapassar as limitações da sua condição humana**.
+#### Sensacionismo
+O poeta recorre à corrente modernista do sensacionismo, caracterizada pela **experiência e expressão excessiva das sensações**
+
+> [!Info] Outros temas que surgem na fase futurista
+> - amor a uma personalidade hipertrofiada;
+> - solidariedade entre os homens, desde o santo à prostituta e desde o salteador ao burguês;
+> - força hercúlea;
+> - pirataria;
+> - energia mecânica;
+> - tudo o que contribui para dar ao homem uma nova dimensão e libertá-lo.
+
 
 > [!Info] "Ode Triunfal"
-> Destaca-se o poema **"Ode Triunfal"**, uma **epopeia do mundo mecânico e industrial** em que é exaltada a vida moderna e o progresso, num **ritmo frenético e torrencial**, apontando os pontos positivos (e negativos) da industrialização.
+> Destaca-se o poema **"Ode Triunfal"**, uma **epopeia do mundo mecânico e industrial**, em que é exaltada a vida moderna e o progresso, num **ritmo frenético e torrencial**, apontando os aspetos positivos (e negativos) da industrialização.
 > O sujeito poético, num **estado febril, extasiado e delirante**, chega a desejar **fundir-se com a máquina** deseja **sentir tudo o que o rodeia de todas as formas**.
 
 ### 3. Fase intimista/abúlica
