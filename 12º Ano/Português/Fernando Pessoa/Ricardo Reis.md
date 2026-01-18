@@ -32,9 +32,20 @@ Ricardo Reis retoma nos seus poemas temas relacionados com a **mitologia greco-l
 Assim, Ricardo Reis é um **"epicurista triste"**, pois limita-se a viver de forma tranquila, **evitando afetos e sentimentos intensos**, convencido de que diminuirá o seu sofrimento, ao mesmo tempo que a sua **racionalidade**, a sua **consciência da fugacidade da vida** e a **imprevisibilidade do futuro** o atormentam.
 
 ## Linguagem, estilo e estrutura
+- ##### Regularidade estrófica, métrica e rimática
+	Versos predominantemente **decassilábicos** ou **hexassilábicos**
+- ##### Ausência de rima (versos soltos)
 - ##### Estilo e forma complexos
+- ##### Preferência pela composição poética em ode
+	Poemas com **valor de exortação** e **tom didático ou moralista**, com origem clássica
+- ##### Predomínio dos modos imperativo e conjuntivo (tom moralista)
+- ##### Uso frequente da 1.ª pessoa do plural (tom moralista)
+- ##### Presença de um interlocutor (tom coloquial)
+- ##### Predomínio de subordinação
+- ##### Influência da sintaxe latina
+	Uso de **anástrofes** (inversão da ordem frásica padrão)
 - ##### Linguagem culta, erudita e latinizante
-- ##### Tom didático e moralista
+	Uso de **arcaísmos**
 
 ![[Pasted image 20260116183316.png]]
 
