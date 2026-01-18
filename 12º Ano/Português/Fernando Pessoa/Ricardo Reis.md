@@ -18,6 +18,8 @@ Corrente filosófica, fundada por Zenão de Cítio, que defende que a eudaimonia
 
 Deve-se **aceitar o poder do Fado/Destino**, entidade inexorável que **oprime deuses e homens** (hierarquia Fado - deuses - homens).
 Assim, encara-se a morte como uma certeza inelutável, consequência da **passagem inexorável do tempo**, mas procura-se **atenuar o sofrimento ao aceitar voluntariamente o fado involuntário**.
+
+Aspira-se uma vida conforme a Natureza, **renunciando bens materiais** que geram paixões descontroladas.
 ### Horacianismo
 Horácio, poeta latino do séc. I a.c., com uma visão estoico-epicurista, defende que, pela vida ser efémera e o destino inevitável, se deve praticar a máxima **"carpe diem"**, ou seja, a fruição do momento presente com **moderação**.
 
