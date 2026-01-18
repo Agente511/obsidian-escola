@@ -42,11 +42,15 @@ O sujeito poético é apresentado **eufórico** e **entusiasmado**, desejando **
 
 ^221a48
 ### 3. Fase intimista/abúlica/pessimista
-Consciente do **fracasso de todos os sonhos e aspirações**, o "eu" lírico sente a **nostalgia da infância** e exprime o **vazio**, a **angústia**, o **cansaço**, o **ceticismo** (crença na impossibilidade de alcançar a verdade) e a **desilusão do presente**.
+Consciente do **fracasso de todos os sonhos e aspirações**, o "eu" lírico **questiona o sentido da vida** e exprime o **vazio**, a **angústia**, o **cansaço**, o **ceticismo** (crença na impossibilidade de alcançar a verdade), a **[[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar]]** e a **desilusão do presente**.
 
-O sujeito poético deseja **evadir para o passado** que lhe serve de refúgio. Sente **nostalgia da infância**, tendo **consciência da impossibilidade de voltar a esse tempo feliz** em que era **inconsciente e ingénuo**.
+O sujeito poético deseja **evadir para o passado** que lhe serve de refúgio. Sente **[[Fernando Pessoa ortónimo#Nostalgia da Infância|nostalgia da infância]]**, tendo **consciência da impossibilidade de voltar a esse tempo feliz** em que era **inconsciente e ingénuo**.
 
-**Reflete** sobre si mesmo e a existência de forma **pessimista** e **desencantada**.
+**Reflete** sobre si mesmo (**introspetivo**) e sobre a existência de forma **pessimista** e **desencantada**.
+
+Apesar de deter um **profundo conhecimento da natureza humana**, sente-se um doido e **rejeita as teorias e conceções partilhadas pelos outros**. Este estado emocional, motiva o seu **isolamento social** e dificulta a integração na vida em grupo.
+
+Assim, Álvaro de Campos **aproxima-se de Fernando Pessoa ortónimo** nesta fase e, apesar de se assumir **discípulo de [[Alberto Caeiro]]**, afirma **não conseguir seguir os seus ensinamentos**.
 
 >[!Info] "Aniversário"
 >Destaca-se o poema **"Aniversário"**,
