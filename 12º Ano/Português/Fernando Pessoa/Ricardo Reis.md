@@ -19,7 +19,9 @@ No entanto, procura-se uma **felicidade relativa**, conseguida através do estad
 Corrente filosófica
 
 ### Horacianismo
-que motivam a prática da máxima horaciana **"carpe diem"**, ou seja, da fruição do momento presente.
+Horácio, poeta latino do séc. I a.c., com uma visão estoico-epicurista, defende que, pela vida ser efémera e o destino inevitável, se deve praticar a máxima **"carpe diem"**, ou seja, a fruição do momento presente com **moderação**.
+
+Apela ainda ao culto da **"aurea mediocritas"**, que representa uma **vida calma, simples e moderada**, em **contacto com a natureza** e **livre das inquietações da vida pública**, no conforto dos prazeres quotidianos.
 
 ## Classicismo
 
