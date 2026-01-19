@@ -13,6 +13,7 @@ Na sua coletânea de poemas *O Guardador de Rebanhos*, Alberto Caeiro apresenta-
 
 ##### Vida em harmonia com a Natureza
 Defende a vida em **simbiose e harmonia com os elementos naturais e os ritmos e ciclos da Natureza**, o que o aproxima do **[paganismo](https://www.infopedia.pt/artigos/$paganismo)**, e que implica o **afastamento social**, essencial para a criação do **ambiente de paz**.
+A partir desta ideia, tem-se ainda que um estado de **felicidade permanente não é natural à vida** e a **infelicidade também é necessária**, porque na natureza também **existem "dias de sol" e "chuva", que coexistem e são ambos necessários** apesar de serem elementos distintos e opostos.
 
 ##### Simplicidade e felicidade primordiais
 É **feliz pelo simples facto de existir**, aproximando-se da **ingenuidade de uma criança**, ao observar o mundo **sem procurar explicações** e aceitando as coisas como são (**simplicidade e felicidade primordiais**).
