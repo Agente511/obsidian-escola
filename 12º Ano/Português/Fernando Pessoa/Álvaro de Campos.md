@@ -22,9 +22,9 @@ Acaba por se **marginalizar** e **não encontra nada que lhe interesse no mundo*
 #### Futurismo
 Campos, influenciado pelo futurismo, **corta com a tradição e com o passado** e procura **chocar os leitores**. Desta forma, de modo a transmitir o dinamismo da vida moderna, é feito uso de **onomatopeias e caracteres diferentes**, a **pontuação é negligenciada** (rompendo com a antiga sintaxe) e **rejeita-se a subjetividade da lírica tradicional**, numa atitude provocatória e escandalosa.
 
-É **exaltada a civilização industrial e a vida moderna** e glorifica-se a **máquina** que **permite ao Homem ultrapassar as limitações da sua condição humana**.
+É **exaltada a civilização industrial e o progresso** e glorifica-se a **máquina** que **permite ao Homem ultrapassar as limitações da sua condição humana**.
 #### Sensacionismo
-O poeta recorre também à corrente modernista do sensacionismo, caracterizada pela **experiência e expressão excessiva das sensações** que tenta transmitir ao leitor.
+O poeta também recorre à corrente modernista do sensacionismo, caracterizada pela **experiência e expressão excessiva das sensações** que tenta transmitir ao leitor.
 
 O sujeito poético é apresentado **eufórico** e **entusiasmado**, desejando **sentir tudo o que o rodeia de todas as formas** e, por vezes, demonstrando até **sadismo e masoquismo no contacto com o mundo mecânico** (por exemplo, em [[#^221a48|"Ode Triunfal"]]).
 
