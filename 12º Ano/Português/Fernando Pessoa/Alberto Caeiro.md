@@ -17,10 +17,10 @@ Defende a vida em **simbiose e harmonia com os elementos naturais e os ritmos e 
 ##### Simplicidade e felicidade primordiais
 É **feliz pelo simples facto de existir**, aproximando-se da **ingenuidade de uma criança**, ao observar o mundo **sem procurar explicações** e aceitando as coisas como são (**simplicidade e felicidade primordiais**).
 
-##### "eterna novidade do mundo"
+##### "Eterna novidade do mundo"
 Assim, sente **deslumbramento perante a Natureza** e crê na **"eterna novidade do mundo"**, pois, para ele, o mundo é **sempre diferente e sempre múltiplo**, **aproveitando cada momento e cada sensação provocada como se fosse a primeira vez**.
 
-##### Tempo como ausência de tempo
+##### Ausência de tempo
 Considera ainda que **só existe o presente** (realidade imediata), sendo o tempo a **ausência de tempo** (sem passado nem futuro).
 
 É, assim, um **poeta [bucólico](https://dicionario.priberam.org/buc%C3%B3lico)**.
