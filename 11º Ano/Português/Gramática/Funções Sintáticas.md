@@ -91,7 +91,7 @@ Restringe a referência do nome que modifica.
 Não restringe a referência do nome que modifica.
 - O Afonso, **jovem idealista**, sonha com um mundo sem discriminações.
 - O quadro, **de valor incalculável**, desapareceu há vários anos.
-- Dei à Laurinda o casaco azul, **que tinha comprado no Algarve**.
+- A visita, **que tinha sido planeada há meses**, correu como previsto.
 
 # Internas ao Grupo Adjetival
 ## Complemento do adjetivo
