@@ -44,10 +44,13 @@ O sujeito poético é apresentado **eufórico** e **entusiasmado**, desejando **
 ### 3. Fase intimista/abúlica/pessimista
 Face ao **fracasso de todos os seus sonhos e aspirações**, o "eu" lírico **questiona o sentido da vida** e exprime o **vazio**, a **angústia**, o **cansaço**, o **ceticismo** (crença na impossibilidade de alcançar a verdade), a **[[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar]]** e a **desilusão do presente**.
 
+##### Dor de pensar
 Incapaz de compreender a vida e o mistério das sensações, **reflete sobre si mesmo** (**introspetivo**) e sobre a existência de forma **pessimista** e **desencantada**, o que lhe provoca **[[Fernando Pessoa ortónimo#Dor de pensar|dor de pensar]]** e fragmentação do "eu".
 
+##### Nostalgia da infância
 O sujeito poético deseja **evadir para o passado** que lhe serve de refúgio. Sente **[[Fernando Pessoa ortónimo#Nostalgia da Infância|nostalgia da infância]]**, tendo **consciência da impossibilidade de voltar a esse tempo feliz** em que era **inconsciente e ingénuo**.
 
+##### Isolamento social
 Apesar de deter um **profundo conhecimento da natureza humana**, sente-se um doido incompreendido e **rejeita as teorias e conceções partilhadas pelos outros** (oposição "eu"/sociedade). Este estado emocional, motiva o seu **isolamento social** e dificulta a integração na vida em grupo.
 
 Assim, Álvaro de Campos **aproxima-se de Fernando Pessoa ortónimo** nesta fase e, apesar de se assumir **discípulo de [[Alberto Caeiro]]**, afirma **não conseguir seguir os seus ensinamentos**.
