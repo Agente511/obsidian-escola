@@ -45,11 +45,11 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 
 - ### Interrogativo
 	>[!Exemplo]
-	>*Quais?, que?...*
+	>*Quais?, que?*
 
 - ### Relativo
 	>[!Exemplo]
-	>*Cujo, cuja, cujos, cujas*
+	>*Cujo, cujas*
 ## Pronome
 **Substitui o nome**.
 - ### Pessoal
@@ -70,11 +70,11 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 	>*Alguém*, *ninguém*, *alguns*, *muito*, *cada*, *outrem*...
 - ### Interrogativo
 	>[!Exemplo]
-	>*Quanto?, qual?, quem?, (o) quê?*
+	>*Quanto?, qual?, quem?, (o) quê?, o que?*
 - ### Relativo
 	Substitui um termo já mencionado, fazendo a ligação com uma oração subordinada
 	>[!Exemplo]
-	>*A qual*, *que*, *quem*, *cujo*...
+	>*O qual*, *que*, *quem*
 ## Quantificador
 - ### Numeral
 	- #### Cardinal

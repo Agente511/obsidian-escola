@@ -8,7 +8,7 @@ Seleciona **complemento direto**
 - Só **comprei** o bilhete no dia do espetáculo.
 - Eu **comi** uma maçã.
 ### Indireto
-Seleciona c**omplemente indireto ou oblíquo**
+Seleciona **complemente indireto ou oblíquo**
 - As crianças **precisam** de companhia.
 - Eles têm **escrito** frequentemente aos avós.
 - Eu **telefonei** ao Joaquim.
