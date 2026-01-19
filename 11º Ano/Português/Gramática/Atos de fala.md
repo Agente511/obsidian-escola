@@ -10,7 +10,7 @@ Dar ordens
 - Sai imediatamente da sala!
 - Fiquem para o jantar!
 ### Compromissivo
-Assumir compromissos ou promoter algo.
+Assumir compromissos ou prometer algo.
 - Hei de começar a ler *Os Maias*.
 - Ligo-te mal chegue a casa.
 ### Declarativo
