@@ -16,14 +16,18 @@ Defende a vida em **simbiose e harmonia com os elementos naturais e os ritmos e 
 
 Assim, sente **deslumbramento perante a Natureza** e crê na **"eterna novidade do mundo"**, pois, para ele, o mundo é **sempre diferente e sempre múltiplo**, **aproveitando cada momento e cada sensação provocada como se fosse a primeira vez**.
 
+#### Tempo como
 Considera ainda que **só existe o presente** (realidade imediata), sendo o tempo a **ausência de tempo** (sem passado nem futuro).
 
 É, assim, um **poeta [bucólico](https://dicionario.priberam.org/buc%C3%B3lico)**.
 ## Reflexão existencial: o primado das sensações
+#### Recusa do pensamento filosófico
 Caeiro **apenas acredita no que vê**, **recusando o pensamento filosófico (bem como a metafísica e a ciência)**, que o faz sofrer, é fonte de enganos e não permite conhecer o real ("pensar é estar doente dos olhos", "pensar é não compreender"), e **valorizando as sensações** ("Eu não tenho filosofia: tenho sentidos").
 
+#### Sensacionismo
 É um **sensacionista**, defendendo que o **mundo deve ser conhecido espontaneamente através dos sentidos** (principalmente da visão), pois, para ele, a **realidade reduz-se ao mundo tangível** ("As coisas não têm significado: têm existência", "o único sentido oculto das coisas / É elas não terem sentido oculto nenhum").
 
+#### Objetivismo
 Desta forma, **percepciona a realidade de forma objetiva**, **sem intelectualizar essa percepção** e **rejeitando a subjetividade**, insistindo na "aprendizagem de desaprender", ou seja, de **aprender a não pensar**. É chamado de **poeta do real objetivo**, pois descreve a realidade tal como ela é, de forma simples e concreta.
 
 > [!Warning] Contradições de Alberto Caeiro
