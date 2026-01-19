@@ -10,9 +10,11 @@ Alberto Caeiro surgiu a Fernando Pessoa "por pura e inesperada inspiração".
 ## Fingimento artístico: o poeta bucólico
 Na sua coletânea de poemas *O Guardador de Rebanhos*, Alberto Caeiro apresenta-se, através de uma **máscara poética**, como um **pastor**, devido a também ele **deambular e contemplar a Natureza**, de forma **simples, natural e objetiva**.
 
-Defende a vida em **simbiose e harmonia com os elementos naturais, os ritmos e os ciclos da Natureza**, o que o aproxima do **[paganismo](https://www.infopedia.pt/artigos/$paganismo)**, e que implica o **afastamento social**, essencial para a criação do **ambiente de paz**.
+Defende a vida em **simbiose e harmonia com os elementos naturais e os ritmos e ciclos da Natureza**, o que o aproxima do **[paganismo](https://www.infopedia.pt/artigos/$paganismo)**, e que implica o **afastamento social**, essencial para a criação do **ambiente de paz**.
 
-É **feliz pelo simples facto de existir**, aproximando-se da **ingenuidade de uma criança**, ao observar o mundo **sem procurar explicações** e aceitando as coisas como são (**simplicidade e felicidade primordiais**). Assim, sente **deslumbramento perante a Natureza** e crê na **"eterna novidade do mundo"**, pois, para ele, o mundo é **sempre diferente e sempre múltiplo**, **aproveitando cada momento e cada sensação provocada como se fosse a primeira vez**.
+É **feliz pelo simples facto de existir**, aproximando-se da **ingenuidade de uma criança**, ao observar o mundo **sem procurar explicações** e aceitando as coisas como são (**simplicidade e felicidade primordiais**).
+
+Assim, sente **deslumbramento perante a Natureza** e crê na **"eterna novidade do mundo"**, pois, para ele, o mundo é **sempre diferente e sempre múltiplo**, **aproveitando cada momento e cada sensação provocada como se fosse a primeira vez**.
 
 Considera ainda que **só existe o presente** (realidade imediata), sendo o tempo a **ausência de tempo** (sem passado nem futuro).
 
