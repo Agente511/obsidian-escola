@@ -49,7 +49,7 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 
 - ### Relativo
 	>[!Exemplo]
-	>*Cujo, cujas...*
+	>*Cujo, cuja, cujos, cujas*
 ## Pronome
 **Substitui o nome**.
 - ### Pessoal
