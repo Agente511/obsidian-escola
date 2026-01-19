@@ -1,7 +1,7 @@
 **Oração subordinada**: depende de uma oração ou elemento subordinante.
-**Elemento subordinante**: Palavra, constituinte ou oração de que depende uma oração subordinada
+**Elemento subordinante**: Palavra, constituinte ou oração de que depende uma oração subordinada.
 ## Orações Subordinadas Adverbiais
-Desempenha a função sintática de modificador, contribuindo com informação complementar sobre o conteúdo da oração subordinante.
+Desempenha a função sintática de **modificador**, contribuindo com informação complementar sobre o conteúdo da oração subordinante.
 ### Causal
 Motivo do evento descrito na subordinante
 - Adiámos o projeto **uma vez que não tínhamos os elementos necessários**.
@@ -32,7 +32,7 @@ Referência temporal em relação à qual a subordinante é interpretada.
 - **Logo que receba a informação necessária**, tratarei do requerimento.
 - O sistema efetua o pagamento, **mal reconhece o código**.
 ## Orações Subordinadas Substantivas
-Desempenha as funções sintáticas habitualmente assumidas por grupos nominais (sujeito e complemento de um verbo, de um nome ou de um adjetivo, predicativo do sujeito e modificador)
+Desempenha as funções sintáticas habitualmente assumidas por **grupos nominais** (sujeito e complemento de um verbo, de um nome ou de um adjetivo, predicativo do sujeito e modificador)
 ### Completivas
 Completa a frase, sendo introduzida pelas conjunções subordinativas completivas "que", "se" e "para".
 - É lamentável **que a poluição dos oceanos continue a verificar-se**. (sujeito)

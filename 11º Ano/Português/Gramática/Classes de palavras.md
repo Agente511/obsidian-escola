@@ -174,7 +174,7 @@ Modifica o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como 
 
 - ### Interrogativo
 	>[!Exemplo]
-	>*onde?, quando?, porque?, porquê?, como?*.
+	>*onde?, quando?, porque?, porquê?, como?*
 
 - ### Relativo
 	Referente ao constituinte relativizado numa **oração relativa**.
@@ -187,4 +187,4 @@ Modifica o verbo, o adjetivo ou outro advérbio, indicando circunstâncias como 
 	>- O João falou com a Maria. **Seguidamente**, foi para casa.
 	>- A Madalena caiu. **Consequentemente**, partiu uma perna.
 	>- Está frio. O Tiago, **contudo**, vestiu uns calções.
-	>- **Primeiro** batem-se os ovos com o açúcar.
+	>- **Primeiro**, batem-se os ovos com o açúcar.

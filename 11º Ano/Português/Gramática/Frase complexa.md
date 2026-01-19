@@ -1,5 +1,5 @@
 ---
-toc: false
+toc: true
 ---
 ## Frase simples
 Frase em que existe **um único verbo principal ou copulativo**.
