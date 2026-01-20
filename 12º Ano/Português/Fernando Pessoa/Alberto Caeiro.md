@@ -21,7 +21,7 @@ A partir desta ideia, tem-se ainda que um estado de **felicidade permanente não
 ##### "Eterna novidade do mundo"
 Assim, sente **deslumbramento perante a Natureza** e crê na **"eterna novidade do mundo"**, pois, para ele, o mundo é **sempre diferente e sempre múltiplo**, **aproveitando cada momento e cada sensação provocada como se fosse a primeira vez**.
 
-##### Ausência de tempo
+##### Ausência de tempo <<<fica aqui ou no primado das sensações?>>>
 Considera ainda que **só existe o presente** (realidade imediata), sendo o tempo a **ausência de tempo** (sem passado nem futuro).
 
 É, assim, um **poeta [bucólico](https://dicionario.priberam.org/buc%C3%B3lico)**.
