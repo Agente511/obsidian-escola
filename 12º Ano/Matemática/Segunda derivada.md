@@ -25,5 +25,13 @@ Uma função é **duas vezes diferenciável** se for **duas vezes diferenciável
 >1.  Determinar o **domínio** da função $f$.
 >2. Calcular a **1.ª derivada** ($f'(x)$).
 >3. Calcular a **2.ª derivada** ($f''(x)$).
->4. Determinar os **zeros da segunda derivada**, através da equação $f''(x)=0$
->5. Construir u
+>4. Determinar os **zeros da segunda derivada**, através da equação $f''(x)=0$.
+>5. Construir um quadro que relacione o **sinal de f'' e os zeros da 2.ª derivada** com o **sentido das concavidades e os pontos de inflexão do gráfico da função**.
+>	> [!NOTE] Exemplo
+>	> | $x$     | $-\infty$  | -2 | | 0 | | 2 | $+\infty$  |
+>	> | --- | ---| --- | --- | -- | --- | --- | --- | ---
+>	> | $f'(x)$ | $-$ | N.D. | $+$ |
+>	> | $f(x)$  | $\cap$ | N.D. | $\cup$ |
+>
+>6. Escrever as **conclusões**.
+

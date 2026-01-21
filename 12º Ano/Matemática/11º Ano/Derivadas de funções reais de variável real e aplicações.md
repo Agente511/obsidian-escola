@@ -87,12 +87,15 @@ Considerando:
 >1. Determinar o **domínio** da função $f$.
 >2. Calcular a **1.ª derivada** ($f'(x)$).
 >3. Determinar os **zeros da derivada**, através da equação **$f'(x)=0$**.
->4. Estudar o **sinal de $f'$** num **quadro de sinais**:
+>4. Construir um quadro que relacione o **sinal de f' e os zeros da 1.ª derivada** com a **monotonia e os extremos relativos da função**.
 >	> [!NOTE] Exemplo
 >	> | $x$     | $-\infty$  | $\frac 1 3$        |            | $1$                | $+\infty$  |
 >	> | ------- | ---------- | ------------------ | ---------- | ------------------ | ---------- |
 >	> | $f'(x)$ | $+$        | $0$                | $-$        | $0$                | $+$        |
 >	> | $f(x)$  | $\nearrow$ | Máximo<br>relativo | $\searrow$ | Mínimo<br>relativo | $\nearrow$ |
 >
->5. Estudar os **intervalos de monotonia**.
->6. Estudar a existência de **extremos**.
+>5. Escrever as **conclusões**.
+> 	>[!Note] Exemplo
+> 	>A função $f$ é crescente em $]-\infty, \frac \ 3$ e em $]1, +\infty[$ e decrescente em $]\frac 1 3, 1[$.
+> 	>
+> 	>Existe um máximo relativo em $x=\frac 1 3$ de valor $f(\frac 1 3)$ e um mínimo relativo em $x=1$ de valor $f(1)$..
