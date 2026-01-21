@@ -41,7 +41,6 @@ Representa-se por $f'$.
 > Dada uma função de variável real $f$ e um ponto $a \in D_f$, se $f$ é diferenciável em $a$, então **$f$ é contínua em $a$**.
 > >[!Warning] A implicação recíproca não é necessariamente verdadeira.
 > >$f$ pode ser contínua em $x=a$ e não ser diferenciável em $x=a$.
-
 ### Regras da derivação
 Considerando:
 \- $f$ e $g$ funções reais de variável real de domínio $D$
@@ -80,3 +79,18 @@ Considerando:
 >- Se $\forall x \in ]a, b[,\ f('x) = 0$, então $f$ é **constante em $I$**.
 >- Se $\forall x \in ]a, b[,\ f('x) < 0$, então $f$ é **decrescente em $I$**.
 >- Se $\forall x \in ]a, b[,\ f('x) \leq 0$, então $f$ é **decrescente em sentido lato em $I$**.
+
+### Primeira derivada aplicada ao estudo dos intervalos de monotonia e da existência de extremos relativos
+>[!Summary] Método para estudar os intervalos de monotonia e a existência de extremos relativos de uma função diferenciável $f$
+>1. Determinar o **domínio** da função $f$.
+>2. Calcular a **1.ª derivada** ($f'(x)$).
+>3. Determinar os **zeros da derivada**, através da equação **$f'(x)=0$**.
+>4. Estudar o **sinal de $f'$** num **quadro de sinais**:
+>	> [!NOTE] Exemplo
+>	> | $x$     | $-\infty$  | $\frac 1 3$        |            | $1$                | $+\infty$  |
+>	> | ------- | ---------- | ------------------ | ---------- | ------------------ | ---------- |
+>	> | $f'(x)$ | $+$        | $0$                | $-$        | $0$                | $+$        |
+>	> | $f(x)$  | $\nearrow$ | Máximo<br>relativo | $\searrow$ | Mínimo<br>relativo | $\nearrow$ |
+>
+>5. Estudar os **intervalos de monotonia**.
+>6. Estudar a existência de **extremos**.
