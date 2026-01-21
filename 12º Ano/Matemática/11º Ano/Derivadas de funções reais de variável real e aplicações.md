@@ -75,5 +75,8 @@ Considerando:
 ## Aplicação da noção de derivada ao estudo de funções
 >[!Summary] Teoremas
 >Seja $f$ uma função real de variável real $f$, contínua num intervalo $I$ de extremo esquerdo $a$ e extremo direito $b$ e diferenciável em $]a, b[$.
->- Se $\forall x \in ]a,b[, f'(x)>0$, então $f$ é **crescente** (respetivamente, ****) **em $I$**.
->- Se $\forall x \in ]a, b[, f('x)<0)$, então $f$ é 
+>- Se $\forall x \in ]a,b[,\ f'(x) > 0$, então $f$ é **crescente em $I$**.
+>- Se $\forall x \in ]a,b[,\ f'(x) \geq 0$, então $f$ é **crescente em sentido lato em $I$**.
+>- Se $\forall x \in ]a, b[,\ f('x) = 0$, então $f$ é **constante em $I$**.
+>- Se $\forall x \in ]a, b[,\ f('x) < 0$, então $f$ é **decrescente em $I$**.
+>- Se $\forall x \in ]a, b[,\ f('x) \leq 0$, então $f$ é **decrescente em sentido lato em $I$**.
