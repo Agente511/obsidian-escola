@@ -28,10 +28,15 @@ Uma função é **duas vezes diferenciável** se for **duas vezes diferenciável
 >4. Determinar os **zeros da segunda derivada**, através da equação $f''(x)=0$.
 >5. Construir um quadro que relacione o **sinal de f'' e os zeros da 2.ª derivada** com o **sentido das concavidades e os pontos de inflexão do gráfico da função**.
 >	> [!NOTE] Exemplo
->	> | $x$     | $-\infty$  | -2 | | 0 | | 2 | $+\infty$  |
->	> | --- | ---| --- | --- | -- | --- | --- | --- | ---
->	> | $f'(x)$ | $-$ | N.D. | $+$ |
->	> | $f(x)$  | $\cap$ | N.D. | $\cup$ |
+>	> | $x$ | $-\infty$  | $-2$ |  | $0$ |  | $2$ | $+\infty$  |
+>	> | --- | ---| --- | --- | --- | --- | --- | --- |
+>	> | $f''(x)$ | $-$ | N.D. | $+$ | 0 | $-$ | N.D. | $+$ |
+>	> | $f(x)$  | $\cap$ | N.D. | $\cup$ | P.I. | $\cap$ | N.D. | $\cup$ |
 >
 >6. Escrever as **conclusões**.
+>	>[!Note] Exemplo
+>	>O gráfico da função $f$ tem a concavidade voltada para cima em $]-2, 0[$ e em $]2, +\infty[$ e a concavidade voltada para baixo em $]-\infty, -2[$ e em $]0, 2[$.
+>	>
+>	>Existe um ponto de inflexão em $x=0$.
+
 

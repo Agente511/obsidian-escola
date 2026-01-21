@@ -1,4 +1,4 @@
-## Função contínua
+## Continuidade num ponto
 ### Definição
 Dada uma função real de variável real $f$ e um ponto $a \in D_f$, diz-se que **$f$ é contínua em $a$** se e só se existir $\underset{x\rightarrow a} \lim f(x)$, ou seja, **se $\underset{x\rightarrow a} \lim f(x)=f(a)=\underset{x\rightarrow a^-} \lim f(x)=\underset{x\rightarrow a^+} \lim f(x)$** (tal como explicado [[Limite segundo Heine#Existência de $ underset{x rightarrow a} lim f(x)$|aqui]]).
 ### Teoremas sobre continuidade
