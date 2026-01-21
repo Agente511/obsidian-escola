@@ -80,6 +80,8 @@ Considerando:
 >- Se $\forall x \in ]a, b[,\ f('x) < 0$, então $f$ é **decrescente em $I$**.
 >- Se $\forall x \in ]a, b[,\ f('x) \leq 0$, então $f$ é **decrescente em sentido lato em $I$**.
 
+^19c1a2
+
 ### Primeira derivada aplicada ao estudo dos intervalos de monotonia e da existência de extremos relativos
 >[!Summary] Método para estudar os intervalos de monotonia e a existência de extremos relativos de uma função diferenciável $f$
 >1. Determinar o **domínio** da função $f$.
