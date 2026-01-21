@@ -15,7 +15,7 @@ Geometricamente, a taxa média de variação de $f$ entre $a$ e $b$ é o **decli
 - Se uma função é **estritamente crescente** (ou, respetivamente, **estritamente decrescente**) num conjunto $D$ do seu domínio, então, para quaisquer $a$ e $b$ pertencentes a $D$, a **taxa média de variação** de $f$ entre $a$ e $b$ é **positiva** (respetivamente, **negativa**).
 - Se uma função é **constante** num conjunto $D$ do seu domínio, então, para quaisquer $a$ e $b$ pertencentes a $D$, a **taxa média de variação** de $f$ entre $a$ e $b$ é **zero**.
   >[!Warning] As implicações recíprocas destas são falsas.
-
+ 
 ## Definição de derivada
 A **taxa instantânea de variação** de $f$ no ponto $a$, designa-se por **derivada de $f$ no ponto $a$**.
 
@@ -70,3 +70,10 @@ Considerando:
 	$(f \times g)'= f' \times g + g' \times f$
 - ##### Quociente
 	$(f \times g)'=$ $\large \frac {f' \times g - g' \times f} {g^2}$, $g \neq 0$
+- ##### [[Funções#Composição de Funções|Função composta]]
+	$(g \circ f)'(a)= f'(a) \times g'(f(a))$
+## Aplicação da noção de derivada ao estudo de funções
+>[!Summary] Teoremas
+>Seja $f$ uma função real de variável real $f$, contínua num intervalo $I$ de extremo esquerdo $a$ e extremo direito $b$ e diferenciável em $]a, b[$.
+>- Se $\forall x \in ]a,b[, f'(x)>0$, então $f$ é **crescente** (respetivamente, ****) **em $I$**.
+>- Se $\forall x \in ]a, b[, f('x)<0)$, então $f$ é 

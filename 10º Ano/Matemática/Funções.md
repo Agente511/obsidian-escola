@@ -11,7 +11,7 @@ O **produto cartesiano de A em B** é um **conjunto** constituído por todos os 
 
 ## Função
 **Função de A em B** é uma correspondência em que a cada elemento de A associa um e um só elemento de B.
-![[Pasted image 20240227234622.png]]
+![[Pasted image 20240227234622.png|450]]
 >[!Note] Exemplo
 >$A$ - Conjunto de partida/Conjunto dos objetos/Domínio
 >$D_f =$ {$1, 2, 3$}
@@ -51,14 +51,9 @@ Uma função diz-se sobrejetiva se o **contradomínio coincidir** com o **conjun
 Uma função diz-se bijetiva se for **simultaneamente injetiva e sobrejetiva**.
 
 ## Composição de Funções
-![[Pasted image 20240228000816.png]]
-$(g\circ f)(4) = g(f(4)) = g(13) = 10$
-$(g\circ f)(3) = g(f(3)) = g(11) = 8$
-$(g\circ f)(2) = g(f(2)) = g(9) = 6$
-$(g\circ f)(1) = g(f(1)) = g(7) = 4$
 
 >[!Summary] Caso geral
->![[Pasted image 20240228001204.png]]
+>![[Pasted image 20240228001204.png|300]]
 >Sejam $f$ e $g$ duas funções.
 >A função composta de $g$ com $f$ é a função $g \circ f$ tal que:
 >- $D_{g \circ f} =$ {$x \in D_f: f(x) \in D_g$}
@@ -67,8 +62,14 @@ $(g\circ f)(1) = g(f(1)) = g(7) = 4$
 >[!Tip] Nota
 >$g \circ f$ $\rightarrow$ lê-se "$g$ após $f$"
 
+> [!NOTE] Exemplo
+> ![[Pasted image 20240228000816.png|400]]
+> $(g\circ f)(4) = g(f(4)) = g(13) = 10$
+> $(g\circ f)(3) = g(f(3)) = g(11) = 8$
+> $(g\circ f)(2) = g(f(2)) = g(9) = 6$
+> $(g\circ f)(1) = g(f(1)) = g(7) = 4$
+
 ## Função Identidade
----
 - **Domínio** igual ao **conjunto de chegada**
 - A **imagem** de cada objeto é o **próprio objeto**
 $Id_A: A \rightarrow A$ tal que $Id_A(x) = x$
