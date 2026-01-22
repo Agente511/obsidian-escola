@@ -68,7 +68,7 @@ Considerando:
 - ##### Produto
 	$(f \times g)'= f' \times g + g' \times f$
 - ##### Quociente
-	$(f \times g)'=$ $\large \frac {f' \times g - g' \times f} {g^2}$, $g \neq 0$
+	$(\frac f g)'=$ $\large \frac {f' \times g - g' \times f} {g^2}$, $g \neq 0$
 - ##### [[Funções#Composição de Funções|Função composta]]
 	$(g \circ f)'(a)= f'(a) \times g'(f(a))$
 ## Aplicação da noção de derivada ao estudo de funções
