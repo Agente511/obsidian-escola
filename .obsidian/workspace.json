@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "23e16d6b761efb87",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "a56b5e07be737f07",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "Segunda derivada"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b0bbeecce578486",
+  "active": "23e16d6b761efb87",
   "lastOpenFiles": [
     "12º Ano/Matemática/Segunda derivada.md",
     "12º Ano/Matemática/11º Ano/Continuidade de uma função num ponto.md",
