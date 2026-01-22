@@ -63,7 +63,7 @@ Considerando:
 	>- $(x^3)'=3\ x^{2}$
 	>- $(\frac 1 x)'=(x^{-1})'=-x^{-2}=-\frac 1 {x^2}$
 	>- $(\sqrt x)'= (x^{\frac 1 2})' = \frac 1 2 \times x^{-\frac 1 2}= \frac 1 2 \times \frac 1 {x^2}= \frac 1 {2 \sqrt x}$
-	>- $(f^n)'= n\ f'\ f^{-1}$
+	>- $(f^n)'= n\ f'\ f^{n-1}$
 
 - ##### Produto
 	$(f \times g)'= f' \times g + g' \times f$
