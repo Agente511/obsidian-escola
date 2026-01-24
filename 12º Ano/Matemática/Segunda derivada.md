@@ -39,4 +39,32 @@ Uma função é **duas vezes diferenciável** se for **duas vezes diferenciável
 >	>
 >	>Existe um ponto de inflexão em $x=0$.
 
-
+## Problemas de otimização
+>[!Summary] Método geral para resolver problemas de otimização
+>1. Ler e pensar
+>2. Construir um modelo matemático (escolher variáveis e estabelecer relações entre elas, limitando os domínios das variáveis àqueles para os quais o problema faz sentido)
+>3. Aplicar um modelo de redução (eliminar variáveis por substituição)
+>4. Resolver o modelo
+>5. Interpretar e validar a resposta
+>
+>>[!Note] Exemplo
+>>>Uma empresa está a planear construir um parque retangular com uma área de 5000 m $^2$. O parque será vedado por uma cerca nos três lados não adjacentes à autoestrada.
+>>>
+>>>Qual é a menor quantidade de cerca que se pode gastar para vedar este parque?
+>>
+>>Seja $V$ a quantidade em metros de vedação usada:
+>>$V=2x+y$
+>>
+>>$A_{\text{parque retangular}}=x \times y$
+>>$\iff 5000 = x \times y$
+>>$\iff y = \frac {5000} x$
+>>
+>>Logo, $V(x)=2x+\frac {5000} x$, com $x \in ]0, +\infty[$.
+>>
+>>$V'(x)= (2x+\frac {5000} x)' = 2 + \frac {5000' \times x - x' \times 5000} {x^2} = 2 - \frac {5000} {x^2}$
+>>
+>>$V'(x)=0$
+>>$\iff \frac {2x^2-5000} {x^2} = 0$
+>>$\iff 2x^2-5000 = 0 \land x^2 \neq 0$
+>>$x^2 = \frac {5000} 2 \land x \neq 0$
+>>$x=-50 \tiny{\notin D_V} \ \lor x=50 \land x \neq 0$
