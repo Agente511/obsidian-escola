@@ -40,6 +40,9 @@ Uma função é **duas vezes diferenciável** se for **duas vezes diferenciável
 >	>Existe um ponto de inflexão em $x=0$.
 
 ## Problemas de otimização
+A modelação consiste em encontrar funções (modelos) adequadas à resolução de problemas.
+No caso particular em que a solução do problema reside na **determinação de um extremo relativo**, estamos perante um problema de otimização.
+
 >[!Summary] Método geral para resolver problemas de otimização
 >1. Ler e pensar
 >2. Construir um modelo matemático (escolher variáveis e estabelecer relações entre elas, limitando os domínios das variáveis àqueles para os quais o problema faz sentido)
@@ -67,4 +70,38 @@ Uma função é **duas vezes diferenciável** se for **duas vezes diferenciável
 >>$\iff \frac {2x^2-5000} {x^2} = 0$
 >>$\iff 2x^2-5000 = 0 \land x^2 \neq 0$
 >>$x^2 = \frac {5000} 2 \land x \neq 0$
->>$x=-50 \tiny{\notin D_V} \ \lor x=50 \land x \neq 0$
+>>$x=-50 {\tiny{\ \notin D_V}} \ \lor x=50 \land x \neq 0$
+>>
+>>| $x$ | $0$ |  | $50$ |  |
+>>| --- | --- | --- | --- | --- |
+>>| $V'(x)$ | N.D. | - | 0 | + |
+>>| $V(x)$ | N.D. | $\searrow$ | Mínimo<br>relativo | $\nearrow$ |
+>>
+>>$V(x)$ tem um mínimo em $x=50$, logo a quantidade mínima de vedação a utilizar é $V(50)=2 \times 50 + \frac {5000} {50} = 200$ m.
+>>
+>>> Que dimensões terá o parque, nesse caso?
+>>
+>>$x=50$
+>>$y= \frac {5000} {50} = 100$
+>>
+>>O parque terá $100$ m de comprimento e $50$ m de largura.
+
+## Estudo completo das funções
+1. Domínio
+2. Zeros
+3. Monotonia e Extremos
+4. Sentido da concavidade e Pontos de inflexão
+5. Assíntotas ao gráfico da função
+6. Interseção com os eixos coordenados
+7. Esboço do gráfico da função
+
+## Noção de derivada aplicada à cinemática do ponto
+Seja $f$ a função posição de um ponto que se desloca numa reta $r$ durante um intervalo de tempo $I$, e $a$ e $b$ dois instantes de $I$:
+- ##### Velocidade média entre $[a, b]$
+	$$\begin{flalign}& t.m.v_{[a,b]} = \frac {f(b)- f(a)} {b-a} &\end{flalign}$$
+
+- ##### Velocidade no instante $x=a$
+	$f'(a)$
+- ##### Aceleração média entre $[a,b]$
+	$$\begin{flalign}& t.m.v_{[a,b]} = \frac {f'(b)- f'(a)} {b-a} &\end{flalign}$$
+- ##### Aceleração inst
