@@ -4,7 +4,7 @@ Dados um referencial cartesiano, uma função real de variável real $f$ e um n�
 ### Existência de assíntotas verticais
 >[!Summary] Passos para investigar a existência de assíntotas verticais ao gráfico de $f$
 >1. Determinar o **domínio de $f$**.
->   Identificar os **pontos $a$** que **não pertencem ao domínio** ou em que a **função pode ser descontínua**.
+>   Identificar os **pontos $a$** que **não pertencem ao domínio**. Caso o domínio seja $\mathbb R$, deve-se estudar a continuidade da função, tentando encontrar **pontos $a$** em que a **função é descontínua**.
 >2. Calcular, para os valores de $a$ identificados, **$\underset{x \rightarrow a^-} \lim f(x)$ e $\underset{x \rightarrow a^+} \lim f(x)$**.
 >3. Se **$\underset{x \rightarrow a^{(+ ou -)}} \lim f(x) =(+ \text{ ou } -)\infty$**, conclui-se que **$x=a$ é uma assíntota vertical ao gráfico da função $f$**.
 
