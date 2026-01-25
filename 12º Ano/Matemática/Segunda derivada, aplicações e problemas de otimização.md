@@ -96,12 +96,17 @@ No caso particular em que a solução do problema reside na **determinação de 
 7. Esboço do gráfico da função
 
 ## Noção de derivada aplicada à cinemática do ponto
-Seja $f$ a função posição de um ponto que se desloca numa reta $r$ durante um intervalo de tempo $I$, e $a$ e $b$ dois instantes de $I$:
-- ##### Velocidade média entre $[a, b]$
+Seja $f$ a função posição de um ponto $P$ que se desloca numa reta $r$ durante um intervalo de tempo $I$, e sejam $a$ e $b$ dois instantes de $I$:
+- ##### Velocidade média de $P$ entre $[a, b]$
+	Taxa média de variação de $f$ entre $a$ e $b$.
 	$$\begin{flalign}& t.m.v_{[a,b]} = \frac {f(b)- f(a)} {b-a} &\end{flalign}$$
 
-- ##### Velocidade no instante $x=a$
+- ##### Velocidade instantânea de $P$ no instante $x=a$
+	Primeira derivada de $f$ em $a$, caso exista.
 	$f'(a)$
 - ##### Aceleração média entre $[a,b]$
+	Taxa média de variação de $f'$ entre $a$ e $b$.
 	$$\begin{flalign}& t.m.v_{[a,b]} = \frac {f'(b)- f'(a)} {b-a} &\end{flalign}$$
-- ##### Aceleração inst
+- ##### Aceleração instantânea de $P$ no instante $x=a$
+	Segunda derivada de $f$ em $a$, caso exista.
+	$f''(a)$
