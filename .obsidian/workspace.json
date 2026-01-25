@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b0bbeecce578486",
+            "id": "988bb76279496e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continuidade de uma função num conjunto"
-            }
-          },
-          {
-            "id": "a56b5e07be737f07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Matemática/11º Ano/Continuidade de uma função num ponto.md",
+                "file": "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continuidade de uma função num ponto"
-            }
-          },
-          {
-            "id": "7a91eac5e36e20da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Segunda derivada, aplicações e problemas de otimização"
-            }
-          },
-          {
-            "id": "5fa90b857407efcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivadas de funções reais de variável real e aplicações"
+              "title": "Assíntotas ao gráfico de uma função"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a91eac5e36e20da",
+  "active": "988bb76279496e45",
   "lastOpenFiles": [
     "12º Ano/Matemática/11º Ano/Continuidade de uma função num ponto.md",
-    "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
+    "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "10º Ano/Matemática/Funções.md",
     "12º Ano/Matemática/Cálculo Combinatório.md",
