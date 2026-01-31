@@ -28,7 +28,7 @@ Quando existe derivada de $f$ em $a$, diz-se que **$f$ é diferenciável** (ou d
 Uma função é **diferenciável** se for **diferenciável no domínio**.
 
 ### Reta tangente ao gráfico de $f$ no ponto $a$
-Geometricamente, $f'(a)$ é o declive da reta tangente ao gráfico de $f$ no ponto $a$.
+Geometricamente, **$f'(a)$ é o declive da reta tangente ao gráfico de $f$ no ponto $a$**.
 
 >[!Summary] Equação da reta tangente ao gráfico de $f$ no ponto de abcissa $a$
 >$\large y = f'(a) (x-a) + f(a)$
