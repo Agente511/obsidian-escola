@@ -3,7 +3,7 @@ Dada uma função real de variável real $f$, diferenciável num intervalo $I$, 
 Representa-se por **$f''(a)$**.
 
 > [!Summary] Definição de segunda derivada de $f$ no ponto $a$
->Assim, se a função derivada $f'$ é diferenciável em $a$, entãõ:
+>Assim, se a função derivada $f'$ é diferenciável em $a$, então:
 >
 >$\large f''(a) = \underset{x \rightarrow a} \lim \frac {f'(x)-f'(a)} {x-a}$
 
