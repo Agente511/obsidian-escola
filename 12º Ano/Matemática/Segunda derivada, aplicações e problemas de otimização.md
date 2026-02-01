@@ -89,8 +89,8 @@ No caso particular em que a solução do problema reside na **determinação de 
 ## Estudo completo das funções
 1. Domínio
 2. Zeros
-3. Monotonia e Extremos
-4. Sentido da concavidade e Pontos de inflexão
+3. Monotonia e Extremos (1.ª derivada)
+4. Sentido da concavidade e Pontos de inflexão (2.ª derivada)
 5. Assíntotas ao gráfico da função
 6. Interseção com os eixos coordenados
 7. Esboço do gráfico da função
