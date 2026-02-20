@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Biologia/Hereditariedade humana.md",
+                "file": "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hereditariedade humana"
+              "title": "D2 2. Hereditariedade humana"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bolzano",
+                "query": "diploide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,7 +227,7 @@
   "active": "28f1432fc98c61b6",
   "lastOpenFiles": [
     "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
-    "12º Ano/Biologia/Hereditariedade humana.md",
+    "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
