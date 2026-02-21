@@ -34,20 +34,6 @@
               "icon": "lucide-file",
               "title": "D2 2. Hereditariedade humana"
             }
-          },
-          {
-            "id": "c3c8a20ab8ff122d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.deepl.com/en/write",
-                "title": "DeepL Write: AI-powered writing companion",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "DeepL Write: AI-powered writing companion"
-            }
           }
         ]
       }
