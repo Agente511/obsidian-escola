@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "D2 2. Hereditariedade humana"
             }
+          },
+          {
+            "id": "c3c8a20ab8ff122d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.deepl.com/en/write",
+                "title": "DeepL Write: AI-powered writing companion",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "DeepL Write: AI-powered writing companion"
+            }
           }
         ],
         "currentTab": 1
@@ -225,8 +239,8 @@
   },
   "active": "28f1432fc98c61b6",
   "lastOpenFiles": [
-    "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
+    "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
