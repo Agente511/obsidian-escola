@@ -35,7 +35,8 @@
               "title": "D2 2. Hereditariedade humana"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,12 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0738b7d54243fe6e",
+  "active": "28f1432fc98c61b6",
   "lastOpenFiles": [
+    "Pasted image 20260222120542.png",
+    "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
     "Pasted image 20260221152547.png",
     "Pasted image 20260221152535.png",
-    "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
