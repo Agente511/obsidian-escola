@@ -4,7 +4,7 @@
 >O livro foi publicado no Dia da Restauração da Independência, 1 de dezembro de 1934, e foi a sua única obra em português publicada em vida.
 >Na obra, Pessoa exprime poeticamente a sua visão mítica e nacionalista de Portugal.
 ## Estrutura da obra
-A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana"**:
+A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana"** (**nascimento**, **vida**, **morte e ressureição**):
 1. #### "Brasão"
 	- Traduz o **nascimento da nacionalidade portuguesa**.
 	- **Referência aos fundadores e antepassados** que contribuíram para a **construção da pátria**, desde a conquista do território até à formação do Império.
@@ -37,16 +37,22 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 		- ##### II. Os Avisos
 			Os **3 profetas do Quinto Império**, homens da palavra, que mantiveram o mito vivo em épocas de decadência.
 		- ##### III. Os Tempos
-			Os **5 momentos simbólicos**, em que pode se dividir o longo período de dormência da nação, apresentando o **percurso da decadência à ressureição da pátria** de forma **gradativa** 
+			Os **5 momentos simbólicos**, em que pode se dividir o **longo período de dormência da nação**, apresentando, de forma gradativa, o **percurso da decadência à ressurreição da pátria**.
+
 ![[Pasted image 20260226202807.png]]
 ## Sebastianismo
->Pessoa evoca as raízes do passado e defende o renascer de um nacionalismo profético pvoltado para o futuro com fé, crença e esperança.
+>Pessoa evoca as raízes do passado e defende o renascer de um nacionalismo profético voltado para o futuro com fé, crença e esperança.
 >D. Sebastião representa para o povo português a sua hipótese de salvação e regeneração (não se trata do seu regresso físico, mas sim que a partir do mito se transforme a realidade)
+
+O sebastianismo é um **mito messiânico**, com origem no **desaparecimento do rei D. Sebastião na batalha de Alcácer Quibir** (04/08/1578).
+
+Em *Mensagem*, Pessoa sente a necessidade de revitalizar a Pátria, recriando o mito sebastianista: **não se espera o regresso físico de D. Sebastião** (esse "ser que houve" e que morreu), mas sim uma **regeneração de Portugal** (o "ser que há", que vive na lenda e simboliza o sonho e o desejo de grandeza).
 ## Imaginário épico
-### Natureza épico-lírica da obra
+### Natureza epo-lírica da obra
+#### Discurso épico
+#### Discurso lírico
+### Exaltação patriótica
 ### Dimensão simbólica do herói
 >O herói interpreta a vontade divina, atuando apra dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
-
-## Exaltação patriótica
 ## Números e tal simbologia
 ## Linguagem, estilo e estrutura
