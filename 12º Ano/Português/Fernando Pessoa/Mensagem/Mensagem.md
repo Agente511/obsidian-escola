@@ -17,7 +17,9 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 		- ##### III. As Quinas
 			As **5 figuras históricas** (como as 5 quinas do brasão nacional, que lembra as chagas de Cristo) que simbolizam o **sofrimento** e a **derrota**, necessárias para alcançar um estado superior.
 		- ##### IV. A Coroa
-			O Cavaleiro predestinado e símbolo da realeza e do reino, representando o ponto mais alto da consolidação de Portugal (antes dos Descobrimentos e do Império).
+			**Símbolo da realeza e do reino** e encarnação do **ideal medieval da cavalaria**, representando o **ponto mais alto da consolidação de Portugal** (antes dos Descobrimentos e do Império).
+		- ##### V. O Timbre
+			**Símbolo do poder legítimo**, a marca pessoal inscrita no escudo do infante D. Henrique, é o **Grifo** (ser mitológico com cabeça e asas de águia e corpo de leão). É associada a cabeça e cada uma das asas a **3 figuras cimeiras da expansão portuguesa**.
 2. #### "Mar Português" - Concretização do império marítimo
 	- Traduz a **realização do império material sonhado** (epígrafe "Posse do mar").
 	- A **epopeia marítima**, realizada por aqueles que ousam **libertar-se da sua condição animal através da loucura do sonho**, alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
@@ -30,6 +32,12 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 	- Revela o **tempo suspenso da história mítica de Portugal**, desde a batalha de Alcácer Quibir (04/08/1578), até à data da publicação de *Mensagem* (01/12/1934), sendo a obra um sinal de que "**É a Hora!" da instauração do Quinto Império**, anunciado através do **espírito messiânico sebastianista**.
 	- A epígrafe ("Paz nas alturas") remete para o império espiritual, pleno de justiça e felicidade.
 	- 13 poemas distribuídos em 3 secções.
+		- ##### I. Os Símbolos
+			Os **5 símbolos do sebastianismo**, vivos na consciência dos portuguesas e que servem de **inspiração do futuro ideal**.
+		- ##### II. Os Avisos
+			Os **3 profetas do Quinto Império**, homens da palavra, que mantiveram o mito vivo em épocas de decadência.
+		- ##### III. Os Tempos
+			Os **5 momentos simbólicos**, em que pode se dividir o longo período de dormência da nação, apresentando o **percurso da decadência à ressureição da pátria** de forma **gradativa** 
 ![[Pasted image 20260226202807.png]]
 ## Sebastianismo
 >Pessoa evoca as raízes do passado e defende o renascer de um nacionalismo profético pvoltado para o futuro com fé, crença e esperança.
