@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Mensagem"
             }
+          },
+          {
+            "id": "2ba9ab7ad6f74344",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.deepl.com/en/write",
+                "title": "DeepL Write: AI-powered writing companion",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "DeepL Write: AI-powered writing companion"
+            }
           }
         ]
       }
@@ -210,13 +224,13 @@
   },
   "active": "28f1432fc98c61b6",
   "lastOpenFiles": [
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "Pasted image 20260226202807.png",
     "Pasted image 20260226200142.png",
     "Pasted image 20260226195653.png",
     "Pasted image 20260226195355.png",
     "Pasted image 20260226194951.png",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Fernando Pessoa heterónimo.md",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos",
     "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem -  Resumos minúculos de cada poema.pdf",
     "12º Ano/Português/Fernando Pessoa/Mensagem",
@@ -237,7 +251,6 @@
     "Pasted image 20260222131904.png",
     "Pasted image 20260222131121.png",
     "Pasted image 20260222125735.png",
-    "Pasted image 20260222125447.png",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",

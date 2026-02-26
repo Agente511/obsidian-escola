@@ -12,12 +12,15 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 	- 19 poemas distribuídos em 5 secções (que reproduzem o estandarte do infante D. Henrique). 
 2. ##### "Mar Português" - Concretização do império marítimo
 	- Traduz a **realização do império marítimo (material) sonhado**. A ação dos portugueses alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
-	- Figura-se o **ciclo completo** da **constituição, v**
+	- **Ciclo completo** da **constituição, vivência plena e dissolução do império material** ("Cumpriu-se o Mar, e o Império se desfez").
+	- A consumação plena da nação só será atingida numa dimensão espiritual com o Quinto Império ("Senhor, falta cumprir-se Portugal!").
 	- Simboliza a **busca de um "futuro do passado"** em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
 	- 12 poemas.
 3. ##### "O Encoberto" - Decadência do império
 	- Traduz a **decadência do império**.
-	- 
+	- Revela o **tempo suspenso da história mítica de Portugal**, desde a batalha de Alcácer Quibir (04/08/1578), até à data da publicação de *Mensagem* (01/12/1934), sendo a obra um sinal de que "**É a Hora!" da instauração do Quinto Império**, anunciado através do **espírito messiânico sebastianista**.
+	- A epígrafe ("Paz nas alturas") remete para o império espiritual, pleno de justiça e felicidade.
+	- 13 poemas distribuídos em 3 secções.
 ![[Pasted image 20260226202807.png]]
 ## Sebastianismo
 ## Imaginário épico
