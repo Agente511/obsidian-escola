@@ -1,8 +1,5 @@
->[!Info] Contexto histórico
->
-
 ## Estrutura da obra
-
+Estrutura 
 ## Sebastianismo
 ## Imaginário épico
 ### Natureza épico-lírica da obra
