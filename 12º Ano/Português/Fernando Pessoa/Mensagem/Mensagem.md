@@ -6,12 +6,18 @@
 ## Estrutura da obra
 A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana"**:
 1. ##### "Brasão"
-	- Traduz o **princípio da nacionalidade**.
-	- Faz **referência aos fundadores e antepassados** que contribuíram para a **construção da pátria**, desde a conquista do território até à formação do Império.
-	- A epígrafe paradoxal ("Guerra sem guerra") remete para a história guerreira que possibilitou a criação do império material, que deve agora gerar um império espiritual "sem guerra". Refere-se ainda à constante luta humana para superar as forças brutas e instintivas
+	- Traduz o **nascimento da nacionalidade portuguesa**.
+	- **Referência aos fundadores e antepassados** que contribuíram para a **construção da pátria**, desde a conquista do território até à formação do Império.
+	- A epígrafe paradoxal ("Guerra sem guerra") remete para a história guerreira que possibilitou a criação do império material, e ambiciona um império espiritual fundado "sem guerra".
+	- 19 poemas distribuídos em 5 secções (que reproduzem o estandarte do infante D. Henrique). 
 2. ##### "Mar Português" - Concretização do império marítimo
-	- Simboliza a **maturidade**, a **vida da pátria** e a **busca de um "futuro do passado"** em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
+	- Traduz a **realização do império marítimo (material) sonhado**. A ação dos portugueses alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
+	- Figura-se o **ciclo completo** da **constituição, v**
+	- Simboliza a **busca de um "futuro do passado"** em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
+	- 12 poemas.
 3. ##### "O Encoberto" - Decadência do império
+	- Traduz a **decadência do império**.
+	- 
 ![[Pasted image 20260226202807.png]]
 ## Sebastianismo
 ## Imaginário épico
