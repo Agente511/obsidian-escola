@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D2 2. Hereditariedade humana"
+              "title": "Mensagem"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11ºAno/Português/Educação Literária/Os Maias/Os Maias.md",
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Os Maias"
+              "title": "Índice de Mensagem"
             }
           },
           {
@@ -185,8 +185,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,8 +209,20 @@
   },
   "active": "28f1432fc98c61b6",
   "lastOpenFiles": [
-    "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
+    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
+    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
+    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
+    "12º Ano/Português/Projeto de Leitura - Fahrenheit 451.md",
+    "12º Ano/Português/Processos de formação de palavras ==ACABAR==.md",
+    "12º Ano/Português/Campo semântico e campo lexical ==MELHORAR==.md",
+    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
+    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa heterónimo.md",
+    "12º Ano/Português/Fernando Pessoa/Alberto Caeiro.md",
+    "12º Ano/Português/Fernando Pessoa/Ricardo Reis.md",
+    "12º Ano/Português/Fernando Pessoa/Álvaro de Campos.md",
+    "12º Ano/Português/Fernando Pessoa/Mensagem.md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
+    "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "Pasted image 20260222132337.png",
     "Pasted image 20260222131904.png",
     "Pasted image 20260222131121.png",
@@ -231,26 +242,14 @@
     "11º Ano/Matemática/Declive e inclinação de uma reta no plano.md",
     "10º Ano/Matemática/Funções.md",
     "12º Ano/Matemática/Cálculo Combinatório.md",
-    "12º Ano/Português/Fernando Pessoa/Álvaro de Campos.md",
-    "12º Ano/Português/Fernando Pessoa/Ricardo Reis.md",
-    "12º Ano/Português/Fernando Pessoa/Alberto Caeiro.md",
-    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa heterónimo.md",
     "11º Ano/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
-    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "11º Ano/Português/Gramática/Atos de fala.md",
     "11º Ano/Português/Gramática/Valor modal.md",
     "11º Ano/Português/Gramática/Funções Sintáticas.md",
-    "11º Ano/Português/Gramática/Subordinação.md",
-    "11º Ano/Português/Gramática/Coordenação.md",
-    "11º Ano/Português/Gramática/Frase complexa.md",
-    "11º Ano/Português/Gramática/Classes de palavras.md",
-    "11º Ano/Português/Gramática/Subclasses do Verbo.md",
     "12º Ano/Matemática/11º Ano",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "12º Ano/Português/Fernando Pessoa",
-    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
-    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "12º Ano/Português/11º Ano/Cesário Verde",
     "12º Ano/Português/11º Ano",
     "12º Ano/Educação Física",
