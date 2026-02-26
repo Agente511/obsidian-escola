@@ -11,7 +11,8 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 	- A epígrafe paradoxal ("Guerra sem guerra") remete para a história guerreira que possibilitou a criação do império material, e ambiciona um império espiritual fundado "sem guerra".
 	- 19 poemas distribuídos em 5 secções (que reproduzem o estandarte do infante D. Henrique). 
 2. ##### "Mar Português" - Concretização do império marítimo
-	- Traduz a **realização do império marítimo (material) sonhado**. A ação dos portugueses alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
+	- Traduz a **realização do império material sonhado** (epígrafe "Posse do mar").
+	- A **epopeia marítima**, realizada por aqueles que ousam **libertar-se da sua condição animal através da loucura do sonho**, alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
 	- **Ciclo completo** da **constituição, vivência plena e dissolução do império material** ("Cumpriu-se o Mar, e o Império se desfez").
 	- A consumação plena da nação só será atingida numa dimensão espiritual com o Quinto Império ("Senhor, falta cumprir-se Portugal!").
 	- Simboliza a **busca de um "futuro do passado"** em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
@@ -23,8 +24,13 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 	- 13 poemas distribuídos em 3 secções.
 ![[Pasted image 20260226202807.png]]
 ## Sebastianismo
+>Pessoa evoca as raízes do passado e defende o renascer de um nacionalismo profético pvoltado para o futuro com fé, crença e esperança.
+>D. Sebastião representa para o povo português a sua hipótese de salvação e regeneração (não se trata do seu regresso físico, mas sim que a partir do mito se transforme a realidade)
 ## Imaginário épico
 ### Natureza épico-lírica da obra
 ### Dimensão simbólica do herói
+>O herói interpreta a vontade divina, atuando apra dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
+
 ## Exaltação patriótica
+## Números e tal simbologia
 ## Linguagem, estilo e estrutura
