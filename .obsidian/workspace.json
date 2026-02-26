@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Mensagem.md",
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Mensagem.md",
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,6 +209,13 @@
   },
   "active": "28f1432fc98c61b6",
   "lastOpenFiles": [
+    "Pasted image 20260226194951.png",
+    "12º Ano/Português/Fernando Pessoa/Heterónimos/Fernando Pessoa heterónimo.md",
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
+    "12º Ano/Português/Fernando Pessoa/Heterónimos",
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem -  Resumos minúculos de cada poema.pdf",
+    "12º Ano/Português/Fernando Pessoa/Mensagem",
+    "Pasted image 20260226194136.png",
     "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
@@ -216,11 +223,9 @@
     "12º Ano/Português/Processos de formação de palavras ==ACABAR==.md",
     "12º Ano/Português/Campo semântico e campo lexical ==MELHORAR==.md",
     "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
-    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa heterónimo.md",
-    "12º Ano/Português/Fernando Pessoa/Alberto Caeiro.md",
-    "12º Ano/Português/Fernando Pessoa/Ricardo Reis.md",
-    "12º Ano/Português/Fernando Pessoa/Álvaro de Campos.md",
-    "12º Ano/Português/Fernando Pessoa/Mensagem.md",
+    "12º Ano/Português/Fernando Pessoa/Heterónimos/Alberto Caeiro.md",
+    "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
+    "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
     "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "Pasted image 20260222132337.png",
@@ -232,7 +237,6 @@
     "Pasted image 20260222125020.png",
     "Pasted image 20260222122232.png",
     "Pasted image 20260222120542.png",
-    "Pasted image 20260221152547.png",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
@@ -253,9 +257,6 @@
     "12º Ano/Português/11º Ano/Cesário Verde",
     "12º Ano/Português/11º Ano",
     "12º Ano/Educação Física",
-    "12º Ano/Aplicações Informáticas",
-    "12º Ano/Biologia",
-    "12º Ano/Química",
-    "12º Ano/Matemática"
+    "12º Ano/Aplicações Informáticas"
   ]
 }

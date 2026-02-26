@@ -4,6 +4,7 @@
 >Na obra, Pessoa exprime poeticamente a sua visão mítica e nacionalista de Portugal.
 ## Estrutura da obra
 Estrutura 
+![[Pasted image 20260226194951.png]]
 ## Sebastianismo
 ## Imaginário épico
 ### Natureza épico-lírica da obra
