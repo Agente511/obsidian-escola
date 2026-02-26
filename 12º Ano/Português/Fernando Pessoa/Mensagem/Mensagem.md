@@ -5,19 +5,27 @@
 >Na obra, Pessoa exprime poeticamente a sua visão mítica e nacionalista de Portugal.
 ## Estrutura da obra
 A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana"**:
-1. ##### "Brasão"
+1. #### "Brasão"
 	- Traduz o **nascimento da nacionalidade portuguesa**.
 	- **Referência aos fundadores e antepassados** que contribuíram para a **construção da pátria**, desde a conquista do território até à formação do Império.
 	- A epígrafe paradoxal ("Guerra sem guerra") remete para a história guerreira que possibilitou a criação do império material, e ambiciona um império espiritual fundado "sem guerra".
-	- 19 poemas distribuídos em 5 secções (que reproduzem o estandarte do infante D. Henrique). 
-2. ##### "Mar Português" - Concretização do império marítimo
+	- 19 poemas distribuídos em 5 secções (que reproduzem o estandarte do infante D. Henrique).
+		- ##### I. Os Campos
+			**Localização geográfica** e o **destino**/**missão sagrada** de **Portugal**.
+		- ##### II. Os Castelos
+			Os **7 heróis fundadores** do país (como os 7 castelos do brasão nacional) simbolizam a conquista, o triunfo e o exemplo, inscrevendo-se na **visão providencialista da História de Portugal** (são instrumentos da vontade divina, sendo a origem de Portugal pertencente à ordem do sagrado).
+		- ##### III. As Quinas
+			As **5 figuras históricas** (como as 5 quinas do brasão nacional, que lembra as chagas de Cristo) que simbolizam o **sofrimento** e a **derrota**, necessárias para alcançar um estado superior.
+		- ##### IV. A Coroa
+			O Cavaleiro predestinado e símbolo da realeza e do reino, representando o ponto mais alto da consolidação de Portugal (antes dos Descobrimentos e do Império).
+2. #### "Mar Português" - Concretização do império marítimo
 	- Traduz a **realização do império material sonhado** (epígrafe "Posse do mar").
 	- A **epopeia marítima**, realizada por aqueles que ousam **libertar-se da sua condição animal através da loucura do sonho**, alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
 	- **Ciclo completo** da **constituição, vivência plena e dissolução do império material** ("Cumpriu-se o Mar, e o Império se desfez").
 	- A consumação plena da nação só será atingida numa dimensão espiritual com o Quinto Império ("Senhor, falta cumprir-se Portugal!").
 	- Simboliza a **busca de um "futuro do passado"** em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
 	- 12 poemas.
-3. ##### "O Encoberto" - Decadência do império
+3. #### "O Encoberto" - Decadência do império
 	- Traduz a **decadência do império**.
 	- Revela o **tempo suspenso da história mítica de Portugal**, desde a batalha de Alcácer Quibir (04/08/1578), até à data da publicação de *Mensagem* (01/12/1934), sendo a obra um sinal de que "**É a Hora!" da instauração do Quinto Império**, anunciado através do **espírito messiânico sebastianista**.
 	- A epígrafe ("Paz nas alturas") remete para o império espiritual, pleno de justiça e felicidade.
