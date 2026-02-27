@@ -41,18 +41,20 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 
 ![[Pasted image 20260226202807.png]]
 ## Sebastianismo
->Pessoa evoca as raízes do passado e defende o renascer de um nacionalismo profético voltado para o futuro com fé, crença e esperança.
->D. Sebastião representa para o povo português a sua hipótese de salvação e regeneração (não se trata do seu regresso físico, mas sim que a partir do mito se transforme a realidade)
-
 O sebastianismo é um **mito messiânico**, com origem no **desaparecimento do rei D. Sebastião na batalha de Alcácer Quibir** (04/08/1578).
 
-Em *Mensagem*, Pessoa sente a necessidade de revitalizar a Pátria, recriando o mito sebastianista: **não se espera o regresso físico de D. Sebastião** (esse "ser que houve" e que morreu), mas sim uma **regeneração de Portugal** (o "ser que há", que vive na lenda e simboliza o sonho e o desejo de grandeza).
+Em *Mensagem*, Pessoa sente a necessidade de revitalizar a Pátria, recriando o mito sebastianista: **não se espera o regresso físico de D. Sebastião** (esse "ser que houve" e que morreu), mas sim o seu **regresso simbólico** (o "ser que há", que vive na lenda e simboliza o sonho e o desejo de grandeza) sob a forma de uma **regeneração de Portugal** e a **construção do Quinto Império**.
+
+Assim, Pessoa defende o renascer de um **nacionalismo profético** voltado para o **futuro** com **fé, crença e esperança**. O sebastianismo deixa de ter um caráter passivo, como em outras obras.
+## Quinto Império
 ## Imaginário épico
 ### Natureza epo-lírica da obra
 #### Discurso épico
 #### Discurso lírico
 ### Exaltação patriótica
 ### Dimensão simbólica do herói
->O herói interpreta a vontade divina, atuando apra dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
+>O herói interpreta a vontade divina, atuando para dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
+
+### Comparação com *Os Lusíadas*
 ## Números e tal simbologia
 ## Linguagem, estilo e estrutura
