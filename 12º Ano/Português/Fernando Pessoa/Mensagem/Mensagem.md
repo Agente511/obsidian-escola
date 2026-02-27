@@ -99,6 +99,7 @@ Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade di
 #### Temas comuns
 - O passado glorioso:
 	- Descobertas marítimas
+	-  
 	- História de Portugal
 - O presente decadente
 	- Egoísmo mercenário
