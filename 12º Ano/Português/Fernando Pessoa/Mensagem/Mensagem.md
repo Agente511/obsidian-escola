@@ -96,17 +96,26 @@ Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido provide
 ### Dimensão simbólica do herói
 Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina** e à **missão transcendente**, sendo **mitificados**. Caracterizam-se pela "fome de Absoluto" e pela "febre do Além", assumindo uma dimensão simbólica ao serem apresentados como **exemplos** do que importa voltar a impor no Portugal moribundo.
 ### Comparação com *Os Lusíadas*
-#### Temas comuns
-- O passado glorioso:
+*Mensagem* surge como resposta ao que Luís de Camões referia n'*Os Lusíadas*: o início da dissolução do Império Português, contra o qual 
+#### Semelhanças
+- Poemas sobre Portugal
+- Os heróis concretizam a vontade divina
+- Superação dos limites humanos pelos heróis portugueses
+- Sacrifício voluntário em nome de uma causa patriótica
+- Evocação do passado (memória) para projetar o futuro (apelo e incentivo)
+- Tema do passado glorioso:
 	- Descobertas marítimas
-	-  
 	- História de Portugal
-- O presente decadente
+- Tema do presente decadente
 	- Egoísmo mercenário
 	- Falta de patriotismo
 	- Deficiência de valores
 	- Esquecimento do passado áureo
 	- Descrédito pelas letras
 	- Falta de identidade nacional
+#### Diferenças
+| *Os Lusíadas* | *Mensagem* |
+| ------------- | ---------- |
+|               |            |
 ## Simbologia
 ## Linguagem, estilo e estrutura
