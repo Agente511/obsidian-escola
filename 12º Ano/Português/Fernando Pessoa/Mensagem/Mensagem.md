@@ -71,7 +71,7 @@ Segundo **Pessoa**:
 5. Portugal
 
 O Quinto Império será um **império civilizacional e espiritual** consumado por **Portugal**, baseado numa identidade cultural e na **fraternidade universal**, constituindo uma hipótese de **transformação e purificação da Humanidade** e conduzindo a uma **relação harmoniosa entre o Homem e Deus**.
-
+##### Características
 - Crítica ao conformismo
 - Apologia do sonho
 - Chegada de uma nova era
@@ -92,6 +92,8 @@ O Quinto Império será um **império civilizacional e espiritual** consumado po
 - Identificação "eu"/pátria
 - Tom emotivo e linguagem expressiva
 ### Exaltação patriótica
+- 
+
 ### Dimensão simbólica do herói
 >O herói interpreta a vontade divina, atuando para dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
 
