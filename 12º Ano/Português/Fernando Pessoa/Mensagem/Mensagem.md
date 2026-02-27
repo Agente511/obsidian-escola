@@ -169,4 +169,8 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 - **Manhã**: luz; felicidade; harmonia; vida; o novo mundo
 - **Nevoeiro**: indefinição; promessa de vida; força criadora; novo dia
 ## Linguagem, estilo e estrutura
-- 
+- Narração e descrição reduzida, dando mais relevo ao pensamento
+- Discurso analítico-crítico que reflete sobre o passado heroica de conquistas do povo português e expressa a visão e as emoções do "eu" face aos acontecimentos históricos, num tom profético
+- Prevalência do imaginário em poemas breves, numa organização estrófica regular (quadras, quintilhas, oitavas, etc.), com variedade métrica e rimática de cariz tradicional
+- Linguagem simbólica
+- Recurso à apóstrofe, metáfora, gradação, enumeração e interrogação retórica
