@@ -48,9 +48,35 @@ Em *Mensagem*, Pessoa sente a necessidade de revitalizar a Pátria, recriando o 
 Assim, Pessoa defende o renascer de um **nacionalismo profético** voltado para o **futuro** com **fé, crença e esperança**. O sebastianismo deixa de ter um caráter passivo, como em outras obras.
 ## Quinto Império
 O mito do Quinto Império tem origens na Bíblia e foi submetido a diversas interpretações ao longo dos tempos.
-O profeta Daniel interpreta:
+
+Segundo o **profeta Daniel**:
 1. Babilónia
 2. Medo-Persa
+3. Grécia
+4. Roma
+5. Israel/Inglaterra
+
+Segundo **Padre António Vieira**:
+1. Assírios
+2. Persas
+3. Gregos
+4. Romanos
+5. Portugueses
+
+Segundo **Pessoa**:
+1. Grécia
+2. Roma
+3. Cristandade
+4. Europa/Inglaterra (Europa laica depois da Renascença)
+5. Portugal
+
+O Quinto Império será um **império civilizacional e espiritual** consumado por **Portugal**, baseado numa identidade cultural e na **fraternidade universal**, constituindo uma hipótese de **transformação e purificação da Humanidade** e conduzindo a uma **relação harmoniosa entre o Homem e Deus**.
+
+- Crítica ao conformismo
+- Apologia do sonho
+- Chegada de uma nova era
+- Purificação da humanidade
+- Satisfação dos desejos humanos
 ## Imaginário épico
 ### Natureza epo-lírica da obra
 #### Discurso épico
@@ -64,7 +90,7 @@ O profeta Daniel interpreta:
 - Uso da 1.ª pessoa (intimismo)
 - Visão subjetiva do destino nacional (seleção e valorização subjetiva/pessoal de figuras e acontecimentos)
 - Identificação "eu"/pátria
-- Tom emotivo e linguagem
+- Tom emotivo e linguagem expressiva
 ### Exaltação patriótica
 ### Dimensão simbólica do herói
 >O herói interpreta a vontade divina, atuando para dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
