@@ -127,5 +127,43 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 | Heroísmo como concretização de feitos épicos pelos humanos                                                                                                                     | Heroísmo de caráter mental e conceptual                                                                                        |
 | A missão de Vasco da Gama do Império Português do Oriente foi cumprida. D. Sebastião poderá agora realizar a missão de difundir o Cristianismo e conquistar no norte de África | A missão terrena de Portugal foi cumprida por vontade divina, agora a hegemonia do Quinto Império está por cumprir             |
 ## Simbologia
-
+### Simbologia dos números
+- ##### 1
+	- O Ser
+	- Perfeição
+	- Unidade
+- ##### 2
+	- Divisão
+	- Dualidade
+	- Paradoxo da existência: vida e morte
+- ##### 3
+	- União entre Deus, o Universo e o Homem
+	- Totalidade
+	- Fases da existência: nascimento, crescimento e morte
+- ##### 5
+	- Ordem, equilíbrio e harmonia
+	- Perfeição
+- ##### 7
+	- Conclusão de um ciclo
+	- Associado ao poder e ao ato da Criação (na Bíblia, Deus descansou ao 7.º dia após criar o Mundo)
+	- Passagem do desconhecido para o conhecido
+- ##### 12
+	- Unidade
+	- Fim de um ciclo
+	- Fidelidade a Cristo (12 apóstolos)
+### Símbolos unificadores
+- **Brasão**: passado inalterável
+- **Campo**: espaço de vida, fecundidade, alimento e de ação
+- **Quinas**: chagas de Cristo: dimensão espiritual
+- **Castelo**: refúgio e segurança
+- **Coroa**: perfeição e poder
+- **Timbre**: poder e posse legítima; marca dada por Deus; sagração do heróis para missão transcendente através do conhecimento
+- **Grifo**: terra (leão) e céu (águia): criação de uma obra terrestre e celeste
+- **Padrão**: marco; sinal da presença da cristandade; obra da civilização cristã
+- **Mar**: vida e morte (dinamismo das ondas); espaço iniciático; ponto de partida; reflexo do céu; princípio masculino
+- **Terra**: casa do Homem; espelho do céu; paraíso mítico; princípio feminino
+- **Mostrengo**: o desconhecido; lendas do mar; obstáculos a vencer
+- **Nau**: viagem; aquisição de conhecimentos
+- **Ilha**: refúgio espiritual; espaço de conquista; recompensa do sacrifício
+- **Noite**
 ## Linguagem, estilo e estrutura
