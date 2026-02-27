@@ -47,10 +47,24 @@ Em *Mensagem*, Pessoa sente a necessidade de revitalizar a Pátria, recriando o 
 
 Assim, Pessoa defende o renascer de um **nacionalismo profético** voltado para o **futuro** com **fé, crença e esperança**. O sebastianismo deixa de ter um caráter passivo, como em outras obras.
 ## Quinto Império
+O mito do Quinto Império tem origens na Bíblia e foi submetido a diversas interpretações ao longo dos tempos.
+O profeta Daniel interpreta:
+1. Babilónia
+2. Medo-Persa
 ## Imaginário épico
 ### Natureza epo-lírica da obra
 #### Discurso épico
+- Exaltação de ações heroicas com proteção sobrenatural
+- Uso da 3.ª pessoa (narratividade)
+- Integração de figuras e acontecimentos históricos (História de Portugal e seus heróis)
+- Protagonistas de elevado estatuto (social e moral), seres excecionais (mitificação do herói)
+- Glorificação e mitificação do herói (celebração e recompensa)
 #### Discurso lírico
+- Forma fragmentária (44 poemas com valor independente)
+- Uso da 1.ª pessoa (intimismo)
+- Visão subjetiva do destino nacional (seleção e valorização subjetiva/pessoal de figuras e acontecimentos)
+- Identificação "eu"/pátria
+- Tom emotivo e linguagem
 ### Exaltação patriótica
 ### Dimensão simbólica do herói
 >O herói interpreta a vontade divina, atuando para dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
