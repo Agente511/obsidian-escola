@@ -96,7 +96,9 @@ Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido provide
 ### Dimensão simbólica do herói
 Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina** e à **missão transcendente**, sendo **mitificados**. Caracterizam-se pela "fome de Absoluto" e pela "febre do Além", assumindo uma dimensão simbólica ao serem apresentados como **exemplos** do que importa voltar a impor no Portugal moribundo.
 ### Comparação com *Os Lusíadas*
-*Mensagem* surge como resposta ao que Luís de Camões referia n'*Os Lusíadas*: o início da dissolução do Império Português, contra o qual 
+Enquanto *Os Lusíadas* foi escrito no séc. XVI, altura em que o Império português já apresentava alguns sinais de declínio, *Mensagem* foi publicado numa época em que o Império de Português estava a extinguir-se (séc. XX).
+
+*Mensagem* surge como resposta ao que Luís de Camões referia n'*Os Lusíadas*: o início da dissolução do Império Português, contra a qual tentou lutar através das críticas e dos apelos à ação dos portugueses. Pessoa valoriza o passado e promove a regeneração de Portugal profetizando a construção do Quinto Império.
 #### Semelhanças
 - Poemas sobre Portugal
 - Os heróis concretizam a vontade divina
@@ -114,8 +116,9 @@ Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade di
 	- Descrédito pelas letras
 	- Falta de identidade nacional
 #### Diferenças
-| *Os Lusíadas* | *Mensagem* |
-| ------------- | ---------- |
-|               |            |
+| *Os Lusíadas*                                | *Mensagem*                                                                                                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Epopeia clássica em que predomina a narração | Natureza épico-lírica em que<br>os factos históricos são exaltados e têm simbologia atribuída, evidenciando-se a subjetividade |
+| Tema da História de Portugal                 |                                                                                                                                |
 ## Simbologia
 ## Linguagem, estilo e estrutura
