@@ -94,10 +94,18 @@ O Quinto Império será um **império civilizacional e espiritual** consumado po
 ### Exaltação patriótica
 Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido providencial e messiânico** de instituir o Quinto Império.
 ### Dimensão simbólica do herói
->O herói interpreta a vontade divina, atuando para dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
-
-Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina**, sendo **mitificados**. Assumem uma dimensão simbólica ao serem apresentados como exemplos.
-
+Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina** e à **missão transcendente**, sendo **mitificados**. Caracterizam-se pela "fome de Absoluto" e pela "febre do Além", assumindo uma dimensão simbólica ao serem apresentados como **exemplos** do que importa voltar a impor no Portugal moribundo.
 ### Comparação com *Os Lusíadas*
+#### Temas comuns
+- O passado glorioso:
+	- Descobertas marítimas
+	- História de Portugal
+- O presente decadente
+	- Egoísmo mercenário
+	- Falta de patriotismo
+	- Deficiência de valores
+	- Esquecimento do passado áureo
+	- Descrédito pelas letras
+	- Falta de identidade nacional
 ## Simbologia
 ## Linguagem, estilo e estrutura
