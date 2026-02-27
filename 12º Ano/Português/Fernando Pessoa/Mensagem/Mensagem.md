@@ -80,23 +80,24 @@ O Quinto Império será um **império civilizacional e espiritual** consumado po
 ## Imaginário épico
 ### Natureza epo-lírica da obra
 #### Discurso épico
-- Exaltação de ações heroicas com proteção sobrenatural
+- Exaltação de ações heroicas com proteção divina
 - Uso da 3.ª pessoa (narratividade)
 - Integração de figuras e acontecimentos históricos (História de Portugal e seus heróis)
 - Protagonistas de elevado estatuto (social e moral), seres excecionais (mitificação do herói)
 - Glorificação e mitificação do herói (celebração e recompensa)
 #### Discurso lírico
 - Forma fragmentária (44 poemas com valor independente)
-- Uso da 1.ª pessoa (intimismo)
+- Uso da 1.ª pessoa (intimismo e atitude introspetiva)
 - Visão subjetiva do destino nacional (seleção e valorização subjetiva/pessoal de figuras e acontecimentos)
 - Identificação "eu"/pátria
-- Tom emotivo e linguagem expressiva
+- Tom emotivo e linguagem expressiva (exprime os seus sentimentos, sonhos, desejos e crenças)
 ### Exaltação patriótica
-- 
-
+Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido providencial e messiânico** de instituir o Quinto Império.
 ### Dimensão simbólica do herói
 >O herói interpreta a vontade divina, atuando para dar cumprimento a uma vontade que lhe é superior, transformando-se em mito. É o predestinado, o escolhido, aquele a quem Deus dá gládio urgida para cumprir uma missão ("Deus quer, o homem sonha, a obra nasce").
 
+Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina**, sendo **mitificados**. Assumem uma dimensão simbólica ao serem apresentados como exemplos.
+
 ### Comparação com *Os Lusíadas*
-## Números e tal simbologia
+## Simbologia
 ## Linguagem, estilo e estrutura
