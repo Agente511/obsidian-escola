@@ -96,7 +96,7 @@ Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido provide
 ### Dimensão simbólica do herói
 Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina** e à **missão transcendente**, sendo **mitificados**. Caracterizam-se pela "fome de Absoluto" e pela "febre do Além", assumindo uma dimensão simbólica ao serem apresentados como **exemplos** do que importa voltar a impor no Portugal moribundo.
 ### Comparação com *Os Lusíadas*
-Enquanto *Os Lusíadas* foi escrito no séc. XVI, altura em que o Império português já apresentava alguns sinais de declínio, *Mensagem* foi publicado numa época em que o Império de Português estava a extinguir-se (séc. XX).
+Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Império português que já apresentava alguns sinais de declínio, *Mensagem* foi publicado numa época em que o Império de Português estava a extinguir-se (séc. XX).
 
 *Mensagem* surge como resposta ao que Luís de Camões referia n'*Os Lusíadas*: o início da dissolução do Império Português, contra a qual tentou lutar através das críticas e dos apelos à ação dos portugueses. Pessoa valoriza o passado e promove a regeneração de Portugal profetizando a construção do Quinto Império.
 #### Semelhanças
@@ -105,6 +105,8 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, altura em que o Império portu
 - Superação dos limites humanos pelos heróis portugueses
 - Sacrifício voluntário em nome de uma causa patriótica
 - Evocação do passado (memória) para projetar o futuro (apelo e incentivo)
+- Herói coletivo (Portugal) individualizado em figuras exemplares
+- Função pedagógica
 - Tema do passado glorioso:
 	- Descobertas marítimas
 	- História de Portugal
@@ -116,9 +118,12 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, altura em que o Império portu
 	- Descrédito pelas letras
 	- Falta de identidade nacional
 #### Diferenças
-| *Os Lusíadas*                                | *Mensagem*                                                                                                                     |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Epopeia clássica em que predomina a narração | Natureza épico-lírica em que<br>os factos históricos são exaltados e têm simbologia atribuída, evidenciando-se a subjetividade |
-| Tema da História de Portugal                 |                                                                                                                                |
+| *Os Lusíadas*                                                                                                  | *Mensagem*                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Epopeia clássica em que predomina a narração                                                                   | Natureza épico-lírica em que<br>os factos históricos são exaltados e têm simbologia atribuída, evidenciando-se a subjetividade |
+| Tema da História de Portugal e os feitos concretos cumpridos                                                   | Tema da essência da Pátria e da missão que esta deverá cumprir                                                                 |
+| Mitologia clássica                                                                                             | Mitologia simbólica, ligada ao mito do Quinto Império                                                                          |
+| Império material e territorial, através da conquista de mares e terras e cruzadas religiosas contra os infiéis | Império espiritual (Quinto Império), feito de valores morais e culturais                                                       |
+| Heroísmo como concretização de feitos épicos pelos humanos                                                     | Heroísmo de caráter mental e conceptual                                                                                        |
 ## Simbologia
 ## Linguagem, estilo e estrutura

@@ -34,8 +34,19 @@
               "icon": "globe-2",
               "title": "DeepL Write: AI-powered writing companion"
             }
+          },
+          {
+            "id": "06d829a4e89e865f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28f1432fc98c61b6",
+  "active": "06d829a4e89e865f",
   "lastOpenFiles": [
     "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "Pasted image 20260226202807.png",
