@@ -165,5 +165,8 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 - **Mostrengo**: o desconhecido; lendas do mar; obstáculos a vencer
 - **Nau**: viagem; aquisição de conhecimentos
 - **Ilha**: refúgio espiritual; espaço de conquista; recompensa do sacrifício
-- **Noite**
+- **Noite**: morte; tempo de inércia; tempo de germinação; certeza de vida
+- **Manhã**: luz; felicidade; harmonia; vida; o novo mundo
+- **Nevoeiro**: indefinição; promessa de vida; força criadora; novo dia
 ## Linguagem, estilo e estrutura
+- 
