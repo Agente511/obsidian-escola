@@ -1,9 +1,12 @@
 ## Contextualização
 >[!Info] Contextualização
 >*Mensagem* é uma coletânea de 44 poemas escritos por Fernando Pessoa entre 1913 e 1934, num período de crescente crise nacional.
->O livro foi publicado no Dia da Restauração da Independência, 1 de dezembro de 1934, e foi a sua única obra em português publicada em vida.
->Na obra, Pessoa exprime poeticamente a sua visão mítica e nacionalista de Portugal.
+>O livro foi publicado no Dia da Restauração da Independência, 1 de dezembro de 1934, e foi o seu único livro em português publicado em vida.
+
+Na obra, Pessoa evoca heróis passados de Portugal (exemplos da vontade de mudança e da capacidade de ação), com o objetivo de influenciar os portugueses a construir o Portugal futuro, transformando a pátria 
 ## Estrutura da obra
+A epígrafe latina da obra (“Bendito sejas Deus nosso Senhor, que nos deu sinal.”) serve de anúncio ao leitor que *Mensagem* é uma obra de símbolos, sendo o símbolo magno Jesus Cristo, intermediário intelectual entre a vontade de Deus e razão humana..
+
 A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana"** (**nascimento**, **vida**, **morte e ressureição**):
 1. #### "Brasão"
 	- Traduz o **nascimento da nacionalidade portuguesa**.
@@ -25,7 +28,7 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 	- A **epopeia marítima**, realizada por aqueles que ousam **libertar-se da sua condição animal através da loucura do sonho**, alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
 	- **Ciclo completo** da **constituição, vivência plena e dissolução do império material** ("Cumpriu-se o Mar, e o Império se desfez").
 	- A **consumação plena da nação só será atingida numa dimensão espiritual com o Quinto Império** ("Senhor, falta cumprir-se Portugal!").
-	- Simboliza a **busca de um "futuro do passado"** em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
+	- Simboliza a **busca de um "futuro do passado"** (construir o futuro com base nos ensinamentos do futuro) em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
 	- 12 poemas.
 3. #### "O Encoberto" - Decadência do império
 	- Traduz a **decadência do império**.
@@ -78,6 +81,9 @@ O Quinto Império será um **império civilizacional e espiritual** consumado po
 - **Purificação da humanidade**, libertando‑a do materialismo, do egoísmo e da corrupção moral
 - **Satisfação dos desejos humanos** (justiça, harmonia e plenitude espiritual)
 - Associado à **visão messiânica de Portugal**
+## Conceção messiânica da História em *Mensagem*
+"Deus quer, o homem sonha, a obra nasce"
+
 ## Imaginário épico
 ### Natureza epo-lírica da obra
 #### Discurso épico
