@@ -22,20 +22,35 @@
             }
           },
           {
-            "id": "2ba9ab7ad6f74344",
+            "id": "3a3ded65cf7ebe33",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.deepl.com/en/write",
-                "title": "DeepL Write: AI-powered writing companion",
-                "mode": "webview"
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "DeepL Write: AI-powered writing companion"
+              "icon": "lucide-file",
+              "title": "Mensagem"
+            }
+          },
+          {
+            "id": "cba59f581f3f5e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Comparação entre Lusíadas e Mensagem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comparação entre Lusíadas e Mensagem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,9 +236,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28f1432fc98c61b6",
+  "active": "3a3ded65cf7ebe33",
   "lastOpenFiles": [
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Comparação entre Lusíadas e Mensagem.md",
     "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
+    "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Resumo e personagens.md",
+    "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
     "Pasted image 20260226202807.png",
     "Pasted image 20260226200142.png",
     "Pasted image 20260226195653.png",
@@ -261,8 +279,6 @@
     "12º Ano/Matemática/Cálculo Combinatório.md",
     "11º Ano/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
     "11º Ano/Português/Gramática/Atos de fala.md",
-    "11º Ano/Português/Gramática/Valor modal.md",
-    "11º Ano/Português/Gramática/Funções Sintáticas.md",
     "12º Ano/Matemática/11º Ano",
     "Sem título 1.canvas",
     "Sem título.canvas",

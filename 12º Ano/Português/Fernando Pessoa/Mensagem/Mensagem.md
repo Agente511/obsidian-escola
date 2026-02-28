@@ -8,7 +8,7 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 1. #### "Brasão"
 	- Traduz o **nascimento da nacionalidade portuguesa**.
 	- **Referência aos fundadores e antepassados** que contribuíram para a **construção da pátria**, desde a conquista do território até à formação do Império.
-	- A epígrafe paradoxal ("Guerra sem guerra") remete para a história guerreira que possibilitou a criação do império material, e ambiciona um império espiritual fundado "sem guerra".
+	- A **epígrafe** paradoxal ("Guerra sem guerra") remete para a **história guerreira que possibilitou a criação do império material**, e ambiciona um **império espiritual fundado "sem guerra"**.
 	- 19 poemas distribuídos em 5 secções (que reproduzem o estandarte do infante D. Henrique).
 		- ##### I. Os Campos
 			**Localização geográfica** e o **destino**/**missão sagrada** de **Portugal**.
@@ -24,13 +24,13 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 	- Traduz a **realização do império material sonhado** (epígrafe "Posse do mar").
 	- A **epopeia marítima**, realizada por aqueles que ousam **libertar-se da sua condição animal através da loucura do sonho**, alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
 	- **Ciclo completo** da **constituição, vivência plena e dissolução do império material** ("Cumpriu-se o Mar, e o Império se desfez").
-	- A consumação plena da nação só será atingida numa dimensão espiritual com o Quinto Império ("Senhor, falta cumprir-se Portugal!").
+	- A **consumação plena da nação só será atingida numa dimensão espiritual com o Quinto Império** ("Senhor, falta cumprir-se Portugal!").
 	- Simboliza a **busca de um "futuro do passado"** em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
 	- 12 poemas.
 3. #### "O Encoberto" - Decadência do império
 	- Traduz a **decadência do império**.
 	- Revela o **tempo suspenso da história mítica de Portugal**, desde a batalha de Alcácer Quibir (04/08/1578), até à data da publicação de *Mensagem* (01/12/1934), sendo a obra um sinal de que "**É a Hora!" da instauração do Quinto Império**, anunciado através do **espírito messiânico sebastianista**.
-	- A epígrafe ("Paz nas alturas") remete para o império espiritual, pleno de justiça e felicidade.
+	- A **epígrafe** ("Paz nas alturas") remete para o **império espiritual**, pleno de justiça e felicidade.
 	- 13 poemas distribuídos em 3 secções.
 		- ##### I. Os Símbolos
 			Os **5 símbolos do sebastianismo**, vivos na consciência dos portuguesas e que servem de **inspiração do futuro ideal**.
@@ -80,52 +80,21 @@ O Quinto Império será um **império civilizacional e espiritual** consumado po
 ## Imaginário épico
 ### Natureza epo-lírica da obra
 #### Discurso épico
-- Exaltação de ações heroicas com proteção divina
-- Uso da 3.ª pessoa (narratividade)
-- Integração de figuras e acontecimentos históricos (História de Portugal e seus heróis)
-- Protagonistas de elevado estatuto (social e moral), seres excecionais (mitificação do herói)
+- **Exaltação de ações heroicas** com proteção divina
+- Uso da **3.ª pessoa** (**narratividade**)
+- Integração de **figuras e acontecimentos históricos** (História de Portugal e seus heróis)
+- **Protagonistas de elevado estatuto** (social e moral), seres excecionais
 - Glorificação e mitificação do herói (celebração e recompensa)
 #### Discurso lírico
-- Forma fragmentária (44 poemas com valor independente)
-- Uso da 1.ª pessoa (intimismo e atitude introspetiva)
-- Visão subjetiva do destino nacional (seleção e valorização subjetiva/pessoal de figuras e acontecimentos)
+- **Forma fragmentária** (44 poemas com valor independente)
+- Uso da **1.ª pessoa** (**intimismo** e **atitude introspetiva**)
+- **Visão subjetiva do destino nacional** (seleção e valorização subjetiva/pessoal de figuras e acontecimentos)
 - Identificação "eu"/pátria
-- Tom emotivo e linguagem expressiva (exprime os seus sentimentos, sonhos, desejos e crenças)
+- **Tom emotivo** e **linguagem expressiva** (exprime os seus sentimentos, sonhos, desejos e crenças)
 ### Exaltação patriótica
 Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido providencial e messiânico** de instituir o Quinto Império.
 ### Dimensão simbólica do herói
 Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina** e à **missão transcendente**, sendo **mitificados**. Caracterizam-se pela "fome de Absoluto" e pela "febre do Além", assumindo uma dimensão simbólica ao serem apresentados como **exemplos** do que importa voltar a impor no Portugal moribundo.
-### Comparação com *Os Lusíadas*
-Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Império português que já apresentava alguns sinais de declínio, *Mensagem* foi publicado numa época em que o Império de Português estava a extinguir-se (séc. XX).
-
-*Mensagem* surge como resposta ao que Luís de Camões referia n'*Os Lusíadas*: o início da dissolução do Império Português, contra a qual tentou lutar através das críticas e dos apelos à ação dos portugueses. Pessoa valoriza o passado e promove a regeneração de Portugal profetizando a construção do Quinto Império.
-#### Semelhanças
-- Poemas sobre Portugal
-- Os heróis concretizam a vontade divina
-- Superação dos limites humanos pelos heróis portugueses
-- Sacrifício voluntário em nome de uma causa patriótica
-- Evocação do passado (memória) para projetar o futuro (apelo e incentivo)
-- Herói coletivo (Portugal) individualizado em figuras exemplares
-- Função pedagógica
-- Tema do passado glorioso:
-	- Descobertas marítimas
-	- História de Portugal
-- Tema do presente decadente
-	- Egoísmo mercenário
-	- Falta de patriotismo
-	- Deficiência de valores
-	- Esquecimento do passado áureo
-	- Descrédito pelas letras
-	- Falta de identidade nacional
-#### Diferenças
-| *Os Lusíadas*                                                                                                                                                                  | *Mensagem*                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Epopeia clássica em que predomina a narração                                                                                                                                   | Natureza épico-lírica em que<br>os factos históricos são exaltados e têm simbologia atribuída, evidenciando-se a subjetividade |
-| Tema da História de Portugal e os feitos concretos cumpridos                                                                                                                   | Tema da essência da Pátria e da missão que esta deverá cumprir                                                                 |
-| Mitologia clássica                                                                                                                                                             | Mitologia simbólica, ligada ao mito do Quinto Império                                                                          |
-| Império material e territorial, através da conquista de mares e terras e cruzadas religiosas contra os infiéis                                                                 | Império espiritual (Quinto Império), feito de valores morais e culturais                                                       |
-| Heroísmo como concretização de feitos épicos pelos humanos                                                                                                                     | Heroísmo de caráter mental e conceptual                                                                                        |
-| A missão de Vasco da Gama do Império Português do Oriente foi cumprida. D. Sebastião poderá agora realizar a missão de difundir o Cristianismo e conquistar no norte de África | A missão terrena de Portugal foi cumprida por vontade divina, agora a hegemonia do Quinto Império está por cumprir             |
 ## Simbologia
 ### Simbologia dos números
 - ##### 1
@@ -169,8 +138,8 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 - **Manhã**: luz; felicidade; harmonia; vida; o novo mundo
 - **Nevoeiro**: indefinição; promessa de vida; força criadora; novo dia
 ## Linguagem, estilo e estrutura
-- Narração e descrição reduzida, dando mais relevo ao pensamento
-- Discurso analítico-crítico que reflete sobre o passado heroica de conquistas do povo português e expressa a visão e as emoções do "eu" face aos acontecimentos históricos, num tom profético
+- **Narração e descrição reduzida**, dando mais relevo ao pensamento
+- **Discurso analítico-crítico** que reflete sobre o passado heroico de conquistas do povo português e expressa a visão e as emoções do "eu" face aos acontecimentos históricos, num tom profético
 - Prevalência do imaginário em poemas breves, numa organização estrófica regular (quadras, quintilhas, oitavas, etc.), com variedade métrica e rimática de cariz tradicional
-- Linguagem simbólica
+- **Linguagem simbólica**
 - Recurso à apóstrofe, metáfora, gradação, enumeração e interrogação retórica
