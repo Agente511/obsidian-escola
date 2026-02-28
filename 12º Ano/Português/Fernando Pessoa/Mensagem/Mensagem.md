@@ -70,13 +70,14 @@ Segundo **Pessoa**:
 4. Europa/Inglaterra (Europa laica depois da Renascença)
 5. Portugal
 
-O Quinto Império será um **império civilizacional e espiritual** consumado por **Portugal**, baseado numa identidade cultural e na **fraternidade universal**, constituindo uma hipótese de **transformação e purificação da Humanidade** e conduzindo a uma **relação harmoniosa entre o Homem e Deus**.
+O Quinto Império será um **império civilizacional e espiritual** consumado por **Portugal**, baseado numa **identidade cultural portuguesa** e na **paz e fraternidade universal**, constituindo uma hipótese de **transformação e purificação da Humanidade** e conduzindo a uma **relação harmoniosa entre o Homem e Deus**.
 ##### Características
-- Crítica ao conformismo
-- Apologia do sonho
-- Chegada de uma nova era
-- Purificação da humanidade
-- Satisfação dos desejos humanos
+- **Crítica ao conformismo** e à acomodação de Portugal à mediocridade e à perda de grandeza
+- **Apologia do sonho** (sonho como força criadora)
+- Chegada de uma **nova era**
+- **Purificação da humanidade**, libertando‑a do materialismo, do egoísmo e da corrupção moral
+- **Satisfação dos desejos humanos** (justiça, harmonia e plenitude espiritual)
+- Associado à **visão messiânica de Portugal**
 ## Imaginário épico
 ### Natureza epo-lírica da obra
 #### Discurso épico
@@ -139,7 +140,8 @@ Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade di
 - **Nevoeiro**: indefinição; promessa de vida; força criadora; novo dia
 ## Linguagem, estilo e estrutura
 - **Narração e descrição reduzida**, dando mais relevo ao pensamento
-- **Discurso analítico-crítico** que reflete sobre o passado heroico de conquistas do povo português e expressa a visão e as emoções do "eu" face aos acontecimentos históricos, num tom profético
-- Prevalência do imaginário em poemas breves, numa organização estrófica regular (quadras, quintilhas, oitavas, etc.), com variedade métrica e rimática de cariz tradicional
+- **Discurso analítico-crítico** que reflete sobre o passado heroico de conquistas do povo português e expressa a visão e as emoções do "eu" face aos acontecimentos históricos, num **tom profético**
+- **Poemas breves**
+- Organização **estrófica regular** (quadras, quintilhas, oitavas, etc.), com **variedade métrica e rimática** de **cariz tradicional**
 - **Linguagem simbólica**
 - Recurso à apóstrofe, metáfora, gradação, enumeração e interrogação retórica
