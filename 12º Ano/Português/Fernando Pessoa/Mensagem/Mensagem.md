@@ -42,7 +42,7 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 		- ##### III. Os Tempos
 			Os **5 momentos simbólicos**, em que pode se dividir o **longo período de dormência da nação**, apresentando, de forma gradativa, o **percurso da decadência à ressurreição da pátria**.
 
-![[Pasted image 20260226202807.png|484]]
+![[Pasted image 20260226202807.png]]
 ## Sebastianismo
 O sebastianismo é um **mito messiânico**, com origem no **desaparecimento do rei D. Sebastião na batalha de Alcácer Quibir** (04/08/1578).
 
