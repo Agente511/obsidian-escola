@@ -3,9 +3,9 @@
 >*Mensagem* é uma coletânea de 44 poemas escritos por Fernando Pessoa entre 1913 e 1934, num período de crescente crise nacional.
 >O livro foi publicado no Dia da Restauração da Independência, 1 de dezembro de 1934, e foi o seu único livro em português publicado em vida.
 
-Na obra, Pessoa evoca heróis passados de Portugal (exemplos da vontade de mudança e da capacidade de ação), com o objetivo de influenciar os portugueses a construir o Portugal futuro, transformando a pátria 
+Na obra, Pessoa **evoca heróis passados de Portugal** (exemplos da vontade de mudança e da capacidade de ação), com o objetivo de **influenciar os portugueses a construir o Portugal futuro**, **transformando a pátria**, que estava num profundo estado de letargia (sono), numa "nação criadora de civilização", através do **poder do sonho**.
 ## Estrutura da obra
-A epígrafe latina da obra (“Bendito sejas Deus nosso Senhor, que nos deu sinal.”) serve de anúncio ao leitor que *Mensagem* é uma obra de símbolos, sendo o símbolo magno Jesus Cristo, intermediário intelectual entre a vontade de Deus e razão humana..
+A epígrafe latina da obra (“Bendito sejas Deus nosso Senhor, que nos deu sinal.”) serve de anúncio ao leitor que *Mensagem* é uma obra de símbolos, sendo o símbolo magno Jesus Cristo, intermediário intelectual entre a vontade de Deus e a razão humana.
 
 A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana"** (**nascimento**, **vida**, **morte e ressureição**):
 1. #### "Brasão"
@@ -42,7 +42,7 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 		- ##### III. Os Tempos
 			Os **5 momentos simbólicos**, em que pode se dividir o **longo período de dormência da nação**, apresentando, de forma gradativa, o **percurso da decadência à ressurreição da pátria**.
 
-![[Pasted image 20260226202807.png]]
+![[Pasted image 20260226202807.png|484]]
 ## Sebastianismo
 O sebastianismo é um **mito messiânico**, com origem no **desaparecimento do rei D. Sebastião na batalha de Alcácer Quibir** (04/08/1578).
 
@@ -82,8 +82,13 @@ O Quinto Império será um **império civilizacional e espiritual** consumado po
 - **Satisfação dos desejos humanos** (justiça, harmonia e plenitude espiritual)
 - Associado à **visão messiânica de Portugal**
 ## Conceção messiânica da História em *Mensagem*
-"Deus quer, o homem sonha, a obra nasce"
+- "Deus quer": o agente primeiro, que deseja
+	$\ \ \ \ \ \ \ \ \downarrow$
+- "o homem sonha": o recetor da inspiração ou vontade divina e que a executa
+	$\ \ \ \ \ \ \ \ \downarrow$
+- "a obra nasce": concretização da vontade divina e o resultado da ação humana (teofania)
 
+Existe uma **relação de causa-efeito**, entre os 3 sujeitos e as respetivas ações, numa **conjugação dos planos espiritual e humano**.
 ## Imaginário épico
 ### Natureza epo-lírica da obra
 #### Discurso épico
