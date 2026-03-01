@@ -35,11 +35,9 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 	- Representação da **força incrível do mar**
 	- Representação de um **marinheiro que enfrenta o mar**
 	- Demonstração do **valor dos portugueses** através da sua **coragem** e **determinação**
-	- **Personificação dos receios e perigos do mar desconhecido**
+	- **Personificação dos receios e perigos do mar desconhecido**.
+- ##### "Screvo meu livro à beira-mágoa"/Reflexões do poeta no Canto X
+	- Desânimo, desgosto e frustração do sujeito poético
 - ##### "Calma"/"Ilha dos Amores"
 	- Em ***Mensagem***, no poema "Calma", refere-se uma **ilha** que é um **refúgio espiritual e imaterial**, uma **recompensa depois da "Tormenta"**.
-	- Em ***Os Lusíadas***, no episódio da "Ilha dos Amores", refere-se uma **ilha criada por Vénus**, para **recompensar os portugueses pelo seu esforço**, 
-
-# Os Lusíadas
-## Estrutura
-![[Pasted image 20260301131514.png]]
+	- Em ***Os Lusíadas***, no episódio da "Ilha dos Amores", refere-se uma **ilha mítica criada por Vénus**, para **recompensar os portugueses pelo seu esforço**.
