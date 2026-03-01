@@ -63,7 +63,11 @@ Assim, o **herói coletivo** é constituído pelas "armas e barões assinalados"
 
 Para realizarem feitos notáveis, várias características dos portugueses foram fundamentais, como a **inteligência**, que permitiu que os portugueses fizessem grande parte da viagem sem que os deuses se apercebessem, a **coragem** e a **valentia**, demonstradas perante as **ciladas de Baco** e o **gigante Adamastor** (símbolo do perigo e do inultrapassável), e o **esforço**, que foi necessário para realizar a perigosa viagem e na passagem do desconhecido para o conhecido.
 ## Reflexões do poeta
-Camões por vezes interrompe o tom épico, para refletir sobre os temas abordados, com críticas, lamentos e uma intenção didática.
+Camões por vezes interrompe o tom épico, para refletir sobre os temas abordados, com críticas e lamentos, com uma **vertente didática e interventiva**.
+
+A [[#Matéria épica e sublimidade do canto|matéria épica e o canto sublime]] dão lugar à **antiepopeia** nos momentos em que o poeta tece **críticas aos portugueses** ou dá **conselhos os seus contemporâneos**.
+
+
 - ##### Canto I (est. 105-106)
 	Os **limites da condição humana** e os **perigos das poderosas forças da natureza, do poder da guerra e dos traiçoeiros enganos dos inimigos**.
 - ##### Canto III
