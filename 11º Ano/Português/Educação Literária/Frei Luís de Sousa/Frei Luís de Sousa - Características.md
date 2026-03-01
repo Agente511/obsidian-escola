@@ -96,10 +96,10 @@ No texto "Memória ao Conservatório Real", Garrett refere que apesar de conside
 >[!Example] Elementos da tragédia clássica
 >##### *Hybris* (desafio e transgressão da ordem instituída)
 >- **Casamento de D. Madalena com Manuel de Sousa Coutinho**, sem a confirmação da morte do seu primeiro marido
->- **Incêndio** do palácio de Manuel de Sousa Coutinho pelo próprio;
+>- **Incêndio** do palácio de Manuel de Sousa Coutinho pelo próprio
 >##### *Ágon* (conflito interior)
 >- **D. Madalena** sente-se **culpada por ter amado Manuel** quando ainda estava casada com D. João
->- **Telmo** sente-se dividido entre o **amor por Maria** e a **fidelidade a D. João**, seu **antigo amo**.
+>- **Telmo** sente-se dividido entre o **amor por Maria** e a **fidelidade a D. João**, seu **antigo amo**
 >##### *Peripéteia* (peripécias e mudança súbita no rumo do acontecimento)
 >- **Mudança para o palácio de D. João**, após o incêndio
 >- **Chegada do romeiro**

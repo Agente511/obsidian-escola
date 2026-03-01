@@ -62,7 +62,7 @@ Camões não escolheu um herói individual que motivasse o título da sua obra, 
 
 Assim, o **herói coletivo** é constituído pelas "armas e barões assinalados", pelos Reis, por "aqueles que por obras valerosas/Se vão da lei da morte libertando" e pelos navegadores, que no seu conjunto formam o **"peito ilustre lusitano"**.
 
-Para realizarem feitos notáveis, várias características dos portugueses foram fundamentais, como a **inteligência**, que permitiu que os portugueses fizessem grande parte da viagem sem que os deuses se apercebessem, a **coragem** e a **valentia**, demonstradas perante as **ciladas de Baco** e o **gigante Adamastor** (símbolo do perigo e do inultrapassável), e o **esforço**, que foi necessário para realizar a perigosa viagem e na passagem do desconhecido para o conhecido.
+Para realizarem feitos notáveis, várias características dos portugueses foram fundamentais, como a **inteligência**, que permitiu que os portugueses fizessem grande parte da viagem sem que os deuses se apercebessem, a **coragem** e a **valentia**, demonstradas perante as **ciladas de Baco** e o **gigante Adamastor** (símbolo do perigo e do inultrapassável), e o **esforço**, que foi necessário para realizar a perigosa viagem que permitiu a passagem do desconhecido para o conhecido.
 ## Reflexões do poeta
 Camões por vezes interrompe o tom épico, para refletir sobre os temas abordados, com críticas e lamentos, com uma **vertente didática e interventiva**.
 
