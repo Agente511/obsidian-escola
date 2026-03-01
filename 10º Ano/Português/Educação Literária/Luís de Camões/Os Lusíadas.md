@@ -64,11 +64,27 @@ Assim, o **herói coletivo** é constituído pelas "armas e barões assinalados"
 Para realizarem feitos notáveis, várias características dos portugueses foram fundamentais, como a **inteligência**, que permitiu que os portugueses fizessem grande parte da viagem sem que os deuses se apercebessem, a **coragem** e a **valentia**, demonstradas perante as **ciladas de Baco** e o **gigante Adamastor** (símbolo do perigo e do inultrapassável), e o **esforço**, que foi necessário para realizar a perigosa viagem e na passagem do desconhecido para o conhecido.
 ## Reflexões do poeta
 Camões por vezes interrompe o tom épico, para refletir sobre os temas abordados, com críticas, lamentos e uma intenção didática.
-- ##### Canto I (105-106)
+- ##### Canto I (est. 105-106)
 	Os **limites da condição humana** e os **perigos das poderosas forças da natureza, do poder da guerra e dos traiçoeiros enganos dos inimigos**.
 - ##### Canto III
-	O **poder do amor**, que surge devido ao t
-
-![[Pasted image 20260301165708.png]]
+	O **poder do amor**, tema motivado pelo amor de D. Fernando por D. Leonor.
+- ##### Canto IV
+	A **ambição desmedida do Homem**.
+- ##### Canto V (est. 92-100)
+	Lamenta o **desprezo das artes e das letras pelos portugueses**, que apesar de serem de terra de heróis **não reconhecem o valor da cultura**.
+- ##### Canto VI (est. 95-99)
+	O **verdadeiro valor das honras e da glória alcançadas por mérito próprio**. Os heróis distinguem-se pela sua **coragem e virtude** e pela **generosidade** com que se entregam a causas desinteressadas.
+- ##### Canto VII (est. 78-93)
+	Lamenta os **infortúnios da vida**:
+	- Elogia o Espírito de Cruzadas dos Portugueses, destacando-os de outros povos.
+	- Queixa-se da **ingratidão das Ninfas do Tejo e do Mondego**.
+	- Queixa-se de **não ser reconhecido pelo seu serviço como poeta** que presta à Pátria.
+- ##### Canto VIII (est. 96-99)
+	Critica o **poder corruptor do dinheiro e do "ouro"**.
+- ##### Canto IX (est. 93-99)
+	Defende que o **verdadeiro caminho para atingir a fama** deve ser a **justiça**, a **coragem** e o **heroísmo altruísta** e não a cobiça, a ambição ou a tirania.
+- ##### Canto X (est. 145-156)
+	Volta a **lamentar a falta de reconhecimento do povo**, desabafando que já está **cansado de se dirigir à "gente surda e endurecida" que não quer escutar o seu canto**.
+	**Exorta o Rei a concretizar novas glórias**.
 
 
