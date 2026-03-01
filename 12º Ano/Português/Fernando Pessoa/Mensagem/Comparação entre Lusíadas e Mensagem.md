@@ -5,6 +5,7 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 - Poemas sobre Portugal
 - Os heróis concretizam a vontade divina
 - Superação dos limites humanos pelos heróis portugueses
+- D. Sebastião, ser eleito, enviado por Deus ao mundo
 - Sacrifício voluntário em nome de uma causa patriótica
 - Evocação do passado (memória) para projetar o futuro (apelo e incentivo)
 - Herói coletivo (Portugal) individualizado em figuras exemplares
@@ -28,6 +29,17 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 | Império material e territorial, através da conquista de mares e terras e cruzadas religiosas contra os infiéis                                                                 | Império espiritual (Quinto Império), feito de valores morais e culturais                                                       |
 | Heroísmo como concretização de feitos épicos pelos humanos                                                                                                                     | Heroísmo de caráter mental e conceptual                                                                                        |
 | A missão de Vasco da Gama do Império Português do Oriente foi cumprida. D. Sebastião poderá agora realizar a missão de difundir o Cristianismo e conquistar no norte de África | A missão terrena de Portugal foi cumprida por vontade divina, agora a hegemonia do Quinto Império está por cumprir             |
+| Obra dedicada a D. Sebastião, apelando a que este prossiga os feitos dos portugueses                                                                                           | D. Sebastião é um herói mítico, já não existe fisicamente                                                                      |
+#### Comparações entre poemas
+- ##### "Mostrengo"/"Adamastor
+	- Representação da **força incrível do mar**
+	- Representação de um **marinheiro que enfrenta o mar**
+	- Demonstração do **valor dos portugueses** através da sua **coragem** e **determinação**
+	- **Personificação dos receios e perigos do mar desconhecido**
+- ##### "Calma"/"Ilha dos Amores"
+	- Em ***Mensagem***, no poema "Calma", refere-se uma **ilha** que é um **refúgio espiritual e imaterial**, uma **recompensa depois da "Tormenta"**.
+	- Em ***Os Lusíadas***, no episódio da "Ilha dos Amores", refere-se uma **ilha criada por Vénus**, para **recompensar os portugueses pelo seu esforço**, 
+
 # Os Lusíadas
 ## Estrutura
 ![[Pasted image 20260301131514.png]]
