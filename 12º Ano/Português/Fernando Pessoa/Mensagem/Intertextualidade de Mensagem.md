@@ -42,5 +42,4 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do impér
 - ##### "Calma"/"Ilha dos Amores"
 	- Em ***Mensagem***, no poema "Calma", refere-se uma **ilha** que é um **refúgio espiritual e imaterial**, uma **recompensa depois da "Tormenta"**.
 	- Em ***Os Lusíadas***, no episódio da "Ilha dos Amores", refere-se uma **ilha mítica criada por Vénus**, para **recompensar os portugueses pelo seu esforço**.
-
 ## *Mensagem* e *Frei Luís de Sousa*
