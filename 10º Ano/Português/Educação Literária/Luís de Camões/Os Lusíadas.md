@@ -35,7 +35,7 @@
 4. Quando chegam à Índia, os portugueses negoceiam e convencem os reis locais que vêm em paz.
 5. No final, como recompensa, recebem uma visita à Ilha dos Amores, onde ninfas contam as grandes conquistas futuras de Portugal.
 6. Regresso a Portugal.
-## Episódios
+## Alguns episódios
 ### Inês de Castro
 Integrante do [[#^60cc00|plano da História de Portugal]].
 Constitui-se como um episódio independente onde se relata a **decisão de assassinar Inês de Castro**, com destaque para a **argumentação que esta dirige ao rei Afonso IV**, **apelando à sua sensibilidade enquanto homem e avô**.
@@ -44,22 +44,31 @@ Momento central do [[#^af2722|plano da viagem]].
 Relata o **confronto com o gigante**, que, **furioso pela ousadia dos marinheiros que tiveram a coragem de navegar os seus mares**, anuncia um **conjunto de profecias que serão a vingança futura**. Num segundo momento, o **gigante conta a sua história de amor infeliz**, que constitui um exemplo de «baxo amor», que contrastará com os exemplos de «alto amor» protagonizados pelos portugueses.
 ### Ilha dos Amores
 Relato nuclear do [[#^e02d77|plano mitológico]].
-Constitui uma **prenda de Vénus aos marinheiros pelos feitos heroicos**. Nela, os sentimentos são provocados pela união entre as ninfas e os portugueses, e o pensamento é associado à "máquina do mundo" apresentada por Tétis a Vasco da Gama. O poeta explica que esta "Ilha angélica pintada" não passa das "deleitosas/ Honras que a vida fazem sublimada", que elevaram os portugueses à categoria de heróis, ao mesmo tempo que recorda o percurso para a conquista da fama.
+Constitui uma **prenda de Vénus aos marinheiros pelos feitos heroicos**. Nela, os sentimentos são provocados pela união entre as ninfas e os portugueses, e o pensamento é associado à "máquina do mundo" apresentada por Tétis a Vasco da Gama.
+O poeta explica que esta "Ilha angélica pintada" não passa das "deleitosas/Honras que a vida fazem sublimada" (**não é um lugar físico**, mas sim a **imagem poética da honra e da glória**), sendo os **portugueses elevados a heróis míticos**, ao mesmo tempo que **recorda o percurso de sacrifício** que foi necessário para a conquista da glória.
 
 ## Imaginário épico
+### Matéria épica e sublimidade do canto
 A intenção do poeta ao escrever *Os Lusíadas* é exatamente cantar o "peito ilustre lusitano", ou seja, **glorificar os feitos do povo português**, que dizem respeito tanto aos navegadores como a outras ilustres figuras históricas.
 
 A matéria épica d'*Os Lusíadas* integra:
 - a viagem de Vasco da Gama e a descoberta do caminho marítimo para a Índia
 - os feitos históricos apresentados por Vasco da Gama ao rei de Melinde e por Paulo da Gama ao Catual
-### Sublimidade do canto
 
+A **sublimidade do canto** refere-se ao **tom grandioso, elevado e nobre** com que os feitos são exaltados, tentando fazê-lo à altura dos mesmos.
 ### Mitificação do herói
 Camões não escolheu um herói individual que motivasse o título da sua obra, procurou exaltar os feitos históricos de todo o povo português, **elevando os portugueses a mito**.
 
 Assim, o **herói coletivo** é constituído pelas "armas e barões assinalados", pelos Reis, por "aqueles que por obras valerosas/Se vão da lei da morte libertando" e pelos navegadores, que no seu conjunto formam o **"peito ilustre lusitano"**.
 
 Para realizarem feitos notáveis, várias características dos portugueses foram fundamentais, como a **inteligência**, que permitiu que os portugueses fizessem grande parte da viagem sem que os deuses se apercebessem, a **coragem** e a **valentia**, demonstradas perante as **ciladas de Baco** e o **gigante Adamastor** (símbolo do perigo e do inultrapassável), e o **esforço**, que foi necessário para realizar a perigosa viagem e na passagem do desconhecido para o conhecido.
-![[Pasted image 20260301162831.png]]
-
 ## Reflexões do poeta
+Camões por vezes interrompe o tom épico, para refletir sobre os temas abordados, com críticas, lamentos e uma intenção didática.
+- ##### Canto I (105-106)
+	Os **limites da condição humana** e os **perigos das poderosas forças da natureza, do poder da guerra e dos traiçoeiros enganos dos inimigos**.
+- ##### Canto III
+	O **poder do amor**, que surge devido ao t
+
+![[Pasted image 20260301165708.png]]
+
+
