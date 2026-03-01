@@ -44,11 +44,18 @@ Momento central do [[#^af2722|plano da viagem]].
 Relata o **confronto com o gigante**, que, **furioso pela ousadia dos marinheiros que tiveram a coragem de navegar os seus mares**, anuncia um **conjunto de profecias que serão a vingança futura**. Num segundo momento, o **gigante conta a sua história de amor infeliz**, que constitui um exemplo de «baxo amor», que contrastará com os exemplos de «alto amor» protagonizados pelos portugueses.
 ### Ilha dos Amores
 Relato nuclear do [[#^e02d77|plano mitológico]].
-Constitui uma **prenda de Vénus aos marinheiros pelos feitos heroicos**. Aí se convocam os sentidos, através da união entre as ninfas e os portugueses, e o intelecto, associado à máquina do mundo. O poeta explica que esta «Ilha angélica pintada» mais não é do que as «deleitosas/ Honras que a vida fazem sublimada», que elevaram os portugueses à categoria de heróis, ao mesmo tempo que recorda o percurso para a conquista da fama.
+Constitui uma **prenda de Vénus aos marinheiros pelos feitos heroicos**. Nela, os sentimentos são provocados pela união entre as ninfas e os portugueses, e o pensamento é associado à "máquina do mundo" apresentada por Tétis a Vasco da Gama. O poeta explica que esta "Ilha angélica pintada" não passa das "deleitosas/ Honras que a vida fazem sublimada", que elevaram os portugueses à categoria de heróis, ao mesmo tempo que recorda o percurso para a conquista da fama.
 
 ## Imaginário épico
+A intenção do poeta ao escrever *Os Lusíadas* é exatamente cantar o "peito ilustre lusitano", ou seja, **glorificar os feitos do povo português**, que dizem respeito tanto aos navegadores como a outras ilustres figuras históricas.
+
+A matéria épica d'*Os Lusíadas* integra:
+- a viagem de Vasco da Gama e a descoberta do caminho marítimo para a Índia
+- os feitos históricos apresentados por Vasco da Gama ao rei de Melinde e por Paulo da Gama ao Catual
 ### Sublimidade do canto
 
 ### Mitificação do herói
+Camões
+![[Pasted image 20260301162831.png]]
 
 ## Reflexões do poeta
