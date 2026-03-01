@@ -1,6 +1,6 @@
 ## Contextualização
 >[!Info] Contextualização
->
+>Publicado em 1572, quando o império ultramarino estava no auge.
 ## Estrutura da obra
 ![[Pasted image 20260301131514.png]]
 
