@@ -3,6 +3,7 @@
 >
 ## Estrutura da obra
 ![[Pasted image 20260301131514.png]]
+
 ### Estrutura interna
 - #### Proposição (est. 1-3)
 	Texto de abertura em que o poeta **anuncia que cantará os feitos ímpares dos heróis portugueses** (apresentação da matéria épica).
@@ -14,10 +15,10 @@
 	Como a **narração começa a meio da ação**, diz-se que está _**in medias res**_, sendo mais tarde relatado o que aconteceu antes por analepse (característica comum das epopeias clássicas).
 	Ação organizada em **4 planos interdependentes**:
 	- ##### Plano da viagem
-		**Percurso marítimo** de Lisboa a Calecute (Índia) e do retorno a Portugal. **Começa na costa de Moçambique**, sendo a **parte inicial recuperada por analepse**, no momento do **relato da viagem ao rei de Melinde**.
+		**Percurso marítimo** de Lisboa a Calecute (Índia) e do retorno a Portugal. **Começa na costa de Moçambique**, sendo a **parte inicial recuperada por analepse**, no momento do **relato da viagem ao rei de Melinde**. ^af2722
 	- ##### Plano mitológico
 		**Ações dos deuses** para ajudar ou prejudicar a viagem.
-		Destaca-se
+		Destaca-se ^e02d77
 		- **Vénus**, deusa do amor e da beleza, que surge como **protetora dos portugueses**, a quem **oferece a Ilha dos Amores como recompensa**.
 		- **Baco**, deus do vinho, que **procura impedir os portugueses de chegarem à Índia**, com receio de **perder a importância de que gozava nas terras do Oriente**.
 	- ##### Plano da História de Portugal
@@ -33,6 +34,11 @@
 6. Regresso a Portugal.
 ## Episódios
 ### Inês de Castro
-Integrante do [[#^60cc00|plano da História de Portugal]], constitui-se como um episódio independente onde se relata a decisão de assassinar Inês de Castro, com destaque para a argumentação que esta dirige ao rei Afonso IV, apelando à sua sensibilidade enquanto homem e avô.
+Integrante do [[#^60cc00|plano da História de Portugal]].
+Constitui-se como um episódio independente onde se relata a **decisão de assassinar Inês de Castro**, com destaque para a **argumentação que esta dirige ao rei Afonso IV**, **apelando à sua sensibilidade enquanto homem e avô**.
 ### Adamastor
+Momento central do[[#^af2722|plano da viagem]].
+Relata o **confronto com o gigante**, que, **furioso pela ousadia dos marinheiros que tiveram a coragem de navegar os seus mares**, anuncia um **conjunto de profecias que serão a vingança futura**. Num segundo momento, o **gigante conta a sua história de amor infeliz**, que constitui um exemplo de «baxo amor», que contrastará com os exemplos de «alto amor» protagonizados pelos portugueses.
 ### Ilha dos Amores
+Relato nuclear do [[#^e02d77|plano mitológico]].
+Constitui uma **prenda de Vénus aos marinheiros pelos feitos heroicos**. Aí se convocam os sentidos, através da união entre as ninfas e os portugueses, e o intelecto, associado à máquina do mundo. O poeta explica que esta «Ilha angélica pintada» mais não é do que as «deleitosas/ Honras que a vida fazem sublimada», que elevaram os portugueses à categoria de heróis, ao mesmo tempo que recorda o percurso para a conquista da fama.
