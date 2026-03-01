@@ -37,6 +37,13 @@
 5. No final, como recompensa, recebem uma visita à Ilha dos Amores, onde ninfas contam as grandes conquistas futuras de Portugal.
 6. Regresso a Portugal.
 ## Alguns episódios
+### Consílio dos Deuses
+Primeiro do [[#^e02d77|plano mitológico]].
+Enquanto a armada de Vasco da Gama já se encontra no Índico, reúne-se o Consílio dos Deuses, convocado por Júpiter, com o objetivo de **decidir se os portugueses devem ou não ser apoiados na sua aventura**:
+- **Vénus** e **Marte** **apoiam**
+- **Baco** está **contra**, pois teme ser esquecido no Oriente
+
+Júpiter, rei dos Deuses, cede aos argumentos de Vénus e Marte, **decidindo que os portugueses devem chegar à Índia**, dando cumprimento ao fado.
 ### Inês de Castro
 Integrante do [[#^60cc00|plano da História de Portugal]].
 Constitui-se como um episódio independente onde se relata a **decisão de assassinar Inês de Castro**, com destaque para a **argumentação que esta dirige ao rei Afonso IV**, **apelando à sua sensibilidade enquanto homem e avô**.
@@ -72,7 +79,7 @@ A [[#Matéria épica e sublimidade do canto|matéria épica e o canto sublime]] 
 - ##### Canto I (est. 105-106)
 	Os **limites da condição humana** e os **perigos das poderosas forças da natureza, do poder da guerra e dos traiçoeiros enganos dos inimigos**.
 - ##### Canto III
-	O **poder do amor**, tema motivado pelo amor de D. Fernando por D. Leonor.
+	O **poder do amor**, tema motivado pelo amor de D. Fernando por D. Leonor de Teles.
 - ##### Canto IV
 	A **ambição desmedida do Homem**.
 - ##### Canto V (est. 92-100)
