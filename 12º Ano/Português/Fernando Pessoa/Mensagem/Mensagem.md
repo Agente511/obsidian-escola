@@ -96,7 +96,7 @@ Existe uma **relação de causa-efeito**, entre os 3 sujeitos e as respetivas a�
 - Uso da **3.ª pessoa** (**narratividade**)
 - Integração de **figuras e acontecimentos históricos** (História de Portugal e seus heróis)
 - **Protagonistas de elevado estatuto** (social e moral), seres excecionais
-- Glorificação e mitificação do herói (celebração e recompensa)
+- Glorificação e **mitificação do herói** (celebração e recompensa)
 #### Discurso lírico
 - **Forma fragmentária** (44 poemas com valor independente)
 - Uso da **1.ª pessoa** (**intimismo** e **atitude introspetiva**)
