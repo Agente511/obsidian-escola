@@ -5,9 +5,9 @@
 
 Na obra, Pessoa **evoca heróis passados de Portugal** (exemplos da vontade de mudança e da capacidade de ação), com o objetivo de **influenciar os portugueses a construir o Portugal futuro**, **transformando a pátria**, que estava num profundo estado de letargia (sono), numa "nação criadora de civilização", através do **poder do sonho**.
 ## Estrutura da obra
-A epígrafe latina da obra (“Bendito sejas Deus nosso Senhor, que nos deu sinal.”) serve de anúncio ao leitor que *Mensagem* é uma obra de símbolos, sendo o símbolo magno Jesus Cristo, intermediário intelectual entre a vontade de Deus e a razão humana.
+A epígrafe latina da obra (“Bendito sejas Deus nosso Senhor, que nos deu sinal.”) remete para a visão providencialista de Portugal e serve de anúncio ao leitor que *Mensagem* é uma obra de [[#Simbologia|símbolos]], sendo o símbolo magno Jesus Cristo, intermediário intelectual entre a vontade de Deus e a razão humana.
 
-A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana"** (**nascimento**, **vida**, **morte e ressureição**):
+A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana"** (**nascimento**, **vida**, **morte e ressurreição**):
 1. #### "Brasão"
 	- Traduz o **nascimento da nacionalidade portuguesa**.
 	- **Referência aos fundadores e antepassados** que contribuíram para a **construção da pátria**, desde a conquista do território até à formação do Império.

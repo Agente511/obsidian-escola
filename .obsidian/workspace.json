@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -47,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "Os Lusíadas"
-            }
-          },
-          {
-            "id": "30a8a6b9e06fd317",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.deepl.com/en/write",
-                "title": "DeepL Write: AI-powered writing companion",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "DeepL Write: AI-powered writing companion"
             }
           },
           {
