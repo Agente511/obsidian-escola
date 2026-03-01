@@ -6,7 +6,7 @@
 
 ### Estrutura interna
 - #### Proposição (est. 1-3)
-	Texto de abertura em que o poeta **anuncia que cantará os feitos ímpares dos heróis portugueses** (apresentação da matéria épica).
+	Texto de abertura em que é apresentado o objetivo da obra: o poeta **anuncia que cantará os feitos ímpares dos heróis portugueses** (apresentação da matéria épica).
 - #### Invocação (est. 4-5)
 	O poeta **pede inspiração às Tágides** (musas do rio Tejo) para a **obra seja cantada à altura dos feitos heroicos nela relatados**.
 - #### Dedicatória (est 6-18)
@@ -20,9 +20,12 @@
 		**Ações dos deuses** para ajudar ou prejudicar a viagem.
 		Destaca-se ^e02d77
 		- **Vénus**, deusa do amor e da beleza, que surge como **protetora dos portugueses**, a quem **oferece a Ilha dos Amores como recompensa**.
+		- **Marte**, deus da guerra, **ajuda os portugueses a alcançarem um porto seguro**, porque já provaram o seu valor.
+		- **Júpiter**, rei dos deuses, 
 		- **Baco**, deus do vinho, que **procura impedir os portugueses de chegarem à Índia**, com receio de **perder a importância de que gozava nas terras do Oriente**.
 	- ##### Plano da História de Portugal
-		**Narração de Vasco da Gama ao rei de Melinde da história dos portugueses**, desde as suas origens, com o destaque para o relato de algumas batalhas (Ourique e Aljubarrota) e episódios (Inês de Castro e Velho do Restelo). Este plano tem ainda outros narradores, como Paulo da Gama. ^60cc00
+		**Narração de Vasco da Gama ao rei de Melinde da história dos portugueses**, desde as suas origens, com o destaque para o relato de algumas batalhas (Ourique e Aljubarrota) e episódios (Inês de Castro e Velho do Restelo).
+		Este plano tem ainda outros narradores, como **Paulo da Gama**, em **Calecute**, que **apresenta ao Catual episódios e personagens representados na bandeira portuguesa**. ^60cc00
 	- ##### Plano das reflexões do poeta
 		**Camões apresenta os seus pensamentos sobre variados assuntos**. Ocorre em momentos de **suspensão da narração**, que têm lugar frequentemente no **final dos cantos**.
 ## Curto resumo da história
@@ -37,8 +40,15 @@
 Integrante do [[#^60cc00|plano da História de Portugal]].
 Constitui-se como um episódio independente onde se relata a **decisão de assassinar Inês de Castro**, com destaque para a **argumentação que esta dirige ao rei Afonso IV**, **apelando à sua sensibilidade enquanto homem e avô**.
 ### Adamastor
-Momento central do[[#^af2722|plano da viagem]].
+Momento central do [[#^af2722|plano da viagem]].
 Relata o **confronto com o gigante**, que, **furioso pela ousadia dos marinheiros que tiveram a coragem de navegar os seus mares**, anuncia um **conjunto de profecias que serão a vingança futura**. Num segundo momento, o **gigante conta a sua história de amor infeliz**, que constitui um exemplo de «baxo amor», que contrastará com os exemplos de «alto amor» protagonizados pelos portugueses.
 ### Ilha dos Amores
 Relato nuclear do [[#^e02d77|plano mitológico]].
 Constitui uma **prenda de Vénus aos marinheiros pelos feitos heroicos**. Aí se convocam os sentidos, através da união entre as ninfas e os portugueses, e o intelecto, associado à máquina do mundo. O poeta explica que esta «Ilha angélica pintada» mais não é do que as «deleitosas/ Honras que a vida fazem sublimada», que elevaram os portugueses à categoria de heróis, ao mesmo tempo que recorda o percurso para a conquista da fama.
+
+## Imaginário épico
+### Sublimidade do canto
+
+### Mitificação do herói
+
+## Reflexões do poeta
