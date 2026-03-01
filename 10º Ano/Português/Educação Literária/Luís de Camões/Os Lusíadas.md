@@ -88,7 +88,7 @@ A [[#Matéria épica e sublimidade do canto|matéria épica e o canto sublime]] 
 	O **verdadeiro valor das honras e da glória alcançadas por mérito próprio**. Os heróis distinguem-se pela sua **coragem e virtude** e pela **generosidade** com que se entregam a causas desinteressadas.
 - ##### Canto VII (est. 78-93)
 	Lamenta os **infortúnios da vida**:
-	- Elogia o Espírito de Cruzadas dos Portugueses, destacando-os de outros povos.
+	- Elogia o **Espírito de Cruzadas** (expedições com o objetivo de expandir a fé cristã) dos Portugueses, destacando-os de outros povos.
 	- Queixa-se da **ingratidão das Ninfas do Tejo e do Mondego**.
 	- Queixa-se de **não ser reconhecido pelo seu serviço como poeta** que presta à Pátria.
 - ##### Canto VIII (est. 96-99)
