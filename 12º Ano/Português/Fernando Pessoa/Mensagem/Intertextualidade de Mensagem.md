@@ -1,5 +1,5 @@
 ## *Mensagem* e *Os Lusíadas*
-Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Império português que já apresentava alguns sinais de declínio, *Mensagem* foi publicado numa época em que o Império de Português estava a extinguir-se (séc. XX).
+Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do império português que já apresentava alguns sinais de declínio, *Mensagem* foi publicado numa época em que o império estava a extinguir-se (séc. XX).
 
 *Mensagem* surge como resposta ao que Luís de Camões referia n'*Os Lusíadas*: o início da dissolução do Império Português, contra a qual tentou lutar através das críticas e dos apelos à ação dos portugueses. Pessoa valoriza o passado e promove a regeneração de Portugal profetizando a construção do Quinto Império.
 ### Semelhanças
@@ -22,15 +22,15 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 	- Descrédito pelas letras
 	- Falta de identidade nacional
 ### Diferenças
-| *Os Lusíadas*                                                                                                                                                                  | *Mensagem*                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Epopeia clássica em que predomina a narração                                                                                                                                   | Natureza épico-lírica em que<br>os factos históricos são exaltados e têm simbologia atribuída, evidenciando-se a subjetividade |
-| Tema da História de Portugal e os feitos concretos cumpridos                                                                                                                   | Tema da essência da Pátria e da missão que esta deverá cumprir                                                                 |
-| Mitologia clássica                                                                                                                                                             | Mitologia simbólica, ligada ao mito do Quinto Império                                                                          |
-| Império material e territorial, através da conquista de mares e terras e cruzadas religiosas contra os infiéis                                                                 | Império espiritual (Quinto Império), feito de valores morais e culturais                                                       |
-| Heroísmo como concretização de feitos épicos pelos humanos                                                                                                                     | Heroísmo de caráter mental e conceptual                                                                                        |
-| A missão de Vasco da Gama do Império Português do Oriente foi cumprida. D. Sebastião poderá agora realizar a missão de difundir o Cristianismo e conquistar no norte de África | A missão terrena de Portugal foi cumprida por vontade divina, agora a hegemonia do Quinto Império está por cumprir             |
-| Obra dedicada a D. Sebastião, apelando a que este prossiga os feitos dos portugueses                                                                                           | D. Sebastião é um herói mítico, já não existe fisicamente                                                                      |
+| *Os Lusíadas*                                                                                                                                                                      | *Mensagem*                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Epopeia clássica** em que predomina a **narração**                                                                                                                               | **Natureza épico-lírica** em que<br>os factos históricos são exaltados e têm simbologia atribuída, evidenciando-se a subjetividade |
+| Tema da **História de Portugal** e os **feitos concretos cumpridos**                                                                                                               | Tema da **essência da Pátria** e da **missão que esta deverá cumprir**                                                             |
+| **Mitologia clássica**                                                                                                                                                             | **Mitologia simbólica**, ligada ao mito do **Quinto Império**                                                                      |
+| **Império material e territorial**, através da conquista de mares e terras e cruzadas religiosas contra os infiéis                                                                 | **Império espiritual** (Quinto Império), feito de valores morais e culturais                                                       |
+| Heroísmo como **concretização de feitos épicos pelos humanos**                                                                                                                     | Heroísmo de **caráter mental e conceptual**                                                                                        |
+| A missão de Vasco da Gama do Império Português do Oriente foi cumprida. D. Sebastião poderá agora realizar a **missão de difundir o Cristianismo e conquistar no norte de África** | A missão terrena de Portugal foi cumprida por vontade divina, agora a **hegemonia do Quinto Império está por cumprir**             |
+| Obra **dedicada a D. Sebastião**, apelando a que este prossiga os feitos dos portugueses                                                                                           | **D. Sebastião é um herói mítico**, já não existe fisicamente                                                                      |
 ### Comparações entre poemas
 - ##### "Mostrengo"/"Adamastor
 	- Representação da **força incrível do mar**
@@ -38,7 +38,7 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do Impér
 	- Demonstração do **valor dos portugueses** através da sua **coragem** e **determinação**
 	- **Personificação dos receios e perigos do mar desconhecido**.
 - ##### "Screvo meu livro à beira-mágoa"/Reflexões do poeta no Canto X
-	- Desânimo, desgosto e frustração do sujeito poético
+	- **Desânimo**, desgosto e frustração do **sujeito poético**
 - ##### "Calma"/"Ilha dos Amores"
 	- Em ***Mensagem***, no poema "Calma", refere-se uma **ilha** que é um **refúgio espiritual e imaterial**, uma **recompensa depois da "Tormenta"**.
 	- Em ***Os Lusíadas***, no episódio da "Ilha dos Amores", refere-se uma **ilha mítica criada por Vénus**, para **recompensar os portugueses pelo seu esforço**.

@@ -150,9 +150,9 @@ Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade di
 - **Manhã**: luz; felicidade; harmonia; vida; o novo mundo
 - **Nevoeiro**: indefinição; promessa de vida; força criadora; novo dia
 ## Linguagem, estilo e estrutura
-- **Narração e descrição reduzida**, dando mais relevo ao pensamento
-- **Discurso analítico-crítico** que reflete sobre o passado heroico de conquistas do povo português e expressa a visão e as emoções do "eu" face aos acontecimentos históricos, num **tom profético**
-- **Poemas breves**
-- Organização **estrófica regular** (quadras, quintilhas, oitavas, etc.), com **variedade métrica e rimática** de **cariz tradicional**
-- **Linguagem simbólica**
-- Recurso à apóstrofe, metáfora, gradação, enumeração e interrogação retórica
+- **Narração e descrição reduzida**, dando mais relevo ao pensamento.
+- **Discurso analítico-crítico** que reflete sobre o passado heroico de conquistas do povo português e expressa a visão e as emoções do "eu" face aos acontecimentos históricos, num **tom profético**.
+- **Poemas breves**.
+- Organização **estrófica regular** (quadras, quintilhas, oitavas, etc.), com **variedade métrica e rimática** de **cariz tradicional**.
+- **Linguagem simbólica**.
+- Recurso à apóstrofe, metáfora, gradação, enumeração e interrogação retórica.
