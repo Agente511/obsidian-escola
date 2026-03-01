@@ -23,20 +23,20 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 			**Símbolo da realeza e do reino** e encarnação do **ideal medieval da cavalaria**, representando o **ponto mais alto da consolidação de Portugal** (antes dos Descobrimentos e do Império).
 		- ##### V. O Timbre
 			**Símbolo do poder legítimo**, a marca pessoal inscrita no escudo do infante D. Henrique, é o **Grifo** (ser mitológico com cabeça e asas de águia e corpo de leão). É associada a cabeça e cada uma das asas a **3 figuras cimeiras da expansão portuguesa**.
-2. #### "Mar Português" - Concretização do império marítimo
+2. #### "Mar Português"
 	- Traduz a **realização do império material sonhado** (epígrafe "Posse do mar").
 	- A **epopeia marítima**, realizada por aqueles que ousam **libertar-se da sua condição animal através da loucura do sonho**, alarga o conhecimento sobre o mundo, possibilitando o início da modernidade europeia.
 	- **Ciclo completo** da **constituição, vivência plena e dissolução do império material** ("Cumpriu-se o Mar, e o Império se desfez").
 	- A **consumação plena da nação só será atingida numa dimensão espiritual com o Quinto Império** ("Senhor, falta cumprir-se Portugal!").
-	- Simboliza a **busca de um "futuro do passado"** (construir o futuro com base nos ensinamentos do futuro) em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
+	- Simboliza a **busca de um "futuro do passado"** (construir o futuro com base nos ensinamentos do passado) em que "Deus quer, o homem sonha, a obra nasce" em direção ao Quinto Império.
 	- 12 poemas.
-3. #### "O Encoberto" - Decadência do império
+3. #### "O Encoberto"
 	- Traduz a **decadência do império**.
 	- Revela o **tempo suspenso da história mítica de Portugal**, desde a batalha de Alcácer Quibir (04/08/1578), até à data da publicação de *Mensagem* (01/12/1934), sendo a obra um sinal de que "**É a Hora!" da instauração do Quinto Império**, anunciado através do **espírito messiânico sebastianista**.
 	- A **epígrafe** ("Paz nas alturas") remete para o **império espiritual**, pleno de justiça e felicidade.
 	- 13 poemas distribuídos em 3 secções.
 		- ##### I. Os Símbolos
-			Os **5 símbolos do sebastianismo**, vivos na consciência dos portuguesas e que servem de **inspiração do futuro ideal**.
+			Os **5 símbolos do sebastianismo**, vivos na consciência dos portugueses e que servem de **inspiração do futuro ideal**.
 		- ##### II. Os Avisos
 			Os **3 profetas do Quinto Império**, homens da palavra, que mantiveram o mito vivo em épocas de decadência.
 		- ##### III. Os Tempos
