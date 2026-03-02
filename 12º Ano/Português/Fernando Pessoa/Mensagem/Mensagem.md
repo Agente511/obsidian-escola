@@ -36,7 +36,7 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 	![[Pasted image 20260302185919.png]]
 1. #### "O Encoberto"
 	- Traduz a **decadência do império**.
-	- Revela o **tempo suspenso da história mítica de Portugal**, desde a batalha de Alcácer Quibir (04/08/1578), até à data da publicação de *Mensagem* (01/12/1934), sendo a obra um sinal de que "**É a Hora!" da instauração do Quinto Império**, anunciado através do **espírito messiânico sebastianista**.
+	- Revela o **tempo suspenso da história mítica de Portugal**, desde a batalha de Alcácer Quibir (04/08/1578), até à data da publicação de *Mensagem* (01/12/1934), sendo a obra um sinal de que **"É a Hora!" da instauração do Quinto Império**, anunciado através do **espírito messiânico sebastianista**.
 	- A **epígrafe** ("Paz nas alturas") remete para o **império espiritual**, pleno de justiça e felicidade.
 	- 13 poemas distribuídos em 3 secções.
 		- ##### I. Os Símbolos
