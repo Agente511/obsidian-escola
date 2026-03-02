@@ -108,7 +108,7 @@ Existe uma **relação de causa-efeito**, entre os 3 sujeitos e as respetivas a�
 - Identificação "eu"/pátria
 - **Tom emotivo** e **linguagem expressiva** (exprime os seus sentimentos, sonhos, desejos e crenças)
 ### Exaltação patriótica
-Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido providencial e messiânico** de instituir o Quinto Império.
+Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido providencial e messiânico** de instituir o [[#Quinto Império|Quinto Império]].
 ### Dimensão simbólica do herói
 Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina** e à **missão transcendente**, sendo **mitificados**. Caracterizam-se pela "fome de Absoluto" e pela "febre do Além", assumindo uma dimensão simbólica ao serem apresentados como **exemplos** do que importa voltar a impor no Portugal moribundo.
 ## Simbologia
@@ -142,7 +142,7 @@ Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade di
 - **Quinas**: chagas de Cristo: dimensão espiritual
 - **Castelo**: refúgio e segurança
 - **Coroa**: perfeição e poder
-- **Timbre**: poder e posse legítima; marca dada por Deus; sagração do heróis para missão transcendente através do conhecimento
+- **Timbre**: poder e posse legítima; marca dada por Deus; sagração dos heróis para missão transcendente através do conhecimento
 - **Grifo**: terra (leão) e céu (águia): criação de uma obra terrestre e celeste
 - **Padrão**: marco; sinal da presença da cristandade; obra da civilização cristã
 - **Mar**: vida e morte (dinamismo das ondas); espaço iniciático; ponto de partida; reflexo do céu; princípio masculino
