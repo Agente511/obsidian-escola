@@ -104,6 +104,7 @@ Existe uma **relação de causa-efeito**, entre os 3 sujeitos e as respetivas a�
 #### Discurso lírico
 - **Forma fragmentária** (44 poemas com valor independente)
 - Uso da **1.ª pessoa** (**intimismo** e **atitude introspetiva**)
+- **Interiorização da matéria épica**
 - **Visão subjetiva do destino nacional** (seleção e valorização subjetiva/pessoal de figuras e acontecimentos)
 - Identificação "eu"/pátria
 - **Tom emotivo** e **linguagem expressiva** (exprime os seus sentimentos, sonhos, desejos e crenças)
