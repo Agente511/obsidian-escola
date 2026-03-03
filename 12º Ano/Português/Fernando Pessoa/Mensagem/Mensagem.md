@@ -1,9 +1,9 @@
 ## Contextualização
 >[!Info] Contextualização
 >*Mensagem* é uma coletânea de 44 poemas escritos por Fernando Pessoa entre 1913 e 1934, num período de crescente crise nacional.
->O livro foi publicado no Dia da Restauração da Independência, 1 de dezembro de 1934, e foi o seu único livro em português publicado em vida.
+>O livro foi publicado na celebração do Dia da Restauração da Independência, 1 de dezembro de 1934, e foi o seu único livro em português publicado em vida.
 
-Na obra, Pessoa **evoca heróis passados de Portugal** (exemplos da vontade de mudança e da capacidade de ação), com o objetivo de **influenciar os portugueses a construir o Portugal futuro**, **transformando a pátria**, que estava num profundo estado de letargia (sono), numa "nação criadora de civilização", através do **poder do sonho**.
+Na obra, Pessoa **evoca heróis do passado de Portugal** (exemplos da vontade de mudança e da capacidade de ação), com o objetivo de **influenciar os portugueses a construir o Portugal futuro**, **transformando a pátria**, que estava num profundo estado de letargia (sono), numa "nação criadora de civilização", através do **poder do sonho**.
 ## Estrutura da obra
 A epígrafe latina da obra (“Bendito sejas Deus nosso Senhor, que nos deu sinal.”) remete para a visão providencialista de Portugal e serve de anúncio ao leitor que *Mensagem* é uma obra de [[#Simbologia|símbolos]], sendo o símbolo magno Jesus Cristo, intermediário intelectual entre a vontade de Deus e a razão humana.
 
