@@ -178,7 +178,8 @@ Garrett retoma factos da história de Portugal e integra entidades ficcionais:
 	- **Desaparecimento de D. João de Portugal** na **Batalha de Alcácer-Quibir**
 	- **Buscas de Madalena pelo marido D. João**, durante 7 anos
 	- **Crenças sebastianistas de Telmo**, ligadas ao desejo de retorno do primeiro amo, e de **Maria**, influenciada por Telmo
-	- Garrett retrata **negativa e criticamente o sebastianismo**, através das consequências do regresso de D. João que alude simbolicamente a D. Sebastião. A **saudade do velho Portugal não resolve o problema da pátria** e **impossibilita o surgimento de um novo Portugal** que conseguiria triunfar.
+
+Garrett retrata **negativa e criticamente o sebastianismo**, através das consequências do regresso de D. João que alude simbolicamente a D. Sebastião. A **saudade do velho Portugal não resolve o problema da pátria** e **impossibilita o surgimento de um novo Portugal** que conseguiria triunfar.
 ### Valor simbólico das personagens
 - **D. Sebastião** - esperança de recuperação da independência
 - **Camões** - grandeza pátria
