@@ -56,7 +56,7 @@ Assim, Pessoa defende o renascer de um **nacionalismo profético** voltado para 
 ## Quinto Império
 O mito do Quinto Império tem origens na Bíblia e foi submetido a diversas interpretações ao longo dos tempos.
 
-Segundo o **profeta Daniel**:
+Segundo o **profeta Daniel** (Bíblia):
 1. Babilónia
 2. Medo-Persa
 3. Grécia
