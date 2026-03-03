@@ -32,7 +32,7 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do impér
 | A missão de Vasco da Gama do Império Português do Oriente foi cumprida. D. Sebastião poderá agora realizar a **missão de difundir o Cristianismo e conquistar no norte de África** | A missão terrena de Portugal foi cumprida por vontade divina, agora a **hegemonia do Quinto Império está por cumprir**                 |
 | Obra **dedicada a D. Sebastião**, apelando a que este prossiga os feitos dos portugueses                                                                                           | **D. Sebastião é um herói mítico**, já não existe fisicamente                                                                          |
 ### Comparações entre poemas
-- ##### "Mostrengo"/"Adamastor
+- ##### "Mostrengo"/"Adamastor"
 	- Representação da **força incrível do mar**
 	- Representação de um **marinheiro que enfrenta o mar**
 	- Demonstração do **valor dos portugueses** através da sua **coragem** e **determinação**
@@ -41,5 +41,5 @@ Enquanto *Os Lusíadas* foi escrito no séc. XVI, fase de manutenção do impér
 	- **Desânimo**, desgosto e frustração do **sujeito poético**
 - ##### "Calma"/"Ilha dos Amores"
 	- Em ***Mensagem***, no poema "Calma", refere-se uma **ilha** que é um **refúgio espiritual e imaterial**, uma **recompensa depois da "Tormenta"**.
-	- Em ***Os Lusíadas***, no episódio da "Ilha dos Amores", refere-se uma **ilha mítica criada por Vénus**, para **recompensar os portugueses pelo seu esforço**.
+	- N'***Os Lusíadas***, no episódio da "Ilha dos Amores", refere-se uma **ilha mítica criada por Vénus**, para **recompensar os portugueses pelo seu esforço**.
 ## *Mensagem* e *Frei Luís de Sousa*
