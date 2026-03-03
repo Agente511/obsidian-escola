@@ -104,12 +104,13 @@ Existe uma **relação de causa-efeito**, entre os 3 sujeitos e as respetivas a�
 #### Discurso lírico
 - **Forma fragmentária** (44 poemas com valor independente)
 - Uso da **1.ª pessoa** (**intimismo** e **atitude introspetiva**)
-- **Interiorização da matéria épica**
-- **Visão subjetiva do destino nacional** (seleção e valorização subjetiva/pessoal de figuras e acontecimentos)
-- Identificação "eu"/pátria
+- **Visão subjetiva do destino nacional** (seleção e valorização subjetiva/pessoal de figuras e acontecimentos) e **Interiorização da matéria épica** (ou é a mesma coisa?)
+- **Identificação "eu"/pátria**
 - **Tom emotivo** e **linguagem expressiva** (exprime os seus sentimentos, sonhos, desejos e crenças)
 ### Exaltação patriótica
 Pessoa **exalta patrioticamente Portugal**, povo a que atribui **sentido providencial e messiânico** de instituir o [[#Quinto Império|Quinto Império]].
+
+O **passado de inspiração**, o **presente de frustração** e o **futuro de concretização**.
 ### Dimensão simbólica do herói
 Os heróis evidenciados em *Mensagem* atuam para dar **cumprimento à vontade divina** e à **missão transcendente**, sendo **mitificados**. Caracterizam-se pela "fome de Absoluto" e pela "febre do Além", assumindo uma dimensão simbólica ao serem apresentados como **exemplos** do que importa voltar a impor no Portugal moribundo.
 ## Simbologia
