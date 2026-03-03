@@ -20,7 +20,7 @@ A **estrutura tripartida** da obra simboliza o **ciclo de vida da "alma lusitana
 		- ##### III. As Quinas
 			As **5 figuras históricas** (como as 5 quinas do brasão nacional, que lembra as chagas de Cristo) que simbolizam o **sofrimento** e a **derrota**, necessárias para alcançar um estado superior.
 		- ##### IV. A Coroa
-			**Símbolo da realeza e do reino** e encarnação do **ideal medieval da cavalaria**, representando o **ponto mais alto da consolidação de Portugal** (antes dos Descobrimentos e do Império).
+			**Símbolo da realeza e do reino** e encarnação do **ideal medieval da cavalaria**, representando o **ponto mais alto da consolidação de Portugal** antes dos Descobrimentos e do Império.
 		- ##### V. O Timbre
 			**Símbolo do poder legítimo**, a marca pessoal inscrita no escudo do infante D. Henrique, é o **Grifo** (ser mitológico com cabeça e asas de águia e corpo de leão). É associada a cabeça e cada uma das asas a **3 figuras cimeiras da expansão portuguesa**.
 	
