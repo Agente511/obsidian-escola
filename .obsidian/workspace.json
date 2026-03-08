@@ -8,76 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28f1432fc98c61b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mensagem"
-            }
-          },
-          {
-            "id": "3a3ded65cf7ebe33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Intertextualidade de Mensagem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intertextualidade de Mensagem"
-            }
-          },
-          {
-            "id": "cba59f581f3f5e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10º Ano/Português/Educação Literária/Luís de Camões/Os Lusíadas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Os Lusíadas"
-            }
-          },
-          {
-            "id": "c2c77224350e8555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10º Ano/Português/Educação Literária/Luís de Camões/Os Lusíadas - Resumo da história.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Os Lusíadas - Resumo da história"
-            }
-          },
-          {
-            "id": "1cfbdabf1c0503b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frei Luís de Sousa - Características"
-            }
-          },
-          {
             "id": "b257a41f40484225",
             "type": "leaf",
             "state": {
@@ -89,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "D2 2. Hereditariedade humana"
+            }
+          },
+          {
+            "id": "99abf1e05a77ce5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12º Ano/Biologia/D2 3. Mutações.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D2 3. Mutações"
             }
           },
           {
@@ -118,19 +62,9 @@
               "icon": "lucide-file",
               "title": "D4 1. Sistema imunitário"
             }
-          },
-          {
-            "id": "1b8581b163fc0663",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +117,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -317,9 +250,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01f8fa8ab5db4a7a",
+  "active": "99abf1e05a77ce5e",
   "lastOpenFiles": [
     "12º Ano/Biologia/D4 1. Sistema imunitário.md",
+    "10º Ano/Química/Reações Químicas e Energia de Ligação.md",
+    "10º Ano/Química/Ligações intermoleculares.md",
+    "10º Ano/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
+    "10º Ano/Química/Ligação covalente.md",
+    "10º Ano/Química/Tipos de Ligações Químicas.md",
+    "10º Ano/Química/Tabela Periódica.md",
+    "10º Ano/Química/Densidade relativa de metais.md",
+    "10º Ano/Química/Propriedades periódicas dos elementos.md",
+    "11º Ano/Química/M1 - Equações químicas e relações estequiométricas.md",
+    "11º Ano/Química/M13 - Aspetos ambientais das reações ácido-base.md",
+    "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+    "11º Ano/Química/M11 - Titulação ácido-base.md",
+    "11º Ano/Química/M10 - Constantes de acidez e de basicidade.md",
+    "11º Ano/Química/M9 - Acidez e basicidade de soluções.md",
+    "11º Ano/Química/M8 - Ácidos e bases.md",
+    "11º Ano/Química/M4 - Química verde.md",
+    "11º Ano/Química/M3 - Rendimento das reações químicas.md",
+    "11º Ano/Química/M2 - Reagente limitante e reagente em excesso.md",
     "12º Ano/Biologia/D2 3. Mutações.md",
     "10º Ano/Biologia/Transporte nos animais.md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
@@ -327,40 +278,22 @@
     "12º Ano/Biologia/D1 1. Gametogénese humana.md",
     "12º Ano/Biologia/D1 2. Regulação hormonal da reprodução.md",
     "12º Ano/Biologia/D1 3. Fecundação.md",
-    "12º Ano/Educação Física/Atletismo.md",
-    "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Resumo e personagens.md",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
-    "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Frei Luís de Sousa - Características.md",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Intertextualidade de Mensagem.md",
     "Pasted image 20260303012540.png",
     "Pasted image 20260303012517.png",
-    "10º Ano/Português/Educação Literária/Luís de Camões/Os Lusíadas.md",
-    "10º Ano/Português/Educação Literária/Luís de Camões/Os Lusíadas - Resumo da história.md",
     "Pasted image 20260302185938.png",
     "Pasted image 20260302185919.png",
     "Pasted image 20260302185854.png",
     "Pasted image 20260226202807.png",
-    "11º Ano/Português/Educação Literária/Frei Luís de Sousa/Sites.md",
     "Pasted image 20260301172037.png",
     "Pasted image 20260301172026.png",
     "Pasted image 20260301172011.png",
     "Pasted image 20260301172002.png",
-    "11º Ano/Português/Educação Literária/Os Maias/Os Maias.md",
-    "11º Ano/Português/Educação Literária/Sonetos Completos de Antero de Quental/Antero de Quental.md",
-    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
-    "10º Ano/Português/Educação Literária/Cantiga de amor.md",
-    "10º Ano/Português/Educação Literária/Luís de Camões/Lírica Camoniana.md",
     "10º Ano/Português/Educação Literária/Luís de Camões",
-    "9º Ano/Português/Exame Nacional 9ºAno/Auto da Barca do Inferno/O Fidalgo.md",
-    "12º Ano/Português/Fernando Pessoa/Heterónimos/Fernando Pessoa heterónimo.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos",
     "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem -  Resumos minúculos de cada poema.pdf",
     "12º Ano/Português/Fernando Pessoa/Mensagem",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
-    "12º Ano/Português/Projeto de Leitura - Fahrenheit 451.md",
-    "12º Ano/Português/Processos de formação de palavras ==ACABAR==.md",
-    "12º Ano/Português/Campo semântico e campo lexical ==MELHORAR==.md",
     "12º Ano/Matemática/11º Ano",
     "Sem título 1.canvas",
     "Sem título.canvas",
