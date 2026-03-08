@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agente mutagénico",
+                "query": "cromossoma homólogo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "99abf1e05a77ce5e",
   "lastOpenFiles": [
     "11º Ano/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
     "12º Ano/Biologia/D2 3. Mutações.md",
