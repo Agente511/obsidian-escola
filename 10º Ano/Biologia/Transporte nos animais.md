@@ -79,7 +79,7 @@ Os vertebrados possuem **sistemas circulatórios fechados**, mas estão organiza
 - Possui **3 câmara cardíacas/cavidades**:
 	- 2 aurículas
 	- 1 ventrículo
-![[Pasted image 20240530010027.png]]
+![[Pasted image 20240530010027.png|240]]
 1. 
    - O **sangue venoso entra na aurícula direita** através do **seio venoso** (uma pequena dilatação).
    - O **sangue arterial entra na aurícula esquerda** através das **veias pulmonares**
@@ -99,7 +99,7 @@ Os vertebrados possuem **sistemas circulatórios fechados**, mas estão organiza
 - Possui **4 câmaras cardíacas/cavidades**:
 	- 2 aurículas
 	- 2 ventrículos
-![[Pasted image 20240530010042.png]]
+![[Pasted image 20240530010042.png|238]]
 1. 
    - O **sangue venoso entra na aurícula direita** através da **veia cava**, durante a **diástole auricular** (período de relaxamento muscular).
    - O **sangue arterial entra na aurícula esquerda** através das **veias pulmonares**, durante a **diástole auricular** (período de relaxamento muscular).
@@ -134,10 +134,10 @@ Os vertebrados possuem **sistemas circulatórios fechados**, mas estão organiza
 ## Fluidos circulantes nos sistemas circulatórios fechados
 ### Sangue
 O sangue é formado por **plasma** (parte líquida) e por **elementos figurados**.
-![[Pasted image 20240530180850.png]]
+![[Pasted image 20240530180850.png|375]]
 ### Linfa
 A linfa difere do sangue por **não possuir hemácias nem plaquetas**.
-![[Pasted image 20240530181206.png]]
+![[Pasted image 20240530181206.png|515]]
 
 Parte da linfa circula nos **canais linfáticos** (**linfa circulante**) e outra parte **banha as células** (linfa intersticial), tornando **mais eficaz as trocas de substâncias**. 
 ## Sistema linfático
