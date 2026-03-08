@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b257a41f40484225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D2 2. Hereditariedade humana"
-            }
-          },
-          {
             "id": "99abf1e05a77ce5e",
             "type": "leaf",
             "state": {
@@ -77,8 +63,7 @@
               "title": "D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,12 +250,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "912b03d4c31d6046",
+  "active": "99abf1e05a77ce5e",
   "lastOpenFiles": [
+    "10º Ano/Biologia/Transporte nos animais.md",
     "11º Ano/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
     "12º Ano/Biologia/D2 3. Mutações.md",
     "12º Ano/Biologia/D4 1. Sistema imunitário.md",
-    "10º Ano/Biologia/Transporte nos animais.md",
     "10º Ano/Química/Reações Químicas e Energia de Ligação.md",
     "10º Ano/Química/Ligações intermoleculares.md",
     "10º Ano/Química/Moléculas poliatómicas (Hidrocarbonetos).md",
