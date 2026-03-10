@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Biologia/D4 1. Sistema imunitário + Sangue.md",
+                "file": "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D4 1. Sistema imunitário + Sangue"
+              "title": "D4 1. Processos imunitários + Sangue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,11 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99abf1e05a77ce5e",
+  "active": "912b03d4c31d6046",
   "lastOpenFiles": [
-    "12º Ano/Biologia/D4 1. Sistema imunitário + Sangue.md",
-    "10º Ano/Biologia/Transporte nos animais.md",
+    "11º Ano/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
+    "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
     "12º Ano/Biologia/D2 3. Mutações.md",
+    "10º Ano/Biologia/Transporte nos animais.md",
     "11º Ano/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
     "11º Ano/Biologia/D1 2. Divisão e Ciclo Celular.md",
@@ -257,7 +259,6 @@
     "11º Ano/Química/M3 - Rendimento das reações químicas.md",
     "11º Ano/Química/M2 - Reagente limitante e reagente em excesso.md",
     "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
-    "12º Ano/Biologia/D1 1. Gametogénese humana.md",
     "Pasted image 20260303012540.png",
     "10º Ano/Português/Educação Literária/Luís de Camões",
     "12º Ano/Português/Fernando Pessoa/Heterónimos",
