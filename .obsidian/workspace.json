@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "D4 1. Processos imunitários + Sangue"
             }
+          },
+          {
+            "id": "ef4955dc1173c271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11º Ano/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica)"
+            }
           }
         ],
         "currentTab": 1
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antigénio",
+                "query": "transcrição",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,11 +239,20 @@
   },
   "active": "912b03d4c31d6046",
   "lastOpenFiles": [
-    "10º Ano/Biologia/Transporte nos animais.md",
-    "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
-    "11º Ano/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "12º Ano/Biologia/D2 3. Mutações.md",
     "11º Ano/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
+    "10º Ano/Biologia/A Célula - Unidade estrutural e funcional.md",
+    "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
+    "11º Ano/Outros/Geologia - Resumo da aula.md",
+    "11º Ano/Geologia/D4 4. Recursos Hidrogeológicos.md",
+    "11º Ano/Biologia/D1 1. Ácidos Nucleicos e Informação Genética.md",
+    "10º Ano/Biologia/Obtenção de energia.md",
+    "10º Ano/Biologia/Fotossíntese.md",
+    "10º Ano/Biologia/Moléculas orgânicas.md",
+    "10º Ano/Biologia/Níveis de organização biológica.md",
+    "10º Ano/Biologia/Diversidade biológica.md",
+    "10º Ano/Biologia/Transporte nos animais.md",
+    "11º Ano/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
     "11º Ano/Biologia/D1 2. Divisão e Ciclo Celular.md",
     "Pasted image 20260308161508.png",
@@ -251,15 +274,6 @@
     "10º Ano/Química/Propriedades periódicas dos elementos.md",
     "11º Ano/Química/M1 - Equações químicas e relações estequiométricas.md",
     "11º Ano/Química/M13 - Aspetos ambientais das reações ácido-base.md",
-    "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
-    "11º Ano/Química/M11 - Titulação ácido-base.md",
-    "11º Ano/Química/M10 - Constantes de acidez e de basicidade.md",
-    "11º Ano/Química/M9 - Acidez e basicidade de soluções.md",
-    "11º Ano/Química/M8 - Ácidos e bases.md",
-    "11º Ano/Química/M4 - Química verde.md",
-    "11º Ano/Química/M3 - Rendimento das reações químicas.md",
-    "11º Ano/Química/M2 - Reagente limitante e reagente em excesso.md",
-    "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "Pasted image 20260303012540.png",
     "10º Ano/Português/Educação Literária/Luís de Camões",
     "12º Ano/Português/Fernando Pessoa/Heterónimos",
