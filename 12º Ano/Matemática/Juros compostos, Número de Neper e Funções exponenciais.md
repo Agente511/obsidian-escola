@@ -22,6 +22,8 @@ Dado um $a \in \mathbb R$ tal que $a>0$ a função $f(x)=a^x$.
 tem as seguintes propriedades
 $a>1$
 ### Propriedades
+Se $a>1$:
+-
 ### Equações
 ### Inequações
 ### Limite
