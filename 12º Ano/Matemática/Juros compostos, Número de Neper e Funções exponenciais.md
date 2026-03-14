@@ -29,15 +29,18 @@ Designa-se por função exponencial a função $f(x)=a^x$, com **$a \in \mathbb 
 
 - > [!Summary] Propriedades das funções exponencias de base $a>1$
 > ![[Pasted image 20260314164900.png]]
-> - **Monotonia**: monótona crescente
+> - **Monotonia**: estritamente crescente
 > - $\underset{x\to +\infty} \lim f(x)=+\infty$
 > - $\underset{x\to -\infty} \lim f(x)=0$
-
+ >
+ >^46bf1d
 - > [!Summary] Propriedades das funções exponencias de base $0<a<1$
 > ![[Pasted image 20260314165035.png]]
-> - **Monotonia**: monótona decrescente
+> - **Monotonia**: estritamente decrescente
 > -  $\underset{x\to +\infty} \lim f(x)=0$
 > - $\underset{x\to -\infty} \lim f(x)=+\infty$
+> 
+> ^a359aa
 
 #### Propriedades algébricas de potências
 Sejam $a, b \in \mathbb R ^+$ e $x, y \in \mathbb R$ tem-se que:
@@ -57,7 +60,36 @@ $\large a^x = a^y \iff x = y$
 >3. Aplicar $a^x = a^y \iff x = y$.
 >4. Resolver a equação obtida.
 >5. Apresentar o conjunto-solução.
-### Inequações
+
+>[!Note] Exemplos
+>1. $2^{x+1} = 8$
+>>$\iff 2^{x+1} = 2^3$
+>>$\iff x+1 = 3$
+>>$\iff x=2$
+>>$S=\{2\}$
+>
+>2. $4^x-2^x-2=0$
+>>$\iff (2^x)^2-2^x-2=0$
+>>Mudança de variável $y=2^x$
+>>$\iff y^2-y-2=0$
+>>$\iff y=\frac {1 \pm \sqrt{1^2-4\times 1 \times (-2)}} {2 \times 1}$
+>>$\iff y = \frac {1 \pm \sqrt 9} 2$
+>>$\iff y = -1 \lor y=2$
+>>M.V.
+>>$\iff \cancel{2^x=-1} \tiny \text{impossível} \normalsize \lor 2^x=2^1$
+>>$\iff x=1$
+>>$S=\{1\}$
+### Inequações exponenciais
+Seja $a \in \mathbb R^+$ e $x,y \in \mathbb R$:
+- Se **$a>1$**, a função é **[[#^46bf1d|estritamente crescente]]**, logo $\large a^x < a^y \iff x < y$ (**sinal mantém-se**)
+- Se **$0<a<1$**, a função é **[[#^a359aa|estritamente decrescente]]**, logo $\large a^x < a^y \iff x > y$ (**sinal inverte**)
+
+>[!Example] Resolução de inequações exponenciais
+>1. Sempre que possível, escrever as potências na mesma base, aplicando as regras operatórias das potências.
+>2. Obter uma desigualdade do tipo $a^x<a^y$ ou $a^x \leq a^y$ ou $a^x>a^y$ ou $a^x \geq a^y$.
+>3. Aplicar $a^x = a^y \iff x = y$.
+>4. Resolver a equação obtida.
+>5. Apresentar o conjunto-solução.
 ### Limite
 ### Limite notável
 ### Derivada da função exponencial
