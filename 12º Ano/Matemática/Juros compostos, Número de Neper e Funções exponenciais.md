@@ -87,9 +87,22 @@ Seja $a \in \mathbb R^+$ e $x,y \in \mathbb R$:
 >[!Example] Resolução de inequações exponenciais
 >1. Sempre que possível, escrever as potências na mesma base, aplicando as regras operatórias das potências.
 >2. Obter uma desigualdade do tipo $a^x<a^y$ ou $a^x \leq a^y$ ou $a^x>a^y$ ou $a^x \geq a^y$.
->3. Aplicar $a^x = a^y \iff x = y$.
->4. Resolver a equação obtida.
+>3. Se $a>1$, mantém-se o sinal.
+>   Se $0<a<1$, inverte-se o sinal.
+>4. Resolver a inequação obtida.
 >5. Apresentar o conjunto-solução.
+
+>[!Note] Exemplos
+>1. $2^x-4 \geq 0$
+>>$\iff 2^x \geq 4$
+>>$\iff 2^x \geq 2^2$
+>>$\iff x \geq 2$
+>>$S=[2, +\infty[$
+>
+>2. $(\frac 1 2)^2 - \frac 1 2 < 0$
+>>$\iff (\frac 1 2) ^x < \frac 1 2$
+>>$\iff x>1$
+>>$S=]1, +\infty[$
 ### Limite
 ### Limite notável
 ### Derivada da função exponencial
