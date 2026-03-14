@@ -17,13 +17,23 @@ Assim, o limite de $\lim(1+\frac 1 n)^n$ é um número irracional, designado por
 - $\large \lim(1+\frac 1 n)^n=e$
 - $\large e \approx 2,71828...$
 ## Funções exponenciais
-Dado um $a \in \mathbb R$ tal que $a>0$ a função $f(x)=a^x$.
-
-tem as seguintes propriedades
-$a>1$
+Designa-se por função exponencial a função $f(x)=a^x$, dado um **$a \in \mathbb R$ tal que $a>0$**, sendo uma expressão em que a **base é constante** e o **expoente é variável**.
 ### Propriedades
-Se $a>1$:
--
+- **Sinal**: $f(x)>0$
+- $\underset{x\to 0} \lim  f(x) = \underset{x\to 0} \lim a^x = a^0 = 1$
+- É **contínua**
+- Se $a>1$:
+	![[Pasted image 20260314164900.png]]
+	- **Domínio**: $D=\mathbb R$
+	- **Contradomínio**: $D' = ]0, +\infty[$
+	- **Zeros:** não tem
+	- **Monotonia**: monótona crescente
+	- $\underset{x\to +\infty} \lim f(x)=+\infty$
+	- $\underset{x\to -\infty} \lim f(x)=0$
+- Se $0<a<1$:
+	![[Pasted image 20260314165035.png]]
+	- **Domínio**: $D=\mathbb R$
+	- **Contradomínio**: $D'
 ### Equações
 ### Inequações
 ### Limite
