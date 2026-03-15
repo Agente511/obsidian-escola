@@ -14,25 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "D2 2. Hereditariedade humana"
-            }
-          },
-          {
-            "id": "2015707d2bd2533b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://api.note.sx/v1/account/get-key?id=d3ba4a929ddd6ce9a7f0d98afbd99a17",
-                "title": "Share Note for Obsidian",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Share Note for Obsidian"
             }
           },
           {
@@ -42,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Biologia/D2 3. Mutações.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -228,7 +214,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -251,11 +238,11 @@
       "webpage-html-export:Exportar como HTML": false
     }
   },
-  "active": "2015707d2bd2533b",
+  "active": "9f8d99c14a848505",
   "lastOpenFiles": [
-    "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
-    "12º Ano/Biologia/D2 3. Mutações.md",
     "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
+    "12º Ano/Biologia/D2 3. Mutações.md",
+    "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
     "11º Ano/Biologia/D1 1. Ácidos Nucleicos e Informação Genética.md",
     "11º Ano/Biologia/D1 1.1-1.3 Composição e Estrutura dos Ácidos Nucleicos.md",
     "11º Ano/Biologia/D2 2. Reprodução Sexuada.md",
@@ -292,4 +279,15 @@
     "12º Ano/Biologia/site-lib/media/favicon.png",
     "12º Ano/Biologia/site-lib/media/6155340132a851f6089e.svg",
     "12º Ano/Biologia/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "12º Ano/Biologia/pasted-image-2026022
+    "12º Ano/Biologia/pasted-image-20260222132337.png",
+    "12º Ano/Biologia/pasted-image-20260222131904.png",
+    "12º Ano/Biologia/pasted-image-20260222131121.png",
+    "12º Ano/Biologia/pasted-image-20260222125447.png",
+    "12º Ano/Biologia/pasted-image-20260222120542.png",
+    "12º Ano/Biologia/pasted-image-20260222125735.png",
+    "12º Ano/Biologia/pasted-image-20260221152535.png",
+    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}
