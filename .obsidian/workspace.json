@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\lim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,7 +237,11 @@
   },
   "active": "efed5462bc2f886b",
   "lastOpenFiles": [
+    "12º Ano/Biologia/D2 2. Hereditariedade humana.html",
     "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
+    "11º Ano/Química/_TOC_.md",
+    "11º Ano/Química/_TOC_.md",
+    "11º Ano/Química/M8 - Ácidos e bases.md",
     "12º Ano/Biologia/D2 3. Mutações.md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
     "12º Ano/Matemática/Funções logarítmicas.md",
@@ -261,8 +265,6 @@
     "10º Ano/Biologia/Níveis de organização biológica.md",
     "10º Ano/Biologia/Diversidade biológica.md",
     "10º Ano/Biologia/Transporte nos animais.md",
-    "11º Ano/Filosofia/Epistemologia/Resposta Empirista (Hume).md",
-    "11º Ano/Biologia/D1 2. Divisão e Ciclo Celular.md",
     "Pasted image 20260308161508.png",
     "Pasted image 20260308161312.png",
     "Pasted image 20260308155414.png",
@@ -271,8 +273,6 @@
     "Pasted image 20260308155009.png",
     "Pasted image 20260308130626.png",
     "Pasted image 20260308130558.png",
-    "10º Ano/Química/Reações Químicas e Energia de Ligação.md",
-    "10º Ano/Química/Ligações intermoleculares.md",
     "10º Ano/Português/Educação Literária/Luís de Camões",
     "12º Ano/Português/Fernando Pessoa/Heterónimos",
     "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem -  Resumos minúculos de cada poema.pdf",
