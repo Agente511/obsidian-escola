@@ -103,6 +103,18 @@ Seja $a \in \mathbb R^+$ e $x,y \in \mathbb R$:
 >>$\iff (\frac 1 2) ^x < \frac 1 2$
 >>$\iff x>1$
 >>$S=]1, +\infty[$
-### Limite
-### Limite notável
-### Derivada da função exponencial
+### Limite $\lim (1 +\frac x n)^n=e^x$
+>[!Summary] Teorema
+>$\large \lim (1+\frac x n)^n=e^x$
+
+>[!Summary] Teorema
+>Seja $f$ a função definida em $\mathbb R$ \ $[-1,0]$, por $f(y)=(1+\frac 1 y)^y$. Tem-se que:
+>
+>$\large \underset{y \to \pm \infty} \lim (1+\frac 1 y)^y=e$
+### Limite notável $\underset{h\to 0} \lim \frac {e^h-1} h = 1$ 
+$\large \underset{h\to 0} \lim \frac {e^h-1} h = 1$
+### Derivada da função exponencial de base $e$
+Seja $f(x)=e^x$, com $x \in \mathbb R$, conclui-se que $f'(x)=e^x$, isto é:
+$\large (e^x)'=e^x$
+
+
