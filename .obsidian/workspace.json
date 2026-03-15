@@ -238,46 +238,7 @@
       "webpage-html-export:Exportar como HTML": false
     }
   },
-  "floating": {
-    "id": "14b27f33ac5dfe73",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c8e2cd69424d5fb7",
-        "type": "window",
-        "children": [
-          {
-            "id": "36bd382836f798dc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ae6b31a3a6aae19c",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://docs.note.sx/notes/self-deleting-notes",
-                    "title": "Self-deleting / expiring notes",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Self-deleting / expiring notes"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 171,
-        "y": 0,
-        "width": 1024,
-        "height": 719,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ae6b31a3a6aae19c",
+  "active": "6f261c89eea7565b",
   "lastOpenFiles": [
     "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
     "12º Ano/Biologia/D2 3. Mutações.md",
