@@ -14,11 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "D2 2. Hereditariedade humana"
+            }
+          },
+          {
+            "id": "2015707d2bd2533b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://api.note.sx/v1/account/get-key?id=d3ba4a929ddd6ce9a7f0d98afbd99a17",
+                "title": "Share Note for Obsidian",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Share Note for Obsidian"
             }
           },
           {
@@ -49,7 +63,8 @@
               "title": "D4 1. Processos imunitários + Sangue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,59 +247,49 @@
       "random-note:Abrir nota aleatória": false,
       "vault-size-history:Vault size history": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Exportar como HTML": false
     }
   },
-  "active": "efed5462bc2f886b",
+  "active": "2015707d2bd2533b",
   "lastOpenFiles": [
-    "12º Ano/Biologia/D2 2. Hereditariedade humana.html",
-    "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
-    "11º Ano/Química/_TOC_.md",
-    "11º Ano/Química/_TOC_.md",
-    "11º Ano/Química/M8 - Ácidos e bases.md",
-    "12º Ano/Biologia/D2 3. Mutações.md",
     "12º Ano/Biologia/D2 2. Hereditariedade humana.md",
-    "12º Ano/Matemática/Funções logarítmicas.md",
-    "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
-    "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
-    "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
-    "11º Ano/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
-    "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
-    "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
-    "Pasted image 20260314165035.png",
-    "Pasted image 20260314164900.png",
-    "12º Ano/Matemática/Funções exponenciais.md",
-    "12º Ano/Matemática/Juros compostos.md",
-    "10º Ano/Biologia/A Célula - Unidade estrutural e funcional.md",
-    "11º Ano/Outros/Geologia - Resumo da aula.md",
-    "11º Ano/Geologia/D4 4. Recursos Hidrogeológicos.md",
+    "12º Ano/Biologia/D2 3. Mutações.md",
+    "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
     "11º Ano/Biologia/D1 1. Ácidos Nucleicos e Informação Genética.md",
-    "10º Ano/Biologia/Obtenção de energia.md",
-    "10º Ano/Biologia/Fotossíntese.md",
-    "10º Ano/Biologia/Moléculas orgânicas.md",
+    "11º Ano/Biologia/D1 1.1-1.3 Composição e Estrutura dos Ácidos Nucleicos.md",
+    "11º Ano/Biologia/D2 2. Reprodução Sexuada.md",
+    "11º Ano/Biologia/D1 2.4 Crescimento e Diferenciação celular.md",
+    "11º Ano/Biologia/D1 2. Divisão e Ciclo Celular.md",
+    "11º Ano/Biologia/D2 1. Reprodução Assexuada.md",
+    "11º Ano/Biologia/D2 3. Ciclos de Vida.md",
+    "11º Ano/Biologia/D3 1. Unicelularidade e Multicelularidade.md",
+    "11º Ano/Biologia/D3 2. Mecanismos de Evolução.md",
+    "11º Ano/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
+    "10º Ano/Biologia/Constituintes básicos da célula.md",
+    "10º Ano/Biologia/A Célula - Unidade estrutural e funcional.md",
+    "10º Ano/Biologia/Extinção e conservação de espécies.md",
     "10º Ano/Biologia/Níveis de organização biológica.md",
     "10º Ano/Biologia/Diversidade biológica.md",
-    "10º Ano/Biologia/Transporte nos animais.md",
-    "Pasted image 20260308161508.png",
-    "Pasted image 20260308161312.png",
-    "Pasted image 20260308155414.png",
-    "Pasted image 20260308155052.png",
-    "Pasted image 20260308155028.png",
-    "Pasted image 20260308155009.png",
-    "Pasted image 20260308130626.png",
-    "Pasted image 20260308130558.png",
-    "10º Ano/Português/Educação Literária/Luís de Camões",
-    "12º Ano/Português/Fernando Pessoa/Heterónimos",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem -  Resumos minúculos de cada poema.pdf",
-    "12º Ano/Português/Fernando Pessoa/Mensagem",
-    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
-    "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
-    "12º Ano/Matemática/11º Ano",
-    "Sem título 1.canvas",
-    "Sem título.canvas",
-    "12º Ano/Português/Fernando Pessoa",
-    "12º Ano/Português/11º Ano/Cesário Verde",
-    "12º Ano/Português/11º Ano",
-    "12º Ano/Educação Física"
-  ]
-}
+    "10º Ano/Biologia/Moléculas orgânicas.md",
+    "10º Ano/Biologia/Membrana celular na obtenção de matéria.md",
+    "10º Ano/Biologia/Transporte membranar na transmissão do impulso nervoso.md",
+    "10º Ano/Biologia/Sistema endomembranar e digestão intracelular.md",
+    "10º Ano/Biologia/Ingestão, digestão e absorção.md",
+    "10º Ano/Biologia/Fotossíntese.md",
+    "10º Ano/Biologia/Transporte nas plantas.md",
+    "10º Ano/Biologia/Obtenção de energia.md",
+    "12º Ano/Biologia/site-lib/html/file-tree-content.html",
+    "12º Ano/Biologia/site-lib/styles/obsidian.css",
+    "12º Ano/Biologia/site-lib/styles/supported-plugins.css",
+    "12º Ano/Biologia/site-lib/styles/theme.css",
+    "12º Ano/Biologia/site-lib/styles/main-styles.css",
+    "12º Ano/Biologia/site-lib/styles/global-variable-styles.css",
+    "12º Ano/Biologia/site-lib/scripts/webpage.js",
+    "12º Ano/Biologia/site-lib/scripts/graph-wasm.wasm",
+    "12º Ano/Biologia/site-lib/scripts/graph-wasm.js",
+    "12º Ano/Biologia/site-lib/scripts/graph-render-worker.js",
+    "12º Ano/Biologia/site-lib/media/favicon.png",
+    "12º Ano/Biologia/site-lib/media/6155340132a851f6089e.svg",
+    "12º Ano/Biologia/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "12º Ano/Biologia/pasted-image-2026022
