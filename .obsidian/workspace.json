@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -49,7 +49,8 @@
               "title": "D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,15 +236,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99abf1e05a77ce5e",
+  "active": "912b03d4c31d6046",
   "lastOpenFiles": [
+    "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
+    "12º Ano/Matemática/Funções logarítmicas.md",
     "11º Ano/Biologia/D1 1.4-1.5 Replicação do DNA e Expressão da Informação Genética (Síntese Proteica).md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
-    "12º Ano/Matemática/Funções logarítmicas.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
-    "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
     "Pasted image 20260314165035.png",
     "Pasted image 20260314164900.png",
     "12º Ano/Matemática/Funções exponenciais.md",

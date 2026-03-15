@@ -117,4 +117,13 @@ $\large \underset{h\to 0} \lim \frac {e^h-1} h = 1$
 Seja $f(x)=e^x$, com $x \in \mathbb R$, conclui-se que $f'(x)=e^x$, isto é:
 $\large (e^x)'=e^x$
 
+Pelo teorema da derivada da função composta, tem-se que:
+$\large (e^u)'=u'e^u$
 
+>[!Note] Exemplos
+>1. $(e^{\cos x})'=(\cos x)' \times e^{\cos x}=-\sin x \times e^{\cos x}$
+>2. $(\frac {e^x-1} {e^x})'=$
+>	$= \frac {(e^x-1)' \times e^x - (e^x)' \times (e^x-1)} {(e^x)^2}=$
+>	$=\frac {e^x \times e^x - e^x \times (e^x-1)} {(e^x)^2}=$
+>	$=\frac {e^x(e^x-e^x-1)} {(e^x)^2}=$
+>	$= \frac 1 {e^x}$
