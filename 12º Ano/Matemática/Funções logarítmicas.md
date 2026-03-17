@@ -25,6 +25,22 @@ A partir da definição de logaritmo, tem-se que:
 - $a^{\log_a k} = k$, $k \in \mathbb R$
 ## Funções logarítmicas
 A função definida por $f(x) = \log_a(x)$, em $\mathbb R^+$, com $a \in \mathbb R^+$\ $\{1\}$, designa-se por função logarítmica de base $a$ e representa-se por $\log_a$.
+
+### Propriedades
+##### Função logarítmica de base $a>1$
+- **Domínio**: $\mathbb R^+$
+- **Contradomínio**: $\mathbb R$
+- **Variação**: crescente
+- **Zeros**: $\{1\}$
+- **Sinal**:
+	- **Positiva** em $]1, +\infty[$, ou seja, $\log_a(x)>0 \iff x > 1$
+	- **Negativa** em $]0, 1[$, ou seja, $\log_a(x)<0 \iff 0 < x < 1$
+- **Injetiva**
+- **Contínua**
+- **Limites**:
+	- $\underset{x \to +\infty} \log_a(x) = -\infty$
+	- 
+
 ## Propriedades algébricas dos logaritmos
 ## Equações e inequações com logaritmos
 ## Derivada da função logarítmica
