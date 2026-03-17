@@ -18,8 +18,14 @@ O logaritmo é o **expoente** a que é preciso elevar uma **base $a$** para **ob
 >- **Logaritmo decimal**: $\log(x)= \log_{10} (x)$ 
 >- **Logaritmo neperiano**: $\ln(x)= \log_e (x)$
 ### Propriedades
-Seja $a$ um número real positivo diferente de $1$. Tem-se que:
+A partir da definição de logaritmo, tem-se que:
 - $\log_a(a)=1$
 - $\log_a(1)=0$
 - $\log_a (a^k)=k$, $k \in \mathbb R$
 - $a^{\log_a k} = k$, $k \in \mathbb R$
+## Funções logarítmicas
+A função definida por $f(x) = \log_a(x)$, em $\mathbb R^+$, com $a \in \mathbb R^+$\ $\{1\}$, designa-se por função logarítmica de base $a$ e representa-se por $\log_a$.
+## Propriedades algébricas dos logaritmos
+## Equações e inequações com logaritmos
+## Derivada da função logarítmica
+
