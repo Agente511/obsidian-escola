@@ -22,7 +22,7 @@ A partir da definição de logaritmo, tem-se que:
 - $\log_a(a)=1$
 - $\log_a(1)=0$
 - $\log_a (a^k)=k$, $k \in \mathbb R$
-- $a^{\log_a k} = k$, $k \in \mathbb R$
+- $a^{\large \log_a k} = k$, $k \in \mathbb R$
 ## Funções logarítmicas
 A função definida por $f(x) = \log_a(x)$, em $\mathbb R^+$, com $a \in \mathbb R^+$\ $\{1\}$, designa-se por função logarítmica de base $a$ e representa-se por $\log_a$.
 
@@ -60,10 +60,26 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 - **Assíntotas**: $x=0$ é assíntota vertical ao gráfico da função.
 
 ## Propriedades algébricas dos logaritmos
-- $\log_a(x \times y) = \log_a(x)+\log_a(y)$
-- $\log_a(\frac x y) = \log_a(x)-\log_a(y)$
-- $\log_a(x^p)=p \times \log_a(x)$, $p\in \mathbb R$
-	- $\log_a(\frac 1 x) = -\log_a(x)$
-## Equações e inequações com logaritmos
+- **Multiplicação**: $\log_a(x \times y) = \log_a(x)+\log_a(y)$
+- **Divisão**: $\log_a(\frac x y) = \log_a(x)-\log_a(y)$
+- **Potência**: $\log_a(x^p)=p \times \log_a(x)$, $p\in \mathbb R$
+	- Caso particular: $\log_a(\frac 1 x) = \log_a(x^{-1}) = -\log_a(x)$
+- **Mudança de base**: $\log_a(x) = \large \frac {\log_b(x)} {\log_b (a)}$
+	>[!Note] Exemplo
+	>$\log_2 5 = \large \frac {\ln 5} {\ln 2} = \large \frac {\log_7 5} {\log_7 2} = \large \frac {\log 5} {\log 2}$
+
+- $a^x=e^{x \ln (a)}$
+## Equações e inequações envolvendo logaritmos
+- $\log_a (x)= \log_a(y)$
+	$\iff x=y$, $\forall x,y \in \mathbb R^+$
+- $\log_a(x)=y$
+	$\iff x = a^y$
+
+>[!Example] Resolução de equações envolvendo logaritmos
+>1. Determinar o domínio da expressão.
+>2. Caso haja logaritmos de bases diferentes, aplicar a regra da mudança de base escrever todos os logaritmos na mesma base.
+>3. Utilizar as propriedades operatórias dos logaritmos, com precaução, de forma a obter uma expressão do tipo $\log_a(x)=\log_a(y)$ ou $\log_a(x)=y$.
+>4. Aplicar 
+>5. Apresentar o conjunto-solução.
 ## Derivada da função logarítmica
 
