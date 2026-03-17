@@ -24,7 +24,7 @@ A partir da definição de logaritmo, tem-se que:
 - $\log_a (a^k)=k$, $k \in \mathbb R$
 - $a^{\log_a k} = k$, $k \in \mathbb R$
 ## Funções logarítmicas
-A função definida por $f(x) = \log_a(x)$, em $\mathbb R^+$, com $a \in \mathbb R^+$\ $\{1\}$, designa-se por função logarítmica de base $a$ e representa-se por $\log_a$.dfdd
+A função definida por $f(x) = \log_a(x)$, em $\mathbb R^+$, com $a \in \mathbb R^+$\ $\{1\}$, designa-se por função logarítmica de base $a$ e representa-se por $\log_a$.
 ## Propriedades algébricas dos logaritmos
 ## Equações e inequações com logaritmos
 ## Derivada da função logarítmica
