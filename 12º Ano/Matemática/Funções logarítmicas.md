@@ -31,6 +31,7 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 
 ### Propriedades
 ##### Função logarítmica de base $a>1$
+![[Pasted image 20260317235216.png|250]]
 - **Domínio**: $\mathbb R^+$
 - **Contradomínio**: $\mathbb R$
 - **Variação**: crescente
@@ -45,6 +46,7 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 	- $\underset{x \to 0^+} \lim \log_a(x)=-\infty$
 - **Assíntotas**: $x=0$ é assíntota vertical ao gráfico da função.
 ##### Função logarítmica de base $0<a<1$
+![[Pasted image 20260318000035.png]]
 - **Domínio**: $\mathbb R^+$
 - **Contradomínio**: $\mathbb R$
 - **Variação**: decrescente
@@ -59,7 +61,7 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 	- $\underset{x \to 0^+} \lim \log_a(x)=+\infty$
 - **Assíntotas**: $x=0$ é assíntota vertical ao gráfico da função.
 
-## Propriedades algébricas dos logaritmos
+#### Propriedades algébricas dos logaritmos
 - **Multiplicação**: $\log_a(x \times y) = \log_a(x)+\log_a(y)$
 - **Divisão**: $\log_a(\frac x y) = \log_a(x)-\log_a(y)$
 - **Potência**: $\log_a(x^p)=p \times \log_a(x)$, $p\in \mathbb R$
@@ -69,7 +71,7 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 	>$\log_2 5 = \large \frac {\ln 5} {\ln 2} = \large \frac {\log_7 5} {\log_7 2} = \large \frac {\log 5} {\log 2}$
 
 - $a^x=e^{x \ln (a)}$
-## Equações e inequações envolvendo logaritmos
+### Equações envolvendo logaritmos
 - $\log_a (x)= \log_a(y)$
 	$\iff x=y$, $\forall x,y \in \mathbb R^+$
 - $\log_a(x)=y$
@@ -79,7 +81,10 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 >1. Determinar o domínio da expressão.
 >2. Caso haja logaritmos de bases diferentes, aplicar a regra da mudança de base escrever todos os logaritmos na mesma base.
 >3. Utilizar as propriedades operatórias dos logaritmos, com precaução, de forma a obter uma expressão do tipo $\log_a(x)=\log_a(y)$ ou $\log_a(x)=y$.
->4. Aplicar 
->5. Apresentar o conjunto-solução.
+>4. Resolver a equação obtida.
+>5. Apresentar o conjunto-solução, intersetando as soluções da equação com o domínio da expressão inicial.
+
+### Inequações envolvendo logaritmos
+
 ## Derivada da função logarítmica
 
