@@ -120,6 +120,8 @@ $\large (e^x)'=e^x$
 Pelo teorema da derivada da função composta, tem-se que:
 $\large (e^u)'=u'e^u$
 
+$\large (a^u)'=u' \times a^u \times \ln a$
+
 >[!Note] Exemplos
 >1. $(e^{\cos x})'=(\cos x)' \times e^{\cos x}=-\sin x \times e^{\cos x}$
 >2. $(\frac {e^x-1} {e^x})'=$
