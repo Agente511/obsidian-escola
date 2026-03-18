@@ -30,36 +30,33 @@ A função definida por $f(x) = \log_a(x)$, em $\mathbb R^+$, com $a \in \mathbb
 $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 
 ### Propriedades
-##### Função logarítmica de base $a>1$
-![[Pasted image 20260317235216.png|250]]
 - **Domínio**: $\mathbb R^+$
 - **Contradomínio**: $\mathbb R$
-- **Variação**: crescente
 - **Zeros**: $\{1\}$
-- **Sinal**:
-	- **Positiva** em $]1, +\infty[$, ou seja, $\log_a(x)>0 \iff x > 1$
-	- **Negativa** em $]0, 1[$, ou seja, $\log_a(x)<0 \iff 0 < x < 1$
 - **Injetiva**
 - **Contínua**
-- **Limites**:
-	- $\underset{x \to +\infty} \lim \log_a(x) = +\infty$
-	- $\underset{x \to 0^+} \lim \log_a(x)=-\infty$
 - **Assíntotas**: $x=0$ é assíntota vertical ao gráfico da função.
-##### Função logarítmica de base $0<a<1$
-![[Pasted image 20260318000035.png]]
-- **Domínio**: $\mathbb R^+$
-- **Contradomínio**: $\mathbb R$
-- **Variação**: decrescente
-- **Zeros**: $\{1\}$
-- **Sinal**:
-	- **Positiva** em $]0, 1[$, ou seja, $\log_a(x)<0 \iff 0 < x < 1$
-	- **Negativa** em $]1, +\infty[$, ou seja, $\log_a(x)>0 \iff x > 1$
-- **Injetiva**
-- **Contínua**
-- **Limites**:
-	- $\underset{x \to +\infty} \lim \log_a(x) = -\infty$
-	- $\underset{x \to 0^+} \lim \log_a(x)=+\infty$
-- **Assíntotas**: $x=0$ é assíntota vertical ao gráfico da função.
+
+> [!Summary] Propriedades das funções logarítmicas de base $a > 1$
+> ![[Pasted image 20260317235216.png|250]]
+> 
+> - **Variação**: crescente
+> - **Sinal**:
+> 	- **Positiva** em $]1, +\infty[$, ou seja, $\log_a(x)>0 \iff x > 1$
+> 	- **Negativa** em $]0, 1[$, ou seja, $\log_a(x)<0 \iff 0 < x < 1$
+> - **Limites**:
+> 	- $\underset{x \to +\infty} \lim \log_a(x) = +\infty$
+> 	- $\underset{x \to 0^+} \lim \log_a(x)=-\infty$
+
+> [!Summary] Propriedades das funções logarítmicas de base $0<a<1$
+> ![[Pasted image 20260318001033.png|250]]
+> - **Variação**: decrescente
+> - **Sinal**:
+> 	- **Positiva** em $]0, 1[$, ou seja, $\log_a(x)<0 \iff 0 < x < 1$
+> 	- **Negativa** em $]1, +\infty[$, ou seja, $\log_a(x)>0 \iff x > 1$
+> - **Limites**:
+> 	- $\underset{x \to +\infty} \lim \log_a(x) = -\infty$
+> 	- $\underset{x \to 0^+} \lim \log_a(x)=+\infty$
 
 #### Propriedades algébricas dos logaritmos
 - **Multiplicação**: $\log_a(x \times y) = \log_a(x)+\log_a(y)$
@@ -85,6 +82,15 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 >5. Apresentar o conjunto-solução, intersetando as soluções da equação com o domínio da expressão inicial.
 
 ### Inequações envolvendo logaritmos
+- Se $a>1$, a função é **estritamente crescente**, logo $\log_a(x)<\log_a(y) \iff x<y$, $\forall x,y \in \mathbb R^+$ (**sinal mantém-se**)
+- Se $0<a<1$, a função é **estritamente decrescente**, logo $\log_a(x) < \log_a(y) \iff x>y$, $\forall x,y \in \mathbb R^+$ (**sinal inverte**)
 
+>[!Example] Resolução de inequações envolvendo logaritmos
+>1. Determinar o domínio da expressão.
+>2. Caso haja logaritmos de bases diferentes, aplicar a regra da mudança de base escrever todos os logaritmos na mesma base.
+>3. Se $a>1$, mantém-se o sinal.
+>   Se $0<a<1$, inverte-se o sinal.
+>4. Resolver a inequação obtida.
+>5. Apresentar o conjunto-solução.
 ## Derivada da função logarítmica
 
