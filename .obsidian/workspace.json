@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Matemática/Funções logarítmicas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -63,7 +63,8 @@
               "title": "Continuidade de uma função num conjunto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,10 +251,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fccf6cfb2f086dd3",
+  "active": "1d2031cb0fe917b5",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/Funções logarítmicas.md",
+    "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
     "Pasted image 20260318001033.png",
