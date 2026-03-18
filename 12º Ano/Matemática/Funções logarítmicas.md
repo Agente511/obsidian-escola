@@ -76,7 +76,7 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 
 >[!Example] Resolução de equações envolvendo logaritmos
 >1. Determinar o domínio da expressão.
->2. Caso haja logaritmos de bases diferentes, aplicar a regra da mudança de base escrever todos os logaritmos na mesma base.
+>2. Caso haja logaritmos de bases diferentes, aplicar a regra da mudança de base e escrever todos os logaritmos na mesma base.
 >3. Utilizar as propriedades operatórias dos logaritmos, com precaução, de forma a obter uma expressão do tipo $\log_a(x)=\log_a(y)$ ou $\log_a(x)=y$.
 >4. Resolver a equação obtida.
 >5. Apresentar o conjunto-solução, intersetando as soluções da equação com o domínio da expressão inicial.
@@ -87,7 +87,7 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 
 >[!Example] Resolução de inequações envolvendo logaritmos
 >1. Determinar o domínio da expressão.
->2. Caso haja logaritmos de bases diferentes, aplicar a regra da mudança de base escrever todos os logaritmos na mesma base.
+>2. Caso haja logaritmos de bases diferentes, aplicar a regra da mudança de base e escrever todos os logaritmos na mesma base.
 >3. Utilizar as propriedades operatórias dos logaritmos, com precaução, de forma a obter uma expressão do tipo $\log_a(x)>\log_a(y)$ ou $\log_a(x)>y$ (ou com sinais $<$, $\geq$, $\leq$).
 >4. Se $a>1$, mantém-se o sinal.
 >   Se $0<a<1$, inverte-se o sinal.
