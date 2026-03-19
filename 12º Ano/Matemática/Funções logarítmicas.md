@@ -63,6 +63,8 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 - **Divisão**: $\log_a(\frac x y) = \log_a(x)-\log_a(y)$
 - **Potência**: $\log_a(x^p)=p \times \log_a(x)$, $p\in \mathbb R$
 	- Caso particular: $\log_a(\frac 1 x) = \log_a(x^{-1}) = -\log_a(x)$
+	- >[!WARNING] PÔR AVISO DE QUE $\log (x^2) \neq 2\log(x)$, $\log (x^2) = 2\log(|x|)$.
+		#todo
 - **Mudança de base**: $\log_a(x) = \large \frac {\log_b(x)} {\log_b (a)}$
 	>[!Note] Exemplo
 	>$\log_2 5 = \large \frac {\ln 5} {\ln 2} = \large \frac {\log_7 5} {\log_7 2} = \large \frac {\log 5} {\log 2}$

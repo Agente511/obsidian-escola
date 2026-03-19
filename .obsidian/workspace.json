@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Matemática/Funções logarítmicas.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -63,7 +63,8 @@
               "title": "Continuidade de uma função num conjunto"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"12º Ano/Matemática\"  caracteriza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,16 +251,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fccf6cfb2f086dd3",
+  "active": "fd2bad50f5ddae5d",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
+    "12º Ano/Matemática/11º Ano/Continuidade de uma função num ponto.md",
+    "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
+    "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "12º Ano/Matemática/Funções logarítmicas.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
+    "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
+    "12º Ano/Matemática/Cálculo Combinatório.md",
     "12º Ano/Matemática/Probabilidades.md",
+    "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
+    "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
     "Pasted image 20260318001033.png",
     "Pasted image 20260318000035.png",
     "Pasted image 20260317235216.png",
-    "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
     "12º Ano/Biologia/D2 1. Hereditariedade de Mendel.md",
     "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
     "12º Ano/Biologia/D2 3. Mutações.md",
@@ -276,10 +282,6 @@
     "11º Ano/Biologia/D4 1.+2. Sistemas de classificação e regras de nomenclatura.md",
     "10º Ano/Biologia/Constituintes básicos da célula.md",
     "10º Ano/Biologia/A Célula - Unidade estrutural e funcional.md",
-    "10º Ano/Biologia/Extinção e conservação de espécies.md",
-    "10º Ano/Biologia/Níveis de organização biológica.md",
-    "10º Ano/Biologia/Diversidade biológica.md",
-    "10º Ano/Biologia/Moléculas orgânicas.md",
     "12º Ano/Biologia/site-lib/html/file-tree-content.html",
     "12º Ano/Biologia/site-lib/styles/obsidian.css",
     "12º Ano/Biologia/site-lib/styles/supported-plugins.css",
