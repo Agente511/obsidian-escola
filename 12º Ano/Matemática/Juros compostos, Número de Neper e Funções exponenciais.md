@@ -13,7 +13,7 @@ $\large C_n= C_0(1 + \frac r {100n})^n$
 >- **Limitada**
 >- Monótona e limitada, logo **convergente**.
 
-Assim, o limite de $\lim(1+\frac 1 n)^n$ é um número irracional, designado por **número de Neper** ou número de Euler, geralmente representado por $e$.
+Assim, $\lim(1+\frac 1 n)^n$ é um número irracional, designado por **número de Neper** ou número de Euler, geralmente representado por $e$.
 - $\large \lim(1+\frac 1 n)^n=e$
 - $\large e \approx 2,71828...$
 ## Funções exponenciais
@@ -25,7 +25,7 @@ Designa-se por função exponencial a função $f(x)=a^x$, com **$a \in \mathbb 
 - **Sinal**: $f(x)>0$
 - $\underset{x\to 0} \lim  f(x) = \underset{x\to 0} \lim a^0 = 1$
 - **Contínua**
-- **Assíntotas**: $y=0$ é assíntota vertical ao gráfico da função
+- **Assíntotas**: $y=0$ é assíntota horizontal ao gráfico da função
 
 - > [!Summary] Propriedades das funções exponencias de base $a>1$
 > ![[Pasted image 20260314164900.png]]
