@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -279,14 +279,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d5d575dc6ce1156",
+  "active": "c493689ff26bf64d",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Cálculo Combinatório.md",
+    "12º Ano/Matemática/Funções logarítmicas.md",
     "12º Ano/Matemática/Probabilidades.md",
+    "12º Ano/Matemática/Cálculo Combinatório.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "11º Ano/Matemática/Sucessões.md",
     "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
-    "12º Ano/Matemática/Funções logarítmicas.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/11º Ano/Continuidade de uma função num ponto.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
