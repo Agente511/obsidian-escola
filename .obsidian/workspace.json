@@ -104,9 +104,21 @@
               "icon": "lucide-file",
               "title": "Amor de Perdição"
             }
+          },
+          {
+            "id": "5afd34448e66ceba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas da versão 1.12.7"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -293,7 +305,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc435d9807782660",
+  "active": "5afd34448e66ceba",
   "lastOpenFiles": [
     "11º Ano/Português/Educação Literária/Amor de Perdição/Características - Amor de Perdição.md",
     "11º Ano/Português/Educação Literária/Amor de Perdição/Amor de Perdição.md",
