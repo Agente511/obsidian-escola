@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Matemática/Funções logarítmicas.md",
-                "mode": "source",
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funções logarítmicas"
+              "title": "Mensagem"
             }
           },
           {
@@ -117,8 +117,7 @@
               "title": "Notas da versão 1.12.7"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "4f5e08690fe3545a",
@@ -305,14 +305,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5afd34448e66ceba",
+  "active": "fccf6cfb2f086dd3",
   "lastOpenFiles": [
+    "12º Ano/Matemática/Funções logarítmicas.md",
     "11º Ano/Português/Educação Literária/Amor de Perdição/Características - Amor de Perdição.md",
     "11º Ano/Português/Educação Literária/Amor de Perdição/Amor de Perdição.md",
     "12º Ano/Português/Sem título.md",
     "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
-    "12º Ano/Matemática/Funções logarítmicas.md",
     "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Cálculo Combinatório.md",
     "11º Ano/Matemática/Sucessões.md",
