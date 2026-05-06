@@ -36,3 +36,6 @@
 	>- foto (fotografia)
 	>- pneu (pneumático)
 	>- quilo (quilograma)
+
+- ### Onomatopeia
+	**Imitação de um som natural**.
