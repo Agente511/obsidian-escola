@@ -1,8 +1,3 @@
-## Processos regulares
-- ### Derivação
-	- #### por prefixação
-	- 
-- ### Composição
 ## Processos irregulares
 - ### Extensão semântica
 	Uma **palavra existente** adquire um **novo significado**.
