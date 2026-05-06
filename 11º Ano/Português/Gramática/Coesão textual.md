@@ -20,7 +20,7 @@ Mecanismo de ligação assente na **substituição de uma palavra por outra(s) q
 >- A **alegria** pelo regresso do antigo amo significou, para Telmo, uma nova **tristeza**...
 
 #### Hiperonímia/hiponímia
-Relação de generalização.
+Relação de generalização ou hierarquia.
 >[!Example] Exemplos de hiperónimos e hipónimos
 >Hiperónimo: *mês*
 >
