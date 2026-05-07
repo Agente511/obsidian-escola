@@ -20,23 +20,23 @@ Nomeia pessoas, coisas, lugares, ideias ou sentimentos
 ## Determinante
 **Antecede o nome**.
 - ### Artigo
-	Acompanha o nome, definindo-o ou indefinindo-o
+	Acompanha o nome, definindo-o ou indefinindo-o.
 	
 	- #### Definido
-	Especifica o nome de maneira determinada  
+	Especifica o nome de maneira determinada.
 	>[!Exemplo]
 	>*O*, *a*, *os*, *as*...
 	
 	- #### Indefinido
-	Refere-se a um nome de maneira não determinada  
+	Refere-se a um nome de maneira não determinada.
 	>[!Exemplo]
 	>*Um*, *uma*, *uns*, *umas*...
 - ### Possessivo
-	Indica posse ou pertencimento  
+	Indica posse ou pertencimento.
 	>[!Exemplo]
 	>*Meu*, *teu*, *nosso*...
 - ### Demonstrativo
-	Indica a localização de algo no espaço ou no tempo, em relação ao discurso  
+	Indica a localização de algo no espaço ou no tempo, em relação ao discurso.
 	>[!Exemplo]
 	>*Este*, *esse*, *aquela*...
 - ### Indefinido
