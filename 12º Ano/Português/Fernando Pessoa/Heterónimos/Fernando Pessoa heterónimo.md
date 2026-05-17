@@ -15,7 +15,7 @@ Originaram-se da **histeria** (instabilidade emocional) e **tendência para a de
 > - **[[Álvaro de Campos]]**, o **poeta da modernidade**
 > - Bernardo Soares, semi-heterónimo
 
-
+%%
 ![[Pasted image 20260116183309.png]]
 
 ![[Pasted image 20260116183316.png]]
@@ -23,3 +23,4 @@ Originaram-se da **histeria** (instabilidade emocional) e **tendência para a de
 ![[Pasted image 20260116183321.png]]
 
 ![[Pasted image 20260116183327.png]]
+%%

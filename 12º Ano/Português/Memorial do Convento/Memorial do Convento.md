@@ -1,3 +1,17 @@
+## Contextualização
+>[!Info] Contextualização social
+>![[Pasted image 20260517103817.png]]
+
+>[!Info] Contextualização histórica
+>##### D. João V
+>- Nascimento: 22/10/1689, Lisboa
+>- Filho de D. Pedro II e Maria Sofia de Neubourg
+>- Aclamado rei a 01/01/1707
+>- Casou com D. Maria Ana de Áustria a 08/06/1708
+>- Morte: 31/07/1750
+>
+>##### Época
+>- Guerra da Sucessão de 
 ## Elementos paratextuais
 ## Génese do romance
 ## Personagens
