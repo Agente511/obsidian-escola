@@ -1,5 +1,5 @@
 ## Contextualização
-Romance de José Saramago, publicado pela primeira vez em **outubro de 1982**.
+Romance de José Saramago, publicado em **outubro de 1982**.
 
 >[!Info] Génese do romance
 >A ideia de escrever a obra surgiu a Saramago num passeio em que olhou para o mosteiro de Mafra e, seguidamente, ao ler uma passagem de Camilo Castelo Branco que referenciava os 50 mil homens que sofreram para levantar o convento. A maior inspiração surgiu quando percebeu uma coincidência cronológica entre a construção do convento e as experiências do padre Bartolomeu de Gusmão (1709-1724).
@@ -57,9 +57,9 @@ Romance de José Saramago, publicado pela primeira vez em **outubro de 1982**.
 	- Vaidoso
 	- Egocêntrico
 	- Curioso que se **interessa pelas invenções de Bartolomeu de Gusmão**.
-	- Esteta que **convida Scaralatti a permanecer em Portugal**.
+	- Esteta que **convida Scarlatti a permanecer em Portugal**.
 	- **Apavorado com a morte** (morrer antes de cumprir a promessa de construir o convento de Mafra) **antecipa a sua imortalidade**, através da sagração do convento no dia do seu 41.º aniversário.
-	- Condena a nação a servir a sua **vaidade** e **religiosidade fanática** para c**umprir a sua promessa pessoal, de modo a garantir a sucessão**.
+	- Condena a nação a servir a sua **vaidade** e **religiosidade fanática** para **cumprir a sua promessa pessoal, de modo a garantir a sucessão**.
 	- Assume apenas o **papel gerativo de um filho e de um convento**, estando **o amor e a intimidade ausentes**.
 - ##### D. Maria Ana Josefa
 	- Origem austríaca
@@ -75,7 +75,7 @@ D. João V e D. Maria Ana têm uma **relação protocolar, fria e distante**, um
 
 - ##### Baltasar Mateus Sete-Sóis ^80319b
 	- Crítica do narrador à desumanidade da guerra, uma vez que **participa na Guerra da Sucessão Espanhola (1704-1712)**, onde **perde a mão esquerda**, sendo **excluído do exército**.
-	- **Demiurgo na construção passarola**, ajudando Bartolomeu a realizar o seu sonho.
+	- **Demiurgo na construção da passarola**, ajudando Bartolomeu a realizar o seu sonho.
 	- Participa na construção do convento.
 	- Trabalhador
 	- Pragmático (dedicado)
@@ -87,7 +87,7 @@ D. João V e D. Maria Ana têm uma **relação protocolar, fria e distante**, um
 	- Inteligente
 	- Sensual
 	- Escolhe Baltasar para partilhar a sua vida, num amor pleno, de liberdade, sem compromissos e sem culpa.
-	- Dotada do poderes sobrenaturais de ver as pessoas por dentro (**ecovisão**), tal como a mãe, o que a **transfigura** e **aproxima da espiritualidade da música de Scarlatti e do sonho de Bartolomeu**.
+	- Dotada de poderes sobrenaturais de ver as pessoas por dentro (**ecovisão**), tal como a mãe, o que a **transfigura** e **aproxima da espiritualidade da música de Scarlatti e do sonho de Bartolomeu**.
 	- Os seus poderes apenas funcionavam em jejum e quando não era quarto (crescente ou minguante) de lua
 	- Representa o **transcendente** e a **inquietação constante do ser humano em relação à morte, ao amor, ao pecado e à existência de Deus**, pois ela compreende-as.
 	- Ao ver a essências dos que a rodeiam, **transgride os códigos existentes** e **percepciona a hipocrisia e a mentira**.
