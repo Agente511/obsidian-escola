@@ -26,13 +26,28 @@
 	- **Atraída pelo cunhado** D. Francisco (em sonhos), o que a leva a tentar **redimir-se através da oração e da confissão**.
 - ##### Baltasar Sete-Sóis
 	- Crítica do narrador à desumanidade da guerra, uma vez que **participa na Guerra da Sucessão Espanhola (1704-1712)**, onde **perde a mão esquerda**, sendo **excluído do exército**.
+	- **Demiurgo na construção passarola**, ajudando Bartolomeu a realizar o seu sonho.
+	- Participa na construção do convento.
 	- Trabalhador
-	- Dedicado
+	- Pragmático (dedicado)
 	- Simples
 	- Leal
 	- Destemido
-	- Morre num auto de fé
+	- Morre num auto de fé, às mãos da Inquisição
 - ##### Blimunda Sete-Luas
+	- Inteligente
+	- Sensual
+	- Escolhe Baltasar para partilhar a sua vida, num amor pleno, de liberdade, sem compromissos e sem culpa.
+	- Dotada do poderes sobrenaturais de ver as pessoas por dentro (**ecovisão**), tal como a mãe, o que a **transfigura** e **aproxima da espiritualidade da música de Scarlatti e do sonho de Bartolomeu**.
+	- Representa o transcendente e a inquietação constante do ser humano em relação à morte, ao amor, ao pecado e à existência de Deus.
+	- Ao ver a essências dos que a rodeiam, **transgride os códigos existentes** e **percepciona a hipocrisia e a mentira**.
+- ##### Padre Bartolomeu Lourenço de Gusmão
+	- Brasileiro
+	- Representa as **novas ideias** que **estranhavam a inculta sociedade portuguesa**.
+	- Apesar da **proteção real**, foi alvo de **chacota da corte e da Inquisição**.
+	- Grande orador sacro
+	- Curioso, sofre uma **profunda crise de fé** ao longo da obra, devido às suas **leituras diversificadas** e **postura antidogmática** numa busca incessante do saber.
+	- 
 ## Linhas de ação
 faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
