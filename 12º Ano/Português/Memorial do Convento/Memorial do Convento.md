@@ -135,9 +135,10 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ### Numeralogia
 - ##### 3
 	**Unidade divina**. A **Santíssima Trindade** cristã (Pai, Filho e Espírito Santo).
-	- Trindade terrestre (Baltasar, Blimunda e Bartolomeu)
+	- Trindade terrestre (Bartolomeu - Pai, Baltasar - Filho, Blimunda - Espírito Santo)
 - ##### 7
 	**Totalidade completa e perfeita**. Fim de um ciclo.
+	- Obra do convento inicia-se a 17/11/1717
 	- Sete-Sóis e Sete-Luas (devido à sua perfeita completude)
 	- 7 igrejas visitadas pelas mulhers na Quaresma
 	- A infanta é batizada por 7 bispos
@@ -149,23 +150,35 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ### Símbolos
 - ##### Máquina voadora
 	**Sonho**, **libertação**, **esperança**.
+	Ligação entre o céu e a terra.
 	Alternativa a um espaço de repressão, intolerância e violência (Inquisição e absolutismo)
 - ##### Sete-Sóis
 	"Batismo" de Baltasar, porque **vê "às claras"** e só pode ver à luz.
 	Vida e renovação de energias.
 - ##### Sete-Luas
 	"Batismo" de Blimunda, porque **"vê" no escuro**, evidenciando os dotes de **clarividência**.
-	Força vital.
+	
+	Tal como a Lua reaparece sempre depois do S
 	- ##### Sete-Sóis e Sete-Luas
 		**Complementam-se plenamente**, funcionando como um todo, porque são o verso e o reverso da mesma realidade. São também a **união do princípio masculino e do princípio feminino** ("dormiram nessa noite os sóis e as luas abraçados enquanto as estrelas giravam devagar no céu").
 - ##### Convento de Mafra
 	**Ostentação** régia, **opressão** e **vaidade** dos poderosos.
 	**Sacrifício**, **exploração** e **miséria** do povo operário que nele trabalhou.
+- ##### Sonho
+	Forma de ultrapassar os medos e as ansiedades e concretizar os desejos na construção dos percursos de vida.
+- ##### Vontades
+	Força vital. Sem vontade nenhum progresso faz avançar o mundo.
+- ##### Figura feminina
+	Heroísmo anónimo, nunca reconhecido. Única capaz de amar verdadeiramente, com generosidade.
 - ##### Cobertor
 	(Trazido da Áustria pela rainha)
 	Separação, **frieza do amor**, ausência do prazer e desejos insatisfeitos.
 - ##### Colher
-	(Usada )
+	(Usada no casamento de Baltasar e Blimunda)
+	Aliança, compromisso sagrado, **amor autêntico**, atração erótica e apaixonada, vivência plena do prazer.
+- ##### Morte de António José da Silva
+	(Queimado na fogueira num auto de fé no final da obra, tal como Baltasar)
+	**Perseguição a que os escritores são vítimas**, uma vez que os contextos político-sociais não os respeitam nem compreendem.
 ## Intertextualidade
 ## Classificação tipológica
 ## Linguagem e estilo
