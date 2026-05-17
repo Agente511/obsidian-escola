@@ -1,6 +1,6 @@
 ## Contextualização
 >[!Info] Génese do romance
->
+>A ideia de escrever a obra surgiu a Saramago num passeio em que olhou para o mosteiro de Mafra e, seguidamente, ao ler uma passagem de Camilo Castelo Branco que referenciava os 50 mil homens que sofreram para levantar o convento. A maior inspiração surgiu quando percebeu uma coincidência cronológica entre a construção do convento e as experiências do padre Bartolomeu de Gusmão (1709-1724).
 
 >[!Info] Contextualização histórica
 >##### D. João V
@@ -42,7 +42,6 @@
 	Assim, a contracapa remete para 2 dimensões:
 	- **Dimensão literária**: maravilhoso, personagens fictícias que representam um povo explorado, oprimido sob o jugo (domínio) da tirania do poder
 	- **Dimensão histórica**: baseado em factos e personagens verídicos: D. João V, Convento de Mafra, aeróstato de Bartolomeu de Gusmão, Domenico Scarlatti
-## Génese do romance
 ## Personagens
 - ##### D. João V
 	- Rei absolutista
@@ -67,6 +66,9 @@
 	- Vítima consciente da **indiferença e traição do rei**, do qual abundam os filhos bastardos, mas que assume uma **atitude passiva**
 	- Nos **sonhos** **liberta-se da sua condição aristocrática e do ambiente repressivo** em que vive, para poder **explorar a sua feminilidade e sensualidade**.
 	- **Atraída pelo cunhado** D. Francisco (em sonhos), o que a leva a tentar **redimir-se através da oração e da confissão**.
+
+D. João V e D. Maria Ana têm uma **relação protoclar e distante**, um **amor contratual**, **sem sentimentos** e centrado em **gerar herdeiros da Coroa**.
+
 - ##### Baltasar Sete-Sóis
 	- Crítica do narrador à desumanidade da guerra, uma vez que **participa na Guerra da Sucessão Espanhola (1704-1712)**, onde **perde a mão esquerda**, sendo **excluído do exército**.
 	- **Demiurgo na construção passarola**, ajudando Bartolomeu a realizar o seu sonho.
@@ -84,6 +86,9 @@
 	- Dotada do poderes sobrenaturais de ver as pessoas por dentro (**ecovisão**), tal como a mãe, o que a **transfigura** e **aproxima da espiritualidade da música de Scarlatti e do sonho de Bartolomeu**.
 	- Representa o transcendente e a inquietação constante do ser humano em relação à morte, ao amor, ao pecado e à existência de Deus.
 	- Ao ver a essências dos que a rodeiam, **transgride os códigos existentes** e **percepciona a hipocrisia e a mentira**.
+
+Baltasar e Blimunda têm uma **relação de amor intenso e complementariedade**.
+
 - ##### Padre Bartolomeu Lourenço de Gusmão
 	- Brasileiro, nasceu em Santos, São Paulo, em 1685
 	- Estudou física e matemática e fez experiências com balões de ar quente.
@@ -126,6 +131,12 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Polos estruturais da ação narrativa
 ## Temas
 ## Dimensão simbólica
+### Numeralogia
+### Símbolos
+- **Máquina voadora**: sonho, libertação, esperança
+- **Sete-Sóis**: "batismo" de Baltasar, porque vê "às claras" e só pode ver à luz.
+- ##### Sete-Luas
+  "Batismo de Blimunda", porque "vê" no escuro, evidenciando os dotes de clarividência
 ## Intertextualidade
 ## Classificação tipológica
 ## Linguagem e estilo
