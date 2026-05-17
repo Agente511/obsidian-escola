@@ -111,7 +111,7 @@ Baltasar e Blimunda têm uma **relação de amor puro, sincero e intenso e de co
 
 [[#^80319b|Baltasar]], [[#^563a52|Blimunda]], o [[#^2d075c|padre Bartolomeu]] e [[#^4a233d|Scarlatti]] têm uma relação marcada pela **lealdade** e a **partilha de segredos**.
 
-- ##### Povo
+- ##### Povo ^f13072
 	- Personagem coletiva
 	- **Verdadeiro herói da obra**, ainda que possa assumir **contornos de anti-herói**, sobretudo pelas suas **características físicas** que são apontadas a alguns dos seus membros, valorizando ainda mais a sua importância.
 	- Conjunto de **pessoas anónimas imortalizadas por Saramago** (por meio de uma listagem de nomes de A a Z, apesar de Baltasar, Blimunda, Manuel Milho, Francisco Marques  e outros serem individualizados), sendo-lhes atribuída a **construção do convento**.
@@ -207,11 +207,12 @@ A ação desenrola-se em 2 macroespaços:
 	- **S. Sebastião da Pedreira** (espaço relacionado com a passarola do Padre Bartolomeu de Gusmão. Era, na época um espaço rural, onde existiam várias quintas que integravam palacetes).
 - ##### Mafra (macroespaço)
 	- **Alto da Vela** (local escolhido para a construção do convento, que deu lugar à vila nova, à volta do edifício)
-
+	- **Pero Pinheiro** (de onde é trazida a pedra para a construção do convento)
+	- **Monte Junto** (onde aterra a passarola depois de ter sobrevoado Mafra)
 Também são referidos:
-- **Pero Pinheiro**
+
 - **Serra do Barregudo**
-- **Monte Junto**
+
 - **Torres Vedras**
 
 Mais referências:
@@ -310,6 +311,7 @@ O narrador critica, com ironia e uma sábia compreensão, a realidade portuguesa
 - Desprezos dos produtos nacionais, em defesa dos estrangeiros
 - Adultério e corrupção generalizados
 - Histeria religiosa do próprio povo, miserável e subjugado, mas que, nas festanças e procissões, se deixa arrastar pelos desregramentos e pela hipocrisia coletiva
+- Sociedade que vive de aparências
 
 >[!Example] Evidências de momentos de crítica social
 >- Infante D. Francisco treina a pontaria da janela do palácio para os marinheiros que se encontravam nas vergas dos barcos, matando e ferindo com total impunidade (cap. VIII);
@@ -320,6 +322,12 @@ O narrador critica, com ironia e uma sábia compreensão, a realidade portuguesa
 >- Situação precária dos trabalhadores que edificaram o convento e atitude abusiva do rei que obrigou todos os homens válidos do país a trabalhar, para acelerar a sua conclusão (cap. XXI).
 >- Perseguição do padre Bartolomeu pelas suas ideias inovadoras e por questionar os dogmas da Igreja, por parte do Santo Ofício.
 
+## Antiepopeia/Contraepopeia
+Saramago não tenciona imortalizar e louvar a história, mas sim **descrever o sofrimento e as alegrias vivenciadas pelas pessoas que contribuíram para a construção do convento**, aproveitando ainda para [[#Visão crítica|criticar a sociedade da época]].
+
+Nesta antiepopeia, o **herói é o [[#^f13072|povo]]**, **multidão anónima** que construiu, com grande esforço, o convento, tentando Saramago quebrar esse anonimato ao **nomear alguns trabalhadores que falam da sua vida pessoal**, mas também **enumerando nomes de A a Z**.
+
+Ao contrário das epopeias, **Deus não tem um papel tão ativo nesta obra**, apesar de ser mencionado devido à devoção da sociedade retratada. No entanto, **Baltasar é comparado a Deus**, como os heróis das epopeias.
 ## Dimensão simbólica
 ### Numeralogia
 - ##### 3
@@ -376,6 +384,7 @@ O narrador critica, com ironia e uma sábia compreensão, a realidade portuguesa
 	**Perseguição a que os escritores são vítimas**, uma vez que os contextos político-sociais não os respeitam nem compreendem.
 
 ## Transgressões
+
 ## Temas
 ## Intertextualidade
 ## Classificação tipológica

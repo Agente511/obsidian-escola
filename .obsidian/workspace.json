@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Memorial do Convento"
             }
+          },
+          {
+            "id": "fa43f0f1f5e19e22",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "12º Ano/Português/Memorial do Convento/Intertextualidade - Memorial do Convento.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Intertextualidade - Memorial do Convento"
+            }
           }
         ]
       }
@@ -208,12 +220,13 @@
   },
   "active": "62bc43d67a43b764",
   "lastOpenFiles": [
-    "Pasted image 20260517151416.png",
-    "12º Ano/Português/Memorial do Convento/Espaço social aprofundado - Memorial do Convento.pdf",
-    "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
-    "12º Ano/Português/Memorial do Convento/Espaço social aprofundado - Memorial do Convento.pdf",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
+    "12º Ano/Português/Memorial do Convento/Intertextualidade - Memorial do Convento.pdf",
     "12º Ano/Português/Memorial do Convento/Resumo - Memorial do Convento.md",
+    "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
+    "Pasted image 20260517154542.png",
+    "12º Ano/Português/Memorial do Convento/Espaço social aprofundado - Memorial do Convento.pdf",
+    "Pasted image 20260517151416.png",
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "Pasted image 20260517103817.png",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
@@ -250,8 +263,6 @@
     "Pasted image 20260516203804.png",
     "Pasted image 20260516184757.png",
     "Pasted image 20260516184654.png",
-    "Pasted image 20260516184629.png",
-    "Pasted image 20260516184524.png",
     "12º Ano/Biologia/site-lib/html/file-tree-content.html",
     "12º Ano/Biologia/site-lib/styles/obsidian.css",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
