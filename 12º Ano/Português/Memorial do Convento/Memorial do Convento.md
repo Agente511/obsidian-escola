@@ -21,6 +21,8 @@
 >- A Inquisição perseguia os judeus, tentando-os converter à força. Os que mantinham práticas de judaísmo eram condenadas à morte e os seus bens eram confiscados, tal como os condenados por feitiçaria ou por corrupção de costumes.
 >- A Inquisição liga-se à censura intelectual e fechou Portugal à inovação e ao movimento cultural sentidos nos países mais evoluídos da Europa.
 
+^8c512f
+
 >[!Info] Contextualização social
 >![[Pasted image 20260517103817.png]]
 ## Elementos paratextuais
@@ -124,7 +126,7 @@ Baltasar e Blimunda têm uma **relação de amor puro, sincero e intenso e de co
 - ##### Infanta D. Maria Bárbara
 	- Filha de D. João V, por cujo nascimento é **construído o convento**.
 	- **Não chega a ver o convento finalizado**.
-	- Casa-se com D. Fernando VI de Espanha, num **casamento duplo** onde a irmã de Fernando, Mariana Vitória, casou-se com D. José I de Portugal, irmão de Bárbara.
+	- Casa-se com D. Fernando VI de Espanha, num **casamento duplo** onde a irmã de Fernando, Mariana Vitória, casou-se com o príncipe D. José I de Portugal, irmão de Bárbara.
 
 Considerando que a estrutura narrativa do romance está assente no **conflito motivado pela construção do Convento de Mafra**, verificam-se os seguintes papéis:
 - ##### Antagonistas
@@ -185,15 +187,22 @@ XVI);
 faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
 ## Tempo
+### Tempo diegético/da história
+**Tempo em que decorre a ação**, de 1711 a 1739 (durante 28 anos).
 ### Tempo diegético/histórico
-**Tempo em que decorre a ação** (Durante 28 anos, na **primeira metade do séc. XVIII**, durante o **reinado de D. João V**).
-- Início da narrativa - 1711
-- Benção da primeira pedra do convento - 1717
-- Rei casou-se, 3 anos antes, com D. Maria Ana Josefa - 1708
-- Final da narrativa - 1739
+**Primeira metade do séc. XVIII**, durante o **reinado de D. João V**.
+- Período caracterizado pela ostentação e riqueza propiciada pelo ouro do Brasil, que, no entanto, não contribuiu para o desenvolvimento económico do país, devido maioritariamente ao esbanjamento do rei e da corte.
+- O absolutismo político e a Inquisição comandavam a sociedade, em que os ricos podiam tudo e os pobres viviam na miséria.
+- Construção do convento de Mafra, vida na corte da época, autos de fé, procissões, touradas, Entrudo
+- *(mais referências na <[[#^8c512f|Contextualização histórica]]>)*
+ 
+> [!Example] Referências cronológicas
+> - Benção da primeira pedra do convento - 17/11/1717
+> - Morte de Bartolomeu, em Toledo - 18/11/1724
+> - Troca das Princesas - jan/1729
+> - Sagração da basílica de Mafra - 22/10/1730
+### Tempo do discurso/da narrativa
 
-
-### Tempo da narrativa
 ## O Narrador
 - **Subversão** do estatuto do narrador
 - **Polifónico** (integra várias vozes na sua voz)
