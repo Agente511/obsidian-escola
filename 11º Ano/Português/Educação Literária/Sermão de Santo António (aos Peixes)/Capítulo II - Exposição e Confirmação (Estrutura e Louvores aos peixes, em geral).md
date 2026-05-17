@@ -32,8 +32,9 @@ Os **peixes**:
 - Acudiram atentos e suspensos à sua voz
 - Escutam com silêncio e sinais de admiração
 - "tão quietos e tão devotos"
+
 Os **homens**:
 - perseguiram Santo António
 - não quiseram ouvi-lo
 - quiseram lançá-lo da terra e do mundo, porque ele repreendia os seus vícios
-- "tão furiosos e obstinados" (obstinados=teimosos)
+- "tão furiosos e obstinados" (teimosos)

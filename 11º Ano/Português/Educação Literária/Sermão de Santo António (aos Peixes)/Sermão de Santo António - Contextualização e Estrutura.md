@@ -1,5 +1,5 @@
-[Vídeos de Padro António Vieira e o Sermão de Santo António](https://youtube.com/playlist?list=PLptnVRHa5SDK7j1Pqx3vC2fgJ7XqI0YNS&si=T0yo-LLd74SQfwLw)
-# Sermão
+[Vídeos de Padre António Vieira e o Sermão de Santo António](https://youtube.com/playlist?list=PLptnVRHa5SDK7j1Pqx3vC2fgJ7XqI0YNS&si=T0yo-LLd74SQfwLw)
+## Sermão
 Discurso primordialmente oral, de assunto e propósitos religiosos e/ou moralizadores.
 Os **temas** são **habitualmente desenvolvidos a partir de versículos da Sagrada Escritura** e abrangem:
 - Aspetos da vida social
