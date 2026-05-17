@@ -107,7 +107,7 @@ Baltasar e Blimunda têm uma **relação de amor intenso e complementariedade**.
 	- Conjunto de **pessoas anónimas imortalizadas por Saramago** (por meio de uma listagem de nomes de A a Z, apesar de Baltasar, Blimunda, Manuel Milho, Francisco Marques  e outros serem individualizados), sendo-lhes atribuída a **construção do convento**.
 	- Ignorantes
 	- Oprimido, explorado, abusado e sacrificado pelo rei e pela Igreja.
-	- 40 mil portugueses escravizados pelo rei megalómano.
+	- 52 mil trabalhadores escravizados pelo rei megalómano.
 - ##### Clero
 	- **Criticado implicitamente** durante todo discurso narrativo.
 	- Hipocrisia
@@ -125,20 +125,31 @@ São **entrelaçadas personagens e acontecimentos fictícios com reais**, tornan
 ![[Pasted image 20260517014349.png|617]]
 
 ## Linhas de ação
+A ação do romance organiza-se através da articulação de **3 planos narrativos**, interligados, sobretudo, através de Baltasar.
+### Construção do Convento de Mafra
+Ponto de partida para a narrativa e **núcleo dos outros dois planos**.
+### Relação de Baltasar e Blimunda
+### Construção e voo da "Passarola"
+
+
 faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
+## Tempo
 ## O Narrador
 ## Transgressões
-## Polos estruturais da ação narrativa
+## Polos estruturais da ação narrativa (epopeias)
 ## Temas
 ## Dimensão simbólica
 ### Numeralogia
 - ##### 3
 	**Unidade divina**. A **Santíssima Trindade** cristã (Pai, Filho e Espírito Santo).
 	- Trindade terrestre (Bartolomeu - Pai, Baltasar - Filho, Blimunda - Espírito Santo)
+- ##### 4
+	**Totalidade**. 4 pontos cardeais.
+	- Trindade (Bartolomeu, Baltasar e Blimunda + Scarlatti)
 - ##### 7
 	**Totalidade completa e perfeita**. Fim de um ciclo.
-	- Obra do convento inicia-se a 17/11/1717
+	- A 1.ª pedra do convento foi colocada às 7h de 17/11/1717
 	- Sete-Sóis e Sete-Luas (devido à sua perfeita completude)
 	- 7 igrejas visitadas pelas mulhers na Quaresma
 	- A infanta é batizada por 7 bispos
@@ -157,8 +168,7 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 	Vida e renovação de energias.
 - ##### Sete-Luas
 	"Batismo" de Blimunda, porque **"vê" no escuro**, evidenciando os dotes de **clarividência**.
-	
-	Tal como a Lua reaparece sempre depois do S
+	Tal como **a Lua reaparece sempre depois do Sol**, **coube a Blimunda reencontrar Baltasar**.
 	- ##### Sete-Sóis e Sete-Luas
 		**Complementam-se plenamente**, funcionando como um todo, porque são o verso e o reverso da mesma realidade. São também a **união do princípio masculino e do princípio feminino** ("dormiram nessa noite os sóis e as luas abraçados enquanto as estrelas giravam devagar no céu").
 - ##### Convento de Mafra
