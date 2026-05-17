@@ -1,4 +1,6 @@
 ## Contextualização
+Romance de José Saramago, publicado pela primeira vez em **outubro de 1982**.
+
 >[!Info] Génese do romance
 >A ideia de escrever a obra surgiu a Saramago num passeio em que olhou para o mosteiro de Mafra e, seguidamente, ao ler uma passagem de Camilo Castelo Branco que referenciava os 50 mil homens que sofreram para levantar o convento. A maior inspiração surgiu quando percebeu uma coincidência cronológica entre a construção do convento e as experiências do padre Bartolomeu de Gusmão (1709-1724).
 
@@ -184,8 +186,14 @@ XVI);
 >- Baltasar vai ao Monte Junto mais 6 ou 7 vezes ver a passarola (cap. XX);
 >- Voo involuntário de Baltasar (cap. XXIII).
 
-faceta quase animalesca da relação do rei e da rainha ("emprenhou")
+&&faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
+### Espaço fisico
+A ação desenrola-se em dois espaços físicos:
+- ##### Lisboa (macroespaço)
+	Integra
+- ##### Mafra (macroespaço)
+### Espaço social
 ## Tempo
 ### Tempo diegético/da história
 **Tempo em que decorre a ação**, de 1711 a 1739 (durante 28 anos).
@@ -205,8 +213,9 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 A passagem do tempo sente-se através do desenvolvimento da intriga e, sobretudo, do **crescimento e envelhecimento das personagens**.
 
 O narrador relata ainda **analepses** e **prolepses**, situando o romance num **presente intemporal**, um "tempo que é todo um e não partido em passado, presente e futuro".
->[!Example] Exemplo de analepse
+>[!Example] Exemplos de analepse
 >- Narração dos milagres realizados pelos franciscanos, que explicará a promessa de construção do convento
+>- "Este que por desafrontada..." - "na grande entrada de onze mil homens que fizemos em Outubro do ano passado e que terminou com perda de duzentos nossos...";
 
 >[!Example] Exemplos de prolepses
 >- Morte do filho mais novo da irmã de Baltasar, com 3 meses, idade com a qual o infante D. Pedro também morreu ("\[...] só o mais velho vingará, porque ao outro hão de levá-lo com as bexigas antes de passados três meses \[...], "\[...] por compensação da morte desta criança, morrerá o infante D. Pedro quando chegar à mesma idade \[...]", cap. XX)
@@ -217,7 +226,16 @@ O narrador relata ainda **analepses** e **prolepses**, situando o romance num **
 >- Invenção do cinema ("\[...] para vir o cinema ainda faltam duzentos anos \[...]", cap. XVII)
 >- Ida dos homens à Lua e o conto *A aventura sem paralelo de um tal Hans Pfaal*, de Edgar Allan Poe ("\[...] estes acontecimentos futuros, e outros mais cabais, como já terem ido dois homens à lua, que todos os vimos lá, e não encontraram Hans Pfaal, será porque não procuraram bem.", cap. XII)
 >- Revolução do 25 de abril ("os capelães de varas levantadas e molhos de cravos nas pontas delas, ai o destino das flores, um dias as meterão nos canos das espingardas \[...]", cap. XIII)
+>- Implantação da República Portuguesa ("já vem de muito longe, como se observa, este gosto português pelo verde e pelo encarnado, que, em vindo a república, dará bandeira.")
 
+Por vezes, é feito recurso das elipses e de sumários:
+>[!Example] Exemplos de elipses (lacunas temporais)
+>- "Bartolomeu Lourenço foi à quinta de S. Sebastião da Pedreira, três anos inteiros haviam passado desde que partira \[...]";
+>- "Quando o tempo levantou, passada uma semana, partiram \[...]";
+>- "Tornou o padre \[...]" - "Assim foi o inverno passando, assim a primavera \[...]"
+
+>[!Example] Exemplo de sumário (síntese temporal)
+>- "Tomou o padre os estudos, já bacharel, já licenciado, doutor não tarda \[...]" e "chegava, guardava na arca as esferas \[...] já estava lendo nas aulas".
 ## O Narrador
 - **Subversão** do estatuto do narrador
 - **Polifónico** (integra várias vozes na sua voz)
