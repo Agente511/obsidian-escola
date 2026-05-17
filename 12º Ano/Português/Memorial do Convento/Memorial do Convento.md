@@ -202,6 +202,21 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 > - Troca das Princesas - jan/1729
 > - Sagração da basílica de Mafra - 22/10/1730
 ### Tempo do discurso/da narrativa
+A passagem do tempo sente-se através do desenvolvimento da intriga e, sobretudo, do **crescimento e envelhecimento das personagens**.
+
+O narrador relata ainda **analepses** e **prolepses**, situando o romance num **presente intemporal**, um "tempo que é todo um e não partido em passado, presente e futuro".
+>[!Example] Exemplo de analepse
+>- Narração dos milagres realizados pelos franciscanos, que explicará a promessa de construção do convento
+
+>[!Example] Exemplos de prolepses
+>- Morte do filho mais novo da irmã de Baltasar, com 3 meses, idade com a qual o infante D. Pedro também morreu ("\[...] só o mais velho vingará, porque ao outro hão de levá-lo com as bexigas antes de passados três meses \[...], "\[...] por compensação da morte desta criança, morrerá o infante D. Pedro quando chegar à mesma idade \[...]", cap. XX)
+>- Morte de Álvaro Diogo ("\[...] que em breve tempo cairá duma parede aonde não tinha que subir, não lho exigia já o ofício, foi lá para ajeitar uma pedra que das suas mãos saíra \[...], cap. XXIII)
+
+>[!Example] Exemplos de referências a acontecimentos posteriores ao [[#Tempo diegético/da história|tempo da história]]
+>- Invasões francesas ("\[...] entrará Junot em Mafra \[...], cap. XVII)
+>- Invenção do cinema ("\[...] para vir o cinema ainda faltam duzentos anos \[...]", cap. XVII)
+>- Ida dos homens à Lua e o conto *A aventura sem paralelo de um tal Hans Pfaal*, de Edgar Allan Poe ("\[...] estes acontecimentos futuros, e outros mais cabais, como já terem ido dois homens à lua, que todos os vimos lá, e não encontraram Hans Pfaal, será porque não procuraram bem.", cap. XII)
+>- Revolução do 25 de abril ("os capelães de varas levantadas e molhos de cravos nas pontas delas, ai o destino das flores, um dias as meterão nos canos das espingardas \[...]", cap. XIII)
 
 ## O Narrador
 - **Subversão** do estatuto do narrador
