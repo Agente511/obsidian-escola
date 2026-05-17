@@ -230,7 +230,7 @@ Levantamento de situações que reconstituem a época histórica:
 - **cerimónia de sagração do convento de Mafra** (p. 365 ou 484 parágrafo «Enfim, chegou o mais
 glorioso dos dias...»);
 - **batismos dos infantes** (p. 74 parágrafo «Porém, não convém perder de vista as diferenças...»);
-- **cortejo preparativo das bodas dos príncipes portugueses e espanhóis** (p. 309... parágrafo «Porém, ainda se encontram famílias felizes...»);
+- **cortejo preparativo das bodas dos príncipes portugueses e espanhóis** (p. 309 parágrafo «Porém, ainda se encontram famílias felizes...»);
 - **lição de música de D. Maria Bárbara** (p. 166 parágrafo «Está a menina sentada ao cravo...»).
 ### Espaço psicológico
 **Interioridade das personagens**, constituído fundamentalmente através dos sonhos e pensamentos das personagens:
