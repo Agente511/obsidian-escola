@@ -129,6 +129,8 @@ Baltasar e Blimunda têm uma **relação de amor puro, sincero e intenso e de co
 	- Filha de D. João V, por cujo nascimento é **construído o convento**.
 	- **Não chega a ver o convento finalizado**.
 	- Casa-se com D. Fernando VI de Espanha, num **casamento duplo** onde a irmã de Fernando, Mariana Vitória, casou-se com o príncipe D. José I de Portugal, irmão de Bárbara.
+- ##### João Frederico Ludovice (Ludovici)
+	- Arquiteto alemão do convento
 
 Considerando que a estrutura narrativa do romance está assente no **conflito motivado pela construção do Convento de Mafra**, verificam-se os seguintes papéis:
 - ##### Antagonistas
@@ -162,12 +164,11 @@ Ao longo da obra, **a nobreza e o clero vão perdendo protagonismo**, enquanto *
 >- Recrutamento maciço de homens para acelerar a construção da basílica a inaugurar no 41.º aniversário do rei (22/10/1730) (cap. XII);
 >- Sagração da basílica com a presença do rei (cap. XXIV).
 ### 2. Relação de Baltasar e Blimunda
-"Era uma vez um solado maneta e uma mulher que tinha poderes."
+"Era uma vez um soldado maneta e uma mulher que tinha poderes."
 **Epopeia do amor**
 
 >[!Example] Episódios exemplares do plano da relação de Baltasar e Blimunda
->- 1.º encontro no auto de fé e realização amorosa; Blimunda promete a Baltasar nunca o ver por
-dentro (cap. V);
+>- 1.º encontro no auto de fé e realização amorosa; Blimunda promete a Baltasar nunca o ver por dentro (cap. V);
 >- Blimunda revela o seu segredo visionário a Baltasar (cap. VIII);
 >- Instalam-se em Mafra, onde Blimunda conhece a família de Baltasar (cap. X);
 >- Baltasar pede a Blimunda que, se ele morrer primeiro, veja a sua vontade (cap. XII);
@@ -185,11 +186,9 @@ dentro (cap. V);
 >- Baltasar e Blimunda trabalham na passarola e o padre Bartolomeu parte para a Holanda (cap. IX);
 >- O padre regressa da Holanda e revela o segredo do éter: é a vontade dos homens (cap. XI);
 >- Scarlatti visita a abegoaria, vê a passarola e inicia a sua colaboração, tocando cravo (cap. XIV);
->- Blimunda recolhe as 2000 vontades, durante a peste, adoece e é curada pela música de Scarlatti
-(XV);
+>- Blimunda recolhe as 2000 vontades, durante a peste, adoece e é curada pela música de Scarlatti (cap. XV);
 >- O voo da passarola (cap. XVI);
->- Com medo da Inquisição, Bartolomeu tenta queimar a passarola, mas Baltasar impede-o (cap.
-XVI);
+>- Com medo da Inquisição, Bartolomeu tenta queimar a passarola, mas Baltasar impede-o (cap. XVI);
 >- Dois meses depois, Baltasar regressa ao Monte Junto, onde está a passarola escondida (cap. XVII);
 >- Baltasar vai ao Monte Junto mais 6 ou 7 vezes ver a passarola (cap. XX);
 >- Voo involuntário de Baltasar (cap. XXIII).
@@ -202,7 +201,7 @@ A ação desenrola-se em 2 macroespaços:
 - ##### Lisboa (macroespaço)
 	- **Terreiro do Paço** (local onde Baltasar trabalha num açougue, após a sua chegada a Lisboa);
 	- **Rossio** (espaço que aparece no início e no fim da obra como o local onde decorre o auto de fé);
-	- **S. Sebastião da Pedreira** (espaço relacionado com a passarola do Padre Bartolomeu de Gusmão. Era, na época um espaço rural, onde existiam várias quintas que integravam palacetes).
+	- **S. Sebastião da Pedreira** (espaço relacionado com a passarola do Padre Bartolomeu de Gusmão. Era, na época, um espaço rural, onde existiam várias quintas que integravam palacetes).
 - ##### Mafra (macroespaço)
 	- **Alto da Vela** (local escolhido para a construção do convento, que deu lugar à vila nova, à volta do edifício)
 	- **Pero Pinheiro** (de onde é trazida a pedra para a construção do convento)
