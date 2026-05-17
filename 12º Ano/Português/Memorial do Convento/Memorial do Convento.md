@@ -113,6 +113,12 @@ Baltasar e Blimunda têm uma **relação de amor intenso e complementariedade**.
 	- Hipocrisia
 	- Violência dos representantes do espiritualismo convencional
 	- Religiosidade vazia, baseada em **rituais que levam aos desregramento, à corrupção e à degradação moral**, em vez de elevarem o espírito.
+- ##### Infante D. Francisco
+	- **Cruel**, sonha a morte do irmão D. João V e exercita nos marinheiros a pontaria com a espingarda.
+- ##### Infanta D. Maria Bárbara
+	- Filha de D. João V, por cujo nascimento é **construído o convento**.
+	- **Não chega a ver o convento finalizado**.
+	- Casa-se com D. Fernando VI de Espanha, num **casamento duplo** onde a irmã de Fernando, Mariana Vitória, casou-se com D. José I de Portugal, irmão de Bárbara.
 
 Considerando que a estrutura narrativa do romance está assente no **conflito motivado pela construção do Convento de Mafra**, verificam-se os seguintes papéis:
 - ##### Antagonistas
@@ -174,6 +180,21 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
 ## Tempo
 ## O Narrador
+- **Subversão** do estatuto do narrador
+- **Polifónico** (integra várias vozes na sua voz)
+	- Predominantemente, **heterodiegético** (não participante), utilizando a **3.ª pessoa**.
+	- Por vezes, passa a **homodiegético** (participante), utilizando a **1.ª pessoa do plural**
+	- Usa a **1.ª pessoa do singular** para **aproximar a sua voz à voz das personagens** ("\[...] e esta sou eu, Sebastiana Maria de Jesus, um quarto de cristã-nova), **mostrando os acontecimentos através dos seus pontos de vista**
+	- **Dialoga com as personagens** ("Tens a barba cheia de brancas, Baltasar \[...]")
+- **Polivalente**:
+	- Narra, comenta, recorda e prenuncia
+	- **Reflexivo**
+	- **Descritivo**
+	- **Crítico**
+	- **Irónico**
+	- **Omnisciente**
+- Por vozes, **identifica-se com o autor**, refletindo sobre o próprio processo de escrita 
+## Crítica
 ## Transgressões
 ## Polos estruturais da ação narrativa (epopeias)
 ## Temas
