@@ -15,11 +15,14 @@
 >- Construção do Aqueduto das Águas Livres, apesar de não ser iniciativa de D. João V.
 >- Portugueses partiam para o estrangeiro, onde aprendiam o que, mais tarde, desejavam implementar em Portugal, como o padre Bartolomeu de Gusmão que inventou a passarola.
 >- D. João V, sensível às novas ideias, criou a Real Academia Portuguesa de História para promover a renovação dos métodos de investigação histórica.
->- A Inquisição perseguia os judeus, tentando-os converter à força. Os que mantinham práticas de judaísmo eram condenadas matando-os e confiscando os seus bens
+>- A Inquisição perseguia os judeus, tentando-os converter à força. Os que mantinham práticas de judaísmo eram condenadas à morte e os seus bens eram confiscados, tal como os condenados por feitiçaria ou por corrupção de costumes.
+>- A Inquisição liga-se à censura intelectual e fechou Portugal à inovação e ao movimento cultural sentidos nos países mais evoluídos da Europa.
 
 >[!Info] Contextualização social
 >![[Pasted image 20260517103817.png]]
 ## Elementos paratextuais
+- #### Título
+	- **Memorial**: relato de memórias
 ## Génese do romance
 ## Personagens
 - ##### D. João V
@@ -93,6 +96,7 @@ Considerando que a estrutura narrativa do romance está assente no **conflito mo
 - ##### Mediadores do conflito
 	Baltasar e Blimunda (povo), Padre Bartolomeu (clero) e Domenico Scarlatti (aristocrata e músico)
 
+São **entrelaçadas personagens e acontecimentos fictícios com reais**, tornando a ficção mais verosímil:
 ![[Pasted image 20260517014349.png|617]]
 
 ## Linhas de ação
