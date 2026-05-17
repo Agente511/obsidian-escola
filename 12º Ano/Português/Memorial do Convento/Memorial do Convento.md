@@ -43,7 +43,7 @@ Romance de José Saramago, publicado pela primeira vez em **outubro de 1982**.
 	- "Era uma vez um **soldado maneta** e uma **mulher que tinha poderes**."
 	- "Era uma vez um **padre que queria voar e morreu doido**."
 	
-	Assim, a contracapa remete para 2 dimensões:
+	Assim, a contracapa remete para 2 dimensões, sendo a narrativa uma "**fantasia histórica**":
 	- **Dimensão literária**: maravilhoso, personagens fictícias que representam um povo explorado, oprimido sob o jugo (domínio) da tirania do poder
 	- **Dimensão histórica**: baseado em factos e personagens verídicos: D. João V, Convento de Mafra, aeróstato de Bartolomeu de Gusmão, Domenico Scarlatti
 ## Personagens
@@ -189,11 +189,45 @@ XVI);
 &&faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
 ### Espaço fisico
-A ação desenrola-se em dois espaços físicos:
+A ação desenrola-se em 2 macroespaços:
 - ##### Lisboa (macroespaço)
-	Integra
+	- **Terreiro do Paço** (local onde Baltasar trabalha num açougue, após a sua chegada a Lisboa);
+	- **Rossio** (espaço que aparece no início e no fim da obra como o local onde decorre o auto de fé);
+	- **S. Sebastião da Pedreira** (espaço relacionado com a passarola do Padre Bartolomeu de Gusmão. Era, na época um espaço rural, onde existiam várias quintas que integravam palacetes).
 - ##### Mafra (macroespaço)
+	- **Alto da Vela** (local escolhido para a construção do convento, que deu lugar à vila nova, à volta do edifício)
+
+Também são referidos:
+- **Pero Pinheiro**
+- **Serra do Barregudo**
+- **Monte Junto**
+- **Torres Vedras**
+
+Mais referências:
+- ruas imundas da Lisboa setecentista
+- campos
+- caminhos
+- Tejo
+- Esplendor barroco de igrejas e palácios
+- Pobreza física das casas habitadas pelo povo
 ### Espaço social
+Levantamento de situações que reconstituem a época histórica:
+- **idas do Rei à câmara da Rainha** (séquito, vénias, vestes,...) e **contactos sexuais entre os reis** (orações, vestes,...) (início da obra);
+- **procissão de penitência (Quaresma)** (p. 28 ou 35 parágrafo «Vai sair a procissão...»);
+- **auto de fé** e respetiva **procissão** (p. 50 ou 64 parágrafo «Porém, hoje é dia de alegria...»);
+- **tourada** (p. 101/130 parágrafo «Já lá vai pelo mar fora o padre Bartolomeu Lourenço...»);
+- **procissão do Corpo de Deus** em 8 de junho de 1719 (p. 152 ou 197 parágrafo «Desce o povo ao Terreiro do Paço...»);
+- **cerimónia de colocação da primeira pedra no convento de Mafra** (p. 138 ou 180 parágrafo «Enfim, chegou o dia da inauguração...»);
+- **cerimónia de sagração do convento de Mafra** (p. 365 ou 484 parágrafo «Enfim, chegou o mais
+glorioso dos dias...»);
+- **batismos dos infantes** (p. 74 parágrafo «Porém, não convém perder de vista as diferenças...»);
+- **cortejo preparativo das bodas dos príncipes portugueses e espanhóis** (p. 309... parágrafo «Porém, ainda se encontram famílias felizes...»);
+- **lição de música de D. Maria Bárbara** (p. 166 parágrafo «Está a menina sentada ao cravo...»).
+### Espaço psicológico
+Interioridade das personagens, constituído fundamentalmente atrav´s dos so
+
+
+
 ## Tempo
 ### Tempo diegético/da história
 **Tempo em que decorre a ação**, de 1711 a 1739 (durante 28 anos).
