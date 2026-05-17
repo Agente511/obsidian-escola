@@ -1,6 +1,7 @@
 ## Elementos paratextuais
 ## Génese do romance
 ## Personagens
+### Características das personagens
 - ##### D. João V
 	- Rei absolutista
 	- Megalómano que **desvia as riquezas nacionais** para manter a **corte dominada pelo luxo**, **pela corrupção** e **pelo excesso**.
@@ -42,12 +43,28 @@
 	- Representa o transcendente e a inquietação constante do ser humano em relação à morte, ao amor, ao pecado e à existência de Deus.
 	- Ao ver a essências dos que a rodeiam, **transgride os códigos existentes** e **percepciona a hipocrisia e a mentira**.
 - ##### Padre Bartolomeu Lourenço de Gusmão
-	- Brasileiro
+	- Brasileiro, nasceu em Santos, São Paulo, em 1685
+	- Estudou física e matemática e fez experiências com balões de ar quente.
 	- Representa as **novas ideias** que **estranhavam a inculta sociedade portuguesa**.
 	- Apesar da **proteção real**, foi alvo de **chacota da corte e da Inquisição**.
 	- Grande orador sacro
-	- Curioso, sofre uma **profunda crise de fé** ao longo da obra, devido às suas **leituras diversificadas** e **postura antidogmática** numa busca incessante do saber.
-	- 
+	- Curioso, sofre uma **profunda crise de fé** ao longo da obra, devido às suas **leituras diversificadas** e **postura antidogmática** numa busca incessante do saber. Converteu-se ao judaísmo pouco antes de morrer.
+	- Conhecido como "padre voador"
+	- Tem o **sonho de voar**, que acaba por ser **concretizado pela trindade** (Bartolomeu, Baltasar e Blimunda + Scarlatti), que também **partilham a desgraça** (loucura e morte de Bartolomeu em Toledo, morte de Baltasar no auto de fé e solidão de Blimunda).
+- ##### Domenico Scarlatti
+	- Representa a **arte** que, aliada ao sonho, **cura Blimunda** e possibilita a **conclusão e o voo da passarola**.
+- ##### Povo
+	- Personagem coletiva
+	- **Verdadeiro herói da obra**, ainda que possa assumir **contornos de anti-herói**, sobretudo pelas suas **características físicas** que são apontadas a alguns dos seus membros, valorizando ainda mais a sua importância.
+	- Conjunto de **pessoas anónimas imortalizadas por Saramago** (por meio de uma listagem de nomes de A a Z, apesar de Baltasar, Blimunda, Manuel Milho, Francisco Marques  e outros serem individualizados), sendo-lhes atribuída a **construção do convento**.
+	- Ignorantes
+	- Oprimido, explorado, abusado e sacrificado pelo rei e pela Igreja.
+	- 40 mil portugueses escravizados pelo rei megalómano.
+- ##### Clero
+	- **Criticado implicitamente** durante todo discurso narrativo.
+	- Hipocrisia
+	- Violência dos representantes do espiritualismo convencional
+	- Religiosidade vazia, baseada em **rituais que levam aos desregramento, à corrupção e à degradação moral**, em vez de elevarem o espírito.
 ## Linhas de ação
 faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
