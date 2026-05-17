@@ -85,7 +85,7 @@ A deambulação permite ao poeta ultrapassar o estatuto de mero "pintor de espa�
 Através da **imaginação**, dá-se a **transfiguração poética do real** sendo descritas **novas realidades imaginárias e poéticas que estão além da realidade observável**, possibilitando a **evasão do real** para outros **espaços e tempos** face a uma realidade que desperta **"um desejo absurdo de sofrer"** ao sujeito poético.
 O **real** é o **ponto de partida** para os **"poemas-quadros"** trabalhados pela **imaginação** e a **visão de artista** de Cesário Verde.
 
-O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentido**: **visão, audição, paladar, olfato e tato**.
+O "eu" **capta a realidade** pela **percepção sensorial**, recorrendo aos **cinco sentidos**: **visão, audição, paladar, olfato e tato**.
 ## Imaginário épico em "O Sentimento dum Ocidental"
 ### Marcas específicas da epopeia
 "O Sentimento dum Ocidental" apresenta várias características em comum com *Os Lusíadas*, epopeia de Luís de Camões.
