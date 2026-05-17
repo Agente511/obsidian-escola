@@ -34,7 +34,7 @@ Romance de José Saramago, publicado em **outubro de 1982**.
 	
 	Assim, o título remete para 2 dimensões:
 	- **Dimensão temporal**: "memorial" implica um movimento de recuo no tempo
-	- **Espacial**: referência a um espaço concreto
+	- **Dimensão espacial**: referência a um espaço concreto
 - ##### Contracapa
 	"Era uma vez" conduz para um **mundo fictício**, um **universo mágico marcado pelo maravilhoso**.
 	
@@ -349,7 +349,7 @@ Ao contrário das epopeias, **Deus não tem um papel tão ativo nesta obra**, ap
 	Medida das gestações. Simboliza o coroamento dos esforços, a **conclusão de uma criação**.
 	- Blimunda procurou Baltasar durante 9 anos
 ### Símbolos
-- ##### Máquina voadora
+- ##### Máquina voadora (passarola)
 	**Sonho**, **libertação**, **esperança**.
 	Ligação entre o céu e a terra.
 	Alternativa a um espaço de repressão, intolerância e violência (Inquisição e absolutismo)
