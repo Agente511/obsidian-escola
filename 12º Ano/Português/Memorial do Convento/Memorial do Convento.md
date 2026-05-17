@@ -69,7 +69,7 @@
 
 D. João V e D. Maria Ana têm uma **relação protoclar e distante**, um **amor contratual**, **sem sentimentos** e centrado em **gerar herdeiros da Coroa**.
 
-- ##### Baltasar Sete-Sóis
+- ##### Baltasar Mateus Sete-Sóis
 	- Crítica do narrador à desumanidade da guerra, uma vez que **participa na Guerra da Sucessão Espanhola (1704-1712)**, onde **perde a mão esquerda**, sendo **excluído do exército**.
 	- **Demiurgo na construção passarola**, ajudando Bartolomeu a realizar o seu sonho.
 	- Participa na construção do convento.
@@ -79,7 +79,7 @@ D. João V e D. Maria Ana têm uma **relação protoclar e distante**, um **amor
 	- Leal
 	- Destemido
 	- Morre num auto de fé, às mãos da Inquisição
-- ##### Blimunda Sete-Luas
+- ##### Blimunda de Jesus "Sete-Luas"
 	- Inteligente
 	- Sensual
 	- Escolhe Baltasar para partilhar a sua vida, num amor pleno, de liberdade, sem compromissos e sem culpa.
@@ -132,11 +132,27 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Temas
 ## Dimensão simbólica
 ### Numeralogia
+- ##### 3
+	- Trindade terrestre (Baltasar, Blimunda e Bartolomeu)
+- ##### 7
+	**Totalidade completa e perfeita**. Fim de um ciclo.
+	- Sete-Sóis e Sete-Luas (devido à sua perfeita completude)
+	- 7 igrejas visitadas pelas mulhers na Quaresma
+	- A infanta é batizada por 7 bispos
+	- A língua portuguesa era familiar a Scarlatti já há 7 anos quando ele vem para Portugal
+	- Blimunda passa 7 vezes por Lisboa em busca de Baltasar
+- ##### 9
+	Medida das gestações. Simboliza o coroamento dos esforços, a **conclusão de uma criação**.
+	- Blimunda procurou Baltasar durante 9 anos
 ### Símbolos
-- **Máquina voadora**: sonho, libertação, esperança
-- **Sete-Sóis**: "batismo" de Baltasar, porque vê "às claras" e só pode ver à luz.
+- ##### Máquina voadora
+	Sonho, libertação, esperança
+- ##### Sete-Sóis
+	"Batismo" de Baltasar, porque **vê "às claras"** e só pode ver à luz.
 - ##### Sete-Luas
-  "Batismo de Blimunda", porque "vê" no escuro, evidenciando os dotes de clarividência
+	"Batismo" de Blimunda, porque **"vê" no escuro**, evidenciando os dotes de **clarividência**
+	- ##### Sete-Sóis e Sete-Luas
+		**Complementam-se plenamente**, funcionando como um todo, porque são o verso e o reverso da mesma realidade. São também a **união do princípio masculino e do princípio feminino** ("dormiram nessa noite os sóis e as luas abraçados enquanto as estrelas giravam devagar no céu").
 ## Intertextualidade
 ## Classificação tipológica
 ## Linguagem e estilo
