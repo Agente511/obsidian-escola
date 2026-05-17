@@ -186,6 +186,9 @@ XVI);
 >- Baltasar vai ao Monte Junto mais 6 ou 7 vezes ver a passarola (cap. XX);
 >- Voo involuntário de Baltasar (cap. XXIII).
 
+É possível comparar a construção da passarola à construção do convento:
+![[Pasted image 20260517151416.png|331]]
+
 &&faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
 ### Espaço fisico
@@ -224,9 +227,10 @@ glorioso dos dias...»);
 - **cortejo preparativo das bodas dos príncipes portugueses e espanhóis** (p. 309... parágrafo «Porém, ainda se encontram famílias felizes...»);
 - **lição de música de D. Maria Bárbara** (p. 166 parágrafo «Está a menina sentada ao cravo...»).
 ### Espaço psicológico
-Interioridade das personagens, constituído fundamentalmente atrav´s dos so
-
-
+**Interioridade das personagens**, constituído fundamentalmente através dos sonhos e pensamentos das personagens:
+- O rei sonha com a sua própria grandeza e imortalidade, com a descendência e com o convento, a rainha sonha com o cunhado (cap. I), evidenciando-se o desamor.
+- Baltasar sonha com Blimunda, o trabalho, os animais, a terra, o ar.
+  Baltasar, Blimunda e Bartolomeu Lourenço, têm o mesmo sonho, que partilham acordados, a confirmar o profundo envolvimento de todos naquela obra, ao contrário da construção do convento, executada à custa do trabalho de muitos, para realização do sonho de um só homem (o rei).
 
 ## Tempo
 ### Tempo diegético/da história
@@ -270,7 +274,8 @@ Por vezes, é feito recurso das elipses e de sumários:
 
 >[!Example] Exemplo de sumário (síntese temporal)
 >- "Tomou o padre os estudos, já bacharel, já licenciado, doutor não tarda \[...]" e "chegava, guardava na arca as esferas \[...] já estava lendo nas aulas".
-## O Narrador
+## Polos estruturais da ação narrativa (epopeias)
+## Narrador
 - **Subversão** do estatuto do narrador
 - **Polifónico** (integra várias vozes na sua voz)
 	- Predominantemente, **heterodiegético** (não participante), utilizando a **3.ª pessoa**.
@@ -286,9 +291,18 @@ Por vezes, é feito recurso das elipses e de sumários:
 	- **Omnisciente**
 - Por vozes, **identifica-se com o autor**, refletindo sobre o próprio processo de escrita e aludindo a outros romances seus.
 ## Visão crítica
-## Transgressões
-## Polos estruturais da ação narrativa (epopeias)
-## Temas
+O narrador critica, com ironia e uma sábia compreensão, a realidade portuguesa do séc. XVIII:
+- Excessivos protocolos da corte
+- Casamentos reais por conveniência
+- Hipocrisia afetiva das relações matrimoniais
+- Sublimação sexual através dos sonhos
+- Crença fanática e ilusória nos "milagres"
+- Megalomania do rei
+- Histeria religiosa do próprio povo, miserável e subjugado, mas que, nas festanças e procissões, se deixa arrastar pelos desregramentos e pela hipocrisia coletiva
+
+>[!Example] Evidências de momentos de crítica social
+>- Infante D. Francisco faz pontaria da janela do palácio para os marinheiros que se encontravam nas vergas dos barcos, matando e ferindo com 
+
 ## Dimensão simbólica
 ### Numeralogia
 - ##### 3
@@ -343,6 +357,9 @@ Por vezes, é feito recurso das elipses e de sumários:
 - ##### Morte de António José da Silva
 	(Queimado na fogueira num auto de fé no final da obra, tal como Baltasar)
 	**Perseguição a que os escritores são vítimas**, uma vez que os contextos político-sociais não os respeitam nem compreendem.
+
+## Transgressões
+## Temas
 ## Intertextualidade
 ## Classificação tipológica
 ## Linguagem e estilo
