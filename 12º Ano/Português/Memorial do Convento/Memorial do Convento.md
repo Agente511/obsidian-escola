@@ -3,17 +3,38 @@
 ## Personagens
 - ##### D. João V
 	- Rei absolutista
-	- Megalómano
+	- Megalómano que **desvia as riquezas nacionais** para manter a **corte dominada pelo luxo**, **pela corrupção** e **pelo excesso**.
 	- Adúltero
 	- Prepotente (arrogante, não deixa que lhe desrespeitem)
 	- Caprichoso
 	- Irresponsável financeiramente
 	- Vaidoso
 	- Egocêntrico
-	- Apavorado com a morte (morrer antes de cumprir a promessa de construir o convento de Mafra)
+	- Curioso que se **interessa pelas invenções de Bartolomeu de Gusmão**.
+	- Esteta que **convida Scaralatti a permanecer em Portugal**.
+	- **Apavorado com a morte** (morrer antes de cumprir a promessa de construir o convento de Mafra) **antecipa a sua imortalidade**, através da sagração do convento no dia do seu 41.º aniversário.
 	- Condena a nação a servir a sua **vaidade** e **religiosidade fanática** para c**umprir a sua promessa pessoal, de modo a garantir a sucessão**.
-	- Assume apenas o **papel gerativo de um filho e de um convento**, estando **o amor e a intimidade ausentes**
+	- Assume apenas o **papel gerativo de um filho e de um convento**, estando **o amor e a intimidade ausentes**.
+- ##### D. Maria Ana Josefa
+	- Origem austríaca
+	- Submissa
+	- Devota
+	- Insatisfeita
+	- Função de dar herdeiros à coroa
+	- Vítima consciente da **indiferença e traição do rei**, do qual abundam os filhos bastardos, mas que assume uma **atitude passiva**
+	- Nos **sonhos** **liberta-se da sua condição aristocrática e do ambiente repressivo** em que vive, para poder **explorar a sua feminilidade e sensualidade**.
+	- **Atraída pelo cunhado** D. Francisco (em sonhos), o que a leva a tentar **redimir-se através da oração e da confissão**.
+- ##### Baltasar Sete-Sóis
+	- Crítica do narrador à desumanidade da guerra, uma vez que **participa na Guerra da Sucessão Espanhola (1704-1712)**, onde **perde a mão esquerda**, sendo **excluído do exército**.
+	- Trabalhador
+	- Dedicado
+	- Simples
+	- Leal
+	- Destemido
+	- Morre num auto de fé
+- ##### Blimunda Sete-Luas
 ## Linhas de ação
+faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
 ## O Narrador
 ## Transgressões
