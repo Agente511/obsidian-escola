@@ -124,13 +124,51 @@ Considerando que a estrutura narrativa do romance está assente no **conflito mo
 São **entrelaçadas personagens e acontecimentos fictícios com reais**, tornando a ficção mais verosímil:
 ![[Pasted image 20260517014349.png|617]]
 
-## Linhas de ação
-A ação do romance organiza-se através da articulação de **3 planos narrativos**, interligados, sobretudo, através de Baltasar.
-### Construção do Convento de Mafra
+## Planos narrativos
+A ação do romance organiza-se através da articulação de **3 planos narrativos**, interligados, sobretudo, através de **Baltasar**:
+- Personagem participante do 1.º plano (construção do convento)
+- Protagonista do 2.º plano narrativo (relação com Blimunda)
+- Personagem crescentemente importante do 3.º plano (construção da passarola)
+### 1. Construção do Convento de Mafra
 Ponto de partida para a narrativa e **núcleo dos outros dois planos**.
-### Relação de Baltasar e Blimunda
-### Construção e voo da "Passarola"
 
+Após abarcar totalmente os 3 capítulos iniciais, a intriga da construção do convento é **frequentemente suplantada pelas intrigas protagonizadas por Baltasar**.
+Ao longo da obra, **a nobreza e o clero vão perdendo protagonismo**, enquanto **as personagens populares** (Baltasar, Blimunda e os construtores anónimos do convento) **vão se tornando presentes** e **progressivamente centrais**.
+
+>[!Example] Episódios exemplares do plano da construção do Convento de Mafra
+>- Promessa do rei e encontro com a rainha (cap. I);
+>- Escolha do local para a edificação do convento (cap. VIII);
+>- Compra das terras do Alto da Vela e construção dos alicerces (cap. X);
+>- Lançamento da primeira pedra (cap. XII);
+>- "Epopeia da pedra" transportada na "nau da Índia" de Pero Pinheiro a Mafra (cap. XIX)
+>- Recrutamento maciço de homens para acelerar a construção da basílica a inaugurar no 41.º aniversário do rei (22/10/1730) (cap. XII);
+>- Sagração da basílica com a presença do rei (cap. XXIV).
+### 2. Relação de Baltasar e Blimunda
+>[!Example] Episódios exemplares do plano da relação de Baltasar e Blimunda
+>- 1.º encontro no auto de fé e realização amorosa; Blimunda promete a Baltasar nunca o ver por
+dentro (cap. V);
+>- Blimunda revela o seu segredo visionário a Baltasar (cap. VIII);
+>- Instalam-se em Mafra, onde Blimunda conhece a família de Baltasar (cap. X);
+>- Baltasar pede a Blimunda que, se ele morrer primeiro, veja a sua vontade (cap. XII);
+>- Blimunda adoece por ter estado em contacto próximo com a morte (cap. XV);
+>- Blimunda e Baltasar voam juntos na passarola que ajudaram a construir (cap. XVI);
+>- Vão ambos ao Monte Junto ver a passarola (cap. XX);
+>- A última noite de amor; os olhos do amor (cap. XXIII);
+>- Blimunda procura Baltasar durante 9 anos. Reencontra-o a ser queimado no auto de fé e recolhe a sua vontade. (cap. XXV).
+### 3. Construção e voo da passarola do padre Bartolomeu de Gusmão
+>[!Example] Episódios examplares do plano da construção e voo da passarola
+>- Conversa de Bartolomeu e Baltasar sobre o sonho de voar e 1.ª visita de Baltasar à abegoaria (cap. VI);
+>- Baltasar e Blimunda trabalham na passarola e o padre Bartolomeu parte para a Holanda (cap. IX);
+>- O padre regressa da Holanda e revela o segredo do éter: é a vontade dos homens (cap. XI);
+>- Scarlatti visita a abegoaria, vê a passarola e inicia a sua colaboração, tocando cravo (cap. XIV);
+>- Blimunda recolhe as 2000 vontades, durante a peste, adoece e é curada pela música de Scarlatti
+(XV);
+>- O voo da passarola (cap. XVI);
+>- Com medo da Inquisição, Bartolomeu tenta queimar a passarola, mas Baltasar impede-o (cap.
+XVI);
+>- Dois meses depois, Baltasar regressa ao Monte Junto, onde está a passarola escondida (cap. XVII);
+>- Baltasar vai ao Monte Junto mais 6 ou 7 vezes ver a passarola (cap. XX);
+>- Voo involuntário de Baltasar (cap. XXIII).
 
 faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
