@@ -1,4 +1,7 @@
 ## Contextualização
+>[!Info] Génese do romance
+>
+
 >[!Info] Contextualização histórica
 >##### D. João V
 >- Nascimento: 22/10/1689, Lisboa
@@ -21,8 +24,24 @@
 >[!Info] Contextualização social
 >![[Pasted image 20260517103817.png]]
 ## Elementos paratextuais
-- #### Título
-	- **Memorial**: relato de memórias
+- ##### Título
+	- **Memorial**: relato de memórias (memorialismo), relembrando factos passados e relatando acontecimentos futuros.
+	- **Convento**: Convento de Mafra
+	
+	Assim, o título remete para 2 dimensões:
+	- **Dimensão temporal**: "memorial" implica um movimento de recuo no tempo
+	- **Espacial**: referência a um espaço concreto
+- ##### Contracapa
+	"Era uma vez" conduz para um **mundo fictício**, um **universo mágico marcado pelo maravilhoso**.
+	
+	**3 linhas de ação**:
+	- "Era uma vez um rei que fez a promessa de **levantar um convento em Mafra**. Era uma vez a **gente que construiu esse convento**."
+	- "Era uma vez um **soldado maneta** e uma **mulher que tinha poderes**."
+	- "Era uma vez um **padre que queria voar e morreu doido**."
+	
+	Assim, a contracapa remete para 2 dimensões:
+	- **Dimensão literária**: maravilhoso, personagens fictícias que representam um povo explorado, oprimido sob o jugo (domínio) da tirania do poder
+	- **Dimensão histórica**: baseado em factos e personagens verídicos: D. João V, Convento de Mafra, aeróstato de Bartolomeu de Gusmão, Domenico Scarlatti
 ## Génese do romance
 ## Personagens
 - ##### D. João V
