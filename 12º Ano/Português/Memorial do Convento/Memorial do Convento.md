@@ -1,7 +1,4 @@
 ## Contextualização
->[!Info] Contextualização social
->![[Pasted image 20260517103817.png]]
-
 >[!Info] Contextualização histórica
 >##### D. João V
 >- Nascimento: 22/10/1689, Lisboa
@@ -11,7 +8,17 @@
 >- Morte: 31/07/1750
 >
 >##### Época
->- Guerra da Sucessão de 
+>- Guerra da Sucessão de Espanha, que envolvia diversas monarquias europeias em torno dos direitos de sucessão da Coroa espanhola. O Tratado de Utreque, favorável a Portugal, restabeleceu a paz.
+>- Período em que houve maior afluxo de ouro vindo do Brasil, além do rendimento do tabaco, do açúcar e do pau-brasil, assim como o comércio de escravos africanos. Também o vinho do Porto e a exportação de sal enriqueciam o país.
+>- D. João V gastou quase tudo para promover o seu prestígio e manter o luxo da corte, mas também não havia pessoas para produzir riqueza a partir daquela que entrava em Portugal, então vários estrangeiros instalaram as suas indústrias no país, que, no entanto, não foram bem-sucedidas devido à falta de organização económica.
+>- A construção do Palácio-Convento de Mafra levou à importação de técnicos estrangeiros e de obras de arte produzidas fora de Portugal.
+>- Construção do Aqueduto das Águas Livres, apesar de não ser iniciativa de D. João V.
+>- Portugueses partiam para o estrangeiro, onde aprendiam o que, mais tarde, desejavam implementar em Portugal, como o padre Bartolomeu de Gusmão que inventou a passarola.
+>- D. João V, sensível às novas ideias, criou a Real Academia Portuguesa de História para promover a renovação dos métodos de investigação histórica.
+>- A Inquisição perseguia os judeus, tentando-os converter à força. Os que mantinham práticas de judaísmo eram condenadas matando-os e confiscando os seus bens
+
+>[!Info] Contextualização social
+>![[Pasted image 20260517103817.png]]
 ## Elementos paratextuais
 ## Génese do romance
 ## Personagens
