@@ -1,7 +1,6 @@
 ## Elementos paratextuais
 ## Génese do romance
 ## Personagens
-### Características das personagens
 - ##### D. João V
 	- Rei absolutista
 	- Megalómano que **desvia as riquezas nacionais** para manter a **corte dominada pelo luxo**, **pela corrupção** e **pelo excesso**.
@@ -65,6 +64,16 @@
 	- Hipocrisia
 	- Violência dos representantes do espiritualismo convencional
 	- Religiosidade vazia, baseada em **rituais que levam aos desregramento, à corrupção e à degradação moral**, em vez de elevarem o espírito.
+
+Considerando que a estrutura narrativa do romance está assente no **conflito motivado pela construção do Convento de Mafra**, verificam-se os seguintes papéis:
+- ##### Antagonistas
+	Clero e nobreza (classe dominante e opressora) Vs. Povo (classe dominada e oprimida).
+	Ao longo da obra, os **primeiros acabam por ser rebaixados e ridicularizados**, enquanto que o **povo é valorizado pelo narrador**.
+- ##### Mediadores do conflito
+	Baltasar e Blimunda (povo), Padre Bartolomeu (clero) e Domenico Scarlatti (aristocrata e músico)
+
+![[Pasted image 20260517014349.png|617]]
+
 ## Linhas de ação
 faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
