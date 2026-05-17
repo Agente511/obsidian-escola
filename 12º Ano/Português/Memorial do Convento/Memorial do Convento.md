@@ -286,7 +286,7 @@ Por vezes, é feito recurso das elipses e de sumários:
 - **Polifónico** (integra várias vozes na sua voz)
 	- Predominantemente, **heterodiegético** (não participante), utilizando a **3.ª pessoa**.
 	- Por vezes, passa a **homodiegético** (participante), utilizando a **1.ª pessoa do plural**
-	- Usa a **1.ª pessoa do singular** para **aproximar a sua voz à voz das personagens** ("\[...] e esta sou eu, Sebastiana Maria de Jesus, um quarto de cristã-nova"), **mostrando os acontecimentos através dos pontos de vista dessas**
+	- Usa a **1.ª pessoa do singular** para **aproximar a sua voz à voz das personagens** ("\[...] e esta sou eu, Sebastiana Maria de Jesus, um quarto de cristã-nova"), **mostrando os acontecimentos através dos pontos de vista dessas**.
 	- **Dialoga com as personagens** ("Tens a barba cheia de brancas, Baltasar \[...]")
 - **Polivalente**:
 	- Narra, comenta, recorda e prenuncia

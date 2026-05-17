@@ -33,7 +33,8 @@
               "title": "Intertextualidade - Memorial do Convento"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
+                "file": "12º Ano/Português/Memorial do Convento/Intertextualidade - Memorial do Convento.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Memorial do Convento"
+              "title": "Índice de Intertextualidade - Memorial do Convento"
             }
           },
           {
@@ -220,12 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62bc43d67a43b764",
+  "active": "9230d5741a80e20c",
   "lastOpenFiles": [
+    "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
     "12º Ano/Português/Memorial do Convento/Intertextualidade - Memorial do Convento.pdf",
     "12º Ano/Português/Fernando Pessoa/Mensagem/Intertextualidade de Mensagem.md",
     "11º Ano/Português/Educação Literária/Os Maias/Os Maias.md",
-    "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
     "12º Ano/Português/Memorial do Convento/Resumo - Memorial do Convento.md",
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Sermão de Santo António - Discurso Político.md",
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Capítulo VI - Peroração (Elogio final e apelo aos peixes).md",
