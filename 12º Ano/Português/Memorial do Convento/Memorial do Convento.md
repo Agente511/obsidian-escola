@@ -71,7 +71,7 @@ Romance de José Saramago, publicado pela primeira vez em **outubro de 1982**.
 	- Nos **sonhos** **liberta-se da sua condição aristocrática e do ambiente repressivo** em que vive, para poder **explorar a sua feminilidade e sensualidade**.
 	- **Atraída pelo cunhado** D. Francisco (em sonhos), o que a leva a tentar **redimir-se através da oração e da confissão**.
 
-D. João V e D. Maria Ana têm uma **relação protocolar, fria e distante**, um **amor contratual**, **sem sentimentos** e centrado em **gerar herdeiros da Coroa**.
+D. João V e D. Maria Ana têm uma **relação protocolar, fria e distante**, um **amor contratual**, **sem sentimentos** e centrado em **gerar herdeiros da Coroa**, com uma faceta quase animalesca ("emprenhou").
 
 - ##### Baltasar Mateus Sete-Sóis ^80319b
 	- Crítica do narrador à desumanidade da guerra, uma vez que **participa na Guerra da Sucessão Espanhola (1704-1712)**, onde **perde a mão esquerda**, sendo **excluído do exército**.
@@ -196,8 +196,6 @@ XVI);
 
 É possível comparar a construção da passarola à construção do convento:
 ![[Pasted image 20260517151416.png|331]]
-
-&&faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
 ### Espaço fisico
 A ação desenrola-se em 2 macroespaços:
@@ -382,7 +380,14 @@ Ao contrário das epopeias, **Deus não tem um papel tão ativo nesta obra**, ap
 - ##### Morte de António José da Silva
 	(Queimado na fogueira num auto de fé no final da obra, tal como Baltasar)
 	**Perseguição a que os escritores são vítimas**, uma vez que os contextos político-sociais não os respeitam nem compreendem.
-
+## Classificação tipológica
+*Memorial do Convento* pode ser considerado:
+- **Romance histórico**: factos históricos
+- **Romance de espaço**: descrição do ambiente histórico e os quadros sociais
+- **Romance social**: narração dos costumes (procissões, touradas, etc.)
+- **Romance de intervenção**: denuncia a sociedade da época
+## Intertextualidade
+*(ver [[Intertextualidade - Memorial do Convento.pdf]])*
 ## Transgressões
 - **Transgressão do código religioso**:
 	- Sumptuosidade (luxo) do convento
@@ -393,6 +398,7 @@ Ao contrário das epopeias, **Deus não tem um papel tão ativo nesta obra**, ap
 	- Contraste entre o amor contratual da realeza, com objetivo único de procriação, e o amor puro de Baltasar e Blimunda
 - **Transgressão linguística** ^19b1bd
 	- Não são utilizadas as regras de pontuação tradicionais e convencionais, com o objetivo de se aproximar ao discurso oral, apelando à cumplicidade do leitor:
+		- Ausência de marcas gráficas do discurso direto
 		- Não utilização do ponto de interrogação nas frases interrogativas, que se reconhecem pela estrutura sintática.
 	- Altera aforismos populares e citações da Bíblia
 	- Uso de linguagem oralizante
@@ -400,18 +406,19 @@ Ao contrário das epopeias, **Deus não tem um papel tão ativo nesta obra**, ap
 	- A história vence a História (o povo trabalhador é mais valorizado)
 	- A música vence a doença
 	- O sonho permite-nos ir mais longe
-## Intertextualidade
-*(ver [[Intertextualidade - Memorial do Convento.pdf]])*
-## Classificação tipológica
-*Memorial do Convento* pode ser considerado:
-- **Romance histórico**: factos históricos
-- **Romance de espaço**: descrição do ambiente histórico e os quadros sociais
-- **Romance social**: narração dos costumes (procissões, touradas, etc.)
-- **Romance de intervenção**: denuncia a sociedade da época
 ## Linguagem e estilo
+*(faz parte das [[#^19b1bd|transgressão linguística]])*
+
 - **Tom oralizante** ("narrador oral"):
 	- ausência de pontuação
 	- jogos de sons e pausas
-- **Ausência de marcas distintivas do discurso direto** (faz parte das [[#^19b1bd|transgressã]]):
+	- trocadilhos
+- **Ausência de marcas distintivas do discurso direto**:
 	- Inexistência de dois pontos e travessões
 	- Marcação de falas através do uso de maiúsculas
+- **Utilização pessoal da pontuação**:
+	- Substituição dos pontos de exclamação
+- Inclusão de **comentários do narrador**
+- **Ironia e sarcasmo oportunos** frequentes
+- Uso de **paralelismos anafóricos**
+- Uso de **provérbios populares**

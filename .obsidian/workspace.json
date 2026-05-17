@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,9 +221,10 @@
   },
   "active": "62bc43d67a43b764",
   "lastOpenFiles": [
+    "12º Ano/Português/Memorial do Convento/Linguagem e estilo aprofundada - Memorial do Convento.pdf",
+    "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
     "12º Ano/Português/Memorial do Convento/Intertextualidade - Memorial do Convento.pdf",
     "12º Ano/Português/Memorial do Convento/Resumo - Memorial do Convento.md",
-    "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
     "Pasted image 20260517154542.png",
     "12º Ano/Português/Memorial do Convento/Espaço social aprofundado - Memorial do Convento.pdf",
     "Pasted image 20260517151416.png",
@@ -264,7 +266,6 @@
     "Pasted image 20260516184757.png",
     "Pasted image 20260516184654.png",
     "12º Ano/Biologia/site-lib/html/file-tree-content.html",
-    "12º Ano/Biologia/site-lib/styles/obsidian.css",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "Sem título 1.canvas",
     "Sem título.canvas"
