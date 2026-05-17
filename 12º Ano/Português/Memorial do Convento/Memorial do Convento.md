@@ -84,7 +84,8 @@ D. João V e D. Maria Ana têm uma **relação protoclar e distante**, um **amor
 	- Sensual
 	- Escolhe Baltasar para partilhar a sua vida, num amor pleno, de liberdade, sem compromissos e sem culpa.
 	- Dotada do poderes sobrenaturais de ver as pessoas por dentro (**ecovisão**), tal como a mãe, o que a **transfigura** e **aproxima da espiritualidade da música de Scarlatti e do sonho de Bartolomeu**.
-	- Representa o transcendente e a inquietação constante do ser humano em relação à morte, ao amor, ao pecado e à existência de Deus.
+	- Os seus poderes apenas funcionavam em jejum e quando não era quarto (crescente ou minguante) de lua
+	- Representa o **transcendente** e a **inquietação constante do ser humano em relação à morte, ao amor, ao pecado e à existência de Deus**, pois ela compreende-as.
 	- Ao ver a essências dos que a rodeiam, **transgride os códigos existentes** e **percepciona a hipocrisia e a mentira**.
 
 Baltasar e Blimunda têm uma **relação de amor intenso e complementariedade**.
@@ -133,6 +134,7 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Dimensão simbólica
 ### Numeralogia
 - ##### 3
+	**Unidade divina**. A **Santíssima Trindade** cristã (Pai, Filho e Espírito Santo).
 	- Trindade terrestre (Baltasar, Blimunda e Bartolomeu)
 - ##### 7
 	**Totalidade completa e perfeita**. Fim de um ciclo.
@@ -146,13 +148,24 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 	- Blimunda procurou Baltasar durante 9 anos
 ### Símbolos
 - ##### Máquina voadora
-	Sonho, libertação, esperança
+	**Sonho**, **libertação**, **esperança**.
+	Alternativa a um espaço de repressão, intolerância e violência (Inquisição e absolutismo)
 - ##### Sete-Sóis
 	"Batismo" de Baltasar, porque **vê "às claras"** e só pode ver à luz.
+	Vida e renovação de energias.
 - ##### Sete-Luas
-	"Batismo" de Blimunda, porque **"vê" no escuro**, evidenciando os dotes de **clarividência**
+	"Batismo" de Blimunda, porque **"vê" no escuro**, evidenciando os dotes de **clarividência**.
+	Força vital.
 	- ##### Sete-Sóis e Sete-Luas
 		**Complementam-se plenamente**, funcionando como um todo, porque são o verso e o reverso da mesma realidade. São também a **união do princípio masculino e do princípio feminino** ("dormiram nessa noite os sóis e as luas abraçados enquanto as estrelas giravam devagar no céu").
+- ##### Convento de Mafra
+	**Ostentação** régia, **opressão** e **vaidade** dos poderosos.
+	**Sacrifício**, **exploração** e **miséria** do povo operário que nele trabalhou.
+- ##### Cobertor
+	(Trazido da Áustria pela rainha)
+	Separação, **frieza do amor**, ausência do prazer e desejos insatisfeitos.
+- ##### Colher
+	(Usada )
 ## Intertextualidade
 ## Classificação tipológica
 ## Linguagem e estilo

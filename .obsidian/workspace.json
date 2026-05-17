@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "4f5e08690fe3545a",
@@ -223,8 +224,8 @@
   },
   "active": "fe3102210f63ce29",
   "lastOpenFiles": [
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "12º Ano/Português/Memorial do Convento/Resumo - Memorial do Convento.md",
     "Pasted image 20260517103817.png",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
