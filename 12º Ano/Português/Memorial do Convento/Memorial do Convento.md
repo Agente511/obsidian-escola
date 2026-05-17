@@ -67,9 +67,9 @@
 	- Nos **sonhos** **liberta-se da sua condição aristocrática e do ambiente repressivo** em que vive, para poder **explorar a sua feminilidade e sensualidade**.
 	- **Atraída pelo cunhado** D. Francisco (em sonhos), o que a leva a tentar **redimir-se através da oração e da confissão**.
 
-D. João V e D. Maria Ana têm uma **relação protoclar e distante**, um **amor contratual**, **sem sentimentos** e centrado em **gerar herdeiros da Coroa**.
+D. João V e D. Maria Ana têm uma **relação protocolar, fria e distante**, um **amor contratual**, **sem sentimentos** e centrado em **gerar herdeiros da Coroa**.
 
-- ##### Baltasar Mateus Sete-Sóis
+- ##### Baltasar Mateus Sete-Sóis ^80319b
 	- Crítica do narrador à desumanidade da guerra, uma vez que **participa na Guerra da Sucessão Espanhola (1704-1712)**, onde **perde a mão esquerda**, sendo **excluído do exército**.
 	- **Demiurgo na construção passarola**, ajudando Bartolomeu a realizar o seu sonho.
 	- Participa na construção do convento.
@@ -79,7 +79,7 @@ D. João V e D. Maria Ana têm uma **relação protoclar e distante**, um **amor
 	- Leal
 	- Destemido
 	- Morre num auto de fé, às mãos da Inquisição
-- ##### Blimunda de Jesus "Sete-Luas"
+- ##### Blimunda de Jesus "Sete-Luas" ^563a52
 	- Inteligente
 	- Sensual
 	- Escolhe Baltasar para partilhar a sua vida, num amor pleno, de liberdade, sem compromissos e sem culpa.
@@ -88,9 +88,9 @@ D. João V e D. Maria Ana têm uma **relação protoclar e distante**, um **amor
 	- Representa o **transcendente** e a **inquietação constante do ser humano em relação à morte, ao amor, ao pecado e à existência de Deus**, pois ela compreende-as.
 	- Ao ver a essências dos que a rodeiam, **transgride os códigos existentes** e **percepciona a hipocrisia e a mentira**.
 
-Baltasar e Blimunda têm uma **relação de amor intenso e complementariedade**.
+Baltasar e Blimunda têm uma **relação de amor puro, sincero e intenso e de complementariedade**, pouco convencional para a época.
 
-- ##### Padre Bartolomeu Lourenço de Gusmão
+- ##### Padre Bartolomeu Lourenço de Gusmão ^2d075c
 	- Brasileiro, nasceu em Santos, São Paulo, em 1685
 	- Estudou física e matemática e fez experiências com balões de ar quente.
 	- Representa as **novas ideias** que **estranhavam a inculta sociedade portuguesa**.
@@ -99,8 +99,14 @@ Baltasar e Blimunda têm uma **relação de amor intenso e complementariedade**.
 	- Curioso, sofre uma **profunda crise de fé** ao longo da obra, devido às suas **leituras diversificadas** e **postura antidogmática** numa busca incessante do saber. Converteu-se ao judaísmo pouco antes de morrer.
 	- Conhecido como "padre voador"
 	- Tem o **sonho de voar**, que acaba por ser **concretizado pela trindade** (Bartolomeu, Baltasar e Blimunda + Scarlatti), que também **partilham a desgraça** (loucura e morte de Bartolomeu em Toledo, morte de Baltasar no auto de fé e solidão de Blimunda).
-- ##### Domenico Scarlatti
+
+[[#^80319b|Baltasar]], [[#^563a52|Blimunda]] e o [[#^2d075c|padre Bartolomeu]] têm uma relação de **amizade verdadeira**, formando uma trindade terrestre.
+
+- ##### Domenico Scarlatti ^4a233d
 	- Representa a **arte** que, aliada ao sonho, **cura Blimunda** e possibilita a **conclusão e o voo da passarola**.
+
+[[#^80319b|Baltasar]], [[#^563a52|Blimunda]], o [[#^2d075c|padre Bartolomeu]] e [[#^4a233d|Scarlatti]] têm uma relação marcada pela **lealdade** e a **partilha de segredos**.
+
 - ##### Povo
 	- Personagem coletiva
 	- **Verdadeiro herói da obra**, ainda que possa assumir **contornos de anti-herói**, sobretudo pelas suas **características físicas** que são apontadas a alguns dos seus membros, valorizando ainda mais a sua importância.
@@ -179,6 +185,15 @@ XVI);
 faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 ## Espaços
 ## Tempo
+### Tempo diegético/histórico
+**Tempo em que decorre a ação** (Durante 28 anos, na **primeira metade do séc. XVIII**, durante o **reinado de D. João V**).
+- Início da narrativa - 1711
+- Benção da primeira pedra do convento - 1717
+- Rei casou-se, 3 anos antes, com D. Maria Ana Josefa - 1708
+- Final da narrativa - 1739
+
+
+### Tempo da narrativa
 ## O Narrador
 - **Subversão** do estatuto do narrador
 - **Polifónico** (integra várias vozes na sua voz)
@@ -193,8 +208,8 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 	- **Crítico**
 	- **Irónico**
 	- **Omnisciente**
-- Por vozes, **identifica-se com o autor**, refletindo sobre o próprio processo de escrita 
-## Crítica
+- Por vozes, **identifica-se com o autor**, refletindo sobre o próprio processo de escrita e aludindo a outros romances seus.
+## Visão crítica
 ## Transgressões
 ## Polos estruturais da ação narrativa (epopeias)
 ## Temas
@@ -205,7 +220,11 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 	- Trindade terrestre (Bartolomeu - Pai, Baltasar - Filho, Blimunda - Espírito Santo)
 - ##### 4
 	**Totalidade**. 4 pontos cardeais.
-	- Trindade (Bartolomeu, Baltasar e Blimunda + Scarlatti)
+	- Trindade a que se associa Scarlatti:
+		- Bartolomeu: ciência e saber alquímico
+		- Baltasar: força, destreza e engenho
+		- Blimunda: capacidade sobrenatural
+		- Scarlatti: sensibilidade artística e musical
 - ##### 7
 	**Totalidade completa e perfeita**. Fim de um ciclo.
 	- A 1.ª pedra do convento foi colocada às 7h de 17/11/1717
@@ -231,7 +250,7 @@ faceta quase animalesca da relação do rei e da rainha ("emprenhou")
 	- ##### Sete-Sóis e Sete-Luas
 		**Complementam-se plenamente**, funcionando como um todo, porque são o verso e o reverso da mesma realidade. São também a **união do princípio masculino e do princípio feminino** ("dormiram nessa noite os sóis e as luas abraçados enquanto as estrelas giravam devagar no céu").
 - ##### Convento de Mafra
-	**Ostentação** régia, **opressão** e **vaidade** dos poderosos.
+	**Ostentação** régia, **megalomania**, **opressão** e **vaidade** dos poderosos.
 	**Sacrifício**, **exploração** e **miséria** do povo operário que nele trabalhou.
 - ##### Sonho
 	Forma de ultrapassar os medos e as ansiedades e concretizar os desejos na construção dos percursos de vida.
