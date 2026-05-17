@@ -208,11 +208,11 @@ A ação desenrola-se em 2 macroespaços:
 - ##### Mafra (macroespaço)
 	- **Alto da Vela** (local escolhido para a construção do convento, que deu lugar à vila nova, à volta do edifício)
 	- **Pero Pinheiro** (de onde é trazida a pedra para a construção do convento)
-	- **Monte Junto** (onde aterra a passarola depois de ter sobrevoado Mafra)
+	- **Monte Junto** (onde aterra a passarola depois de ter sobrevoado Mafra; onde Bartolomeu desaparece; onde Baltasar e Blimunda conservam a passarola)
+	- **Ilha da Madeira** (onde se alojam os trabalhadores deslocados para as obras do convento)
+
 Também são referidos:
-
 - **Serra do Barregudo**
-
 - **Torres Vedras**
 
 Mais referências:
@@ -384,8 +384,34 @@ Ao contrário das epopeias, **Deus não tem um papel tão ativo nesta obra**, ap
 	**Perseguição a que os escritores são vítimas**, uma vez que os contextos político-sociais não os respeitam nem compreendem.
 
 ## Transgressões
-
-## Temas
+- **Transgressão do código religioso**:
+	- Sumptuosidade (luxo) do convento
+	- Egoísmo
+	- Forma desumana como são levados os trabalhadores para o convento e recrutamento à força
+	- Infração do voto de castidade pelas freiras
+- **Transgressão do código sexual**:
+	- Contraste entre o amor contratual da realeza, com objetivo único de procriação, e o amor puro de Baltasar e Blimunda
+- **Transgressão linguística** ^19b1bd
+	- Não são utilizadas as regras de pontuação tradicionais e convencionais, com o objetivo de se aproximar ao discurso oral, apelando à cumplicidade do leitor:
+		- Não utilização do ponto de interrogação nas frases interrogativas, que se reconhecem pela estrutura sintática.
+	- Altera aforismos populares e citações da Bíblia
+	- Uso de linguagem oralizante
+- **Transgressão ficcional**
+	- A história vence a História (o povo trabalhador é mais valorizado)
+	- A música vence a doença
+	- O sonho permite-nos ir mais longe
 ## Intertextualidade
+*(ver [[Intertextualidade - Memorial do Convento.pdf]])*
 ## Classificação tipológica
+*Memorial do Convento* pode ser considerado:
+- **Romance histórico**: factos históricos
+- **Romance de espaço**: descrição do ambiente histórico e os quadros sociais
+- **Romance social**: narração dos costumes (procissões, touradas, etc.)
+- **Romance de intervenção**: denuncia a sociedade da época
 ## Linguagem e estilo
+- **Tom oralizante** ("narrador oral"):
+	- ausência de pontuação
+	- jogos de sons e pausas
+- **Ausência de marcas distintivas do discurso direto** (faz parte das [[#^19b1bd|transgressã]]):
+	- Inexistência de dois pontos e travessões
+	- Marcação de falas através do uso de maiúsculas
