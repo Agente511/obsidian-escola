@@ -241,7 +241,7 @@ glorioso dos dias...»);
 ## Tempo
 ### Tempo diegético/da história
 **Tempo em que decorre a ação**, de 1711 a 1739 (durante 28 anos).
-### Tempo diegético/histórico
+### Tempo histórico
 **Primeira metade do séc. XVIII**, durante o **reinado de D. João V**.
 - Período caracterizado pela ostentação e riqueza propiciada pelo ouro do Brasil, que, no entanto, não contribuiu para o desenvolvimento económico do país, devido maioritariamente ao esbanjamento do rei e da corte.
 - O absolutismo político e a Inquisição comandavam a sociedade, em que os ricos podiam tudo e os pobres viviam na miséria.
@@ -286,7 +286,7 @@ Por vezes, é feito recurso das elipses e de sumários:
 - **Polifónico** (integra várias vozes na sua voz)
 	- Predominantemente, **heterodiegético** (não participante), utilizando a **3.ª pessoa**.
 	- Por vezes, passa a **homodiegético** (participante), utilizando a **1.ª pessoa do plural**
-	- Usa a **1.ª pessoa do singular** para **aproximar a sua voz à voz das personagens** ("\[...] e esta sou eu, Sebastiana Maria de Jesus, um quarto de cristã-nova), **mostrando os acontecimentos através dos seus pontos de vista**
+	- Usa a **1.ª pessoa do singular** para **aproximar a sua voz à voz das personagens** ("\[...] e esta sou eu, Sebastiana Maria de Jesus, um quarto de cristã-nova"), **mostrando os acontecimentos através dos pontos de vista dessas**
 	- **Dialoga com as personagens** ("Tens a barba cheia de brancas, Baltasar \[...]")
 - **Polivalente**:
 	- Narra, comenta, recorda e prenuncia
@@ -295,7 +295,7 @@ Por vezes, é feito recurso das elipses e de sumários:
 	- **Crítico**
 	- **Irónico**
 	- **Omnisciente**
-- Por vozes, **identifica-se com o autor**, refletindo sobre o próprio processo de escrita e aludindo a outros romances seus.
+- Por vezes, **identifica-se com o autor**, refletindo sobre o próprio processo de escrita e aludindo a outros romances seus.
 ## Visão crítica
 O narrador critica, com ironia e uma sábia compreensão, a realidade portuguesa do séc. XVIII:
 - Excessivos protocolos da corte
@@ -341,7 +341,7 @@ Ao contrário das epopeias, **Deus não tem um papel tão ativo nesta obra**, ap
 	**Totalidade completa e perfeita**. Fim de um ciclo.
 	- A 1.ª pedra do convento foi colocada às 7h de 17/11/1717
 	- Sete-Sóis e Sete-Luas (devido à sua perfeita completude)
-	- 7 igrejas visitadas pelas mulhers na Quaresma
+	- 7 igrejas visitadas pelas mulheres na Quaresma
 	- A infanta é batizada por 7 bispos
 	- A língua portuguesa era familiar a Scarlatti já há 7 anos quando ele vem para Portugal
 	- Blimunda passa 7 vezes por Lisboa em busca de Baltasar
