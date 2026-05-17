@@ -262,7 +262,7 @@ O narrador relata ainda **analepses** e **prolepses**, situando o romance num **
 >- "Este que por desafrontada..." - "na grande entrada de onze mil homens que fizemos em Outubro do ano passado e que terminou com perda de duzentos nossos...";
 
 >[!Example] Exemplos de prolepses
->- Morte do filho mais novo da irmã de Baltasar, com 3 meses, idade com a qual o infante D. Pedro também morreu ("\[...] só o mais velho vingará, porque ao outro hão de levá-lo com as bexigas antes de passados três meses \[...], "\[...] por compensação da morte desta criança, morrerá o infante D. Pedro quando chegar à mesma idade \[...]", cap. XX)
+>- Morte do filho mais novo da irmã de Baltasar, com a mesma idade que o infante D. Pedro também morreu ("\[...] só o mais velho vingará, porque ao outro hão de levá-lo com as bexigas antes de passados três meses \[...], "\[...] por compensação da morte desta criança, morrerá o infante D. Pedro quando chegar à mesma idade \[...]", cap. XX)
 >- Morte de Álvaro Diogo ("\[...] que em breve tempo cairá duma parede aonde não tinha que subir, não lho exigia já o ofício, foi lá para ajeitar uma pedra que das suas mãos saíra \[...], cap. XXIII)
 
 >[!Example] Exemplos de referências a acontecimentos posteriores ao [[#Tempo diegético/da história|tempo da história]]
