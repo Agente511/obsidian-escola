@@ -117,7 +117,7 @@ Baltasar e Blimunda têm uma **relação de amor puro, sincero e intenso e de co
 	- Conjunto de **pessoas anónimas imortalizadas por Saramago** (por meio de uma listagem de nomes de A a Z, apesar de Baltasar, Blimunda, Manuel Milho, Francisco Marques  e outros serem individualizados), sendo-lhes atribuída a **construção do convento**.
 	- Ignorantes
 	- Oprimido, explorado, abusado e sacrificado pelo rei e pela Igreja.
-	- 52 mil trabalhadores escravizados pelo rei megalómano.
+	- 40 mil trabalhadores escravizados pelo rei megalómano.
 - ##### Clero
 	- **Criticado implicitamente** durante todo discurso narrativo.
 	- Hipocrisia
@@ -147,6 +147,8 @@ A ação do romance organiza-se através da articulação de **3 planos narrativ
 - Personagem crescentemente importante do 3.º plano (construção da passarola)
 ### 1. Construção do Convento de Mafra
 Ponto de partida para a narrativa e **núcleo dos outros dois planos**.
+"Era uma vez a gente que construiu esse convento."
+**Epopeia do trabalho**.
 
 Após abarcar totalmente os 3 capítulos iniciais, a intriga da construção do convento é **frequentemente suplantada pelas intrigas protagonizadas por Baltasar**.
 Ao longo da obra, **a nobreza e o clero vão perdendo protagonismo**, enquanto **as personagens populares** (Baltasar, Blimunda e os construtores anónimos do convento) **vão se tornando presentes** e **progressivamente centrais**.
@@ -160,6 +162,9 @@ Ao longo da obra, **a nobreza e o clero vão perdendo protagonismo**, enquanto *
 >- Recrutamento maciço de homens para acelerar a construção da basílica a inaugurar no 41.º aniversário do rei (22/10/1730) (cap. XII);
 >- Sagração da basílica com a presença do rei (cap. XXIV).
 ### 2. Relação de Baltasar e Blimunda
+"Era uma vez um solado maneta e uma mulher que tinha poderes."
+**Epopeia do amor**
+
 >[!Example] Episódios exemplares do plano da relação de Baltasar e Blimunda
 >- 1.º encontro no auto de fé e realização amorosa; Blimunda promete a Baltasar nunca o ver por
 dentro (cap. V);
@@ -172,6 +177,9 @@ dentro (cap. V);
 >- A última noite de amor; os olhos do amor (cap. XXIII);
 >- Blimunda procura Baltasar durante 9 anos. Reencontra-o a ser queimado no auto de fé e recolhe a sua vontade. (cap. XXV).
 ### 3. Construção e voo da passarola do padre Bartolomeu de Gusmão
+"Era uma vez um padre que tinha um sonho e morreu doido."
+**Epopeia do sonho**
+
 >[!Example] Episódios examplares do plano da construção e voo da passarola
 >- Conversa de Bartolomeu e Baltasar sobre o sonho de voar e 1.ª visita de Baltasar à abegoaria (cap. VI);
 >- Baltasar e Blimunda trabalham na passarola e o padre Bartolomeu parte para a Holanda (cap. IX);
@@ -274,7 +282,7 @@ Por vezes, é feito recurso das elipses e de sumários:
 
 >[!Example] Exemplo de sumário (síntese temporal)
 >- "Tomou o padre os estudos, já bacharel, já licenciado, doutor não tarda \[...]" e "chegava, guardava na arca as esferas \[...] já estava lendo nas aulas".
-## Polos estruturais da ação narrativa (epopeias)
+
 ## Narrador
 - **Subversão** do estatuto do narrador
 - **Polifónico** (integra várias vozes na sua voz)
@@ -294,14 +302,23 @@ Por vezes, é feito recurso das elipses e de sumários:
 O narrador critica, com ironia e uma sábia compreensão, a realidade portuguesa do séc. XVIII:
 - Excessivos protocolos da corte
 - Casamentos reais por conveniência
-- Hipocrisia afetiva das relações matrimoniais
 - Sublimação sexual através dos sonhos
 - Crença fanática e ilusória nos "milagres"
 - Megalomania do rei
+- Omnipotência dos poderosos
+- Igreja hipócrita e contraditória que provoca alienação das massas populares
+- Desprezos dos produtos nacionais, em defesa dos estrangeiros
+- Adultério e corrupção generalizados
 - Histeria religiosa do próprio povo, miserável e subjugado, mas que, nas festanças e procissões, se deixa arrastar pelos desregramentos e pela hipocrisia coletiva
 
 >[!Example] Evidências de momentos de crítica social
->- Infante D. Francisco faz pontaria da janela do palácio para os marinheiros que se encontravam nas vergas dos barcos, matando e ferindo com 
+>- Infante D. Francisco treina a pontaria da janela do palácio para os marinheiros que se encontravam nas vergas dos barcos, matando e ferindo com total impunidade (cap. VIII);
+>- Excessos praticados durante o Entrudo, em que as pessoas comiam e bebiam demasiado e espojavam-se nas ruas, e as manifestações histéricas de fé durante a procissão da Quaresma (cap. III);
+>- População em festa com os horrores da Inquisição no auto de fé no Rossio (cap. V).
+>- Delírio com a exibição do sangue dos touros torturados no espetáculo da tourada no Terreiro do Paço (cap. X);
+>- Cortejo real através do Alentejo para a troca das princesas na fronteira com Espanha, onde o conforto e as refeições deliciosas dos nobres contrastam com a pobreza dos pedintes que acompanham o séquito (cap. XXII);
+>- Situação precária dos trabalhadores que edificaram o convento e atitude abusiva do rei que obrigou todos os homens válidos do país a trabalhar, para acelerar a sua conclusão (cap. XXI).
+>- Perseguição do padre Bartolomeu pelas suas ideias inovadoras e por questionar os dogmas da Igreja, por parte do Santo Ofício.
 
 ## Dimensão simbólica
 ### Numeralogia
