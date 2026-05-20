@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Biologia/D4 1. Processos imunitários + Sangue.md",
+                "file": "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D4 1. Processos imunitários + Sangue"
+              "title": "Derivadas de funções reais de variável real e aplicações"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "4f5e08690fe3545a",
