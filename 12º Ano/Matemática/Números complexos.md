@@ -56,3 +56,29 @@ Um número complexo $z$ é
 Dado um plano munido de um referencial ortonormado direto e dados $a$, $b$ $in \mathbb R$, designa-se por **afixo do número complexo $z=a + bi$** o **ponto M de coordenadas $(a, b)$**.
 ![[Pasted image 20260523180756.png|260]]
 
+O eixo das **abcissas** designa-se por **eixo real**.
+O eixo das **ordenadas** designa-se por **eixo imaginário**.
+#### Adição de números complexos no plano complexo
+Dados dois números complexos $z= x + yi$ e $z_0=a+bi$, com $x$, $y$, $a$, $b$ $\in \mathbb R$, o **afixo de $z+z_0$** é a imagem pela translação de vetor $\vec u(a, b)$ do ponto $M$, afixo de $z$:
+![[Pasted image 20260523181050.png|260]]
+
+### Simétrico de um número complexo
+$\large -z= - (a+bi) = -a-bi$
+
+$(-z)+z=0$
+
+Dois números complexos simétricos têm **partes reais simétricas** e **partes imaginárias simétricas**.
+
+O ponto afixo de $-z$, $M'(-a, -b)$, é a imagem da reflexão central de centro $O$ de $M(a, b)$ ponto afixo de $z$.
+![[Pasted image 20260523181337.png|260]]
+
+### Conjugado de um número complexo
+$\large \overline z = \overline {(a+bi)} = a-bi$
+
+Dois números complexos conjugados têm **partes reais iguais** e **partes imaginárias simétricas**.
+
+O ponto afixo de $\overline z$, $M'(a, -b)$, é a imagem pela reflexão de eixo real de $M(a, b$), ponto afixo de $z$.
+![[Pasted image 20260523181830.png|260]]
+
+>[!Summary] Propriedades relativas ao conjugado de números complexos
+>- $\overline \overline z = z$
