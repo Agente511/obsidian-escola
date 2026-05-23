@@ -53,3 +53,6 @@ Um número complexo $z$ é
   >$=-14 + 22i$
   
 ### Plano complexo / Plano de Argand
+Dado um plano munido de um referencial ortonormado direto e dados $a$, $b$ $in \mathbb R$, designa-se por **afixo do número complexo $z=a + bi$** o **ponto M de coordenadas $(a, b)$**.
+![[Pasted image 20260523180756.png|260]]
+
