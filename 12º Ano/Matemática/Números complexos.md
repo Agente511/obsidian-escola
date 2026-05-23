@@ -28,3 +28,13 @@ $\large i^2=-1 \iff i = \sqrt {-1}$
 $i^2 = (0, 1) \times (0, 1) = (-1, 0)$
 
 ### Representação na forma algébrica
+Dado um número complexo $z$, existem um único número real $a$ e um único número real $b$ tais que 
+
+$\large z = a + bi$ $\ \ \ \longleftarrow$ forma algébrica
+- $a$: **parte real de $z$** e representa-se por **Re$(z)$**
+- $b$: **parte imaginário de $z$** e presenta-se por **Im$(z)$**
+
+Um número complexo $z$ é
+- **real** se e só se Im$(z)=0$
+- **imaginário puro** se e só se Re$(z)=0$ e Im$(z) \neq 0$
+### Operações na forma algébrica
