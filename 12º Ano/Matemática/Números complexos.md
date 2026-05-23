@@ -38,3 +38,18 @@ Um número complexo $z$ é
 - **real** se e só se Im$(z)=0$
 - **imaginário puro** se e só se Re$(z)=0$ e Im$(z) \neq 0$
 ### Operações na forma algébrica
+- $(a + bi) + (c + di) = a + c + (b + d)i$
+	>[!Note] Exemplo
+	>$(2, -3) + (5, 6) =$
+	>$= 2 - 3i + 5 + 6i =$
+	>$= 2+5 + (-3+6)i=$
+	>$=7 + 3i$
+
+- $(a + bi) \times (c + di) = (ac - bd) + (ad + bc)i$
+  >[!Note] Exemplo
+  >$(3, 5) \times 2, 4=$
+  >$=(3+5i) \times (2+4i)=$
+  >$=(3 \times 2 - 5 \times 4) + (3 \times 4 + 5 \times 2)i=$
+  >$=-14 + 22i$
+  
+### Plano complexo / Plano de Argand
