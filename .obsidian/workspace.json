@@ -88,7 +88,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -223,10 +224,13 @@
   },
   "active": "62bc43d67a43b764",
   "lastOpenFiles": [
+    "12º Ano/Matemática/Probabilidades.md",
+    "11º Ano/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
+    "11º Ano/Química/M16 - Mineralização e acidificação das águas.md",
+    "11º Ano/Química/M18 - Alteração da solubilidade de sais.md",
+    "12º Ano/Matemática/Trigonometria.md",
     "11º Ano/Matemática/Funções trigonométricas.md",
     "11º Ano/Matemática/Lugares geométricos.md",
-    "12º Ano/Matemática/Trigonometria.md",
-    "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/Funções logarítmicas.md",
@@ -253,9 +257,6 @@
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Capítulo III - Confirmação (Louvores aos peixes, em particular).md",
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Capítulo II - Exposição e Confirmação (Estrutura e Louvores aos peixes, em geral).md",
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Capítulo I - Exórdio (Introdução ao tema).md",
-    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
-    "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/_TOC_.md",
-    "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Sermão de Santo António - Contextualização e Estrutura.md",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "12º Ano/Português/Memorial do Convento/Linguagem e estilo aprofundada - Memorial do Convento.pdf",
