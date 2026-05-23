@@ -113,7 +113,7 @@ Seja $a \in \mathbb R^+$ e $x,y \in \mathbb R$:
 >$\large \underset{y \to \pm \infty} \lim (1+\frac 1 y)^y=e$
 ### Limites notáveis
 - $\large \underset{x\to 0} \lim \frac {e^x-1} x = 1$
-- $\large \underset{h\to 0} \lim \frac {e^h-1} h = 1$
+- $\large \underset{x\to +\infty} \lim \frac {e^x} {x^k} = +\infty$, $k\in \mathbb R$ (a função exponencial cresce muito mais rapidamente do que qualquer outra potência do seu expoente)
 ### Derivada da função exponencial de base $e$
 Seja $f(x)=e^x$, com $x \in \mathbb R$, conclui-se que $f'(x)=e^x$, isto é:
 $\large (e^x)'=e^x$

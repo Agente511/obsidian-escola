@@ -100,4 +100,5 @@ $\large (\ln u)'=\frac {u'} u$
 
 $\large (\log_a u)' = \frac {u'} {u \times \ln a}$
 
-
+### Limites notáveis
+- $\large \underset{x\to +\infty} \lim \frac {\ln x} x = 0$ (a função logarítmica neperiana cresce muito mais lentamente do que o seu argumento)
