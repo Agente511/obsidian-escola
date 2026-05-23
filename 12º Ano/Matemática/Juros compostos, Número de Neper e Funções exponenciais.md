@@ -111,8 +111,9 @@ Seja $a \in \mathbb R^+$ e $x,y \in \mathbb R$:
 >Seja $f$ a função definida em $\mathbb R$ \ $[-1,0]$, por $f(y)=(1+\frac 1 y)^y$. Tem-se que:
 >
 >$\large \underset{y \to \pm \infty} \lim (1+\frac 1 y)^y=e$
-### Limite notável $\underset{h\to 0} \lim \frac {e^h-1} h = 1$ 
-$\large \underset{h\to 0} \lim \frac {e^h-1} h = 1$
+### Limites notáveis
+- $\large \underset{x\to 0} \lim \frac {e^x-1} x = 1$
+- $\large \underset{h\to 0} \lim \frac {e^h-1} h = 1$
 ### Derivada da função exponencial de base $e$
 Seja $f(x)=e^x$, com $x \in \mathbb R$, conclui-se que $f'(x)=e^x$, isto é:
 $\large (e^x)'=e^x$

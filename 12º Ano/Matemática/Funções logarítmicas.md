@@ -99,3 +99,5 @@ $a^x=y \iff x = \log_a(y) \iff f^{-1}(y) = \log_a(y)$
 $\large (\ln u)'=\frac {u'} u$
 
 $\large (\log_a u)' = \frac {u'} {u \times \ln a}$
+
+
