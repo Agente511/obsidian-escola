@@ -107,3 +107,27 @@ $\large |z| = \sqrt {a^2 + b^2}$
 >- $\large \overline {(\frac w z)} = \frac {\overline w} {\overline z}$
 
 ### Inverso de um número complexo não nulo
+$\large \frac 1 z = \frac {1} {|z|^2} \overline z$
+
+### Divisão de números complexos
+Dados dois números complexos $w$ e $z$, $z \neq 0$, tem-se que o quociente de $w$ por $z$ é:
+$\large \frac w z = w \times \frac 1 z$
+
+Para determinar o quociente de $w$ por $z$, basta determinar o quociente de $w\overline z$ por $z \overline z$:
+$\large \frac w z = w \times \frac 1 z = w \frac 1 {|z|^2} \times \overline z = \frac {w \overline z} {z \overline z}$
+
+No caso particular de $z$ ser um imaginário puro, basta multiplicar $w$ e $z$ por $i$:
+>[!Note] Exemplo
+>$\frac {1 + 2i} {3i} = \frac {(1+2i)i} {3i^2} = \frac {i - 2} {-3} = \frac 2 3 - \frac 1 3 i$
+
+### Potenciação de números complexos
+Seja $n \in \mathbb N_0$, tem-se que:
+$\large i^n = i^r$, sendo $r$ o resto da divisão inteira de $n$ por 4
+
+>[!Note] Exemplo
+>$i^{407}=i^{4\times 101 + 3}= i^3 = -i$
+#### Potências de expoente inteiro de um número complexo
+De forma análoga ao que se passa em $\mathbb R$, para $n \in \mathbb N$, tem-se que:
+- $\large (a+bi)^n=(a+bi) \times ... \times (a+bi)$
+- $\large (a+bi)^{-n}=\frac 1 {(a+bi)^n}$, $a+bi \neq 0$ 
+
