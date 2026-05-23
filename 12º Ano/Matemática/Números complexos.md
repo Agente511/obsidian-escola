@@ -81,4 +81,29 @@ O ponto afixo de $\overline z$, $M'(a, -b)$, é a imagem pela reflexão de eixo 
 ![[Pasted image 20260523181830.png|260]]
 
 >[!Summary] Propriedades relativas ao conjugado de números complexos
->- $\overline \overline z = z$
+>- $\overline {\overline z} = z$
+>- $\overline {z+w} = \overline z + \overline w$
+>- $\overline {zw} = \overline z \times \overline w$
+>- Re$(z) = \large \frac {z + \overline z} 2$
+>- Im$(z) = \large \frac {z + \overline z} {2i}$
+>- $z$ é um número **real** se e só se $z = \overline z \land z \neq 0$
+>- $z$ é um número **imaginário puro** se e só se $z = -\overline z \land z \neq 0$
+
+### Módulo de um número complexo
+Designa-se por módulo de $z$ a **medida da distância**, no plano complexo, **entre a origem e o ponto afixo de $z$** e representa-se por $|z|$.
+
+![[Pasted image 20260523180756.png|260]]
+
+$\large |z| = \sqrt {a^2 + b^2}$
+
+>[!Summary] Propriedades relativas ao módulo de um número complexo
+>Sejam $z$ e $w$ dois números complexos tem-se que:
+>- $\large |z| = 0 \iff z = 0$
+>- $\large |zw| = |z| |w|$
+>- $\large |z| = |\overline z|$
+>- $\large |z+w| \leq |z| + |w|$
+>- $\large |z|^2 = z |z|$
+>- $\large | \frac w z | = \frac {|w|} {|z|}$
+>- $\large \overline {(\frac w z)} = \frac {\overline w} {\overline z}$
+
+### Inverso de um número complexo não nulo
