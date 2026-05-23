@@ -129,5 +129,5 @@ $\large i^n = i^r$, sendo $r$ o resto da divisão inteira de $n$ por 4
 #### Potências de expoente inteiro de um número complexo
 De forma análoga ao que se passa em $\mathbb R$, para $n \in \mathbb N$, tem-se que:
 - $\large (a+bi)^n=(a+bi) \times ... \times (a+bi)$
-- $\large (a+bi)^{-n}=\frac 1 {(a+bi)^n}$, $a+bi \neq 0$ 
+- $\large (a+bi)^{-n}=\frac 1 {(a+bi)^n}=\frac 1 {(a+bi) \times ... \times (a+bi)}$, $\ \ a+bi \neq 0$ 
 
