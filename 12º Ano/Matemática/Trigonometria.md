@@ -7,6 +7,8 @@ $\\$
 - $\large \sin(\alpha - \beta) = \sin \alpha \cos \beta - \sin \beta \cos \alpha$
 - $\large \cos(\alpha - \beta) = \cos(\alpha) \cos(\beta) + \sin(\alpha) \sin(\beta)$
 
+>[!Tip] Truque para decorar
+>O seno é **sin**cero (o sinal mantém) e gosta de misturas ($\sin$ e $\cos$ multiplicam)
 #### Duplicação
 - $\large \sin(2x) = 2 \sin(x) \cos(x)$
 - $\large \cos(2x) = \cos^2(x) - \sin^2(x)$
