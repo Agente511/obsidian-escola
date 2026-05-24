@@ -99,7 +99,7 @@ Seja $a \in \mathbb R^+$ e $x,y \in \mathbb R$:
 >>$\iff x \geq 2$
 >>$S=[2, +\infty[$
 >
->2. $(\frac 1 2)^2 - \frac 1 2 < 0$
+>2. $(\frac 1 2)^x - \frac 1 2 < 0$
 >>$\iff (\frac 1 2) ^x < \frac 1 2$
 >>$\iff x>1$
 >>$S=]1, +\infty[$
