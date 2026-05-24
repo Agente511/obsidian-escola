@@ -3,7 +3,7 @@ O conjunto $\mathbb C$ é uma extensão de $\mathbb R$ que contém as raízes pa
 ### Operações
 Designa-se por **corpo dos números complexos**, e representa-se por $\mathbb C$, o conjunto $\mathbb R^2$ munido das seguintes operações:
 - $(a, b) \pm (c, d) = (a \pm c, b \pm d)$
-- $(a, b) \times /(c, d) = (ac - bd, ad + bc)$
+- $(a, b) \times (c, d) = (ac - bd, ad + bc)$
 
 > [!Example] Propriedades das operações
 > - ##### Comutatividade
