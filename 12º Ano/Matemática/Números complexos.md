@@ -47,7 +47,7 @@ Um número complexo $z$ é
 
 - $(a + bi) \times (c + di) = (ac - bd) + (ad + bc)i$
   >[!Note] Exemplo
-  >$(3, 5) \times 2, 4=$
+  >$(3, 5) \times (2, 4)=$
   >$=(3+5i) \times (2+4i)=$
   >$=(3 \times 2 - 5 \times 4) + (3 \times 4 + 5 \times 2)i=$
   >$=-14 + 22i$
@@ -84,8 +84,9 @@ O ponto afixo de $\overline z$, $M'(a, -b)$, é a imagem pela reflexão de eixo 
 >- $\overline {\overline z} = z$
 >- $\overline {z+w} = \overline z + \overline w$
 >- $\overline {zw} = \overline z \times \overline w$
+>-  $\large \overline {(\frac w z)} = \frac {\overline w} {\overline z}$
 >- Re$(z) = \large \frac {z + \overline z} 2$
->- Im$(z) = \large \frac {z + \overline z} {2i}$
+>- Im$(z) = \large \frac {z - \overline z} {2i}$
 >- $z$ é um número **real** se e só se $z = \overline z \land z \neq 0$
 >- $z$ é um número **imaginário puro** se e só se $z = -\overline z \land z \neq 0$
 
@@ -102,9 +103,8 @@ $\large |z| = \sqrt {a^2 + b^2}$
 >- $\large |zw| = |z| |w|$
 >- $\large |z| = |\overline z|$
 >- $\large |z+w| \leq |z| + |w|$
->- $\large |z|^2 = z |z|$
+>- $\large |z|^2 = z \overline z$
 >- $\large | \frac w z | = \frac {|w|} {|z|}$
->- $\large \overline {(\frac w z)} = \frac {\overline w} {\overline z}$
 
 ### Inverso de um número complexo não nulo
 $\large \frac 1 z = \frac {1} {|z|^2} \overline z$
