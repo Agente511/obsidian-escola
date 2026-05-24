@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -292,8 +292,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53b108af92f9cbdb",
+  "active": "685b31a46377a6cf",
   "lastOpenFiles": [
+    "12º Ano/Matemática/Números complexos.md",
     "12º Ano/Matemática/Trigonometria.md",
     "11º Ano/Matemática/Trigonometria com ângulos agudos.md",
     "10º Ano/Matemática/Radicais.md",
@@ -309,7 +310,6 @@
     "12º Ano/Matemática/Funções logarítmicas.md",
     "12º Ano/Matemática/Continuidade de uma função num conjunto.md",
     "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
-    "12º Ano/Matemática/Números complexos.md",
     "11º Ano/Matemática/Limite segundo Heine.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
     "Sem título 3.md",
