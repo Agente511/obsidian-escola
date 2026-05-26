@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
+                "file": "10º Ano/Português/Educação Literária/Luís de Camões/Lírica Camoniana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ricardo Reis"
+              "title": "Lírica Camoniana"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ode\"",
+                "query": "redondilha maior",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "200d23317992ffcb",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
+    "12º Ano/Matemática/Probabilidades.md",
     "12º Ano/Matemática/Números complexos.md",
     "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
     "12º Ano/Matemática/Fórmulas trigonométricas, limite notável e derivadas.md",
