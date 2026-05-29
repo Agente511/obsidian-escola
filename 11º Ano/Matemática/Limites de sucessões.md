@@ -1,4 +1,4 @@
-    ## Limites de sucessões
+## Limites de sucessões
 ### Limite de uma sucessão convergente
 Uma sucessão **convergente** ($u_n$) admite um **único limite real** que se representa por $\lim_{x \to +\infty} u_n$, por $\underset n \lim u_n$ ou por $\lim u_n$.
 
