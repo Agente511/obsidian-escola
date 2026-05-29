@@ -800,61 +800,54 @@
               "ctime": 1780090002615,
               "items": [
                 {
-                  "type": "group",
-                  "ctime": 1780090850291,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Trigonometria com ângulos agudos.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Equações de planos.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Lugares geométricos.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Vetores.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Declive e inclinação de uma reta no plano.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Funções trigonométricas.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Equações trigonométricas.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Redução ao primeiro quadrante.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/O radiano como unidade de amplitude.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780090839656,
-                      "path": "11º Ano/Matemática/Ângulos orientados, generalizados e rotações.md"
-                    }
-                  ],
-                  "title": "29 de maio de 2026 22:40"
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Trigonometria com ângulos agudos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Ângulos orientados, generalizados e rotações.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/O radiano como unidade de amplitude.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Redução ao primeiro quadrante.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Equações trigonométricas.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Funções trigonométricas.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Declive e inclinação de uma reta no plano.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Vetores.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Lugares geométricos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090839656,
+                  "path": "11º Ano/Matemática/Equações de planos.md"
                 }
               ],
               "title": "Geometria Analítica 2"
@@ -876,21 +869,14 @@
               "ctime": 1780090019106,
               "items": [
                 {
-                  "type": "group",
-                  "ctime": 1780091124047,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1780091119025,
-                      "path": "11º Ano/Matemática/Limites de sucessões.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091119025,
-                      "path": "11º Ano/Matemática/Funções racionais.md"
-                    }
-                  ],
-                  "title": "29 de maio de 2026 22:45"
+                  "type": "file",
+                  "ctime": 1780091119025,
+                  "path": "11º Ano/Matemática/Limites de sucessões.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091119025,
+                  "path": "11º Ano/Matemática/Funções racionais.md"
                 },
                 {
                   "type": "file",
@@ -924,31 +910,24 @@
               "ctime": 1780090036630,
               "items": [
                 {
-                  "type": "group",
-                  "ctime": 1780091328215,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1780091325530,
-                      "path": "12º Ano/Matemática/Teoria dos conjuntos.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091325530,
-                      "path": "12º Ano/Matemática/Probabilidades.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091325530,
-                      "path": "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091325530,
-                      "path": "12º Ano/Matemática/Cálculo Combinatório.md"
-                    }
-                  ],
-                  "title": "29 de maio de 2026 22:48"
+                  "type": "file",
+                  "ctime": 1780091325530,
+                  "path": "12º Ano/Matemática/Teoria dos conjuntos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091325530,
+                  "path": "12º Ano/Matemática/Probabilidades.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091325530,
+                  "path": "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091325530,
+                  "path": "12º Ano/Matemática/Cálculo Combinatório.md"
                 }
               ],
               "title": "Probabilidades"
@@ -963,53 +942,39 @@
                   "path": "11º Ano/Matemática/Limite segundo Heine.md"
                 },
                 {
-                  "type": "group",
-                  "ctime": 1780091198074,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1780091193928,
-                      "path": "12º Ano/Matemática/11º Ano/Continuidade de uma função num ponto.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091193928,
-                      "path": "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md"
-                    }
-                  ],
-                  "title": "29 de maio de 2026 22:46"
+                  "type": "file",
+                  "ctime": 1780091193928,
+                  "path": "12º Ano/Matemática/11º Ano/Continuidade de uma função num ponto.md"
                 },
                 {
-                  "type": "group",
-                  "ctime": 1780091218961,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1780091216424,
-                      "path": "12º Ano/Matemática/Continuidade de uma função num conjunto.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091216424,
-                      "path": "12º Ano/Matemática/Fórmulas trigonométricas, limite notável e derivadas.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091216424,
-                      "path": "12º Ano/Matemática/Funções logarítmicas.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091216424,
-                      "path": "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1780091216424,
-                      "path": "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md"
-                    }
-                  ],
-                  "title": "29 de maio de 2026 22:46"
+                  "type": "file",
+                  "ctime": 1780091193928,
+                  "path": "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091216424,
+                  "path": "12º Ano/Matemática/Continuidade de uma função num conjunto.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091216424,
+                  "path": "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091216424,
+                  "path": "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091216424,
+                  "path": "12º Ano/Matemática/Funções logarítmicas.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780091216424,
+                  "path": "12º Ano/Matemática/Fórmulas trigonométricas, limite notável e derivadas.md"
                 }
               ],
               "title": "Funções 3"
