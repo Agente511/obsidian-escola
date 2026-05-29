@@ -1,5 +1,4 @@
 ## Definição
----
 Qualquer função com domínio e conjunto de chegada contidos em $\mathbb R$
 ## Cálculo do Domínio de uma função real de variável
 #### 1. Funções polinomiais (D = $\mathbb R$)

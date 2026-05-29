@@ -1,5 +1,4 @@
 ## Dilatações/Contrações
----
 ### Dilatações/Contrações verticais
 Seja $f$ uma função real de variável real, $k$ um número real positivo, diferente de 1, e seja $g$ a função definida por $g(x) = kf(x)$. Então:
 - Se $k > 1$, o gráfico de $g$ é a imagem geométrica do gráfico $f$ pela **dilatação vertical** de coeficiente $k$;

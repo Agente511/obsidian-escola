@@ -660,6 +660,179 @@
         }
       ],
       "title": "Gramática"
+    },
+    {
+      "type": "group",
+      "ctime": 1780089863258,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1780089878669,
+          "items": [],
+          "title": "Estatística"
+        },
+        {
+          "type": "group",
+          "ctime": 1780089882960,
+          "items": [],
+          "title": "Funções"
+        },
+        {
+          "type": "group",
+          "ctime": 1780089938184,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1780089955565,
+              "items": [],
+              "title": "Estatística"
+            },
+            {
+              "type": "group",
+              "ctime": 1780089968900,
+              "items": [],
+              "title": "b"
+            },
+            {
+              "type": "group",
+              "ctime": 1780089976987,
+              "items": [],
+              "title": "a"
+            },
+            {
+              "type": "group",
+              "ctime": 1780090329560,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Referencial Ortonormado.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Retas e semiplanos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Segmentos de reta orientados e Vetores.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Coordenadas de vetores.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Geometria analítica no espaço.md"
+                }
+              ],
+              "title": "Geometria Analítica"
+            },
+            {
+              "type": "group",
+              "ctime": 1780090387840,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1780090280845,
+                  "path": "10º Ano/Matemática/Funções.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090280845,
+                  "path": "10º Ano/Matemática/Função real de variável real.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090379408,
+                  "path": "10º Ano/Matemática/Transformações de gráficos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090379408,
+                  "path": "10º Ano/Matemática/Função quadrática.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090379408,
+                  "path": "10º Ano/Matemática/Funções pares e ímpares.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090379408,
+                  "path": "10º Ano/Matemática/Função módulo.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090379408,
+                  "path": "10º Ano/Matemática/Funções definidas por ramos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090379408,
+                  "path": "10º Ano/Matemática/Polinómios.md"
+                }
+              ],
+              "title": "Funções"
+            }
+          ],
+          "title": "10.º Ano"
+        },
+        {
+          "type": "group",
+          "ctime": 1780089946138,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1780090002615,
+              "items": [],
+              "title": "Geometria Analítica 2"
+            },
+            {
+              "type": "group",
+              "ctime": 1780090013485,
+              "items": [],
+              "title": "Sucessões"
+            },
+            {
+              "type": "group",
+              "ctime": 1780090019106,
+              "items": [],
+              "title": "Funções 2"
+            }
+          ],
+          "title": "11.º Ano"
+        },
+        {
+          "type": "group",
+          "ctime": 1780089950284,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1780090028763,
+              "items": [],
+              "title": "Números complexos"
+            },
+            {
+              "type": "group",
+              "ctime": 1780090036630,
+              "items": [],
+              "title": "Probabilidades"
+            },
+            {
+              "type": "group",
+              "ctime": 1780090081084,
+              "items": [],
+              "title": "Funções 3"
+            }
+          ],
+          "title": "12.º Ano"
+        }
+      ],
+      "title": "Exame Mat 12.º Ano"
     }
   ]
 }

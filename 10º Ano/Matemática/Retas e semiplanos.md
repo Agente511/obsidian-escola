@@ -29,4 +29,4 @@
 - #### $x$ $\ge$ 1 /\\ $y$ $\ge$ 1
 
 >[!Tip]
->Há outros q n passei mas tipo tu sabes isto Dinis, confia em ti! ;)
+>Há outros q n passei mas tipo tu sabes isto, confia em ti! ;)

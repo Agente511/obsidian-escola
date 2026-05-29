@@ -1,5 +1,4 @@
 ## Segmento de reta orientado
----
 Num segmento de reta orientado $[A, B]$ considera-se
 - uma **origem** (Ponto $A$)
 - uma **extremidade** (Ponto $B$)
@@ -10,7 +9,6 @@ Num segmento de reta orientado $[A, B]$ considera-se
 ![[Pasted image 20231203133759.png]]
 $\overset{\rightarrow}{AB}$ = $\overset{\rightarrow}{CD}$ = $\overset{\rightarrow}{EF}$ = $\overset{\rightarrow}{GH}$ = $\overset{\rightarrow}{u}$  
 ## Vetor
----
 Caracterizado por
 - uma **direção**
 - um **sentido**

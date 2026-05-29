@@ -1,5 +1,4 @@
 ## Referencial no espaço
----
 ![[Pasted image 20240206182942.png]]
 ### Planos coordenados
 - Equação do plano $xOy$ ---> $z$ = 0
@@ -7,7 +6,6 @@
 - Equação do plano $yOz$ ---> $x$ = 0
 
 ## Distância entre 2 pontos no espaço
----
 >[!Note] Cálculo da distância entre 2 pontos no espaço
 >Sejam A($a_1$, $a_2$, $a_3$) e B($b_1$, $b_2$, $b_3$)
 >
