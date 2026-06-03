@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10º Ano/Matemática/Retas e semiplanos.md",
+                "file": "10º Ano/Matemática/Segmentos de reta orientados e Vetores.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retas e semiplanos"
+              "title": "Segmentos de reta orientados e Vetores"
             }
           },
           {
@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "Radicais"
             }
+          },
+          {
+            "id": "3087b8ef579d1986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10º Ano/Matemática/Referencial Ortonormado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Referencial Ortonormado"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,11 +237,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200d23317992ffcb",
+  "active": "3087b8ef579d1986",
   "lastOpenFiles": [
-    "10º Ano/Matemática/Referencial Ortonormado.md",
     "10º Ano/Matemática/Potências de expoente racional.md",
     "10º Ano/Matemática/Radicais.md",
+    "10º Ano/Matemática/Segmentos de reta orientados e Vetores.md",
+    "10º Ano/Matemática/Retas e semiplanos.md",
+    "10º Ano/Matemática/Referencial Ortonormado.md",
     "11º Ano/Matemática/Trigonometria com ângulos agudos.md",
     "11º Ano/Matemática/Ângulos orientados, generalizados e rotações.md",
     "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
@@ -244,10 +261,8 @@
     "10º Ano/Matemática/Funções pares e ímpares.md",
     "10º Ano/Matemática/Geometria analítica no espaço.md",
     "10º Ano/Matemática/Função real de variável real.md",
-    "10º Ano/Matemática/Segmentos de reta orientados e Vetores.md",
     "10º Ano/Matemática/Coordenadas de vetores.md",
     "10º Ano/Matemática/Funções.md",
-    "10º Ano/Matemática/Retas e semiplanos.md",
     "10º Ano/Português/Educação Literária/Luís de Camões/Lírica Camoniana.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
     "Pasted image 20260523183051.png",
