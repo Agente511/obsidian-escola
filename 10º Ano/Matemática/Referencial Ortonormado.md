@@ -87,7 +87,7 @@ $\overline {AP}$ = $\overline {BP}$   P($x$,$y$)
 >Raio = 2
 >
 >$\overline {CP}$ = $2$
->$\iff$ $\sqrt {x-1}^2 + (y-1)^2$ = $2$
+>$\iff$ $\sqrt {(x-1)^2 + (y-1)^2}$ = $2$
 >$\iff$ $(x-1)^2 + (y-1)^2$ = $2^2$
 >
 >Neste caso, $(x-1)^2 + (y-1)^2$ = $2^2$ é a equação reduzida da reta de centro no ponto C(1, 1) e raio 2
