@@ -40,7 +40,7 @@
 ## Teorema do resto
 ---
 >[!Summary] Teorema do resto
->Dado um polinómio $P(x$) e um número real $\alpha$, o **resto da divisão inteira de $P(x)$ por $x-a$** é **igual a $P(x$)**.
+>Dado um polinómio $P(x$) e um número real $\alpha$, o **resto da divisão inteira de $P(x)$ por $x-a$** é **igual a $P(a$)**.
 
 >[!Note] Exemplo
 >- Dado o polinómio $P(x)=x^3-2x^2+3x+5$, determine o resto da sua divisão por $x+3$.
