@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redondilha maior",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200d23317992ffcb",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
     "11º Ano/Matemática/Limites de sucessões.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
