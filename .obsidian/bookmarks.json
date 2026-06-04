@@ -701,48 +701,6 @@
             },
             {
               "type": "group",
-              "ctime": 1780090329560,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1780090626066,
-                  "path": "10º Ano/Matemática/Radicais.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1780090626066,
-                  "path": "10º Ano/Matemática/Potências de expoente racional.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1780090314717,
-                  "path": "10º Ano/Matemática/Referencial Ortonormado.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1780090314717,
-                  "path": "10º Ano/Matemática/Retas e semiplanos.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1780090314717,
-                  "path": "10º Ano/Matemática/Segmentos de reta orientados e Vetores.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1780090314717,
-                  "path": "10º Ano/Matemática/Coordenadas de vetores.md"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1780090314717,
-                  "path": "10º Ano/Matemática/Geometria analítica no espaço.md"
-                }
-              ],
-              "title": "Geometria Analítica"
-            },
-            {
-              "type": "group",
               "ctime": 1780090387840,
               "items": [
                 {
@@ -787,6 +745,48 @@
                 }
               ],
               "title": "Funções"
+            },
+            {
+              "type": "group",
+              "ctime": 1780090329560,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1780090626066,
+                  "path": "10º Ano/Matemática/Radicais.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090626066,
+                  "path": "10º Ano/Matemática/Potências de expoente racional.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Referencial Ortonormado.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Retas e semiplanos.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Segmentos de reta orientados e Vetores.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Coordenadas de vetores.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1780090314717,
+                  "path": "10º Ano/Matemática/Geometria analítica no espaço.md"
+                }
+              ],
+              "title": "Geometria Analítica"
             }
           ],
           "title": "10.º Ano"
