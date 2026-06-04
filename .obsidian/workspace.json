@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11º Ano/Matemática/Equações de planos.md",
+                "file": "11º Ano/Matemática/Sucessões.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equações de planos"
+              "title": "Sucessões"
             }
           }
         ]
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11º Ano/Matemática/Equações de planos.md",
+                "file": "11º Ano/Matemática/Sucessões.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Equações de planos"
+              "title": "Índice de Sucessões"
             }
           },
           {
@@ -210,12 +210,14 @@
   },
   "active": "200d23317992ffcb",
   "lastOpenFiles": [
+    "11º Ano/Matemática/Limites de sucessões.md",
+    "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
+    "11º Ano/Matemática/Funções racionais.md",
+    "11º Ano/Matemática/Sucessões.md",
     "11º Ano/Matemática/Equações de planos.md",
     "11º Ano/Matemática/Lugares geométricos.md",
     "11º Ano/Matemática/Vetores.md",
     "11º Ano/Matemática/Declive e inclinação de uma reta no plano.md",
-    "11º Ano/Matemática/Funções racionais.md",
-    "11º Ano/Matemática/Limites de sucessões.md",
     "11º Ano/Matemática/Funções trigonométricas.md",
     "11º Ano/Matemática/Equações trigonométricas.md",
     "11º Ano/Matemática/Redução ao primeiro quadrante.md",
@@ -234,8 +236,6 @@
     "10º Ano/Matemática/Geometria analítica no espaço.md",
     "10º Ano/Matemática/Referencial Ortonormado.md",
     "10º Ano/Matemática/Retas e semiplanos.md",
-    "10º Ano/Matemática/Segmentos de reta orientados e Vetores.md",
-    "10º Ano/Matemática/Coordenadas de vetores.md",
     "Pasted image 20260523183051.png",
     "Pasted image 20260523181830.png",
     "Pasted image 20260523181337.png",
