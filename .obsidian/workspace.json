@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "Funções racionais"
             }
-          },
-          {
-            "id": "73393c94ee1b808b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização de diagrama de grafo"
-            }
           }
         ]
       }
@@ -220,9 +210,9 @@
   },
   "active": "200d23317992ffcb",
   "lastOpenFiles": [
-    "11º Ano/Matemática/Limites de sucessões.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "11º Ano/Matemática/Funções racionais.md",
+    "11º Ano/Matemática/Limites de sucessões.md",
     "11º Ano/Matemática/Sucessões.md",
     "10º Ano/Geologia/_TOC_.md",
     "10º Ano/Biologia/Biologia 10º Ano.md",
