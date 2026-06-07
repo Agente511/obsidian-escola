@@ -31,8 +31,7 @@
               "title": "Visualização de diagrama de grafo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,12 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "11º Ano/Matemática/Limites de sucessões.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice"
+              "title": "Índice de Limites de sucessões"
             }
           },
           {
@@ -218,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73393c94ee1b808b",
+  "active": "200d23317992ffcb",
   "lastOpenFiles": [
     "11º Ano/Matemática/Sucessões.md",
     "10º Ano/Geologia/_TOC_.md",
