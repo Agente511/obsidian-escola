@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,12 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "9dae92fad31d1bc6",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
-    "12º Ano/Matemática/Probabilidades.md",
-    "12º Ano/Matemática/Cálculo Combinatório.md",
     "12º Ano/Matemática/Teoria dos conjuntos.md",
+    "12º Ano/Matemática/Cálculo Combinatório.md",
+    "12º Ano/Matemática/Probabilidades.md",
+    "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
     "11º Ano/Matemática/Funções racionais.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "11º Ano/Matemática/Limites de sucessões.md",
