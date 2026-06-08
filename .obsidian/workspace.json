@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "12º Ano/Matemática/Teoria dos conjuntos.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "4f5e08690fe3545a",
