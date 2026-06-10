@@ -11,7 +11,7 @@ Volume: AL 1.3
 Sendo:
 - m: massa do material
 - M: massa do picnómetro com água e pedaços de metal ao lado
-- M': massa do picnómetro com água e pedaços de de metal dentro
+- M': massa do picnómetro com água e pedaços de metal dentro
 
 ### Densidade e massa volúmica
 A **densidade relativa** de sólidos e líquidos é **numericamente igual** à **massa volúmica** (a **4ºC**).
