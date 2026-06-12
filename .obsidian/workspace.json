@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "88433d263678e0f0",
+            "id": "f0ab2fe7c5e214a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
-                "mode": "preview",
+                "file": "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ricardo Reis"
+              "title": "Álvaro de Campos"
             }
           }
         ],
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
+                "file": "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Ricardo Reis"
+              "title": "Índice de Álvaro de Campos"
             }
           },
           {
@@ -251,10 +251,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88433d263678e0f0",
+  "active": "f0ab2fe7c5e214a0",
   "lastOpenFiles": [
-    "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
+    "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Alberto Caeiro.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Fernando Pessoa heterónimo.md",
     "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
