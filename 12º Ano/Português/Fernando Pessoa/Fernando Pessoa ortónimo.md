@@ -111,7 +111,7 @@ Desta forma, existem 3 dores:
 A **perscrutação do "eu"** e a **atitude autorreflexiva** de Fernando Pessoa são provocadas por **estímulos sensoriais exteriores**, desencadeando o sentido de **fragmentação do "eu"** e, por conseguinte, a **busca do autoconhecimento**.
 
 Pessoa procura o entendimento da vida e dos seus mistérios de forma muitas vezes angustiada derivado do seu estado emotivo perturbado e insatisfeito.
-O pensamento racional, como a **intelectualização dos sentimentos**, apesar de essencial à criação poética, é **gerador de dor**, pois torna Pessoa **incapaz de verdadeiramente sentir, sensitivamente e institivamente**, além de intensificar as sensações de **tédio**, **solidão**, **náusea**, **vacuidade existencial**, **incapacidade de realização**, **inquietação** e **angústia existencial**.
+O pensamento racional, como a **intelectualização dos sentimentos**, apesar de essencial à criação poética, é **gerador de dor**, pois torna Pessoa **incapaz de verdadeiramente sentir, sensitiva e institivamente**, além de intensificar as sensações de **tédio**, **solidão**, **náusea**, **vacuidade existencial**, **incapacidade de realização**, **inquietação** e **angústia existencial**.
 
 Apesar de reconhecer que só a **ausência de interrogação conduzirá à felicidade**, porque o **conhecimento da essência das coisas é inacessível**, Pessoa **não renuncia à sua lucidez**.
 ## Sonho e realidade
