@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
-                "mode": "source",
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Álvaro de Campos"
+              "title": "Mensagem"
             }
           }
         ],
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "4f5e08690fe3545a",
@@ -138,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
+                "file": "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Álvaro de Campos"
+              "title": "Índice de Mensagem"
             }
           },
           {
@@ -253,15 +252,16 @@
   },
   "active": "f0ab2fe7c5e214a0",
   "lastOpenFiles": [
-    "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
+    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Intertextualidade de Mensagem.md",
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem -  Resumos minúculos de cada poema.pdf",
+    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Álvaro de Campos.md",
+    "12º Ano/Português/Fernando Pessoa/Heterónimos/Ricardo Reis.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Alberto Caeiro.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Fernando Pessoa heterónimo.md",
-    "12º Ano/Português/Fernando Pessoa/Fernando Pessoa ortónimo.md",
     "12º Ano/Português/Contos/Sempre é uma companhia.md",
     "12º Ano/Português/Contos/George.md",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Intertextualidade de Mensagem.md",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "11º Ano/Português/Educação Literária/Os Maias/Os Maias.md",
     "12º Ano/Português/Memorial do Convento/Memorial do Convento.md",
     "12º Ano/Português/Memorial do Convento/Resumo - Memorial do Convento.md",
@@ -279,7 +279,6 @@
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Sermão de Santo António - Contextualização e Estrutura.md",
     "11º Ano/Português/Educação Literária/Sermão de Santo António (aos Peixes)/Sermão de Santo António - Discurso Político.md",
     "12º Ano/Matemática/Probabilidades.md",
-    "10º Ano/Química/Ligação covalente.md",
     "Pasted image 20260523183051.png",
     "Pasted image 20260523181830.png",
     "Pasted image 20260523181337.png",
@@ -294,7 +293,6 @@
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental-Resu.pdf",
     "12º Ano/Português/Memorial do Convento/Linguagem e estilo aprofundada - Memorial do Convento.pdf",
     "12º Ano/Português/Memorial do Convento/Espaço social aprofundado - Memorial do Convento.pdf",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem -  Resumos minúculos de cada poema.pdf",
     "10º Ano/Português/Educação Literária/Poesia trovadoresca",
     "10º Ano/Português/Educação Literária/Farsa de Inês Pereira",
     "12º Ano/Português/Memorial do Convento",
