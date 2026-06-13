@@ -8,8 +8,8 @@ Volume: M12
 >H-Be-X
 >
 >- $_5$B 1s$^2$ 2s$^2$ 2p$^1$
->       H
->        |
+>${\ \ \ \ \ \ }$  H
+>${\ \ \ \ \ \ \ }$   |
 >H - B - H
 
 >[!Check] Obecede à regra do octeto
@@ -22,7 +22,7 @@ A geometria molecular depende, essencialmente, das interações eletroestáticas
 As repulsões entre pares de eletrões podem ser:
 - ligantes-ligantes (L-L) -> menos intenso
 - ligantes-não ligantes (L-NL)
-- não-ligantes-não ligantes (NL-NL) -> mais intenso
+- não ligantes-não ligantes (NL-NL) -> mais intenso
 ![[Pasted image 20240121181254.png]]
 
 ### Polaridade das moléculas poliatómicas
