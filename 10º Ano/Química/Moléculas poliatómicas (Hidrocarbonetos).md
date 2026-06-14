@@ -29,7 +29,7 @@ As repulsões entre pares de eletrões podem ser:
 ---
 ![[Pasted image 20240121181510.png]]
 ### Hidrocarbonetos
----
+
 >[!Example] Tipos de ligação
 >#### Saturados
 >- #### **Alcanos**:
@@ -49,7 +49,6 @@ As repulsões entre pares de eletrões podem ser:
 ![[Pasted image 20240121140102.png]]
 
 ### Alcanos
----
 O nome do alcano deve conter um **prefixo que indique o número de átomos de carbono** da cadeia e o **sufixo -ano**.
 ![[Pasted image 20240121140137.png]]
 
@@ -62,8 +61,10 @@ O nome do alcano deve conter um **prefixo que indique o número de átomos de ca
 >[!Note] Fórmula geral dos alcanos
 >#### C$_n$H$_{2n+2}$
 
+>[!Info] Regras de nomenclatura dos hidrocarbonetos
+>![[Nomenclatura dos Hidrocarbonetos (Química 10.º).pdf]]
+
 ### Hidrocarbonetos Halogenados
----
 Os hidrocarbonetos podem ter um ou mais **átomos de hidrogénio substituídos por outros elementos** ou conjuntos de elementos, dando origem a compostos orgânicos com propriedades muito distintas, como os derivados halogenados.
 
 Os **haloalcanos** são derivados halogenados resultantes dos alcanos por substituição de um ou mais átomos de hidrogénio por **halogéneos** (átomos do grupo 17 da Tabela Periódica, como é o caso do **Flúor**, **Cloro**, **Bromo** e **Iodo**)
@@ -73,7 +74,6 @@ Os **clorofluorocarbonetos** (CFC) são exemplos de haloalcanos que contêm áto
 ![[Pasted image 20240121140614.png]]
 
 ### Outros compostos orgânicos
----
 Para além dos compostos halogenados, existem outras classes de compostos orgânicos que resultam da **substituição de um ou mais átomos de hidrogénio** dos hidrocarbonetos por grupos característicos de determinada classe ou família de compostos orgânicos (**grupos funcionais**), conferindo-lhes propriedades específicas.
 
 Um **grupo funcional** é um átomo ou conjunto de átomos que conferem a uma molécula propriedades químicas características desse grupo de compostos.
