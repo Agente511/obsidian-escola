@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10º Ano/Química/Reações fotoquímicas na atmosfera.md",
+                "file": "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reações fotoquímicas na atmosfera"
+              "title": "Triângulo de Pascal e binómio de Newton"
             }
           },
           {
@@ -88,7 +88,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -221,10 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0598e502e406de",
+  "active": "7d0026a2dc2bf00c",
   "lastOpenFiles": [
-    "10º Ano/Química/Reações Químicas e Energia de Ligação.md",
+    "12º Ano/Matemática/Números complexos.md",
+    "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
     "10º Ano/Química/Reações fotoquímicas na atmosfera.md",
+    "10º Ano/Química/Reações Químicas e Energia de Ligação.md",
     "10º Ano/Química/Composição quantitativa de soluções.md",
     "10º Ano/Química/Volume Molar, Massa Volúmica, Fração Molar.md",
     "10º Ano/Química/Composição da troposfera terrestre.md",
@@ -251,8 +254,6 @@
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Alberto Caeiro.md",
     "12º Ano/Português/Fernando Pessoa/Heterónimos/Fernando Pessoa heterónimo.md",
     "12º Ano/Português/Contos/Sempre é uma companhia.md",
-    "12º Ano/Português/Contos/George.md",
-    "11º Ano/Português/Educação Literária/Os Maias/Os Maias.md",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "Pasted image 20260523183051.png",
     "Pasted image 20260523181830.png",
