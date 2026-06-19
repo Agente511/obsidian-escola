@@ -88,8 +88,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d0026a2dc2bf00c",
+  "active": "8f0598e502e406de",
   "lastOpenFiles": [
     "10º Ano/Química/Reações Químicas e Energia de Ligação.md",
     "10º Ano/Química/Reações fotoquímicas na atmosfera.md",
