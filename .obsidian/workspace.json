@@ -35,7 +35,8 @@
               "title": "Continuidade de uma função num ponto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12º Ano/Matemática/Funções logarítmicas.md",
+                "file": "10º Ano/Física/M9 - Circuitos com gerador de tensão e condutores puramente resistivos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Funções logarítmicas"
+              "title": "Índice de M9 - Circuitos com gerador de tensão e condutores puramente resistivos"
             }
           },
           {
@@ -222,10 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d0026a2dc2bf00c",
+  "active": "01f8fa8ab5db4a7a",
   "lastOpenFiles": [
-    "12º Ano/Matemática/Fórmulas trigonométricas, limite notável e derivadas.md",
+    "10º Ano/Física/M8 - Associação de componentes elétricos.md",
+    "10º Ano/Física/M7 - Potência elétrica.md",
+    "10º Ano/Física/M6 - Circuitos elétricos e grandezas elétricas.md",
     "12º Ano/Matemática/Funções logarítmicas.md",
+    "12º Ano/Matemática/Fórmulas trigonométricas, limite notável e derivadas.md",
     "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
     "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
     "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
@@ -248,11 +252,8 @@
     "10º Ano/Química/Ligação covalente.md",
     "10º Ano/Química/Ligações intermoleculares.md",
     "10º Ano/Química/Tipos de Ligações Químicas.md",
-    "10º Ano/Química/Propriedades periódicas dos elementos.md",
-    "12º Ano/Português/11º Ano/Cesário Verde/Cesário Verde.md",
     "Sem título 1.canvas",
     "Pasted image 20260614000303.png",
-    "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem.md",
     "12º Ano/Português/Fernando Pessoa/Mensagem/Mensagem -  Resumos minúculos de cada poema.pdf",
     "12º Ano/Português/11º Ano/Cesário Verde/O Sentimento dum Ocidental.canvas",
     "Pasted image 20260523183051.png",
