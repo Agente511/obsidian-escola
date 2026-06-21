@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11º Ano/Matemática/Limites de sucessões.md",
+                "file": "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limites de sucessões"
+              "title": "Juros compostos, Número de Neper e Funções exponenciais"
             }
           }
         ],
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11º Ano/Matemática/Limites de sucessões.md",
+                "file": "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Limites de sucessões"
+              "title": "Índice de Juros compostos, Número de Neper e Funções exponenciais"
             }
           },
           {
@@ -239,12 +239,16 @@
   },
   "active": "9c2dd8c64d4eaa90",
   "lastOpenFiles": [
-    "11º Ano/Física/M12 - Campo magnético e indução eletromagnética.md",
+    "12º Ano/Matemática/Funções logarítmicas.md",
+    "12º Ano/Matemática/Segunda derivada, aplicações e problemas de otimização.md",
+    "12º Ano/Matemática/Números complexos.md",
+    "12º Ano/Matemática/Triângulo de Pascal e binómio de Newton.md",
+    "12º Ano/Matemática/Probabilidades.md",
     "11º Ano/Matemática/Limites de sucessões.md",
+    "11º Ano/Física/M12 - Campo magnético e indução eletromagnética.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
     "11º Ano/Matemática/Limite segundo Heine.md",
     "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
-    "12º Ano/Matemática/Números complexos.md",
     "11º Ano/Matemática/Equações trigonométricas.md",
     "11º Ano/Matemática/Funções racionais.md",
     "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
@@ -261,10 +265,6 @@
     "11º Ano/Química/M11 - Titulação ácido-base.md",
     "11º Ano/Química/M10 - Constantes de acidez e de basicidade.md",
     "11º Ano/Química/M9 - Acidez e basicidade de soluções.md",
-    "11º Ano/Química/M8 - Ácidos e bases.md",
-    "11º Ano/Química/M7 - Alteração do estado de equilíbrio.md",
-    "11º Ano/Química/M6 - Constante de equilíbrio e quociente da reação.md",
-    "11º Ano/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
     "Nomenclatura dos Hidrocarbonetos (Química 10.º).pdf",
     "Sem título 1.canvas",
     "Pasted image 20260614000303.png",
