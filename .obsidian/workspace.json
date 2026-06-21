@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11º Ano/Matemática/Equações trigonométricas.md",
+                "file": "11º Ano/Matemática/Limite segundo Heine.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equações trigonométricas"
+              "title": "Limite segundo Heine"
             }
           },
           {
@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "M12 - Campo magnético e indução eletromagnética"
             }
+          },
+          {
+            "id": "9c2dd8c64d4eaa90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11º Ano/Matemática/Limites de sucessões.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limites de sucessões"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11º Ano/Matemática/Equações trigonométricas.md",
+                "file": "11º Ano/Matemática/Limites de sucessões.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Equações trigonométricas"
+              "title": "Índice de Limites de sucessões"
             }
           },
           {
@@ -222,12 +237,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07bccd910f7b2583",
+  "active": "9c2dd8c64d4eaa90",
   "lastOpenFiles": [
+    "11º Ano/Física/M12 - Campo magnético e indução eletromagnética.md",
+    "11º Ano/Matemática/Limites de sucessões.md",
     "12º Ano/Matemática/11º Ano/Derivadas de funções reais de variável real e aplicações.md",
+    "11º Ano/Matemática/Limite segundo Heine.md",
+    "12º Ano/Matemática/Juros compostos, Número de Neper e Funções exponenciais.md",
+    "12º Ano/Matemática/Números complexos.md",
+    "11º Ano/Matemática/Equações trigonométricas.md",
     "11º Ano/Matemática/Funções racionais.md",
     "12º Ano/Matemática/11º Ano/Assíntotas ao gráfico de uma função.md",
-    "11º Ano/Física/M12 - Campo magnético e indução eletromagnética.md",
     "11º Ano/Física/M11 - Campo elétrico.md",
     "11º Ano/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
     "11º Ano/Física/M10 - O som como onda de pressão.md",
@@ -245,11 +265,6 @@
     "11º Ano/Química/M7 - Alteração do estado de equilíbrio.md",
     "11º Ano/Química/M6 - Constante de equilíbrio e quociente da reação.md",
     "11º Ano/Química/M5 - Equilíbrio químico e constante de equilíbrio.md",
-    "11º Ano/Química/M1 - Equações químicas e relações estequiométricas.md",
-    "11º Ano/Química/M2 - Reagente limitante e reagente em excesso.md",
-    "11º Ano/Química/M3 - Rendimento das reações químicas.md",
-    "11º Ano/Química/M4 - Química verde.md",
-    "11º Ano/Física/M3 - Lei da Gravitação Universal e Terceira Lei de Newton.md",
     "Nomenclatura dos Hidrocarbonetos (Química 10.º).pdf",
     "Sem título 1.canvas",
     "Pasted image 20260614000303.png",
