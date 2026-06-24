@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+                "file": "11º Ano/Química/M14 - Caracterização das reações de oxidação-redução.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M12 - Acidez e basicidade de soluções aquosas de sais"
+              "title": "M14 - Caracterização das reações de oxidação-redução"
             }
           },
           {
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+                "file": "11º Ano/Química/M14 - Caracterização das reações de oxidação-redução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de M12 - Acidez e basicidade de soluções aquosas de sais"
+              "title": "Índice de M14 - Caracterização das reações de oxidação-redução"
             }
           },
           {
@@ -240,8 +240,15 @@
   },
   "active": "85898dd2cad9e1b9",
   "lastOpenFiles": [
-    "11º Ano/Química/M11 - Titulação ácido-base.md",
+    "11º Ano/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "11º Ano/Química/M12 - Acidez e basicidade de soluções aquosas de sais.md",
+    "11º Ano/Química/M14 - Caracterização das reações de oxidação-redução.md",
+    "11º Ano/Química/M19 - Desmineralização de águas e processos de precipitação.md",
+    "11º Ano/Química/M18 - Alteração da solubilidade de sais.md",
+    "11º Ano/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
+    "11º Ano/Química/M16 - Mineralização e acidificação das águas.md",
+    "11º Ano/Química/M15 - Força relativa de oxidantes e redutores.md",
+    "11º Ano/Química/M11 - Titulação ácido-base.md",
     "11º Ano/Química/M10 - Constantes de acidez e de basicidade.md",
     "11º Ano/Química/M9 - Acidez e basicidade de soluções.md",
     "11º Ano/Química/M8 - Ácidos e bases.md",
@@ -253,13 +260,6 @@
     "11º Ano/Química/M2 - Reagente limitante e reagente em excesso.md",
     "11º Ano/Química/M1 - Equações químicas e relações estequiométricas.md",
     "11º Ano/Física/M13 - Reflexão, refração, reflexão total e difração da luz.md",
-    "11º Ano/Química/M19 - Desmineralização de águas e processos de precipitação.md",
-    "11º Ano/Química/M18 - Alteração da solubilidade de sais.md",
-    "11º Ano/Química/M17 - Equilíbrio químico e solubilidade de sais.md",
-    "11º Ano/Química/M16 - Mineralização e acidificação das águas.md",
-    "11º Ano/Química/M15 - Força relativa de oxidantes e redutores.md",
-    "11º Ano/Química/M14 - Caracterização das reações de oxidação-redução.md",
-    "11º Ano/Química/M13 - Aspetos ambientais das reações ácido-base.md",
     "11º Ano/Física/M12 - Campo magnético e indução eletromagnética.md",
     "10º Ano/Matemática/Função quadrática.md",
     "10º Ano/Matemática/Função real de variável real.md",
