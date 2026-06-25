@@ -9,7 +9,7 @@ $$\begin{flalign}& m\ g=G\frac {M_T\ m} {R^2} \iff g=G\frac {M_T} {R^2} &\end{fl
 
 Logo, como o valor da **aceleração da gravidade não depende da massa nem da forma do corpo em queda**, 2 corpos em queda livre, quando largados com a mesma velocidade, da mesma altura e ao mesmo tempo, **chegam ao solo no mesmo instante**.
 >[!Tip] Nota
->*Sim, é o que leste, se largares um elefante e uma bola do topo de um prédio, eles chegam ao chão ao mesmo tempo.*
+>_Sim, é o que leste, se largares um elefante e uma bola do topo de um prédio, eles chegam ao chão ao mesmo tempo, **se for desprezada a resistência do ar**._
 ### Equação das velocidades e gráfico velocidade-tempo de um movimento de queda livre
 ![[Pasted image 20241027004722.png|600]]
 Como o movimento de queda livre do corpo se efetua no **sentido contrário ao considerado positivo**, os valores da **velocidade**, $\vec v$, e da **aceleração**, $\vec a$, são **ambos negativos** ($v<0$ e $a<0$).
